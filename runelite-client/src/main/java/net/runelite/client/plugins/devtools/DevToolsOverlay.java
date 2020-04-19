@@ -37,24 +37,8 @@ import java.awt.geom.Rectangle2D;
 import java.util.List;
 import javax.inject.Inject;
 import javax.inject.Singleton;
-import net.runelite.api.Client;
-import net.runelite.api.Constants;
-import net.runelite.api.DecorativeObject;
-import net.runelite.api.GameObject;
-import net.runelite.api.GraphicsObject;
-import net.runelite.api.TileItem;
-import net.runelite.api.GroundObject;
-import net.runelite.api.ItemLayer;
-import net.runelite.api.NPC;
-import net.runelite.api.NPCComposition;
-import net.runelite.api.Node;
-import net.runelite.api.Perspective;
-import net.runelite.api.Player;
-import net.runelite.api.Point;
-import net.runelite.api.Projectile;
-import net.runelite.api.Scene;
-import net.runelite.api.Tile;
-import net.runelite.api.WallObject;
+
+import net.runelite.api.*;
 import net.runelite.api.coords.LocalPoint;
 import net.runelite.api.widgets.Widget;
 import net.runelite.api.widgets.WidgetInfo;
@@ -132,6 +116,10 @@ class DevToolsOverlay extends Overlay
 		if (plugin.getGraphicsObjects().isActive())
 		{
 			renderGraphicsObjects(graphics);
+		}
+
+		if(plugin.getActorAnimationsAndGraphics().isActive()){
+			renderAnimations(graphics);
 		}
 
 		return null;
@@ -381,14 +369,24 @@ class DevToolsOverlay extends Overlay
 		for (Projectile projectile : projectiles)
 		{
 			int projectileId = projectile.getId();
-			String text = "(ID: " + projectileId + ")";
+
 			int x = (int) projectile.getX();
 			int y = (int) projectile.getY();
 			LocalPoint projectilePoint = new LocalPoint(x, y);
-			Point textLocation = Perspective.getCanvasTextLocation(client, graphics, projectilePoint, text, 0);
-			if (textLocation != null)
 			{
-				OverlayUtil.renderTextLocation(graphics, textLocation, text, Color.RED);
+				String text = "(ID: " + projectileId + ")";
+				Point textLocation = Perspective.getCanvasTextLocation(client, graphics, projectilePoint, text, 310);
+				if (textLocation != null) {
+					OverlayUtil.renderTextLocation(graphics, textLocation, text, Color.ORANGE);
+				}
+			}
+			{
+				String text = "(S: " + projectile.getSlope() + " | H: " + projectile.getStartHeight() + ", " + projectile.getEndHeight() + ")";
+				Point textLocation = Perspective.getCanvasTextLocation(client, graphics, projectilePoint, text, 290);
+				if (textLocation != null)
+				{
+					OverlayUtil.renderTextLocation(graphics, textLocation, text, Color.ORANGE);
+				}
 			}
 		}
 	}
@@ -415,6 +413,46 @@ class DevToolsOverlay extends Overlay
 				OverlayUtil.renderTextLocation(graphics, textLocation, infoString, Color.WHITE);
 			}
 		}
+
+
+	}
+
+	private void renderAnimations(Graphics2D graphics)
+	{
+		for (Player player : client.getPlayers())
+		{
+			renderAnimation(graphics, player);
+		}
+
+		for (NPC npc : client.getNpcs())
+		{
+			renderAnimation(graphics, npc);
+		}
+	}
+
+	private void renderAnimation(Graphics2D graphics, Actor actor){
+		LocalPoint lp = actor.getLocalLocation();
+		{
+			if(actor.getAnimation() != -1) {
+				String infoString = "(Anim: " + actor.getAnimation() + ")";
+				Point textLocation = Perspective.getCanvasTextLocation(
+						client, graphics, lp, infoString, 200);
+				if (textLocation != null) {
+					OverlayUtil.renderTextLocation(graphics, textLocation, infoString, Color.WHITE);
+				}
+			}
+		}
+		{
+			if(actor.getGraphic() != -1) {
+				String infoString = "(Graphic: " + actor.getGraphic() + ")";
+				Point textLocation = Perspective.getCanvasTextLocation(
+						client, graphics, lp, infoString, 230);
+				if (textLocation != null) {
+					OverlayUtil.renderTextLocation(graphics, textLocation, infoString, Color.WHITE);
+				}
+			}
+		}
+
 	}
 
 	private void renderPlayerWireframe(Graphics2D graphics, Player player, Color color)

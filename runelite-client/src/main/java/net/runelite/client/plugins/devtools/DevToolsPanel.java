@@ -79,18 +79,20 @@ class DevToolsPanel extends PluginPanel
 		container.setBackground(ColorScheme.DARK_GRAY_COLOR);
 		container.setLayout(new GridLayout(0, 2, 3, 3));
 
+		container.add(plugin.getActorAnimationsAndGraphics());
+		container.add(plugin.getGraphicsObjects());
+		container.add(plugin.getProjectiles());
+
 		container.add(plugin.getPlayers());
 		container.add(plugin.getNpcs());
 
 		container.add(plugin.getGroundItems());
 		container.add(plugin.getGroundObjects());
 		container.add(plugin.getGameObjects());
-		container.add(plugin.getGraphicsObjects());
 		container.add(plugin.getWalls());
 		container.add(plugin.getDecorations());
 
 		container.add(plugin.getInventory());
-		container.add(plugin.getProjectiles());
 
 		container.add(plugin.getLocation());
 		container.add(plugin.getWorldMapLocation());

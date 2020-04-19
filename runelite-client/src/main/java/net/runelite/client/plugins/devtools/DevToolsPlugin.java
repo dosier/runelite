@@ -115,6 +115,7 @@ public class DevToolsPlugin extends Plugin
 	@Inject
 	private ChatMessageManager chatMessageManager;
 
+	private DevToolsButton actorAnimationsAndGraphics;
 	private DevToolsButton players;
 	private DevToolsButton npcs;
 	private DevToolsButton groundItems;
@@ -151,6 +152,8 @@ public class DevToolsPlugin extends Plugin
 	@Override
 	protected void startUp() throws Exception
 	{
+		actorAnimationsAndGraphics = new DevToolsButton("Animations and Graphics");
+
 		players = new DevToolsButton("Players");
 		npcs = new DevToolsButton("NPCs");
 

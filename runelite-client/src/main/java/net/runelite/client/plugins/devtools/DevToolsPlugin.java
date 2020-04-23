@@ -28,26 +28,28 @@ import ch.qos.logback.classic.Level;
 import ch.qos.logback.classic.Logger;
 import com.google.common.collect.ImmutableList;
 import com.google.common.primitives.Ints;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import com.google.gson.JsonArray;
+import com.google.gson.JsonObject;
 import com.google.inject.Provides;
 import java.awt.image.BufferedImage;
 import static java.lang.Math.min;
+import static net.runelite.api.ProjectileID.CANNONBALL;
+import static net.runelite.api.ProjectileID.GRANITE_CANNONBALL;
+
+import java.io.File;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Objects;
 import javax.inject.Inject;
 import lombok.Getter;
-import net.runelite.api.ChatMessageType;
-import net.runelite.api.Client;
-import net.runelite.api.Experience;
-import net.runelite.api.MenuAction;
-import net.runelite.api.MenuEntry;
-import net.runelite.api.NPC;
-import net.runelite.api.Player;
-import net.runelite.api.Skill;
+import net.runelite.api.*;
+import net.runelite.api.coords.LocalPoint;
 import net.runelite.api.coords.WorldPoint;
-import net.runelite.api.events.CommandExecuted;
-import net.runelite.api.events.MenuEntryAdded;
-import net.runelite.api.events.StatChanged;
-import net.runelite.api.events.VarbitChanged;
+import net.runelite.api.events.*;
 import net.runelite.api.kit.KitType;
 import net.runelite.client.chat.ChatMessageBuilder;
 import net.runelite.client.chat.ChatMessageManager;
@@ -63,6 +65,7 @@ import net.runelite.client.ui.NavigationButton;
 import net.runelite.client.ui.overlay.OverlayManager;
 import net.runelite.client.util.ColorUtil;
 import net.runelite.client.util.ImageUtil;
+import net.runelite.http.api.worlds.World;
 import org.slf4j.LoggerFactory;
 
 @PluginDescriptor(
@@ -423,34 +426,27 @@ public class DevToolsPlugin extends Plugin
 	}
 
 	@Subscribe
-	public void onMenuEntryAdded(MenuEntryAdded event)
-	{
-		if (!examine.isActive())
-		{
+	public void onMenuEntryAdded(MenuEntryAdded event) {
+		if (!examine.isActive()) {
 			return;
 		}
 
 		MenuAction action = MenuAction.of(event.getType());
 
-		if (EXAMINE_MENU_ACTIONS.contains(action))
-		{
+		if (EXAMINE_MENU_ACTIONS.contains(action)) {
 			MenuEntry[] entries = client.getMenuEntries();
 			MenuEntry entry = entries[entries.length - 1];
 
 			final int identifier = event.getIdentifier();
 			String info = "ID: ";
 
-			if (action == MenuAction.EXAMINE_NPC)
-			{
+			if (action == MenuAction.EXAMINE_NPC) {
 				NPC npc = client.getCachedNPCs()[identifier];
 				info += npc.getId();
-			}
-			else
-			{
+			} else {
 				info += identifier;
 
-				if (action == MenuAction.EXAMINE_OBJECT)
-				{
+				if (action == MenuAction.EXAMINE_OBJECT) {
 					WorldPoint point = WorldPoint.fromScene(client, entry.getParam0(), entry.getParam1(), client.getPlane());
 					info += " X: " + point.getX() + " Y: " + point.getY();
 				}
@@ -460,4 +456,122 @@ public class DevToolsPlugin extends Plugin
 			client.setMenuEntries(entries);
 		}
 	}
+
+	final Gson gson = new GsonBuilder().setPrettyPrinting().create();
+	volatile WorldPoint lastWp = null;
+	JsonArray playerSounds = new JsonArray();
+	JsonArray npcSounds = new JsonArray();
+	JsonArray areaSounds = new JsonArray();
+
+	@Subscribe
+	public void onSoundEffectPlayed(SoundEffectPlayed soundEffectPlayed){
+		final JsonObject sound = new JsonObject();
+		sound.addProperty("id, delay", soundEffectPlayed.getSoundId()+", "+soundEffectPlayed.getDelay());
+		playerSounds.add(sound);
+	}
+
+	@Subscribe
+	public void onAreaSoundEffectPlayed(AreaSoundEffectPlayed areaSoundEffectPlayed){
+		final JsonObject sound = new JsonObject();
+		sound.addProperty("id", areaSoundEffectPlayed.getSoundId());
+		sound.addProperty("delay", areaSoundEffectPlayed.getDelay());
+		sound.addProperty("range", areaSoundEffectPlayed.getRange());
+		sound.addProperty("sceneX", areaSoundEffectPlayed.getSceneX());
+		sound.addProperty("sceneY", areaSoundEffectPlayed.getSceneY());
+		if(areaSoundEffectPlayed.getSource() instanceof NPC){
+			final Player localPlayer = client.getLocalPlayer();
+			final NPC npc = ((NPC) areaSoundEffectPlayed.getSource());
+			if(npc.getInteracting() == localPlayer || Objects.requireNonNull(localPlayer).getInteracting() == npc) {
+				sound.addProperty("source", npc.getName() + " (" + npc.getId() + ")");
+				areaSounds.add(sound);
+			}
+			return;
+		}
+
+		if(areaSoundEffectPlayed.getSource() instanceof Player){
+			sound.addProperty("source",  areaSoundEffectPlayed.getSource().getName());
+			areaSounds.add(sound);
+		}
+	}
+
+	@Subscribe
+	public void onGameTick(GameTick gameTick){
+
+		final int tick = client.getTickCount();
+		final Player local = Objects.requireNonNull(client.getLocalPlayer());
+		final Actor interacting = local.getInteracting();
+
+		final JsonObject object = new JsonObject();
+
+		final WorldPoint wp = local.getWorldLocation();
+
+		object.addProperty("server-tick", tick);
+		if(local.getAnimation() != -1)
+			object.addProperty("animation", local.getAnimation());
+		if(local.getGraphic() != -1)
+			object.addProperty("gfx", local.getGraphic());
+		if(lastWp == null || !lastWp.equals(wp))
+			object.addProperty("pos", wp.getX()+", "+wp.getY()+", "+wp.getPlane()+"");
+		lastWp = wp;
+		if(interacting != null){
+			final JsonObject interactingObject = new JsonObject();
+			if(interacting instanceof Player) {
+				interactingObject.addProperty("player", interacting.getName());
+			} else if(interacting instanceof NPC){
+				interactingObject.addProperty("npc", interacting.getName() +" ("+((NPC) interacting).getId()+")");
+			}
+			if(interacting.getAnimation() != -1)
+				interactingObject.addProperty("animation", interacting.getAnimation());
+			if(interacting.getGraphic() != -1)
+				interactingObject.addProperty("gfx", interacting.getGraphic());
+			object.add("interacting", interactingObject);
+		}
+
+		final JsonObject sounds = new JsonObject();
+
+		if(areaSounds.size() > 0)
+			sounds.add("area-sounds", areaSounds);
+
+		if(playerSounds.size() > 0)
+			object.add("sounds", playerSounds);
+
+		playerSounds = new JsonArray();
+		areaSounds = new JsonArray();
+
+		final JsonArray addedProjectiles = new JsonArray();
+		for (Projectile projectile : client.getProjectiles()) {
+			final JsonObject proj = new JsonObject();
+			proj.addProperty("id", projectile.getId());
+			proj.addProperty("heights", projectile.getStartHeight() + ", "+projectile.getEndHeight());
+			proj.addProperty("slope, duration", projectile.getSlope()+", "+projectile.getRemainingCycles());
+			final int projTick = projectile.getStartMovementCycle();
+			final int clientCycle = client.getGameCycle();
+			if (projTick > clientCycle) {
+				addedProjectiles.add(proj);
+			}
+		}
+
+		if(addedProjectiles.size() > 0)
+			object.add("projectiles", addedProjectiles);
+
+		final JsonArray addedGraphics = new JsonArray();
+		for (GraphicsObject graphicsObject : client.getGraphicsObjects()) {
+			final JsonObject grap = new JsonObject();
+			grap.addProperty("id", graphicsObject.getId());
+			grap.addProperty("level", graphicsObject.getLevel());
+			grap.addProperty("start", graphicsObject.getStartCycle());
+			final int projTick = graphicsObject.getStartCycle();
+			final int clientCycle = client.getGameCycle();
+
+			if (projTick > clientCycle) {
+				addedGraphics.add(grap);
+			}
+		}
+		if(addedGraphics.size() > 0)
+			object.add("graphics", addedProjectiles);
+		if(object.keySet().size() > 1)
+			System.out.println(gson.toJson(object));
+
+	}
+
 }

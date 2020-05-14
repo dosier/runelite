@@ -86,6 +86,9 @@ class DevToolsPanel extends PluginPanel
 		container.setBackground(ColorScheme.DARK_GRAY_COLOR);
 		container.setLayout(new GridLayout(0, 2, 3, 3));
 
+		container.add(plugin.getToggleTracking());
+		container.add(plugin.getSaveTrackedData());
+
 		container.add(plugin.getActorAnimationsAndGraphics());
 		container.add(plugin.getGraphicsObjects());
 		container.add(plugin.getProjectiles());

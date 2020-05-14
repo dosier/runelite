@@ -33,17 +33,24 @@ import com.google.gson.GsonBuilder;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import com.google.inject.Provides;
+
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.awt.image.BufferedImage;
 import static java.lang.Math.min;
 import static net.runelite.api.ProjectileID.CANNONBALL;
 import static net.runelite.api.ProjectileID.GRANITE_CANNONBALL;
 
 import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.Arrays;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.*;
 import java.util.List;
-import java.util.Objects;
 import javax.inject.Inject;
 import lombok.Getter;
 import net.runelite.api.*;
@@ -62,6 +69,7 @@ import net.runelite.client.plugins.PluginDescriptor;
 import net.runelite.client.ui.ClientToolbar;
 import net.runelite.client.ui.JagexColors;
 import net.runelite.client.ui.NavigationButton;
+import net.runelite.client.ui.overlay.Overlay;
 import net.runelite.client.ui.overlay.OverlayManager;
 import net.runelite.client.util.ColorUtil;
 import net.runelite.client.util.ImageUtil;
@@ -76,6 +84,10 @@ import org.slf4j.LoggerFactory;
 @Getter
 public class DevToolsPlugin extends Plugin
 {
+
+	private boolean track = false;
+	private JsonArray array = new JsonArray();
+
 	private static final List<MenuAction> EXAMINE_MENU_ACTIONS = ImmutableList.of(MenuAction.EXAMINE_ITEM,
 			MenuAction.EXAMINE_ITEM_GROUND, MenuAction.EXAMINE_NPC, MenuAction.EXAMINE_OBJECT);
 
@@ -118,6 +130,8 @@ public class DevToolsPlugin extends Plugin
 	@Inject
 	private ChatMessageManager chatMessageManager;
 
+	private DevToolsButton toggleTracking;
+	private DevToolsButton saveTrackedData;
 	private DevToolsButton actorAnimationsAndGraphics;
 	private DevToolsButton players;
 	private DevToolsButton npcs;
@@ -189,6 +203,9 @@ public class DevToolsPlugin extends Plugin
 		soundEffects = new DevToolsButton("Sound Effects");
 		scriptInspector = new DevToolsButton("Script Inspector");
 
+		toggleTracking = new DevToolsButton("Toggle Tracking");
+		saveTrackedData = new DevToolsButton("Save Tracked Data");
+
 		overlayManager.add(overlay);
 		overlayManager.add(locationOverlay);
 		overlayManager.add(sceneOverlay);
@@ -196,6 +213,55 @@ public class DevToolsPlugin extends Plugin
 		overlayManager.add(worldMapLocationOverlay);
 		overlayManager.add(mapRegionOverlay);
 		overlayManager.add(soundEffectOverlay);
+
+		overlayManager.add(new Overlay() {
+			@Override
+			public Dimension render(Graphics2D graphics) {
+
+				if(track) {
+					graphics.setColor(Color.GREEN);
+					graphics.drawString("Tracking", 0, 20);
+				} else {
+					graphics.setColor(Color.RED);
+					graphics.drawString("Not tracking", 0, 20);
+				}
+
+				return null;
+			}
+		});
+		toggleTracking.addActionListener(e -> {
+			track = !track;
+			resetJsonArrays();
+		});
+
+		saveTrackedData.addActionListener(e -> {
+
+			Date date = new Date() ;
+			SimpleDateFormat dateFormat = new SimpleDateFormat("MM-dd HH-mm") ;
+
+			String fileName = dateFormat.format(date);
+
+			File file = Paths.get("dumps", fileName+".json").toFile();
+
+			file.getParentFile().mkdir();
+
+			int i = 1;
+			while (file.exists()){
+				file = Paths.get("dumps", fileName+"_"+i+".json").toFile();
+				i++;
+			}
+			try {
+				file.createNewFile();
+				final FileWriter writer = new FileWriter(file);
+				final Gson gson = new GsonBuilder().setPrettyPrinting().disableHtmlEscaping().create();
+				gson.toJson(array, writer);
+				writer.flush();
+				writer.close();
+			} catch (IOException ex) {
+				ex.printStackTrace();
+			}
+			resetJsonArrays();
+		});
 
 		final DevToolsPanel panel = injector.getInstance(DevToolsPanel.class);
 
@@ -425,6 +491,12 @@ public class DevToolsPlugin extends Plugin
 		}
 	}
 
+	private void resetJsonArrays() {
+		array = new JsonArray();
+		playerSounds = new JsonArray();
+		areaSounds = new JsonArray();
+	}
+
 	@Subscribe
 	public void onMenuEntryAdded(MenuEntryAdded event) {
 		if (!examine.isActive()) {
@@ -495,7 +567,7 @@ public class DevToolsPlugin extends Plugin
 	}
 
 	@Subscribe
-	public void onGameTick(GameTick gameTick){
+	public void onGameTick(GameTick gameTick) {
 
 		final int tick = client.getTickCount();
 		final Player local = Objects.requireNonNull(client.getLocalPlayer());
@@ -506,44 +578,61 @@ public class DevToolsPlugin extends Plugin
 		final WorldPoint wp = local.getWorldLocation();
 
 		object.addProperty("server-tick", tick);
-		if(local.getAnimation() != -1)
+		if (local.getAnimation() != -1)
 			object.addProperty("animation", local.getAnimation());
-		if(local.getGraphic() != -1)
+		if (local.getGraphic() != -1)
 			object.addProperty("gfx", local.getGraphic());
-		if(lastWp == null || !lastWp.equals(wp))
-			object.addProperty("pos", wp.getX()+", "+wp.getY()+", "+wp.getPlane()+"");
+		if (lastWp == null || !lastWp.equals(wp))
+			object.addProperty("pos", wp.getX() + ", " + wp.getY() + ", " + wp.getPlane() + "");
+
 		lastWp = wp;
-		if(interacting != null){
-			final JsonObject interactingObject = new JsonObject();
-			if(interacting instanceof Player) {
-				interactingObject.addProperty("player", interacting.getName());
-			} else if(interacting instanceof NPC){
-				interactingObject.addProperty("npc", interacting.getName() +" ("+((NPC) interacting).getId()+")");
-			}
-			if(interacting.getAnimation() != -1)
-				interactingObject.addProperty("animation", interacting.getAnimation());
-			if(interacting.getGraphic() != -1)
-				interactingObject.addProperty("gfx", interacting.getGraphic());
-			object.add("interacting", interactingObject);
-		}
 
-		final JsonObject sounds = new JsonObject();
+		if (interacting != null)
+			saveInteractingActor(interacting, object);
 
-		if(areaSounds.size() > 0)
-			sounds.add("area-sounds", areaSounds);
-
-		if(playerSounds.size() > 0)
-			object.add("sounds", playerSounds);
+		saveSounds(object);
 
 		playerSounds = new JsonArray();
 		areaSounds = new JsonArray();
 
+		saveAddedProjectiles(object);
+
+		saveAddedGraphics(object);
+
+		if (object.keySet().size() > 1 && track) {
+			array.add(object);
+		}
+	}
+
+	private void saveInteractingActor(Actor interacting, JsonObject object) {
+		final JsonObject interactingObject = new JsonObject();
+		if (interacting instanceof Player) {
+			interactingObject.addProperty("player", interacting.getName());
+		} else if (interacting instanceof NPC) {
+			interactingObject.addProperty("npc", interacting.getName() + " (" + ((NPC) interacting).getId() + ")");
+		}
+		if (interacting.getAnimation() != -1)
+			interactingObject.addProperty("animation", interacting.getAnimation());
+		if (interacting.getGraphic() != -1)
+			interactingObject.addProperty("gfx", interacting.getGraphic());
+		object.add("interacting", interactingObject);
+	}
+
+	private void saveSounds(JsonObject object) {
+		if (areaSounds.size() > 0)
+			object.add("area-sounds", areaSounds);
+
+		if (playerSounds.size() > 0)
+			object.add("sounds", playerSounds);
+	}
+
+	private void saveAddedProjectiles(JsonObject object) {
 		final JsonArray addedProjectiles = new JsonArray();
 		for (Projectile projectile : client.getProjectiles()) {
 			final JsonObject proj = new JsonObject();
 			proj.addProperty("id", projectile.getId());
-			proj.addProperty("heights", projectile.getStartHeight() + ", "+projectile.getEndHeight());
-			proj.addProperty("slope, duration", projectile.getSlope()+", "+projectile.getRemainingCycles());
+			proj.addProperty("heights", projectile.getStartHeight() + ", " + projectile.getEndHeight());
+			proj.addProperty("slope, duration", projectile.getSlope() + ", " + projectile.getRemainingCycles());
 			final int projTick = projectile.getStartMovementCycle();
 			final int clientCycle = client.getGameCycle();
 			if (projTick > clientCycle) {
@@ -551,9 +640,11 @@ public class DevToolsPlugin extends Plugin
 			}
 		}
 
-		if(addedProjectiles.size() > 0)
+		if (addedProjectiles.size() > 0)
 			object.add("projectiles", addedProjectiles);
+	}
 
+	private void saveAddedGraphics(JsonObject object) {
 		final JsonArray addedGraphics = new JsonArray();
 		for (GraphicsObject graphicsObject : client.getGraphicsObjects()) {
 			final JsonObject grap = new JsonObject();
@@ -567,11 +658,9 @@ public class DevToolsPlugin extends Plugin
 				addedGraphics.add(grap);
 			}
 		}
-		if(addedGraphics.size() > 0)
-			object.add("graphics", addedProjectiles);
-		if(object.keySet().size() > 1)
-			System.out.println(gson.toJson(object));
 
+		if (addedGraphics.size() > 0)
+			object.add("graphics", addedGraphics);
 	}
 
 }

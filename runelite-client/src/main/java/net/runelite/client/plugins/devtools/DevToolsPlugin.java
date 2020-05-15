@@ -45,6 +45,7 @@ import static net.runelite.api.ProjectileID.GRANITE_CANNONBALL;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.text.DateFormat;
@@ -87,6 +88,7 @@ public class DevToolsPlugin extends Plugin
 
 	private boolean track = false;
 	private JsonArray array = new JsonArray();
+	private final List<String> lines = new ArrayList<>();
 
 	private static final List<MenuAction> EXAMINE_MENU_ACTIONS = ImmutableList.of(MenuAction.EXAMINE_ITEM,
 			MenuAction.EXAMINE_ITEM_GROUND, MenuAction.EXAMINE_NPC, MenuAction.EXAMINE_OBJECT);
@@ -231,6 +233,7 @@ public class DevToolsPlugin extends Plugin
 		});
 		toggleTracking.addActionListener(e -> {
 			track = !track;
+
 			resetJsonArrays();
 		});
 
@@ -241,22 +244,38 @@ public class DevToolsPlugin extends Plugin
 
 			String fileName = dateFormat.format(date);
 
-			File file = Paths.get("dumps", fileName+".json").toFile();
+			File jsonFile = Paths.get("json_dumps", fileName+".json").toFile();
+			File txtFile = Paths.get("txt_dumps", fileName+".txt").toFile();
 
-			file.getParentFile().mkdir();
+			jsonFile.getParentFile().mkdir();
+			txtFile.getParentFile().mkdir();
 
 			int i = 1;
-			while (file.exists()){
-				file = Paths.get("dumps", fileName+"_"+i+".json").toFile();
+			while (jsonFile.exists()){
+				jsonFile = Paths.get("json_dumps", fileName+"_"+i+".json").toFile();
+				i++;
+			}
+			i = 1;
+			while (txtFile.exists()){
+				txtFile = Paths.get("txt_dumps", fileName+"_"+i+".txt").toFile();
 				i++;
 			}
 			try {
-				file.createNewFile();
-				final FileWriter writer = new FileWriter(file);
+
+				jsonFile.createNewFile();
+				final FileWriter writer = new FileWriter(jsonFile);
 				final Gson gson = new GsonBuilder().setPrettyPrinting().disableHtmlEscaping().create();
 				gson.toJson(array, writer);
 				writer.flush();
 				writer.close();
+
+				txtFile.createNewFile();
+				final PrintWriter printWriter = new PrintWriter(new FileWriter(txtFile));
+				for(String line : lines)
+					printWriter.println(line);
+				printWriter.flush();
+				printWriter.close();;
+
 			} catch (IOException ex) {
 				ex.printStackTrace();
 			}
@@ -495,6 +514,7 @@ public class DevToolsPlugin extends Plugin
 		array = new JsonArray();
 		playerSounds = new JsonArray();
 		areaSounds = new JsonArray();
+		lines.clear();
 	}
 
 	@Subscribe
@@ -540,6 +560,7 @@ public class DevToolsPlugin extends Plugin
 		final JsonObject sound = new JsonObject();
 		sound.addProperty("id, delay", soundEffectPlayed.getSoundId()+", "+soundEffectPlayed.getDelay());
 		playerSounds.add(sound);
+		save("SOUND "+soundEffectPlayed.getSoundId()+"\t delay: "+soundEffectPlayed.getDelay());
 	}
 
 	@Subscribe
@@ -550,20 +571,22 @@ public class DevToolsPlugin extends Plugin
 		sound.addProperty("range", areaSoundEffectPlayed.getRange());
 		sound.addProperty("sceneX", areaSoundEffectPlayed.getSceneX());
 		sound.addProperty("sceneY", areaSoundEffectPlayed.getSceneY());
+		String details = "AREA_SOUND "+areaSoundEffectPlayed.getSoundId()+"\t delay: "+areaSoundEffectPlayed.getDelay()+", range: "+areaSoundEffectPlayed.getRange()+", sceneX: "+areaSoundEffectPlayed.getSceneX()+", sceneY: "+areaSoundEffectPlayed.getSceneY();
+
 		if(areaSoundEffectPlayed.getSource() instanceof NPC){
 			final Player localPlayer = client.getLocalPlayer();
 			final NPC npc = ((NPC) areaSoundEffectPlayed.getSource());
 			if(npc.getInteracting() == localPlayer || Objects.requireNonNull(localPlayer).getInteracting() == npc) {
 				sound.addProperty("source", npc.getName() + " (" + npc.getId() + ")");
 				areaSounds.add(sound);
+				details+=", source: " + npc.getName() + " (" + npc.getId() + ")";
 			}
-			return;
-		}
-
-		if(areaSoundEffectPlayed.getSource() instanceof Player){
+		} else if(areaSoundEffectPlayed.getSource() instanceof Player){
 			sound.addProperty("source",  areaSoundEffectPlayed.getSource().getName());
 			areaSounds.add(sound);
+			details+=", source: " + areaSoundEffectPlayed.getSource().getName();
 		}
+		save(details);
 	}
 
 	@Subscribe
@@ -578,13 +601,25 @@ public class DevToolsPlugin extends Plugin
 		final WorldPoint wp = local.getWorldLocation();
 
 		object.addProperty("server-tick", tick);
-		if (local.getAnimation() != -1)
+
+		String details = "";
+
+		if (local.getAnimation() != -1) {
 			object.addProperty("animation", local.getAnimation());
-		if (local.getGraphic() != -1)
+			details+="animation: "+local.getAnimation();
+		}
+		if (local.getGraphic() != -1) {
 			object.addProperty("gfx", local.getGraphic());
+			if(!details.isEmpty())
+				details+=", ";
+			details+="gfx: "+local.getGraphic();
+		}
 		if (lastWp == null || !lastWp.equals(wp))
 			object.addProperty("pos", wp.getX() + ", " + wp.getY() + ", " + wp.getPlane() + "");
 
+		if(!details.isEmpty()){
+			save("PLAYER '"+local.getName()+"'\t "+details);
+		}
 		lastWp = wp;
 
 		if (interacting != null)
@@ -605,16 +640,38 @@ public class DevToolsPlugin extends Plugin
 	}
 
 	private void saveInteractingActor(Actor interacting, JsonObject object) {
+
 		final JsonObject interactingObject = new JsonObject();
+
+		String string = "";
+
 		if (interacting instanceof Player) {
 			interactingObject.addProperty("player", interacting.getName());
+			string+="PLAYER '"+interacting.getName()+"'\t";
 		} else if (interacting instanceof NPC) {
 			interactingObject.addProperty("npc", interacting.getName() + " (" + ((NPC) interacting).getId() + ")");
+			string+="NPC '"+interacting.getName()+ " (" + ((NPC) interacting).getId() + ")"+"'\t";
 		}
-		if (interacting.getAnimation() != -1)
+
+		boolean save = false;
+		if (interacting.getAnimation() != -1) {
 			interactingObject.addProperty("animation", interacting.getAnimation());
-		if (interacting.getGraphic() != -1)
+			string+="animation: "+interacting.getAnimation();
+			save = true;
+		}
+
+		if (interacting.getGraphic() != -1) {
 			interactingObject.addProperty("gfx", interacting.getGraphic());
+			if(save)
+				string+=", ";
+			string+="gfx: "+interacting.getGraphic();
+			save = true;
+		}
+
+		if(save){
+			save(string);
+		}
+
 		object.add("interacting", interactingObject);
 	}
 
@@ -635,8 +692,9 @@ public class DevToolsPlugin extends Plugin
 			proj.addProperty("slope, duration", projectile.getSlope() + ", " + projectile.getRemainingCycles());
 			final int projTick = projectile.getStartMovementCycle();
 			final int clientCycle = client.getGameCycle();
-			if (projTick > clientCycle) {
+			if (projTick > clientCycle && projTick < clientCycle + 15) {
 				addedProjectiles.add(proj);
+				save("PROJECTILE "+projectile.getId()+"\tstartHeight: "+projectile.getStartHeight()+", endHeight: "+projectile.getEndHeight()+", slope: "+projectile.getSlope()+", duration: "+projectile.getRemainingCycles()+", x: "+projectile.getX1()+", y: "+projectile.getY1());
 			}
 		}
 
@@ -656,11 +714,18 @@ public class DevToolsPlugin extends Plugin
 
 			if (projTick > clientCycle) {
 				addedGraphics.add(grap);
+				final LocalPoint localPoint = graphicsObject.getLocation();
+				save("GFX "+graphicsObject.getId()+"\tlevel: "+graphicsObject.getLevel()+", start_cycle: "+graphicsObject.getStartCycle()+", x: "+localPoint.getX()+", y: "+localPoint.getY());
 			}
 		}
 
 		if (addedGraphics.size() > 0)
 			object.add("graphics", addedGraphics);
+
+	}
+
+	private void save(String... lines){
+		Collections.addAll(this.lines, lines);
 	}
 
 }

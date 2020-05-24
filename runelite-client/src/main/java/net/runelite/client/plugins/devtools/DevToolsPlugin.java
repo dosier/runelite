@@ -53,6 +53,8 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 import java.util.List;
 import javax.inject.Inject;
+import javax.swing.*;
+
 import lombok.Getter;
 import net.runelite.api.*;
 import net.runelite.api.coords.LocalPoint;
@@ -161,6 +163,7 @@ public class DevToolsPlugin extends Plugin
 	private DevToolsButton soundEffects;
 	private DevToolsButton scriptInspector;
 	private NavigationButton navButton;
+	private boolean switchedOn;
 
 	@Provides
 	DevToolsConfig provideConfig(ConfigManager configManager)
@@ -239,10 +242,18 @@ public class DevToolsPlugin extends Plugin
 
 		saveTrackedData.addActionListener(e -> {
 
+			if (switchedOn) {
+				switchedOn = false;
+				return;
+			}
 			Date date = new Date() ;
 			SimpleDateFormat dateFormat = new SimpleDateFormat("MM-dd HH-mm") ;
 
-			String fileName = dateFormat.format(date);
+			String fileName = JOptionPane.showInputDialog("Please input filename: ");
+
+			if ((fileName == null) || (fileName.length() == 0)) {
+				return;
+			}
 
 			File jsonFile = Paths.get("json_dumps", fileName+".json").toFile();
 			File txtFile = Paths.get("txt_dumps", fileName+".txt").toFile();
@@ -280,6 +291,7 @@ public class DevToolsPlugin extends Plugin
 				ex.printStackTrace();
 			}
 			resetJsonArrays();
+			switchedOn = true;
 		});
 
 		final DevToolsPanel panel = injector.getInstance(DevToolsPanel.class);

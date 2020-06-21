@@ -1,0 +1,27 @@
+SOUND 2247	 delay: 0
+SOUND 2556	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1712
+NPC 'Guard (3254)'	animation: 388
+SOUND 1979	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1712
+NPC 'Guard (3254)'	animation: 388
+SOUND 2549	 delay: 0
+SOUND 2359	 delay: 20
+PLAYER 'Wildy Slayer'	 animation: 1709
+NPC 'Guard (3254)'	animation: 386
+SOUND 2544	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1064, gfx: 253
+NPC 'Guard (3254)'	animation: 386, gfx: 254
+PLAYER 'Wildy Slayer'	 animation: 1064, gfx: 253
+NPC 'Guard (3254)'	gfx: 254
+SOUND 2549	 delay: 0
+SOUND 2364	 delay: 20
+PLAYER 'Wildy Slayer'	 animation: 1709
+PLAYER 'Wildy Slayer'	 animation: 1709
+SOUND 2549	 delay: 0
+SOUND 2359	 delay: 20
+PLAYER 'Wildy Slayer'	 animation: 1709
+PLAYER 'Wildy Slayer'	 animation: 1709
+SOUND 2549	 delay: 0
+SOUND 2359	 delay: 20
+PLAYER 'Wildy Slayer'	 animation: 1709

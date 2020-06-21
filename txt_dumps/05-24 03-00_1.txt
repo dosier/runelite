@@ -1,0 +1,13 @@
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 39, sceneY: 53
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 39, sceneY: 53
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 39, sceneY: 53
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 39, sceneY: 53
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 39, sceneY: 53
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 39, sceneY: 53
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 39, sceneY: 53
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 39, sceneY: 53
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 39, sceneY: 53
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 39, sceneY: 53
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 39, sceneY: 53
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 39, sceneY: 53
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 39, sceneY: 53

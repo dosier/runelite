@@ -1,0 +1,201 @@
+AREA_SOUND 3908	 delay: 0, range: 15, sceneX: 81, sceneY: 53
+AREA_SOUND 3904	 delay: 0, range: 15, sceneX: 81, sceneY: 53
+AREA_SOUND 3912	 delay: 0, range: 15, sceneX: 81, sceneY: 52
+AREA_SOUND 3901	 delay: 0, range: 4, sceneX: 82, sceneY: 56
+AREA_SOUND 3905	 delay: 0, range: 15, sceneX: 81, sceneY: 52
+AREA_SOUND 3900	 delay: 0, range: 15, sceneX: 81, sceneY: 52
+AREA_SOUND 3910	 delay: 0, range: 4, sceneX: 82, sceneY: 56
+AREA_SOUND 3902	 delay: 0, range: 15, sceneX: 81, sceneY: 52
+AREA_SOUND 3911	 delay: 0, range: 15, sceneX: 81, sceneY: 52
+AREA_SOUND 3897	 delay: 0, range: 15, sceneX: 81, sceneY: 52
+SOUND 2720	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1681
+AREA_SOUND 3913	 delay: 0, range: 15, sceneX: 81, sceneY: 52, source: Corporeal Beast (319)
+SOUND 3893	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+AREA_SOUND 3912	 delay: 0, range: 15, sceneX: 81, sceneY: 52, source: Corporeal Beast (319)
+NPC 'Corporeal Beast (319)'	animation: 1677
+NPC 'Corporeal Beast (319)'	animation: 1679
+AREA_SOUND 3895	 delay: 0, range: 15, sceneX: 81, sceneY: 52, source: Corporeal Beast (319)
+SOUND 2720	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1679
+GFX 317	level: 2, start_cycle: 3128940, x: 10560, y: 6720
+GFX 317	level: 2, start_cycle: 3128940, x: 10560, y: 6720
+GFX 317	level: 2, start_cycle: 3128930, x: 10304, y: 7104
+GFX 317	level: 2, start_cycle: 3128940, x: 10560, y: 6720
+GFX 317	level: 2, start_cycle: 3128930, x: 10816, y: 7360
+GFX 317	level: 2, start_cycle: 3128940, x: 10944, y: 7232
+AREA_SOUND 3899	 delay: 0, range: 15, sceneX: 81, sceneY: 52, source: Corporeal Beast (319)
+AREA_SOUND 3901	 delay: 0, range: 4, sceneX: 82, sceneY: 55
+SOUND 3893	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1679
+GFX 317	level: 2, start_cycle: 3128940, x: 10560, y: 6720
+GFX 317	level: 2, start_cycle: 3128940, x: 10560, y: 6720
+GFX 317	level: 2, start_cycle: 3128930, x: 10304, y: 7104
+GFX 317	level: 2, start_cycle: 3128940, x: 10560, y: 6720
+GFX 317	level: 2, start_cycle: 3128930, x: 10816, y: 7360
+GFX 317	level: 2, start_cycle: 3128940, x: 10944, y: 7232
+NPC 'Corporeal Beast (319)'	animation: 1677
+GFX 317	level: 2, start_cycle: 3128940, x: 10560, y: 6720
+GFX 317	level: 2, start_cycle: 3128940, x: 10560, y: 6720
+GFX 317	level: 2, start_cycle: 3128940, x: 10560, y: 6720
+GFX 317	level: 2, start_cycle: 3128940, x: 10944, y: 7232
+AREA_SOUND 3902	 delay: 0, range: 15, sceneX: 81, sceneY: 52, source: Corporeal Beast (319)
+NPC 'Corporeal Beast (319)'	animation: 1682
+AREA_SOUND 3911	 delay: 0, range: 15, sceneX: 81, sceneY: 52, source: Corporeal Beast (319)
+SOUND 2720	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1682
+SOUND 3893	 delay: 0
+AREA_SOUND 3905	 delay: 0, range: 15, sceneX: 81, sceneY: 52, source: Corporeal Beast (319)
+PLAYER 'Wildy Slayer'	 animation: 1658
+AREA_SOUND 3900	 delay: 0, range: 15, sceneX: 81, sceneY: 52, source: Corporeal Beast (319)
+NPC 'Corporeal Beast (319)'	animation: 1679
+AREA_SOUND 3895	 delay: 0, range: 15, sceneX: 81, sceneY: 52, source: Corporeal Beast (319)
+NPC 'Corporeal Beast (319)'	animation: 1679
+GFX 317	level: 2, start_cycle: 3129141, x: 9792, y: 6464
+GFX 317	level: 2, start_cycle: 3129141, x: 9920, y: 6208
+GFX 317	level: 2, start_cycle: 3129141, x: 10176, y: 6720
+GFX 317	level: 2, start_cycle: 3129131, x: 10176, y: 6592
+GFX 317	level: 2, start_cycle: 3129151, x: 10304, y: 6080
+GFX 317	level: 2, start_cycle: 3129151, x: 10304, y: 6080
+AREA_SOUND 3899	 delay: 0, range: 15, sceneX: 81, sceneY: 52, source: Corporeal Beast (319)
+SOUND 2360	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1686
+GFX 317	level: 2, start_cycle: 3129141, x: 9792, y: 6464
+GFX 317	level: 2, start_cycle: 3129141, x: 9920, y: 6208
+GFX 317	level: 2, start_cycle: 3129141, x: 10176, y: 6720
+GFX 317	level: 2, start_cycle: 3129131, x: 10176, y: 6592
+GFX 317	level: 2, start_cycle: 3129151, x: 10304, y: 6080
+GFX 317	level: 2, start_cycle: 3129151, x: 10304, y: 6080
+AREA_SOUND 3894	 delay: 0, range: 15, sceneX: 81, sceneY: 52, source: Corporeal Beast (319)
+AREA_SOUND 3905	 delay: 0, range: 15, sceneX: 81, sceneY: 52, source: Corporeal Beast (319)
+AREA_SOUND 3901	 delay: 0, range: 4, sceneX: 82, sceneY: 55
+SOUND 3893	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'Wildy Slayer'	 animation: 1658
+AREA_SOUND 3910	 delay: 0, range: 4, sceneX: 82, sceneY: 55
+PLAYER 'Wildy Slayer'	 animation: 1156
+NPC 'Corporeal Beast (319)'	animation: 1681
+AREA_SOUND 3897	 delay: 0, range: 15, sceneX: 81, sceneY: 52, source: Corporeal Beast (319)
+SOUND 521	 delay: 20
+PLAYER 'Wildy Slayer'	 animation: 1156
+NPC 'Corporeal Beast (319)'	animation: 1681
+AREA_SOUND 3913	 delay: 0, range: 15, sceneX: 81, sceneY: 52, source: Corporeal Beast (319)
+SOUND 2720	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1677
+SOUND 3893	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1677
+NPC 'Corporeal Beast (319)'	animation: 1679
+AREA_SOUND 3895	 delay: 0, range: 15, sceneX: 81, sceneY: 52, source: Corporeal Beast (319)
+NPC 'Corporeal Beast (319)'	animation: 1679
+GFX 317	level: 2, start_cycle: 3129390, x: 9792, y: 6080
+GFX 317	level: 2, start_cycle: 3129370, x: 10176, y: 6592
+GFX 317	level: 2, start_cycle: 3129390, x: 9792, y: 6848
+GFX 317	level: 2, start_cycle: 3129370, x: 10176, y: 6464
+GFX 317	level: 2, start_cycle: 3129370, x: 10176, y: 6464
+GFX 317	level: 2, start_cycle: 3129380, x: 9792, y: 6720
+AREA_SOUND 3899	 delay: 0, range: 15, sceneX: 81, sceneY: 52, source: Corporeal Beast (319)
+SOUND 2360	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+GFX 317	level: 2, start_cycle: 3129390, x: 9792, y: 6080
+GFX 317	level: 2, start_cycle: 3129370, x: 10176, y: 6592
+GFX 317	level: 2, start_cycle: 3129390, x: 9792, y: 6848
+GFX 317	level: 2, start_cycle: 3129370, x: 10176, y: 6464
+GFX 317	level: 2, start_cycle: 3129370, x: 10176, y: 6464
+GFX 317	level: 2, start_cycle: 3129380, x: 9792, y: 6720
+AREA_SOUND 3901	 delay: 0, range: 4, sceneX: 82, sceneY: 55
+SOUND 3893	 delay: 0
+SOUND 519	 delay: 20
+SOUND 520	 delay: 20
+SOUND 519	 delay: 20
+PLAYER 'Wildy Slayer'	 animation: 1658
+SOUND 586	 delay: 0
+SOUND 518	 delay: 20
+PLAYER 'Wildy Slayer'	 animation: 1156
+NPC 'Corporeal Beast (319)'	animation: 1683
+SOUND 2393	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 829
+AREA_SOUND 3911	 delay: 0, range: 15, sceneX: 81, sceneY: 51
+PLAYER 'Wildy Slayer'	 animation: 829
+AREA_SOUND 3912	 delay: 0, range: 15, sceneX: 81, sceneY: 51
+AREA_SOUND 3905	 delay: 0, range: 15, sceneX: 81, sceneY: 51
+AREA_SOUND 3900	 delay: 0, range: 15, sceneX: 81, sceneY: 51
+PLAYER 'Wildy Slayer'	 animation: 829
+SOUND 2393	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 829
+AREA_SOUND 3902	 delay: 0, range: 15, sceneX: 81, sceneY: 51
+PLAYER 'Wildy Slayer'	 animation: 829
+AREA_SOUND 3912	 delay: 0, range: 15, sceneX: 81, sceneY: 50
+PLAYER 'Wildy Slayer'	 animation: 829
+AREA_SOUND 3905	 delay: 0, range: 15, sceneX: 81, sceneY: 50
+AREA_SOUND 3900	 delay: 0, range: 15, sceneX: 81, sceneY: 50
+AREA_SOUND 3901	 delay: 0, range: 4, sceneX: 82, sceneY: 54
+SOUND 2393	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 829
+AREA_SOUND 3909	 delay: 0, range: 15, sceneX: 81, sceneY: 50
+PLAYER 'Wildy Slayer'	 animation: 829
+NPC 'Corporeal Beast (319)'	animation: 1682
+PLAYER 'Wildy Slayer'	 animation: 829
+NPC 'Corporeal Beast (319)'	animation: 1682
+AREA_SOUND 3912	 delay: 0, range: 15, sceneX: 81, sceneY: 50, source: Corporeal Beast (319)
+AREA_SOUND 3905	 delay: 0, range: 15, sceneX: 81, sceneY: 50, source: Corporeal Beast (319)
+AREA_SOUND 3909	 delay: 0, range: 15, sceneX: 81, sceneY: 50
+AREA_SOUND 3901	 delay: 0, range: 4, sceneX: 84, sceneY: 52
+SOUND 521	 delay: 20
+AREA_SOUND 3902	 delay: 0, range: 15, sceneX: 81, sceneY: 50
+AREA_SOUND 3894	 delay: 0, range: 15, sceneX: 81, sceneY: 50
+AREA_SOUND 3911	 delay: 0, range: 15, sceneX: 81, sceneY: 50
+AREA_SOUND 3905	 delay: 0, range: 15, sceneX: 81, sceneY: 50
+SOUND 2720	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1682
+AREA_SOUND 3905	 delay: 0, range: 15, sceneX: 81, sceneY: 50, source: Corporeal Beast (319)
+AREA_SOUND 3900	 delay: 0, range: 15, sceneX: 81, sceneY: 49, source: Corporeal Beast (319)
+SOUND 3893	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1677
+AREA_SOUND 3901	 delay: 0, range: 4, sceneX: 80, sceneY: 49
+NPC 'Corporeal Beast (319)'	animation: 1677
+AREA_SOUND 3902	 delay: 0, range: 15, sceneX: 81, sceneY: 49, source: Corporeal Beast (319)
+AREA_SOUND 3911	 delay: 0, range: 15, sceneX: 81, sceneY: 49, source: Corporeal Beast (319)
+NPC 'Corporeal Beast (319)'	animation: 1683
+AREA_SOUND 3912	 delay: 0, range: 15, sceneX: 81, sceneY: 49, source: Corporeal Beast (319)
+AREA_SOUND 3905	 delay: 0, range: 15, sceneX: 81, sceneY: 49, source: Corporeal Beast (319)
+SOUND 2720	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1683
+AREA_SOUND 3900	 delay: 0, range: 15, sceneX: 81, sceneY: 49, source: Corporeal Beast (319)
+AREA_SOUND 3909	 delay: 0, range: 15, sceneX: 81, sceneY: 49, source: Corporeal Beast (319)
+SOUND 3893	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1677
+AREA_SOUND 3901	 delay: 0, range: 4, sceneX: 84, sceneY: 50
+NPC 'Corporeal Beast (319)'	animation: 1677
+NPC 'Corporeal Beast (319)'	animation: 1682
+AREA_SOUND 3905	 delay: 0, range: 15, sceneX: 81, sceneY: 49, source: Corporeal Beast (319)
+SOUND 2720	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1682
+AREA_SOUND 3900	 delay: 0, range: 15, sceneX: 81, sceneY: 49, source: Corporeal Beast (319)
+SOUND 3893	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1677
+NPC 'Corporeal Beast (319)'	animation: 1677
+AREA_SOUND 3910	 delay: 0, range: 4, sceneX: 82, sceneY: 52
+NPC 'Corporeal Beast (319)'	animation: 1682
+AREA_SOUND 3912	 delay: 0, range: 15, sceneX: 81, sceneY: 49, source: Corporeal Beast (319)
+AREA_SOUND 3914	 delay: 0, range: 15, sceneX: 81, sceneY: 49 DEATH
+AREA_SOUND 200	 delay: 0, range: 10, sceneX: 78, sceneY: 49
+AREA_SOUND 200	 delay: 0, range: 10, sceneX: 83, sceneY: 56
+AREA_SOUND 3910	 delay: 0, range: 4, sceneX: 84, sceneY: 48
+AREA_SOUND 200	 delay: 0, range: 10, sceneX: 84, sceneY: 48
+AREA_SOUND 200	 delay: 0, range: 10, sceneX: 79, sceneY: 51

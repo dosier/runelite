@@ -1,0 +1,6 @@
+AREA_SOUND 3007	 delay: 1, range: 10, sceneX: 79, sceneY: 50
+SOUND 3006	 delay: 0
+PLAYER 'Wildy Slayer'	 gfx: 142
+GFX 144	level: 0, start_cycle: 5138374, x: 10176, y: 6464
+PLAYER 'Wildy Slayer'	 gfx: 142
+GFX 144	level: 0, start_cycle: 5138374, x: 10176, y: 6464

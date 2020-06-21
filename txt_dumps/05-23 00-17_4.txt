@@ -1,0 +1,23 @@
+SOUND 2695	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3011)'	animation: 6488
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3011)'	animation: 6488
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 27, x: 7104, y: 4928
+SOUND 1979	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3011)'	animation: 6488
+NPC 'Guard (3011)'	animation: 6488
+SOUND 2549	 delay: 0
+SOUND 2368	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 424
+NPC 'Guard (3011)'	animation: 6489
+SOUND 2695	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3011)'	animation: 6488
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3011)'	animation: 6488
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 7104, y: 4928
+SOUND 1979	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3011)'	animation: 6488

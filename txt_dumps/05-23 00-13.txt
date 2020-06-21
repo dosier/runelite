@@ -1,0 +1,75 @@
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+SOUND 2695	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 26, x: 6976, y: 7104
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+SOUND 1979	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+NPC 'Guard (3010)'	animation: 6488

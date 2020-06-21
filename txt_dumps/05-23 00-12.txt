@@ -1,0 +1,59 @@
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+SOUND 2695	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+PLAYER 'Lou Grinder'	 animation: 7552
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 19, x: 6464, y: 6720
+SOUND 1979	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+SOUND 2549	 delay: 0
+SOUND 2366	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 424
+NPC 'Guard (3010)'	animation: 6489
+SOUND 2695	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 6720, y: 6592
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+SOUND 1979	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+SOUND 2549	 delay: 0
+SOUND 2367	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 424
+NPC 'Guard (3010)'	animation: 6489
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+PLAYER 'Lou Grinder'	 animation: 424
+NPC 'Guard (3010)'	animation: 6489
+SOUND 2695	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 22, x: 6720, y: 6592
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+SOUND 1979	 delay: 0
+SOUND 2549	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6489
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 48, sceneY: 47, source: HCFE Spank
+SOUND 512	 delay: 0

@@ -1,0 +1,20 @@
+SOUND 2248	 delay: 0
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 50
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 50
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 50
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 50
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 50
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 50
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 50
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 50
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 50
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 50
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 50
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 50
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 50
+AREA_SOUND 3869	 delay: 0, range: 5, sceneX: 52, sceneY: 56
+PLAYER 'Wildy Slayer'	 animation: 7638, gfx: 1210
+NPC 'Guard (3269)'	animation: 388, gfx: 369
+SOUND 1979	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 7638, gfx: 1210
+NPC 'Guard (3269)'	animation: 388, gfx: 369

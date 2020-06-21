@@ -1,0 +1,69 @@
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+SOUND 2695	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 24, x: 6976, y: 7104
+SOUND 1979	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+NPC 'Guard (3010)'	animation: 6488
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+SOUND 2695	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 25, x: 6976, y: 7104
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+SOUND 1979	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+SOUND 512	 delay: 0
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO

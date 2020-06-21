@@ -1,0 +1,32 @@
+SOUND 2695	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 7552
+NPC 'White Knight (1799)'	animation: 410
+PLAYER 'Wildy Slayer'	 animation: 7552
+NPC 'White Knight (1799)'	animation: 410
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 40, x: 6720, y: 7104
+PLAYER 'Wildy Slayer'	 animation: 7552
+NPC 'White Knight (1799)'	animation: 410
+SOUND 23	 delay: 0
+NPC 'White Knight (1799)'	animation: 410
+NPC 'White Knight (1799)'	animation: 410
+SOUND 2695	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 7552
+NPC 'White Knight (1799)'	animation: 410
+SOUND 2502	 delay: 0
+SOUND 2768	 delay: 20
+PLAYER 'Wildy Slayer'	 animation: 7552
+NPC 'White Knight (1799)'	animation: 406
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 25, x: 6720, y: 7104
+SOUND 23	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 7552
+NPC 'White Knight (1799)'	animation: 406
+SOUND 2695	 delay: 0
+SOUND 2913	 delay: 1
+PLAYER 'Wildy Slayer'	 animation: 7552
+NPC 'White Knight (1799)'	animation: 410, gfx: 758
+PLAYER 'Wildy Slayer'	 animation: 7552
+NPC 'White Knight (1799)'	animation: 410, gfx: 758
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 19, x: 6720, y: 7104
+SOUND 23	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 7552
+NPC 'White Knight (1799)'	animation: 410, gfx: 758

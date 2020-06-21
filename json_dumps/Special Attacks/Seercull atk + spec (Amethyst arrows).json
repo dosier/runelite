@@ -1,0 +1,121 @@
+[
+  {
+    "server-tick": 22151,
+    "animation": 426,
+    "gfx": 1385,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388
+    },
+    "sounds": [
+      {
+        "id, delay": "2693, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22152,
+    "animation": 426,
+    "gfx": 1385,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388
+    },
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 44"
+      }
+    ]
+  },
+  {
+    "server-tick": 22153,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388
+    }
+  },
+  {
+    "server-tick": 22154,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22155,
+    "animation": 426,
+    "gfx": 472,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388,
+      "gfx": 474
+    },
+    "sounds": [
+      {
+        "id, delay": "2546, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22156,
+    "animation": 426,
+    "gfx": 472,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "gfx": 474
+    },
+    "projectiles": [
+      {
+        "id": 473,
+        "heights": "11, 144",
+        "slope, duration": "15, 29"
+      }
+    ]
+  },
+  {
+    "server-tick": 22157,
+    "animation": 424,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 386,
+      "gfx": 474
+    },
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "2766, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 22158,
+    "animation": 424,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 386,
+      "gfx": 474
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22159,
+    "animation": 424,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "gfx": 474
+    }
+  }
+]

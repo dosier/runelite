@@ -1,0 +1,5 @@
+SOUND 2229	 delay: 0
+AREA_SOUND 2531	 delay: 0, range: 1, sceneX: 50, sceneY: 41
+PLAYER 'Wildy Slayer'	 animation: 2876, gfx: 479
+PLAYER 'Wildy Slayer'	 animation: 2876, gfx: 479
+PLAYER 'Wildy Slayer'	 animation: 2876, gfx: 479

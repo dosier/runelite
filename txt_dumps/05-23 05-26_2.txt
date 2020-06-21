@@ -1,0 +1,13 @@
+AREA_SOUND 1460	 delay: 56, range: 10, sceneX: 53, sceneY: 56
+SOUND 2549	 delay: 0
+SOUND 2767	 delay: 20
+SOUND 178	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1167, gfx: 1251
+NPC 'Guard (3269)'	animation: 386, gfx: 1253
+PLAYER 'Wildy Slayer'	 animation: 1167, gfx: 1251
+NPC 'Guard (3269)'	animation: 386, gfx: 1253
+SOUND 1979	 delay: 0
+PLAYER 'Wildy Slayer'	 gfx: 1251
+NPC 'Guard (3269)'	gfx: 1253
+SOUND 512	 delay: 0
+PLAYER 'Wildy Slayer'	 gfx: 1251

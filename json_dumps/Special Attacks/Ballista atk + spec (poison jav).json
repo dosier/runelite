@@ -1,0 +1,130 @@
+[
+  {
+    "server-tick": 21580,
+    "animation": 7555,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388,
+      "gfx": 344
+    },
+    "sounds": [
+      {
+        "id, delay": "2699, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 21581,
+    "animation": 7555,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388,
+      "gfx": 344
+    },
+    "projectiles": [
+      {
+        "id": 1301,
+        "heights": "120, 144",
+        "slope, duration": "1, 25"
+      }
+    ]
+  },
+  {
+    "server-tick": 21582,
+    "animation": 7555,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388,
+      "gfx": 344
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21583,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388
+    }
+  },
+  {
+    "server-tick": 21584,
+    "animation": 7219,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 386
+    },
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "2768, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 21585,
+    "animation": 7219,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 386
+    }
+  },
+  {
+    "server-tick": 21586,
+    "animation": 7556,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388,
+      "gfx": 344
+    },
+    "sounds": [
+      {
+        "id, delay": "2536, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21587,
+    "animation": 7556,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388,
+      "gfx": 344
+    }
+  },
+  {
+    "server-tick": 21588,
+    "animation": 7219,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 386,
+      "gfx": 344
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      },
+      {
+        "id, delay": "2549, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21589,
+    "animation": 7219,
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21590,
+    "animation": 7219
+  }
+]

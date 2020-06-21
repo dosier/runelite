@@ -1,0 +1,13 @@
+NPC 'Guard (3271)'	gfx: 753
+SOUND 2695	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 7552
+NPC 'Guard (3271)'	animation: 397, gfx: 753
+PLAYER 'Wildy Slayer'	 animation: 7552
+NPC 'Guard (3271)'	animation: 397, gfx: 753
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 6720, y: 6976
+SOUND 1979	 delay: 0
+SOUND 2497	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'Wildy Slayer'	 animation: 7552
+NPC 'Guard (3271)'	animation: 395, gfx: 753
+NPC 'Guard (3271)'	animation: 395, gfx: 753

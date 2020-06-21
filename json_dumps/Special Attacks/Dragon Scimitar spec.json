@@ -1,0 +1,40 @@
+[
+  {
+    "server-tick": 12502,
+    "animation": 1872,
+    "gfx": 347,
+    "pos": "2963, 3375, 0",
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397
+    },
+    "sounds": [
+      {
+        "id, delay": "2540, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 12503,
+    "animation": 1872,
+    "gfx": 347,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 12504,
+    "animation": 1872,
+    "gfx": 347,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397
+    }
+  }
+]

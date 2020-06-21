@@ -1,0 +1,3 @@
+PLAYER 'Wildy Slayer'	 animation: 4230
+PLAYER 'ty for agsm8'	animation: 424, gfx: 751
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 28, x: 7104, y: 6336

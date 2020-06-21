@@ -1,0 +1,20 @@
+SOUND 2503	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 407
+NPC 'Guard (3271)'	animation: 397
+SOUND 1979	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 407
+NPC 'Guard (3271)'	animation: 397
+SOUND 512	 delay: 0
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 38, sceneY: 49
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 38, sceneY: 49
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 38, sceneY: 49
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 38, sceneY: 49
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 38, sceneY: 49
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 38, sceneY: 49
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 38, sceneY: 49
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 38, sceneY: 49
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 38, sceneY: 49
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 38, sceneY: 49
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 38, sceneY: 49
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 38, sceneY: 49
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 38, sceneY: 49

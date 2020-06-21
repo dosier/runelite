@@ -1,0 +1,121 @@
+[
+  {
+    "server-tick": 12407,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 12408,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 17"
+      }
+    ]
+  },
+  {
+    "server-tick": 12409,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 12410,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 13"
+      }
+    ]
+  },
+  {
+    "server-tick": 12411,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 386
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      },
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "2767, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      },
+      {
+        "id, delay": "800, 32"
+      }
+    ]
+  },
+  {
+    "server-tick": 12412,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 386
+    },
+    "projectiles": [
+      {
+        "id": 1043,
+        "heights": "105, 144",
+        "slope, duration": "15, 9"
+      }
+    ]
+  },
+  {
+    "server-tick": 12413,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Guard (3269)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 12414,
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  }
+]

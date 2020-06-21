@@ -1,0 +1,4 @@
+SOUND 2497	 delay: 0
+SOUND 2833	 delay: 20
+PLAYER 'Wildy Slayer'	 animation: 424
+PLAYER 'Wildy Slayer'	 animation: 424

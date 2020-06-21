@@ -1,0 +1,15 @@
+SOUND 2497	 delay: 0
+SOUND 2768	 delay: 20
+PLAYER 'Wildy Slayer'	 animation: 7512
+NPC 'Guard (3271)'	animation: 395
+SOUND 3454	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 7511
+NPC 'Guard (3271)'	animation: 397
+SOUND 1979	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 7511
+NPC 'Guard (3271)'	animation: 397
+NPC 'Guard (3271)'	animation: 397
+SOUND 2497	 delay: 0
+SOUND 2767	 delay: 20
+PLAYER 'Wildy Slayer'	 animation: 7512
+NPC 'Guard (3271)'	animation: 395

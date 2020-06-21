@@ -1,0 +1,174 @@
+[
+  {
+    "server-tick": 27142,
+    "animation": 1156
+  },
+  {
+    "server-tick": 27143,
+    "animation": 1156,
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 28"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 23"
+      },
+      {
+        "id": 697,
+        "heights": "11, 144",
+        "slope, duration": "15, 24"
+      },
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 33"
+      },
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 27144,
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 27145,
+    "animation": 1819,
+    "interacting": {
+      "player": "Vonker",
+      "animation": 829,
+      "gfx": 85
+    },
+    "projectiles": [
+      {
+        "id": 697,
+        "heights": "11, 144",
+        "slope, duration": "15, 25"
+      }
+    ]
+  },
+  {
+    "server-tick": 27146,
+    "animation": 1819,
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 27147,
+    "animation": 1819,
+    "gfx": 85,
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 25"
+      },
+      {
+        "id": 697,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 27148,
+    "gfx": 85,
+    "projectiles": [
+      {
+        "id": 1301,
+        "heights": "120, 144",
+        "slope, duration": "1, 24"
+      }
+    ]
+  },
+  {
+    "server-tick": 27149,
+    "gfx": 85,
+    "pos": "3162, 3509, 0",
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 36"
+      }
+    ]
+  },
+  {
+    "server-tick": 27150,
+    "gfx": 85,
+    "pos": "3162, 3507, 0",
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      },
+      {
+        "id": 28,
+        "heights": "11, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 27151,
+    "pos": "3162, 3505, 0",
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      },
+      {
+        "id": 28,
+        "heights": "11, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 27152,
+    "gfx": 85,
+    "pos": "3162, 3503, 0",
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 67,
+        "source": "Biggie Juice"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "3720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 19"
+      }
+    ]
+  }
+]

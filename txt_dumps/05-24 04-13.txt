@@ -1,0 +1,27 @@
+SOUND 2273	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 4004
+PLAYER 'Wildy Slayer'	 animation: 4004
+SOUND 2273	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 4004
+SOUND 2273	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 4004
+SOUND 2273	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 4004
+SOUND 2273	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 4004
+PLAYER 'Wildy Slayer'	 animation: 4004
+SOUND 2273	 delay: 0
+SOUND 2273	 delay: 0
+SOUND 2273	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 4004
+PLAYER 'Wildy Slayer'	 animation: 4004
+SOUND 2273	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 4004
+PLAYER 'Wildy Slayer'	 animation: 4004
+SOUND 2272	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 4004
+SOUND 2271	 delay: 0
+SOUND 1930	 delay: 0
+SOUND 1930	 delay: 0
+SOUND 1930	 delay: 0
+SOUND 1930	 delay: 0

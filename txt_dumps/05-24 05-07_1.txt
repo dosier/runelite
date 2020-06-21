@@ -1,0 +1,3 @@
+AREA_SOUND 3767	 delay: 0, range: 1, sceneX: 50, sceneY: 48, source: itsfridayman
+AREA_SOUND 3766	 delay: 0, range: 1, sceneX: 50, sceneY: 48, source: itsfridayman
+AREA_SOUND 3769	 delay: 0, range: 1, sceneX: 50, sceneY: 48, source: itsfridayman

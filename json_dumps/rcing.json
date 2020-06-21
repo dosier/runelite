@@ -1,0 +1,31 @@
+[
+  {
+    "server-tick": 1023,
+    "pos": "2784, 4842, 0"
+  },
+  {
+    "server-tick": 1024,
+    "animation": 791,
+    "gfx": 186,
+    "sounds": [
+      {
+        "id, delay": "2710, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1025,
+    "animation": 791,
+    "gfx": 186
+  },
+  {
+    "server-tick": 1026,
+    "animation": 791,
+    "gfx": 186
+  },
+  {
+    "server-tick": 1027,
+    "animation": 791,
+    "gfx": 186
+  }
+]

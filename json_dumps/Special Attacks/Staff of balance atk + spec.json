@@ -1,0 +1,174 @@
+[
+  {
+    "server-tick": 17840,
+    "animation": 440,
+    "pos": "2961, 3383, 0",
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388
+    },
+    "sounds": [
+      {
+        "id, delay": "2524, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 17841,
+    "animation": 440,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 17842,
+    "animation": 440
+  },
+  {
+    "server-tick": 17843,
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 17844,
+    "animation": 440,
+    "pos": "2962, 3382, 0",
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397
+    },
+    "sounds": [
+      {
+        "id, delay": "2524, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 17845,
+    "animation": 440,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 17846,
+    "animation": 440,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397
+    }
+  },
+  {
+    "server-tick": 17847,
+    "animation": 3652,
+    "gfx": 1733,
+    "interacting": {
+      "npc": "Guard (3271)"
+    }
+  },
+  {
+    "server-tick": 17848,
+    "animation": 440,
+    "gfx": 1733,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 395
+    },
+    "sounds": [
+      {
+        "id, delay": "2497, 0"
+      },
+      {
+        "id, delay": "2770, 20"
+      },
+      {
+        "id, delay": "2524, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 17849,
+    "animation": 440,
+    "gfx": 1733,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 395
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 17850,
+    "animation": 440,
+    "gfx": 1733,
+    "interacting": {
+      "npc": "Guard (3271)"
+    }
+  },
+  {
+    "server-tick": 17851,
+    "gfx": 1733,
+    "interacting": {
+      "npc": "Guard (3271)"
+    }
+  },
+  {
+    "server-tick": 17852,
+    "animation": 440,
+    "gfx": 1733,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397
+    },
+    "sounds": [
+      {
+        "id, delay": "2524, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 17853,
+    "animation": 440,
+    "gfx": 1733,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  }
+]
+
+Chatbox message: Light green: Spirits of deceased evildoers offer you their protection.
+After about 60 seconds: Light green: Your protection fades away.
+
+  { // when it fades away
+    "server-tick": 17947,
+    "sounds": [
+      {
+        "id, delay": "1598, 0"
+      }
+    ]
+  }
+]

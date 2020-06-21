@@ -1,0 +1,128 @@
+[
+  {
+    "server-tick": 20788,
+    "sounds": [
+      {
+        "id, delay": "2233, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20791,
+    "pos": "2962, 3382, 0",
+    "interacting": {
+      "npc": "Guard (3269)"
+    }
+  },
+  {
+    "server-tick": 20792,
+    "animation": 401,
+    "pos": "2963, 3381, 0",
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388
+    },
+    "sounds": [
+      {
+        "id, delay": "2567, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20793,
+    "animation": 401,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20794,
+    "interacting": {
+      "npc": "Guard (3269)"
+    }
+  },
+  {
+    "server-tick": 20795,
+    "animation": 403,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 386
+    },
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "2769, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 20796,
+    "animation": 403,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 386
+    }
+  },
+  {
+    "server-tick": 20797,
+    "animation": 403,
+    "interacting": {
+      "npc": "Guard (3269)"
+    }
+  },
+  {
+    "server-tick": 20798,
+    "animation": 1378,
+    "gfx": 1292,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388
+    },
+    "sounds": [
+      {
+        "id, delay": "2520, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20799,
+    "animation": 1378,
+    "gfx": 1292,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 386
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      },
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "2768, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 20800,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 386
+    }
+  },
+  {
+    "server-tick": 20801,
+    "interacting": {
+      "npc": "Guard (3269)"
+    }
+  }
+]

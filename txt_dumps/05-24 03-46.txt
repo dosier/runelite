@@ -1,0 +1,16 @@
+SOUND 2549	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 386
+NPC 'Guard (3269)'	animation: 388
+SOUND 1979	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 386
+NPC 'Guard (3269)'	animation: 388
+SOUND 2549	 delay: 0
+SOUND 2766	 delay: 20
+PLAYER 'Wildy Slayer'	 animation: 388
+NPC 'Guard (3269)'	animation: 386
+SOUND 3552	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 7515, gfx: 1369
+NPC 'Guard (3269)'	animation: 386
+SOUND 1979	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 7515, gfx: 1369
+SOUND 512	 delay: 0

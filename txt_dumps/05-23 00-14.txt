@@ -1,0 +1,126 @@
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+SOUND 2695	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 22, x: 7104, y: 6976
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+SOUND 1979	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+NPC 'Guard (3010)'	animation: 6488
+SOUND 2549	 delay: 0
+SOUND 2367	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 424
+NPC 'Guard (3010)'	animation: 6489
+SOUND 2695	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 7104, y: 6976
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+SOUND 1979	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+SOUND 2549	 delay: 0
+SOUND 2367	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 424
+NPC 'Guard (3010)'	animation: 6489
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+PLAYER 'Lou Grinder'	 animation: 424
+NPC 'Guard (3010)'	animation: 6489
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+SOUND 2695	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6488
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 23, x: 7104, y: 6976
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+SOUND 1979	 delay: 0
+SOUND 2549	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3010)'	animation: 6489
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+SOUND 512	 delay: 0
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 65, sceneY: 68, source: RohanLOTR
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+PLAYER 'Lou Grinder'	 animation: 828
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 68, sceneY: 51, source: YOU DRONGO
+PLAYER 'Lou Grinder'	 animation: 828
+PLAYER 'Lou Grinder'	 animation: 828
+SOUND 2695	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3011)'	animation: 6488
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3011)'	animation: 6488
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 46, x: 7232, y: 5312
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3011)'	animation: 6488
+SOUND 1979	 delay: 0
+NPC 'Guard (3011)'	animation: 6488
+NPC 'Guard (3011)'	animation: 6488
+SOUND 2549	 delay: 0
+SOUND 2370	 delay: 20
+SOUND 2695	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3011)'	animation: 6488
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3011)'	animation: 6488
+SOUND 1979	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3011)'	animation: 6488
+NPC 'Guard (3011)'	animation: 6488
+SOUND 2549	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 424
+NPC 'Guard (3011)'	animation: 6489
+SOUND 2695	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3011)'	animation: 6488

@@ -1,0 +1,183 @@
+[
+  {
+    "server-tick": 11540,
+    "animation": 424
+  },
+  {
+    "server-tick": 11541,
+    "animation": 7552,
+    "pos": "2964, 3382, 0",
+    "interacting": {
+      "npc": "Guard (3272)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11542,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3272)",
+      "animation": 425
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 32"
+      }
+    ]
+  },
+  {
+    "server-tick": 11543,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3272)",
+      "animation": 425
+    }
+  },
+  {
+    "server-tick": 11544,
+    "interacting": {
+      "npc": "Guard (3272)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "24, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11545,
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11546,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11547,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 51"
+      }
+    ]
+  },
+  {
+    "server-tick": 11548,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397
+    }
+  },
+  {
+    "server-tick": 11549,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11550,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397
+    }
+  },
+  {
+    "server-tick": 11551,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397,
+      "gfx": 753
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      },
+      {
+        "id, delay": "2917, 1"
+      }
+    ]
+  },
+  {
+    "server-tick": 11552,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 395,
+      "gfx": 753
+    },
+    "sounds": [
+      {
+        "id, delay": "2497, 0"
+      },
+      {
+        "id, delay": "2767, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 11553,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 395,
+      "gfx": 753
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11554,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "gfx": 753
+    }
+  }
+]

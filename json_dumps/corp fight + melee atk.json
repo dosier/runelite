@@ -1,0 +1,1312 @@
+[
+  {
+    "server-tick": 5125,
+    "animation": 1156,
+    "pos": "2985, 4384, 2",
+    "graphics": [
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3132331
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3132331
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3132331
+      }
+    ]
+  },
+  {
+    "server-tick": 5126,
+    "animation": 1156,
+    "pos": "2987, 4385, 2",
+    "area-sounds": [
+      {
+        "id": 3908,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ]
+  },
+  {
+    "server-tick": 5127,
+    "animation": 1156,
+    "area-sounds": [
+      {
+        "id": 3904,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5128,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5129,
+    "animation": 1156,
+    "pos": "2989, 4385, 2",
+    "interacting": {
+      "npc": "Corporeal Beast (319)",
+      "animation": 1681
+    }
+  },
+  {
+    "server-tick": 5130,
+    "animation": 829,
+    "pos": "2990, 4385, 2",
+    "area-sounds": [
+      {
+        "id": 3897,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5131,
+    "animation": 829,
+    "pos": "2988, 4385, 2",
+    "area-sounds": [
+      {
+        "id": 3913,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5132,
+    "animation": 829,
+    "pos": "2986, 4385, 2"
+  },
+  {
+    "server-tick": 5133,
+    "animation": 1156,
+    "pos": "2984, 4385, 2",
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5134,
+    "animation": 1156,
+    "pos": "2982, 4385, 2",
+    "area-sounds": [
+      {
+        "id": 3897,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ]
+  },
+  {
+    "server-tick": 5135,
+    "animation": 1156,
+    "pos": "2980, 4385, 2",
+    "area-sounds": [
+      {
+        "id": 3913,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5136,
+    "animation": 829,
+    "pos": "2978, 4385, 2",
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5137,
+    "animation": 1156,
+    "pos": "2976, 4383, 2"
+  },
+  {
+    "server-tick": 5138,
+    "animation": 1156,
+    "area-sounds": [
+      {
+        "id": 3897,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ]
+  },
+  {
+    "server-tick": 5139,
+    "animation": 829,
+    "area-sounds": [
+      {
+        "id": 3913,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5140,
+    "animation": 829,
+    "pos": "2978, 4383, 2"
+  },
+  {
+    "server-tick": 5141,
+    "animation": 1156,
+    "pos": "2980, 4383, 2"
+  },
+  {
+    "server-tick": 5142,
+    "animation": 1156,
+    "pos": "2982, 4383, 2",
+    "area-sounds": [
+      {
+        "id": 3897,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2358, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5143,
+    "animation": 829,
+    "pos": "2984, 4383, 2",
+    "area-sounds": [
+      {
+        "id": 3913,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5144,
+    "animation": 829,
+    "pos": "2986, 4383, 2"
+  },
+  {
+    "server-tick": 5145,
+    "animation": 1156,
+    "pos": "2988, 4383, 2"
+  },
+  {
+    "server-tick": 5146,
+    "animation": 829,
+    "pos": "2990, 4383, 2",
+    "area-sounds": [
+      {
+        "id": 3908,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "2358, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5147,
+    "animation": 829,
+    "pos": "2992, 4383, 2",
+    "area-sounds": [
+      {
+        "id": 3904,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      },
+      {
+        "id": 3911,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5148,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corporeal Beast (319)",
+      "animation": 1677
+    },
+    "area-sounds": [
+      {
+        "id": 3912,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      },
+      {
+        "id": 3905,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5149,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corporeal Beast (319)",
+      "animation": 1681
+    },
+    "area-sounds": [
+      {
+        "id": 3900,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      },
+      {
+        "id": 3909,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "3893, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5150,
+    "interacting": {
+      "npc": "Corporeal Beast (319)",
+      "animation": 1681
+    },
+    "area-sounds": [
+      {
+        "id": 3897,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5151,
+    "interacting": {
+      "npc": "Corporeal Beast (319)",
+      "animation": 1681
+    },
+    "area-sounds": [
+      {
+        "id": 3913,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ]
+  },
+  {
+    "server-tick": 5152,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corporeal Beast (319)",
+      "animation": 1677
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5153,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corporeal Beast (319)",
+      "animation": 1682
+    },
+    "sounds": [
+      {
+        "id, delay": "3893, 0"
+      },
+      {
+        "id, delay": "586, 0"
+      },
+      {
+        "id, delay": "2365, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5154,
+    "interacting": {
+      "npc": "Corporeal Beast (319)",
+      "animation": 1682
+    }
+  },
+  {
+    "server-tick": 5155,
+    "interacting": {
+      "npc": "Corporeal Beast (319)"
+    }
+  },
+  {
+    "server-tick": 5156,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corporeal Beast (319)",
+      "animation": 1677
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5157,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corporeal Beast (319)",
+      "animation": 1681
+    },
+    "sounds": [
+      {
+        "id, delay": "3893, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5158,
+    "interacting": {
+      "npc": "Corporeal Beast (319)",
+      "animation": 1681
+    },
+    "area-sounds": [
+      {
+        "id": 3897,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5159,
+    "animation": 829,
+    "area-sounds": [
+      {
+        "id": 3913,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5160,
+    "animation": 829
+  },
+  {
+    "server-tick": 5161,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "586, 0"
+      },
+      {
+        "id, delay": "2365, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5162,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5163,
+    "animation": 829
+  },
+  {
+    "server-tick": 5164,
+    "animation": 829,
+    "interacting": {
+      "npc": "Corporeal Beast (319)"
+    }
+  },
+  {
+    "server-tick": 5165,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Corporeal Beast (319)",
+      "animation": 1682
+    },
+    "sounds": [
+      {
+        "id, delay": "586, 0"
+      },
+      {
+        "id, delay": "2359, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5166,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corporeal Beast (319)",
+      "animation": 1682
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5167,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corporeal Beast (319)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3893, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5168,
+    "interacting": {
+      "npc": "Corporeal Beast (319)"
+    }
+  },
+  {
+    "server-tick": 5169,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Corporeal Beast (319)",
+      "animation": 1680
+    }
+  },
+  {
+    "server-tick": 5170,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corporeal Beast (319)",
+      "animation": 1680
+    },
+    "area-sounds": [
+      {
+        "id": 3908,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5171,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corporeal Beast (319)",
+      "animation": 1680
+    },
+    "area-sounds": [
+      {
+        "id": 3904,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "3893, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5172,
+    "interacting": {
+      "npc": "Corporeal Beast (319)"
+    }
+  },
+  {
+    "server-tick": 5173,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Corporeal Beast (319)",
+      "animation": 1680
+    }
+  },
+  {
+    "server-tick": 5174,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corporeal Beast (319)",
+      "animation": 1680
+    },
+    "area-sounds": [
+      {
+        "id": 3908,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5175,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corporeal Beast (319)"
+    },
+    "area-sounds": [
+      {
+        "id": 3904,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "3893, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5176,
+    "pos": "2992, 4385, 2"
+  },
+  {
+    "server-tick": 5177,
+    "pos": "2992, 4386, 2",
+    "area-sounds": [
+      {
+        "id": 3909,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 58,
+        "source": "Corporeal Beast (319)"
+      }
+    ]
+  },
+  {
+    "server-tick": 5178,
+    "animation": 1658,
+    "pos": "2990, 4386, 2",
+    "interacting": {
+      "npc": "Corporeal Beast (319)",
+      "animation": 1686
+    },
+    "area-sounds": [
+      {
+        "id": 3902,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 57,
+        "source": "Corporeal Beast (319)"
+      },
+      {
+        "id": 3911,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 57,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5179,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corporeal Beast (319)",
+      "animation": 1681
+    },
+    "area-sounds": [
+      {
+        "id": 3894,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 57,
+        "source": "Corporeal Beast (319)"
+      },
+      {
+        "id": 3912,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 57,
+        "source": "Corporeal Beast (319)"
+      },
+      {
+        "id": 3905,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 57,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "3893, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5180,
+    "pos": "2988, 4384, 2",
+    "area-sounds": [
+      {
+        "id": 3905,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 57,
+        "source": "Corporeal Beast (319)"
+      },
+      {
+        "id": 3897,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 57,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5181,
+    "area-sounds": [
+      {
+        "id": 3913,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 57,
+        "source": "Corporeal Beast (319)"
+      },
+      {
+        "id": 3911,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 57,
+        "source": "Corporeal Beast (319)"
+      }
+    ]
+  },
+  {
+    "server-tick": 5182,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5183,
+    "animation": 829
+  },
+  {
+    "server-tick": 5184,
+    "animation": 829,
+    "area-sounds": [
+      {
+        "id": 3895,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 57,
+        "source": "Corporeal Beast (319)"
+      }
+    ]
+  },
+  {
+    "server-tick": 5185,
+    "pos": "2986, 4384, 2",
+    "area-sounds": [
+      {
+        "id": 3899,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 57,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134183
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134183
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134183
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134183
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134193
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134193
+      }
+    ]
+  },
+  {
+    "server-tick": 5186,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134183
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134183
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134183
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134183
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134193
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134193
+      }
+    ]
+  },
+  {
+    "server-tick": 5187,
+    "animation": 829,
+    "graphics": [
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134193
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134193
+      }
+    ]
+  },
+  {
+    "server-tick": 5188,
+    "animation": 829,
+    "area-sounds": [
+      {
+        "id": 3895,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 57,
+        "source": "Corporeal Beast (319)"
+      }
+    ]
+  },
+  {
+    "server-tick": 5189,
+    "pos": "2984, 4384, 2",
+    "area-sounds": [
+      {
+        "id": 3899,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 57,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134316
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134306
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134306
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134316
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134306
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134316
+      }
+    ]
+  },
+  {
+    "server-tick": 5190,
+    "pos": "2983, 4385, 2",
+    "sounds": [
+      {
+        "id, delay": "2358, 20"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134316
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134306
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134306
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134316
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134306
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134316
+      }
+    ]
+  },
+  {
+    "server-tick": 5191,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134316
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134316
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134316
+      }
+    ]
+  },
+  {
+    "server-tick": 5192,
+    "animation": 829,
+    "area-sounds": [
+      {
+        "id": 3909,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 57,
+        "source": "Corporeal Beast (319)"
+      },
+      {
+        "id": 3895,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 57,
+        "source": "Corporeal Beast (319)"
+      }
+    ]
+  },
+  {
+    "server-tick": 5193,
+    "animation": 829,
+    "pos": "2981, 4385, 2",
+    "area-sounds": [
+      {
+        "id": 3899,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 57,
+        "source": "Corporeal Beast (319)"
+      }
+    ]
+  },
+  {
+    "server-tick": 5194,
+    "pos": "2979, 4385, 2",
+    "graphics": [
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134453
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134463
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134443
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134463
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134463
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134453
+      }
+    ]
+  },
+  {
+    "server-tick": 5195,
+    "animation": 1156,
+    "pos": "2977, 4385, 2",
+    "graphics": [
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134453
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134463
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134443
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134463
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134463
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134453
+      }
+    ]
+  },
+  {
+    "server-tick": 5196,
+    "animation": 1156,
+    "pos": "2975, 4384, 2",
+    "area-sounds": [
+      {
+        "id": 3897,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 81,
+        "sceneY": 57,
+        "source": "Corporeal Beast (319)"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134463
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134463
+      },
+      {
+        "id": 317,
+        "level": 2,
+        "start": 3134463
+      }
+    ]
+  },
+  {
+    "server-tick": 5197,
+    "animation": 829,
+    "pos": "2974, 4383, 2",
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5198,
+    "animation": 829
+  },
+  {
+    "server-tick": 5199,
+    "animation": 829
+  },
+  {
+    "server-tick": 5200,
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5201,
+    "pos": "2970, 4383, 2"
+  }
+]

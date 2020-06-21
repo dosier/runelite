@@ -1,0 +1,26 @@
+SOUND 2497	 delay: 0
+SOUND 2964	 delay: 20
+PLAYER 'Wildy Slayer'	 animation: 1156
+PLAYER 'Wildy Slayer'	 animation: 1156
+PLAYER 'Wildy Slayer'	 animation: 1156
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+SOUND 2497	 delay: 0
+SOUND 2963	 delay: 20
+PLAYER 'Wildy Slayer'	 animation: 1156
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+PLAYER 'Wildy Slayer'	 animation: 1156
+SOUND 2497	 delay: 0
+SOUND 2965	 delay: 20
+PLAYER 'Wildy Slayer'	 animation: 1156
+PLAYER 'Wildy Slayer'	 animation: 1156

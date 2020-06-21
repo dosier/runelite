@@ -1,0 +1,22 @@
+[
+  {
+    "server-tick": 25022,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2497, 0"
+      },
+      {
+        "id, delay": "2965, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25023,
+    "animation": 1156
+  },
+  {
+    "server-tick": 25024,
+    "animation": 1156
+  }
+]

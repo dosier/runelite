@@ -1,0 +1,27 @@
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 52
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 52
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 52
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 52
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 52
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 52
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 52
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 52
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 52
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 52
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 52
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 52
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 52
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 43, sceneY: 51
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 43, sceneY: 51
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 43, sceneY: 51
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 43, sceneY: 51
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 43, sceneY: 51
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 43, sceneY: 51
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 43, sceneY: 51
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 43, sceneY: 51
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 43, sceneY: 51
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 43, sceneY: 51
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 43, sceneY: 51
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 43, sceneY: 51
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 43, sceneY: 51
+SOUND 2238	 delay: 0

@@ -1,0 +1,8 @@
+SOUND 3760	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 6700, gfx: 1168
+PLAYER 'Wildy Slayer'	 animation: 6700, gfx: 1168
+PLAYER 'Wildy Slayer'	 animation: 6700, gfx: 1168
+SOUND 3760	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 6700, gfx: 1168
+PLAYER 'Wildy Slayer'	 animation: 6700, gfx: 1168
+PLAYER 'Wildy Slayer'	 animation: 6700, gfx: 1168

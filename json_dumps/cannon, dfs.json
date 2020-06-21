@@ -1,0 +1,681 @@
+[
+  {
+    "server-tick": 447,
+    "animation": 6695,
+    "gfx": 1160,
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 18"
+      }
+    ]
+  },
+  {
+    "server-tick": 448,
+    "animation": 6695,
+    "gfx": 1160,
+    "interacting": {
+      "npc": "Green dragon (263)",
+      "animation": 81
+    },
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 24,
+        "sceneY": 67,
+        "source": "Green dragon (263)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 449,
+    "animation": 6695,
+    "gfx": 1160,
+    "interacting": {
+      "npc": "Green dragon (263)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 450,
+    "animation": 6695,
+    "gfx": 1160,
+    "interacting": {
+      "npc": "Green dragon (263)",
+      "animation": 81,
+      "gfx": 1
+    },
+    "sounds": [
+      {
+        "id, delay": "3740, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 451,
+    "gfx": 1160,
+    "interacting": {
+      "npc": "Green dragon (263)",
+      "animation": 81,
+      "gfx": 1
+    },
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 452,
+    "animation": 1658,
+    "gfx": 1160,
+    "interacting": {
+      "npc": "Green dragon (263)",
+      "animation": 81
+    },
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 24,
+        "sceneY": 67,
+        "source": "Green dragon (263)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 453,
+    "animation": 1658,
+    "gfx": 1160,
+    "interacting": {
+      "npc": "Green dragon (263)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 454,
+    "animation": 1156,
+    "gfx": 1160,
+    "interacting": {
+      "npc": "Green dragon (263)",
+      "animation": 80
+    },
+    "sounds": [
+      {
+        "id, delay": "408, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 455,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Green dragon (263)",
+      "animation": 80
+    },
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 24,
+        "sceneY": 67,
+        "source": "Green dragon (263)"
+      }
+    ]
+  },
+  {
+    "server-tick": 456,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Green dragon (263)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 457,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Green dragon (263)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 458,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Green dragon (263)",
+      "animation": 91
+    },
+    "sounds": [
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 459,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Green dragon (263)",
+      "animation": 91
+    }
+  },
+  {
+    "server-tick": 460,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Green dragon (263)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 461,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Green dragon (263)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 462,
+    "animation": 6695,
+    "gfx": 1160,
+    "interacting": {
+      "npc": "Green dragon (263)",
+      "animation": 81,
+      "gfx": 1
+    },
+    "sounds": [
+      {
+        "id, delay": "3740, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 463,
+    "animation": 6695,
+    "gfx": 1160,
+    "interacting": {
+      "npc": "Green dragon (263)",
+      "animation": 81,
+      "gfx": 1
+    },
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 464,
+    "animation": 6695,
+    "gfx": 1160,
+    "interacting": {
+      "npc": "Green dragon (263)",
+      "animation": 81
+    },
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 24,
+        "sceneY": 67,
+        "source": "Green dragon (263)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 465,
+    "animation": 6695,
+    "gfx": 1160,
+    "interacting": {
+      "npc": "Green dragon (263)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 466,
+    "animation": 6695,
+    "gfx": 1160,
+    "sounds": [
+      {
+        "id, delay": "409, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 473,
+    "pos": "2977, 3616, 0"
+  },
+  {
+    "server-tick": 474,
+    "pos": "2978, 3615, 0"
+  },
+  {
+    "server-tick": 476,
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 481,
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 486,
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 491,
+    "pos": "2980, 3617, 0",
+    "interacting": {
+      "npc": "Green dragon (260)"
+    },
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 492,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Green dragon (260)",
+      "animation": 80
+    },
+    "sounds": [
+      {
+        "id, delay": "408, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 493,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Green dragon (260)",
+      "animation": 80
+    },
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 30,
+        "sceneY": 66,
+        "source": "Green dragon (260)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 494,
+    "interacting": {
+      "npc": "Green dragon (260)"
+    }
+  },
+  {
+    "server-tick": 495,
+    "interacting": {
+      "npc": "Green dragon (260)"
+    }
+  },
+  {
+    "server-tick": 496,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Green dragon (260)",
+      "animation": 91
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 13"
+      }
+    ]
+  },
+  {
+    "server-tick": 497,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Green dragon (260)",
+      "animation": 91
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 498,
+    "interacting": {
+      "npc": "Green dragon (260)"
+    }
+  },
+  {
+    "server-tick": 499,
+    "interacting": {
+      "npc": "Green dragon (260)"
+    }
+  },
+  {
+    "server-tick": 500,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Green dragon (260)",
+      "animation": 80
+    },
+    "sounds": [
+      {
+        "id, delay": "408, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 501,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Green dragon (260)",
+      "animation": 80
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 502,
+    "interacting": {
+      "npc": "Green dragon (260)"
+    },
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 30,
+        "sceneY": 66,
+        "source": "Green dragon (260)"
+      }
+    ]
+  },
+  {
+    "server-tick": 503,
+    "interacting": {
+      "npc": "Green dragon (260)"
+    }
+  },
+  {
+    "server-tick": 504,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Green dragon (260)",
+      "animation": 80
+    },
+    "sounds": [
+      {
+        "id, delay": "408, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 505,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Green dragon (260)",
+      "animation": 80
+    },
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 30,
+        "sceneY": 66,
+        "source": "Green dragon (260)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 506,
+    "interacting": {
+      "npc": "Green dragon (260)"
+    },
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 507,
+    "interacting": {
+      "npc": "Green dragon (260)"
+    }
+  },
+  {
+    "server-tick": 508,
+    "animation": 6695,
+    "gfx": 1160,
+    "interacting": {
+      "npc": "Green dragon (260)",
+      "animation": 81
+    },
+    "sounds": [
+      {
+        "id, delay": "3740, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 509,
+    "animation": 6695,
+    "gfx": 1160,
+    "interacting": {
+      "npc": "Green dragon (260)",
+      "animation": 81
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 510,
+    "animation": 6695,
+    "gfx": 1160,
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 30,
+        "sceneY": 66,
+        "source": "Green dragon (260)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "409, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 511,
+    "animation": 6695,
+    "gfx": 1160,
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 512,
+    "animation": 6695,
+    "gfx": 1160,
+    "pos": "2978, 3619, 0",
+    "interacting": {
+      "npc": "Green dragon (263)"
+    }
+  },
+  {
+    "server-tick": 513,
+    "interacting": {
+      "npc": "Green dragon (263)"
+    }
+  },
+  {
+    "server-tick": 516,
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 20"
+      }
+    ]
+  }
+]

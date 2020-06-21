@@ -1,0 +1,219 @@
+PLAYER 'Name Removed'	 animation: 1156
+GFX 317	level: 2, start_cycle: 3132331, x: 8128, y: 7616
+GFX 317	level: 2, start_cycle: 3132331, x: 8512, y: 6848
+GFX 317	level: 2, start_cycle: 3132331, x: 8512, y: 7360
+AREA_SOUND 3908	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+PLAYER 'Name Removed'	 animation: 1156
+AREA_SOUND 3904	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+SOUND 519	 delay: 20
+PLAYER 'Name Removed'	 animation: 1156
+SOUND 520	 delay: 20
+PLAYER 'Name Removed'	 animation: 1156
+PLAYER 'Name Removed'	 animation: 1156
+NPC 'Corporeal Beast (319)'	animation: 1681
+AREA_SOUND 3897	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+SOUND 2393	 delay: 0
+PLAYER 'Name Removed'	 animation: 829
+AREA_SOUND 3913	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+SOUND 521	 delay: 20
+PLAYER 'Name Removed'	 animation: 829
+PLAYER 'Name Removed'	 animation: 829
+SOUND 2393	 delay: 0
+PLAYER 'Name Removed'	 animation: 1156
+AREA_SOUND 3897	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+PLAYER 'Name Removed'	 animation: 1156
+AREA_SOUND 3913	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+SOUND 519	 delay: 20
+PLAYER 'Name Removed'	 animation: 1156
+SOUND 2393	 delay: 0
+PLAYER 'Name Removed'	 animation: 829
+PLAYER 'Name Removed'	 animation: 1156
+AREA_SOUND 3897	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+PLAYER 'Name Removed'	 animation: 1156
+AREA_SOUND 3913	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+SOUND 2393	 delay: 0
+PLAYER 'Name Removed'	 animation: 829
+PLAYER 'Name Removed'	 animation: 829
+PLAYER 'Name Removed'	 animation: 1156
+AREA_SOUND 3897	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+SOUND 2358	 delay: 20
+PLAYER 'Name Removed'	 animation: 1156
+AREA_SOUND 3913	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+SOUND 2401	 delay: 0
+PLAYER 'Name Removed'	 animation: 829
+PLAYER 'Name Removed'	 animation: 829
+PLAYER 'Name Removed'	 animation: 1156
+AREA_SOUND 3908	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+SOUND 2393	 delay: 0
+SOUND 2358	 delay: 20
+PLAYER 'Name Removed'	 animation: 829
+AREA_SOUND 3904	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+AREA_SOUND 3911	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+SOUND 519	 delay: 20
+PLAYER 'Name Removed'	 animation: 829
+AREA_SOUND 3912	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+AREA_SOUND 3905	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+SOUND 2720	 delay: 0
+PLAYER 'Name Removed'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1677
+AREA_SOUND 3900	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+AREA_SOUND 3909	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+SOUND 3893	 delay: 0
+PLAYER 'Name Removed'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1681
+AREA_SOUND 3897	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+SOUND 520	 delay: 20
+NPC 'Corporeal Beast (319)'	animation: 1681
+AREA_SOUND 3913	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+NPC 'Corporeal Beast (319)'	animation: 1681
+SOUND 2720	 delay: 0
+PLAYER 'Name Removed'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1677
+SOUND 3893	 delay: 0
+SOUND 586	 delay: 0
+SOUND 2365	 delay: 20
+PLAYER 'Name Removed'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1682
+NPC 'Corporeal Beast (319)'	animation: 1682
+SOUND 2720	 delay: 0
+PLAYER 'Name Removed'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1677
+SOUND 3893	 delay: 0
+PLAYER 'Name Removed'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1681
+AREA_SOUND 3897	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+SOUND 518	 delay: 20
+NPC 'Corporeal Beast (319)'	animation: 1681
+AREA_SOUND 3913	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+SOUND 2393	 delay: 0
+PLAYER 'Name Removed'	 animation: 829
+PLAYER 'Name Removed'	 animation: 829
+SOUND 586	 delay: 0
+SOUND 2365	 delay: 20
+PLAYER 'Name Removed'	 animation: 1156
+SOUND 2393	 delay: 0
+PLAYER 'Name Removed'	 animation: 829
+PLAYER 'Name Removed'	 animation: 829
+PLAYER 'Name Removed'	 animation: 829
+SOUND 586	 delay: 0
+SOUND 2359	 delay: 20
+PLAYER 'Name Removed'	 animation: 1156
+NPC 'Corporeal Beast (319)'	animation: 1682
+SOUND 2720	 delay: 0
+PLAYER 'Name Removed'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1682
+SOUND 3893	 delay: 0
+PLAYER 'Name Removed'	 animation: 1658
+PLAYER 'Name Removed'	 animation: 1156
+NPC 'Corporeal Beast (319)'	animation: 1680
+AREA_SOUND 3908	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+SOUND 518	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'Name Removed'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1680
+AREA_SOUND 3904	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+SOUND 3893	 delay: 0
+PLAYER 'Name Removed'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1680
+PLAYER 'Name Removed'	 animation: 1156
+NPC 'Corporeal Beast (319)'	animation: 1680
+AREA_SOUND 3908	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+SOUND 521	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'Name Removed'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1680
+AREA_SOUND 3904	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+SOUND 3893	 delay: 0
+PLAYER 'Name Removed'	 animation: 1658
+AREA_SOUND 3909	 delay: 0, range: 15, sceneX: 81, sceneY: 58, source: Corporeal Beast (319)
+AREA_SOUND 3902	 delay: 0, range: 15, sceneX: 81, sceneY: 57, source: Corporeal Beast (319)
+AREA_SOUND 3911	 delay: 0, range: 15, sceneX: 81, sceneY: 57, source: Corporeal Beast (319)
+SOUND 520	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'Name Removed'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1686
+AREA_SOUND 3894	 delay: 0, range: 15, sceneX: 81, sceneY: 57, source: Corporeal Beast (319)
+AREA_SOUND 3912	 delay: 0, range: 15, sceneX: 81, sceneY: 57, source: Corporeal Beast (319)
+AREA_SOUND 3905	 delay: 0, range: 15, sceneX: 81, sceneY: 57, source: Corporeal Beast (319)
+SOUND 3893	 delay: 0
+PLAYER 'Name Removed'	 animation: 1658
+NPC 'Corporeal Beast (319)'	animation: 1681
+AREA_SOUND 3905	 delay: 0, range: 15, sceneX: 81, sceneY: 57, source: Corporeal Beast (319)
+AREA_SOUND 3897	 delay: 0, range: 15, sceneX: 81, sceneY: 57, source: Corporeal Beast (319)
+SOUND 518	 delay: 20
+AREA_SOUND 3913	 delay: 0, range: 15, sceneX: 81, sceneY: 57, source: Corporeal Beast (319)
+AREA_SOUND 3911	 delay: 0, range: 15, sceneX: 81, sceneY: 57, source: Corporeal Beast (319)
+SOUND 2393	 delay: 0
+PLAYER 'Name Removed'	 animation: 829
+PLAYER 'Name Removed'	 animation: 829
+AREA_SOUND 3895	 delay: 0, range: 15, sceneX: 81, sceneY: 57, source: Corporeal Beast (319)
+PLAYER 'Name Removed'	 animation: 829
+AREA_SOUND 3899	 delay: 0, range: 15, sceneX: 81, sceneY: 57, source: Corporeal Beast (319)
+GFX 317	level: 2, start_cycle: 3134183, x: 10048, y: 7104
+GFX 317	level: 2, start_cycle: 3134183, x: 9792, y: 6976
+GFX 317	level: 2, start_cycle: 3134183, x: 9536, y: 6976
+GFX 317	level: 2, start_cycle: 3134183, x: 9792, y: 6976
+GFX 317	level: 2, start_cycle: 3134193, x: 9792, y: 6848
+GFX 317	level: 2, start_cycle: 3134193, x: 10176, y: 7232
+SOUND 2393	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'Name Removed'	 animation: 829
+GFX 317	level: 2, start_cycle: 3134183, x: 10048, y: 7104
+GFX 317	level: 2, start_cycle: 3134183, x: 9792, y: 6976
+GFX 317	level: 2, start_cycle: 3134183, x: 9536, y: 6976
+GFX 317	level: 2, start_cycle: 3134183, x: 9792, y: 6976
+GFX 317	level: 2, start_cycle: 3134193, x: 9792, y: 6848
+GFX 317	level: 2, start_cycle: 3134193, x: 10176, y: 7232
+PLAYER 'Name Removed'	 animation: 829
+GFX 317	level: 2, start_cycle: 3134193, x: 9792, y: 6848
+GFX 317	level: 2, start_cycle: 3134193, x: 10176, y: 7232
+AREA_SOUND 3895	 delay: 0, range: 15, sceneX: 81, sceneY: 57, source: Corporeal Beast (319)
+PLAYER 'Name Removed'	 animation: 829
+AREA_SOUND 3899	 delay: 0, range: 15, sceneX: 81, sceneY: 57, source: Corporeal Beast (319)
+GFX 317	level: 2, start_cycle: 3134316, x: 9280, y: 6848
+GFX 317	level: 2, start_cycle: 3134306, x: 9792, y: 7104
+GFX 317	level: 2, start_cycle: 3134306, x: 9536, y: 6976
+GFX 317	level: 2, start_cycle: 3134316, x: 9920, y: 6848
+GFX 317	level: 2, start_cycle: 3134306, x: 9536, y: 7488
+GFX 317	level: 2, start_cycle: 3134316, x: 9920, y: 7232
+SOUND 2358	 delay: 20
+GFX 317	level: 2, start_cycle: 3134316, x: 9280, y: 6848
+GFX 317	level: 2, start_cycle: 3134306, x: 9792, y: 7104
+GFX 317	level: 2, start_cycle: 3134306, x: 9536, y: 6976
+GFX 317	level: 2, start_cycle: 3134316, x: 9920, y: 6848
+GFX 317	level: 2, start_cycle: 3134306, x: 9536, y: 7488
+GFX 317	level: 2, start_cycle: 3134316, x: 9920, y: 7232
+SOUND 2393	 delay: 0
+PLAYER 'Name Removed'	 animation: 829
+GFX 317	level: 2, start_cycle: 3134316, x: 9280, y: 6848
+GFX 317	level: 2, start_cycle: 3134316, x: 9920, y: 6848
+GFX 317	level: 2, start_cycle: 3134316, x: 9920, y: 7232
+AREA_SOUND 3909	 delay: 0, range: 15, sceneX: 81, sceneY: 57, source: Corporeal Beast (319)
+AREA_SOUND 3895	 delay: 0, range: 15, sceneX: 81, sceneY: 57, source: Corporeal Beast (319)
+PLAYER 'Name Removed'	 animation: 829
+AREA_SOUND 3899	 delay: 0, range: 15, sceneX: 81, sceneY: 57, source: Corporeal Beast (319)
+PLAYER 'Name Removed'	 animation: 829
+GFX 317	level: 2, start_cycle: 3134453, x: 9024, y: 7104
+GFX 317	level: 2, start_cycle: 3134463, x: 9152, y: 6976
+GFX 317	level: 2, start_cycle: 3134443, x: 9024, y: 7232
+GFX 317	level: 2, start_cycle: 3134463, x: 8768, y: 7488
+GFX 317	level: 2, start_cycle: 3134463, x: 9536, y: 7616
+GFX 317	level: 2, start_cycle: 3134453, x: 9408, y: 7232
+PLAYER 'Name Removed'	 animation: 1156
+GFX 317	level: 2, start_cycle: 3134453, x: 9024, y: 7104
+GFX 317	level: 2, start_cycle: 3134463, x: 9152, y: 6976
+GFX 317	level: 2, start_cycle: 3134443, x: 9024, y: 7232
+GFX 317	level: 2, start_cycle: 3134463, x: 8768, y: 7488
+GFX 317	level: 2, start_cycle: 3134463, x: 9536, y: 7616
+GFX 317	level: 2, start_cycle: 3134453, x: 9408, y: 7232
+AREA_SOUND 3897	 delay: 0, range: 15, sceneX: 81, sceneY: 57, source: Corporeal Beast (319)
+PLAYER 'Name Removed'	 animation: 1156
+GFX 317	level: 2, start_cycle: 3134463, x: 9152, y: 6976
+GFX 317	level: 2, start_cycle: 3134463, x: 8768, y: 7488
+GFX 317	level: 2, start_cycle: 3134463, x: 9536, y: 7616
+SOUND 2393	 delay: 0
+PLAYER 'Name Removed'	 animation: 829
+PLAYER 'Name Removed'	 animation: 829
+PLAYER 'Name Removed'	 animation: 829
+SOUND 521	 delay: 20
+AREA_SOUND 3902	 delay: 0, range: 15, sceneX: 75, sceneY: 62

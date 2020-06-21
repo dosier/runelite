@@ -1,0 +1,63 @@
+AREA_SOUND 2693	 delay: 0, range: 10, sceneX: 44, sceneY: 82
+AREA_SOUND 2695	 delay: 0, range: 10, sceneX: 45, sceneY: 84
+AREA_SOUND 2720	 delay: 0, range: 10, sceneX: 59, sceneY: 84
+PLAYER 'Wildy Slayer'	 animation: 1156
+PLAYER 'Wildy Slayer'	 animation: 1156
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 28, x: 4544, y: 7360
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 23, x: 4672, y: 10048
+PROJECTILE 697	startHeight: 11, endHeight: 144, slope: 15, duration: 24, x: 4160, y: 9920
+PROJECTILE 1384	startHeight: 11, endHeight: 144, slope: 15, duration: 33, x: 5696, y: 10560
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 23, x: 5824, y: 10816
+AREA_SOUND 2500	 delay: 0, range: 10, sceneX: 39, sceneY: 83
+AREA_SOUND 2500	 delay: 0, range: 10, sceneX: 59, sceneY: 85
+PROJECTILE 1384	startHeight: 11, endHeight: 144, slope: 15, duration: 23, x: 4416, y: 7616
+AREA_SOUND 2720	 delay: 0, range: 10, sceneX: 45, sceneY: 87
+AREA_SOUND 2500	 delay: 0, range: 10, sceneX: 45, sceneY: 86
+AREA_SOUND 2500	 delay: 0, range: 10, sceneX: 40, sceneY: 85
+AREA_SOUND 2549	 delay: 0, range: 10, sceneX: 40, sceneY: 84
+AREA_SOUND 202	 delay: 0, range: 10, sceneX: 50, sceneY: 87
+AREA_SOUND 227	 delay: 85, range: 10, sceneX: 50, sceneY: 86
+PLAYER 'Wildy Slayer'	 animation: 1819
+PLAYER 'Vonker'	animation: 829, gfx: 85
+PROJECTILE 697	startHeight: 11, endHeight: 144, slope: 15, duration: 25, x: 4160, y: 9920
+AREA_SOUND 2907	 delay: 0, range: 10, sceneX: 59, sceneY: 85
+AREA_SOUND 2720	 delay: 0, range: 10, sceneX: 59, sceneY: 84
+PLAYER 'Wildy Slayer'	 animation: 1819
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 26, x: 4544, y: 7360
+AREA_SOUND 4138	 delay: 10, range: 5, sceneX: 45, sceneY: 84
+AREA_SOUND 4140	 delay: 30, range: 5, sceneX: 45, sceneY: 84
+AREA_SOUND 4141	 delay: 42, range: 5, sceneX: 45, sceneY: 84
+AREA_SOUND 4141	 delay: 60, range: 5, sceneX: 45, sceneY: 84
+AREA_SOUND 202	 delay: 0, range: 10, sceneX: 50, sceneY: 86
+AREA_SOUND 227	 delay: 85, range: 10, sceneX: 50, sceneY: 87
+PLAYER 'Wildy Slayer'	 animation: 1819, gfx: 85
+PROJECTILE 1384	startHeight: 11, endHeight: 144, slope: 15, duration: 25, x: 4416, y: 7616
+PROJECTILE 697	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 4160, y: 9920
+AREA_SOUND 2500	 delay: 0, range: 10, sceneX: 40, sceneY: 83
+AREA_SOUND 1321	 delay: 0, range: 10, sceneX: 59, sceneY: 85
+PLAYER 'Wildy Slayer'	 gfx: 85
+PROJECTILE 1301	startHeight: 120, endHeight: 144, slope: 1, duration: 24, x: 5696, y: 7488
+AREA_SOUND 3847	 delay: 0, range: 10, sceneX: 45, sceneY: 87
+AREA_SOUND 2549	 delay: 0, range: 10, sceneX: 40, sceneY: 84
+AREA_SOUND 2500	 delay: 0, range: 10, sceneX: 40, sceneY: 85
+AREA_SOUND 2500	 delay: 0, range: 10, sceneX: 48, sceneY: 84
+PLAYER 'Wildy Slayer'	 gfx: 85
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 36, x: 4160, y: 9920
+AREA_SOUND 2720	 delay: 0, range: 10, sceneX: 44, sceneY: 84
+AREA_SOUND 2720	 delay: 0, range: 10, sceneX: 59, sceneY: 84
+PLAYER 'Wildy Slayer'	 gfx: 85
+PROJECTILE 1384	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 4416, y: 7616
+PROJECTILE 28	startHeight: 11, endHeight: 144, slope: 15, duration: 7, x: 9024, y: 7360
+AREA_SOUND 2500	 delay: 0, range: 10, sceneX: 39, sceneY: 83
+AREA_SOUND 2500	 delay: 0, range: 10, sceneX: 47, sceneY: 84
+AREA_SOUND 2695	 delay: 0, range: 10, sceneX: 45, sceneY: 84
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 4672, y: 10048
+PROJECTILE 28	startHeight: 11, endHeight: 144, slope: 15, duration: 7, x: 8896, y: 7488
+AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 55, sceneY: 67, source: Biggie Juice
+AREA_SOUND 2500	 delay: 0, range: 10, sceneX: 40, sceneY: 83
+AREA_SOUND 2500	 delay: 0, range: 10, sceneX: 45, sceneY: 86
+AREA_SOUND 202	 delay: 0, range: 10, sceneX: 50, sceneY: 86
+AREA_SOUND 227	 delay: 85, range: 10, sceneX: 50, sceneY: 81
+SOUND 3720	 delay: 0
+PLAYER 'Wildy Slayer'	 gfx: 85
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 19, x: 5824, y: 10816

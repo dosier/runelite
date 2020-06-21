@@ -1,0 +1,134 @@
+[
+  {
+    "server-tick": 24692,
+    "animation": 4004,
+    "sounds": [
+      {
+        "id, delay": "2273, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24693,
+    "animation": 4004
+  },
+  {
+    "server-tick": 24694,
+    "animation": 4004,
+    "sounds": [
+      {
+        "id, delay": "2273, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24695,
+    "animation": 4004,
+    "sounds": [
+      {
+        "id, delay": "2273, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24696,
+    "animation": 4004,
+    "sounds": [
+      {
+        "id, delay": "2273, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24697,
+    "animation": 4004,
+    "sounds": [
+      {
+        "id, delay": "2273, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24698,
+    "animation": 4004
+  },
+  {
+    "server-tick": 24699,
+    "sounds": [
+      {
+        "id, delay": "2273, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24700,
+    "animation": 4004,
+    "sounds": [
+      {
+        "id, delay": "2273, 0"
+      },
+      {
+        "id, delay": "2273, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24701,
+    "animation": 4004
+  },
+  {
+    "server-tick": 24702,
+    "animation": 4004,
+    "sounds": [
+      {
+        "id, delay": "2273, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24703,
+    "animation": 4004
+  },
+  {
+    "server-tick": 24704,
+    "animation": 4004,
+    "sounds": [
+      {
+        "id, delay": "2272, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24717,
+    "sounds": [
+      {
+        "id, delay": "2271, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24718,
+    "sounds": [
+      {
+        "id, delay": "1930, 0"
+      },
+      {
+        "id, delay": "1930, 0"
+      },
+      {
+        "id, delay": "1930, 0"
+      },
+      {
+        "id, delay": "1930, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24725,
+    "pos": "9548, 80, 0"
+  },
+  {
+    "server-tick": 24726,
+    "pos": "9546, 81, 0"
+  }
+]

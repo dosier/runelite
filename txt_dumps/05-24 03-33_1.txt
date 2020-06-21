@@ -1,0 +1,5 @@
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 37, sceneY: 55
+SOUND 512	 delay: 0
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 37, sceneY: 55
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 37, sceneY: 55
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 37, sceneY: 55

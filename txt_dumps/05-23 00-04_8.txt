@@ -1,0 +1,2 @@
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc

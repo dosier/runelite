@@ -1,0 +1,1 @@
+PLAYER 'Wildy Slayer'	 animation: 1156

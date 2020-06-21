@@ -1,0 +1,23 @@
+[
+  {
+    "server-tick": 1297,
+    "pos": "2981, 3512, 0"
+  },
+  {
+    "server-tick": 1299,
+    "animation": 827,
+    "sounds": [
+      {
+        "id, delay": "200, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1300,
+    "animation": 827
+  },
+  {
+    "server-tick": 1301,
+    "pos": "2793, 4829, 0"
+  }
+]

@@ -1,0 +1,4 @@
+SOUND 2497	 delay: 0
+SOUND 2767	 delay: 20
+PLAYER 'Wildy Slayer'	 animation: 7517
+NPC 'Guard (3271)'	animation: 395

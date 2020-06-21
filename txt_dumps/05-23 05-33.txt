@@ -1,0 +1,142 @@
+PLAYER 'Wildy Slayer'	 gfx: 1516
+PLAYER 'Wildy Slayer'	 gfx: 1516
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 52
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 52
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 52
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 41, sceneY: 53
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 41, sceneY: 53
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 41, sceneY: 53
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 41, sceneY: 53
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 41, sceneY: 53
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 41, sceneY: 53
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 42, sceneY: 54
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 38, sceneY: 50
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 38, sceneY: 50
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 38, sceneY: 50
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 38, sceneY: 50
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 38, sceneY: 50
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 38, sceneY: 50
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 38, sceneY: 50
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 38, sceneY: 50
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 38, sceneY: 50
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 38, sceneY: 50
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 38, sceneY: 50
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 38, sceneY: 50
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 38, sceneY: 50
+SOUND 1598	 delay: 0
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 40, sceneY: 50
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 40, sceneY: 50
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 40, sceneY: 50
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 40, sceneY: 50
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 40, sceneY: 50
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 40, sceneY: 50
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 40, sceneY: 50
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 40, sceneY: 50
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 40, sceneY: 50
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 40, sceneY: 50
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 40, sceneY: 50
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 40, sceneY: 50
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 40, sceneY: 50
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 39, sceneY: 54
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 39, sceneY: 54
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 39, sceneY: 54
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 39, sceneY: 54
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 39, sceneY: 54
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 39, sceneY: 54
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 39, sceneY: 54
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 39, sceneY: 54
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 39, sceneY: 54
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 39, sceneY: 54
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 39, sceneY: 54
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 39, sceneY: 54
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 39, sceneY: 54
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 41, sceneY: 54
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 41, sceneY: 54
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 41, sceneY: 54
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 41, sceneY: 54
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 41, sceneY: 54
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 41, sceneY: 54
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 41, sceneY: 54
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 41, sceneY: 54
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 41, sceneY: 54
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 39, sceneY: 53
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 39, sceneY: 53
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 40, sceneY: 52
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 40, sceneY: 52
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 40, sceneY: 52
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 40, sceneY: 52
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 40, sceneY: 52
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 40, sceneY: 52
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 40, sceneY: 52
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 40, sceneY: 52
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 40, sceneY: 52
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 40, sceneY: 52
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 40, sceneY: 52
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 53
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 53
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 53
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 53
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 53
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 53
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 53
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 53
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 53
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 50
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 50
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 50
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 50
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 50
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 50
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 50
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 50
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 50
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 52
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 52
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 52
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 52
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 52
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 52
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 52
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 52
+AREA_SOUND 3816	 delay: 0, range: 5, sceneX: 40, sceneY: 52
+SOUND 2247	 delay: 0
+SOUND 2696	 delay: 0
+SOUND 800	 delay: 32
+PLAYER 'Wildy Slayer'	 animation: 5061
+NPC 'Guard (3269)'	animation: 388
+PLAYER 'Wildy Slayer'	 animation: 5061
+NPC 'Guard (3269)'	animation: 388
+PROJECTILE 1043	startHeight: 105, endHeight: 144, slope: 15, duration: 10, x: 6592, y: 6720
+SOUND 1979	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 5061
+NPC 'Guard (3269)'	animation: 388
+PLAYER 'Wildy Slayer'	 animation: 5061
+NPC 'Guard (3269)'	animation: 388
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6592, y: 6720
+SOUND 1979	 delay: 0
+SOUND 2549	 delay: 0
+SOUND 2766	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 5061
+NPC 'Guard (3269)'	animation: 386
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 40, sceneY: 52
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 40, sceneY: 52
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 40, sceneY: 52
+AREA_SOUND 3813	 delay: 0, range: 10, sceneX: 40, sceneY: 52
+PLAYER 'Wildy Slayer'	 animation: 5061
+NPC 'Guard (3269)'	animation: 386
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6592, y: 6720
+AREA_SOUND 3817	 delay: 0, range: 10, sceneX: 40, sceneY: 52

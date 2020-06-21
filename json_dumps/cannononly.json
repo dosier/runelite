@@ -1,0 +1,24 @@
+[
+  {
+    "server-tick": 869,
+    "pos": "2982, 3613, 0"
+  },
+  {
+    "server-tick": 870,
+    "pos": "2981, 3614, 0"
+  },
+  {
+    "server-tick": 873,
+    "pos": "2981, 3613, 0"
+  },
+  {
+    "server-tick": 876,
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 22"
+      }
+    ]
+  }
+]

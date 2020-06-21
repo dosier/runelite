@@ -1,0 +1,18 @@
+[
+  {
+    "server-tick": 1665,
+    "sounds": [
+      {
+        "id, delay": "3120, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1685,
+    "sounds": [
+      {
+        "id, delay": "3424, 0"
+      }
+    ]
+  }
+]

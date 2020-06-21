@@ -1,0 +1,30 @@
+[
+  {
+    "server-tick": 26489,
+    "gfx": 142,
+    "pos": "3199, 3491, 0",
+    "sounds": [
+      {
+        "id, delay": "3006, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 144,
+        "level": 0,
+        "start": 5138374
+      }
+    ]
+  },
+  {
+    "server-tick": 26490,
+    "gfx": 142,
+    "graphics": [
+      {
+        "id": 144,
+        "level": 0,
+        "start": 5138374
+      }
+    ]
+  }
+]

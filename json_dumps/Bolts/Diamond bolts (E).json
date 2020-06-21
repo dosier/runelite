@@ -1,0 +1,35 @@
+[
+  {
+    "server-tick": 5607,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3272)",
+      "animation": 425,
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      },
+      {
+        "id, delay": "2913, 1"
+      }
+    ]
+  },
+  {
+    "server-tick": 5608,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3272)",
+      "animation": 425,
+      "gfx": 758
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 26"
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+SOUND 984	 delay: 0 PORTAL LEAVE/ENTER
+AREA_SOUND 170	 delay: 95, range: 10, sceneX: 55, sceneY: 54
+AREA_SOUND 3761	 delay: 0, range: 10, sceneX: 56, sceneY: 51
+PLAYER 'Wildy Slayer'	 animation: 7700, gfx: 1402
+NPC 'Tower guard (4405)'	gfx: 367
+PLAYER 'Wildy Slayer'	 animation: 7700, gfx: 1402
+NPC 'Tower guard (4405)'	gfx: 367
+PLAYER 'Wildy Slayer'	 animation: 7700
+NPC 'Tower guard (4405)'	gfx: 367
+NPC 'Tower guard (4405)'	gfx: 367
+SOUND 17	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+NPC 'Tower guard (4405)'	animation: 388
+SOUND 17	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+NPC 'Tower guard (4405)'	animation: 388
+SOUND 512	 delay: 0

@@ -1,0 +1,5 @@
+SOUND 2710	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 791, gfx: 186
+PLAYER 'Wildy Slayer'	 animation: 791, gfx: 186
+PLAYER 'Wildy Slayer'	 animation: 791, gfx: 186
+PLAYER 'Wildy Slayer'	 animation: 791, gfx: 186

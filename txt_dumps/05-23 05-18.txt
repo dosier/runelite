@@ -1,0 +1,20 @@
+SOUND 2695	 delay: 0
+SOUND 2919	 delay: 2
+PLAYER 'Wildy Slayer'	 animation: 7552
+NPC 'Guard (3272)'	animation: 425, gfx: 752
+PLAYER 'Wildy Slayer'	 animation: 7552
+NPC 'Guard (3272)'	animation: 425, gfx: 752
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 47, x: 6976, y: 7488
+PLAYER 'Wildy Slayer'	 animation: 7552
+NPC 'Guard (3272)'	animation: 425, gfx: 752
+SOUND 24	 delay: 0
+NPC 'Guard (3272)'	animation: 425, gfx: 752
+NPC 'Guard (3272)'	animation: 425, gfx: 752
+SOUND 2695	 delay: 0
+SOUND 2919	 delay: 2
+PLAYER 'Wildy Slayer'	 animation: 7552
+NPC 'Guard (3272)'	animation: 425, gfx: 752
+AREA_SOUND 2700	 delay: 0, range: 10, sceneX: 57, sceneY: 50
+PLAYER 'Wildy Slayer'	 animation: 7552
+NPC 'Guard (3272)'	animation: 426, gfx: 19
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 46, x: 6976, y: 7232

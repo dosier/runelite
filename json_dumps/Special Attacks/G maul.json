@@ -1,0 +1,33 @@
+[
+  {
+    "server-tick": 13112,
+    "animation": 1667,
+    "gfx": 340,
+    "pos": "2964, 3379, 0",
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388
+    },
+    "sounds": [
+      {
+        "id, delay": "2715, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 13113,
+    "animation": 1665,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      },
+      {
+        "id, delay": "2714, 0"
+      }
+    ]
+  }
+]

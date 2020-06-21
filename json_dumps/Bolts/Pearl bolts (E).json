@@ -1,0 +1,250 @@
+[
+  {
+    "server-tick": 10203,
+    "interacting": {
+      "npc": "Guard (3271)"
+    }
+  },
+  {
+    "server-tick": 10204,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 10205,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 10206,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 10207,
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 10210,
+    "pos": "2964, 3387, 0"
+  },
+  {
+    "server-tick": 10211,
+    "pos": "2964, 3385, 0"
+  },
+  {
+    "server-tick": 10213,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 10214,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 10215,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 10216,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388
+    }
+  },
+  {
+    "server-tick": 10217,
+    "animation": 424,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 386
+    },
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "2766, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 10218,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 386
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 10219,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3269)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 10220,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3269)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 10221,
+    "animation": 424,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 386
+    },
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "2768, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 10222,
+    "animation": 424,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 386
+    }
+  },
+  {
+    "server-tick": 10223,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388,
+      "gfx": 750
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      },
+      {
+        "id, delay": "2920, 1"
+      }
+    ]
+  },
+  {
+    "server-tick": 10224,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 388,
+      "gfx": 750
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 10225,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 386,
+      "gfx": 750
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      },
+      {
+        "id, delay": "2549, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 10226,
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  }
+]

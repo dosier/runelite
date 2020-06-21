@@ -1,0 +1,158 @@
+SOUND 1979	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 7552
+NPC 'Guard (3011)'	animation: 6488
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+SOUND 512	 delay: 0
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: skoty-pk03
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: skoty-pk03
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 83, sceneY: 34, source: Old Arvid
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: skoty-pk03
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 83, sceneY: 34, source: Old Arvid
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: skoty-pk03
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 83, sceneY: 34, source: Old Arvid
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 83, sceneY: 34, source: Old Arvid
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: skoty-pk03
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: skoty-pk03
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 83, sceneY: 34, source: Old Arvid
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: skoty-pk03
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 83, sceneY: 34, source: Old Arvid
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: skoty-pk03
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 83, sceneY: 34, source: Old Arvid
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 83, sceneY: 34, source: Old Arvid
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: skoty-pk03
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: skoty-pk03
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 83, sceneY: 34, source: Old Arvid
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: skoty-pk03
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 83, sceneY: 34, source: Old Arvid
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: skoty-pk03
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 83, sceneY: 34, source: Old Arvid
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 83, sceneY: 34, source: Old Arvid
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: skoty-pk03
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: skoty-pk03
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 83, sceneY: 34, source: Old Arvid
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: skoty-pk03
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 83, sceneY: 34, source: Old Arvid
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: skoty-pk03
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 83, sceneY: 34, source: Old Arvid
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 83, sceneY: 34, source: Old Arvid
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: NewDarkar
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: NewDarkar
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: NewDarkar
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: skoty-pk03
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: NewDarkar
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: skoty-pk03

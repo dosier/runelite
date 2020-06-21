@@ -1,0 +1,3 @@
+PLAYER 'Wildy Slayer'	 animation: 7554, gfx: 1123
+NPC 'Guard (3269)'	animation: 388
+PROJECTILE 1122	startHeight: 11, endHeight: 144, slope: 15, duration: 7, x: 6720, y: 7104

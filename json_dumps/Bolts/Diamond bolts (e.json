@@ -1,0 +1,165 @@
+[
+  {
+    "server-tick": 11922,
+    "animation": 7552,
+    "interacting": {
+      "npc": "White Knight (1799)",
+      "animation": 410
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11923,
+    "animation": 7552,
+    "interacting": {
+      "npc": "White Knight (1799)",
+      "animation": 410
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 40"
+      }
+    ]
+  },
+  {
+    "server-tick": 11924,
+    "animation": 7552,
+    "interacting": {
+      "npc": "White Knight (1799)",
+      "animation": 410
+    }
+  },
+  {
+    "server-tick": 11925,
+    "interacting": {
+      "npc": "White Knight (1799)",
+      "animation": 410
+    },
+    "sounds": [
+      {
+        "id, delay": "23, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11926,
+    "interacting": {
+      "npc": "White Knight (1799)",
+      "animation": 410
+    }
+  },
+  {
+    "server-tick": 11927,
+    "animation": 7552,
+    "interacting": {
+      "npc": "White Knight (1799)",
+      "animation": 410
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11928,
+    "animation": 7552,
+    "interacting": {
+      "npc": "White Knight (1799)",
+      "animation": 406
+    },
+    "sounds": [
+      {
+        "id, delay": "2502, 0"
+      },
+      {
+        "id, delay": "2768, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 25"
+      }
+    ]
+  },
+  {
+    "server-tick": 11929,
+    "animation": 7552,
+    "interacting": {
+      "npc": "White Knight (1799)",
+      "animation": 406
+    },
+    "sounds": [
+      {
+        "id, delay": "23, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11930,
+    "interacting": {
+      "npc": "White Knight (1799)"
+    }
+  },
+  {
+    "server-tick": 11931,
+    "interacting": {
+      "npc": "White Knight (1799)"
+    }
+  },
+  {
+    "server-tick": 11932,
+    "animation": 7552,
+    "interacting": {
+      "npc": "White Knight (1799)",
+      "animation": 410,
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      },
+      {
+        "id, delay": "2913, 1"
+      }
+    ]
+  },
+  {
+    "server-tick": 11933,
+    "animation": 7552,
+    "interacting": {
+      "npc": "White Knight (1799)",
+      "animation": 410,
+      "gfx": 758
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 11934,
+    "animation": 7552,
+    "interacting": {
+      "npc": "White Knight (1799)",
+      "animation": 410,
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "23, 0"
+      }
+    ]
+  }
+]

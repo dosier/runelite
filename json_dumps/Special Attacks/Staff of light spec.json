@@ -1,0 +1,37 @@
+[
+  {
+    "server-tick": 12600,
+    "animation": 7967,
+    "gfx": 1516
+  },
+  {
+    "server-tick": 12601,
+    "animation": 7967,
+    "gfx": 1516
+  },
+  {
+    "server-tick": 12602,
+    "gfx": 1516
+  },
+  {
+    "server-tick": 12603,
+    "gfx": 1516
+  },
+  {
+    "server-tick": 12604,
+    "gfx": 1516
+  }
+]
+
+Chatbox message: Light green: Spirits of deceased evildoers offer you their protection.
+After about 60 seconds: Light green: Your protection fades away.
+
+  { // when it fades away
+    "server-tick": 17947,
+    "sounds": [
+      {
+        "id, delay": "1598, 0"
+      }
+    ]
+  }
+]

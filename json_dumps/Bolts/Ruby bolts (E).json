@@ -1,0 +1,244 @@
+[
+  {
+    "server-tick": 11111,
+    "animation": 424,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 386
+    },
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "2767, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11112,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3269)",
+      "animation": 386
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11113,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3269)"
+    },
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11114,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3269)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11115,
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11117,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3272)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11118,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3272)",
+      "animation": 425
+    },
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 11119,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3272)",
+      "animation": 425
+    }
+  },
+  {
+    "server-tick": 11120,
+    "interacting": {
+      "npc": "Guard (3272)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "24, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11122,
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11124,
+    "pos": "2963, 3383, 0"
+  },
+  {
+    "server-tick": 11125,
+    "pos": "2963, 3385, 0"
+  },
+  {
+    "server-tick": 11126,
+    "pos": "2963, 3387, 0"
+  },
+  {
+    "server-tick": 11127,
+    "pos": "2963, 3389, 0"
+  },
+  {
+    "server-tick": 11128,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397,
+      "gfx": 754
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      },
+      {
+        "id, delay": "2911, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 11129,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397,
+      "gfx": 754
+    },
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 29"
+      }
+    ]
+  },
+  {
+    "server-tick": 11130,
+    "animation": 7552,
+    "pos": "2964, 3391, 0",
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397,
+      "gfx": 754
+    }
+  },
+  {
+    "server-tick": 11131,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397,
+      "gfx": 754
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11132,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397,
+      "gfx": 754
+    }
+  },
+  {
+    "server-tick": 11133,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 397,
+      "gfx": 754
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11134,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Guard (3271)",
+      "animation": 395,
+      "gfx": 754
+    },
+    "sounds": [
+      {
+        "id, delay": "2497, 0"
+      },
+      {
+        "id, delay": "2766, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  }
+]

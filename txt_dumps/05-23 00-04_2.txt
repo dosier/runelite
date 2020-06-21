@@ -1,0 +1,4 @@
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
+AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Jules62
+AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Estru23

@@ -1,0 +1,31 @@
+SOUND 408	 delay: 0
+SOUND 2959	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+NPC 'Green dragon (264)'	animation: 80
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 54, sceneY: 51, source: Green dragon (264)
+SOUND 410	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+NPC 'Green dragon (264)'	animation: 80
+AREA_SOUND 408	 delay: 0, range: 10, sceneX: 52, sceneY: 50
+AREA_SOUND 3761	 delay: 0, range: 10, sceneX: 51, sceneY: 50
+AREA_SOUND 161	 delay: 85, range: 10, sceneX: 52, sceneY: 50
+SOUND 2959	 delay: 20
+PLAYER 'Wildy Slayer'	 animation: 6696, gfx: 1165
+NPC 'Green dragon (264)'	animation: 91, gfx: 1167
+PLAYER 'Wildy Slayer'	 animation: 6696, gfx: 1165
+NPC 'Green dragon (264)'	animation: 91, gfx: 1167
+PLAYER 'Wildy Slayer'	 animation: 6696
+NPC 'Green dragon (264)'	gfx: 1167
+SOUND 410	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 6696
+NPC 'Green dragon (264)'	gfx: 1167
+SOUND 408	 delay: 0
+SOUND 2959	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+NPC 'Green dragon (264)'	animation: 80
+SOUND 410	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 1658
+NPC 'Green dragon (264)'	animation: 80
+AREA_SOUND 3752	 delay: 0, range: 15, sceneX: 53, sceneY: 51, source: Green dragon (264)

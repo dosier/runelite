@@ -1,0 +1,694 @@
+[
+  {
+    "server-tick": 27871,
+    "interacting": {
+      "player": "ty for agsm8"
+    }
+  },
+  {
+    "server-tick": 27872,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    }
+  },
+  {
+    "server-tick": 27873,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      },
+      {
+        "id, delay": "511, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 28"
+      }
+    ]
+  },
+  {
+    "server-tick": 27874,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    }
+  },
+  {
+    "server-tick": 27875,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    }
+  },
+  {
+    "server-tick": 27876,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    }
+  },
+  {
+    "server-tick": 27877,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    }
+  },
+  {
+    "server-tick": 27878,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      },
+      {
+        "id, delay": "511, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 27879,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    }
+  },
+  {
+    "server-tick": 27880,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    }
+  },
+  {
+    "server-tick": 27881,
+    "interacting": {
+      "player": "ty for agsm8"
+    }
+  },
+  {
+    "server-tick": 27882,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    }
+  },
+  {
+    "server-tick": 27883,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      },
+      {
+        "id, delay": "511, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 28"
+      }
+    ]
+  },
+  {
+    "server-tick": 27884,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    }
+  },
+  {
+    "server-tick": 27885,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27886,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    }
+  },
+  {
+    "server-tick": 27887,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    }
+  },
+  {
+    "server-tick": 27888,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 30"
+      },
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 30"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 20"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 25"
+      }
+    ]
+  },
+  {
+    "server-tick": 27889,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      },
+      {
+        "id, delay": "511, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27890,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    }
+  },
+  {
+    "server-tick": 27891,
+    "interacting": {
+      "player": "ty for agsm8"
+    },
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 27892,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "projectiles": [
+      {
+        "id": 1301,
+        "heights": "120, 144",
+        "slope, duration": "1, 18"
+      }
+    ]
+  },
+  {
+    "server-tick": 27893,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 28"
+      }
+    ]
+  },
+  {
+    "server-tick": 27894,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      },
+      {
+        "id, delay": "511, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27895,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 27896,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    }
+  },
+  {
+    "server-tick": 27897,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 32"
+      }
+    ]
+  },
+  {
+    "server-tick": 27898,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 29"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 24"
+      }
+    ]
+  },
+  {
+    "server-tick": 27899,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      },
+      {
+        "id, delay": "511, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27900,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 32"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 27901,
+    "interacting": {
+      "player": "ty for agsm8"
+    },
+    "projectiles": [
+      {
+        "id": 1301,
+        "heights": "120, 144",
+        "slope, duration": "1, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 27902,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    }
+  },
+  {
+    "server-tick": 27903,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 28"
+      }
+    ]
+  },
+  {
+    "server-tick": 27904,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      },
+      {
+        "id, delay": "511, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27905,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 27906,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    }
+  },
+  {
+    "server-tick": 27907,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 25"
+      }
+    ]
+  },
+  {
+    "server-tick": 27908,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 27"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 27"
+      }
+    ]
+  },
+  {
+    "server-tick": 27909,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      },
+      {
+        "id, delay": "511, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27910,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 829
+    },
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 31"
+      }
+    ]
+  },
+  {
+    "server-tick": 27911,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 829
+    },
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 27"
+      }
+    ]
+  },
+  {
+    "server-tick": 27912,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    }
+  },
+  {
+    "server-tick": 27913,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 28"
+      }
+    ]
+  },
+  {
+    "server-tick": 27914,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27915,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424
+    }
+  },
+  {
+    "server-tick": 27916,
+    "interacting": {
+      "player": "ty for agsm8"
+    },
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 27"
+      }
+    ]
+  },
+  {
+    "server-tick": 27917,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424,
+      "gfx": 751
+    },
+    "area-sounds": [
+      {
+        "id": 2597,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 43,
+        "sceneY": 42,
+        "source": "2O2"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2912, 1"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 27"
+      }
+    ]
+  },
+  {
+    "server-tick": 27918,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424,
+      "gfx": 751
+    },
+    "area-sounds": [
+      {
+        "id": 2597,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 43,
+        "sceneY": 42,
+        "source": "2O2"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 27919,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424,
+      "gfx": 751
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27920,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424,
+      "gfx": 751
+    }
+  },
+  {
+    "server-tick": 27921,
+    "interacting": {
+      "player": "ty for agsm8",
+      "gfx": 751
+    }
+  },
+  {
+    "server-tick": 27922,
+    "animation": 4230,
+    "interacting": {
+      "player": "ty for agsm8",
+      "animation": 424,
+      "gfx": 751
+    },
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 25"
+      }
+    ]
+  }
+]

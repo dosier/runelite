@@ -1,0 +1,2 @@
+SOUND 512	 delay: 0
+PLAYER 'Wildy Slayer'	 animation: 440, gfx: 1733

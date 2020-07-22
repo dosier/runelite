@@ -275,4 +275,22 @@ public final class ScriptID
 	 */
 	@ScriptArguments(integer = 2)
 	public static final int TOPLEVEL_REDRAW = 907;
+
+	/**
+	 * Called to set position of an xpdrop text and sprite(s)
+	 * <ul>
+	 * <li> XP drop parent component </li>
+	 * </ul>
+	 */
+	@ScriptArguments(integer = 4, string = 1)
+	public static final int XPDROPS_SETDROPSIZE = 996;
+
+	/**
+	 * Main layout script for the bank
+	 * <ul>
+	 * <li>int (WidgetID) * 17, various widgets making up the bank interface</li>
+	 * </ul>
+	 */
+	@ScriptArguments(integer = 17)
+	public static final int BANKMAIN_BUILD = 277;
 }

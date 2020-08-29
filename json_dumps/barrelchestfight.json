@@ -1,0 +1,875 @@
+[
+  {
+    "server-tick": 9830,
+    "pos": "10509, 1612, 0",
+    "interacting": {
+      "npc": "Mi-Gor (547)"
+    }
+  },
+  {
+    "server-tick": 9831,
+    "pos": "10510, 1612, 0",
+    "interacting": {
+      "npc": "Mi-Gor (547)"
+    }
+  },
+  {
+    "server-tick": 9839,
+    "animation": 1156
+  },
+  {
+    "server-tick": 9840,
+    "animation": 1156
+  },
+  {
+    "server-tick": 9841,
+    "animation": 1156
+  },
+  {
+    "server-tick": 9854,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "3455, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 9855,
+    "animation": 1156
+  },
+  {
+    "server-tick": 9856,
+    "animation": 1156
+  },
+  {
+    "server-tick": 9858,
+    "animation": 1658,
+    "pos": "10511, 1612, 0",
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9859,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5894
+    },
+    "sounds": [
+      {
+        "id, delay": "3457, 0"
+      },
+      {
+        "id, delay": "3455, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 9860,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5894
+    }
+  },
+  {
+    "server-tick": 9861,
+    "interacting": {
+      "npc": "Barrelchest (600)"
+    }
+  },
+  {
+    "server-tick": 9862,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9863,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "3825, 0"
+      },
+      {
+        "id, delay": "3457, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9864,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5894
+    },
+    "sounds": [
+      {
+        "id, delay": "2676, 0"
+      },
+      {
+        "id, delay": "3455, 0"
+      },
+      {
+        "id, delay": "2672, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 9865,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5894
+    }
+  },
+  {
+    "server-tick": 9866,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9867,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "3457, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9868,
+    "interacting": {
+      "npc": "Barrelchest (600)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3825, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9869,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5894
+    },
+    "sounds": [
+      {
+        "id, delay": "3455, 0"
+      },
+      {
+        "id, delay": "2672, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 9870,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9871,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "3457, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9872,
+    "interacting": {
+      "npc": "Barrelchest (600)"
+    }
+  },
+  {
+    "server-tick": 9873,
+    "interacting": {
+      "npc": "Barrelchest (600)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3120, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9874,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "3455, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9875,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "3457, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9876,
+    "interacting": {
+      "npc": "Barrelchest (600)"
+    }
+  },
+  {
+    "server-tick": 9877,
+    "interacting": {
+      "npc": "Barrelchest (600)"
+    }
+  },
+  {
+    "server-tick": 9878,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9879,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5894
+    },
+    "sounds": [
+      {
+        "id, delay": "3457, 0"
+      },
+      {
+        "id, delay": "3455, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 9880,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5894
+    }
+  },
+  {
+    "server-tick": 9881,
+    "interacting": {
+      "npc": "Barrelchest (600)"
+    }
+  },
+  {
+    "server-tick": 9882,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9883,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "3457, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9884,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5894
+    },
+    "sounds": [
+      {
+        "id, delay": "3455, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 9885,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5894
+    }
+  },
+  {
+    "server-tick": 9886,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897,
+      "gfx": 341
+    },
+    "sounds": [
+      {
+        "id, delay": "2713, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9887,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897,
+      "gfx": 341
+    },
+    "sounds": [
+      {
+        "id, delay": "3457, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9888,
+    "interacting": {
+      "npc": "Barrelchest (600)"
+    }
+  },
+  {
+    "server-tick": 9889,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5894
+    },
+    "sounds": [
+      {
+        "id, delay": "3455, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 9890,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897,
+      "gfx": 341
+    },
+    "sounds": [
+      {
+        "id, delay": "2713, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9891,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897,
+      "gfx": 341
+    },
+    "sounds": [
+      {
+        "id, delay": "3457, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9892,
+    "interacting": {
+      "npc": "Barrelchest (600)"
+    }
+  },
+  {
+    "server-tick": 9893,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "3424, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9894,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5894
+    },
+    "sounds": [
+      {
+        "id, delay": "3455, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 9895,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5894
+    }
+  },
+  {
+    "server-tick": 9896,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Barrelchest (600)"
+    }
+  },
+  {
+    "server-tick": 9897,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9898,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "3457, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9899,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5894
+    },
+    "sounds": [
+      {
+        "id, delay": "3455, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 9900,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5894
+    }
+  },
+  {
+    "server-tick": 9901,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9902,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "3457, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9903,
+    "interacting": {
+      "npc": "Barrelchest (600)"
+    }
+  },
+  {
+    "server-tick": 9904,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5894
+    },
+    "sounds": [
+      {
+        "id, delay": "3455, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 9905,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9906,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "3457, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9907,
+    "interacting": {
+      "npc": "Barrelchest (600)"
+    }
+  },
+  {
+    "server-tick": 9908,
+    "interacting": {
+      "npc": "Barrelchest (600)"
+    }
+  },
+  {
+    "server-tick": 9909,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "3455, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9910,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "3457, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9911,
+    "interacting": {
+      "npc": "Barrelchest (600)"
+    }
+  },
+  {
+    "server-tick": 9912,
+    "interacting": {
+      "npc": "Barrelchest (600)"
+    }
+  },
+  {
+    "server-tick": 9913,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9914,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5894
+    },
+    "sounds": [
+      {
+        "id, delay": "3457, 0"
+      },
+      {
+        "id, delay": "3455, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 9915,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5894
+    }
+  },
+  {
+    "server-tick": 9916,
+    "interacting": {
+      "npc": "Barrelchest (600)"
+    }
+  },
+  {
+    "server-tick": 9917,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9918,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "3457, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9919,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5894
+    },
+    "sounds": [
+      {
+        "id, delay": "3455, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 9920,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5894
+    }
+  },
+  {
+    "server-tick": 9921,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9922,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "3457, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9923,
+    "interacting": {
+      "npc": "Barrelchest (600)"
+    }
+  },
+  {
+    "server-tick": 9924,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5894
+    },
+    "sounds": [
+      {
+        "id, delay": "3455, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 9925,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9926,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Barrelchest (600)",
+      "animation": 5897
+    },
+    "sounds": [
+      {
+        "id, delay": "3457, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9927,
+    "sounds": [
+      {
+        "id, delay": "3456, 0"
+      }
+    ]
+  }
+]

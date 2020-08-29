@@ -56,14 +56,14 @@ class DevToolsPanel extends PluginPanel
 
 	@Inject
 	private DevToolsPanel(
-		Client client,
-		DevToolsPlugin plugin,
-		WidgetInspector widgetInspector,
-		VarInspector varInspector,
-		ScriptInspector scriptInspector,
-		Notifier notifier,
-		InfoBoxManager infoBoxManager,
-		ScheduledExecutorService scheduledExecutorService)
+			Client client,
+			DevToolsPlugin plugin,
+			WidgetInspector widgetInspector,
+			VarInspector varInspector,
+			ScriptInspector scriptInspector,
+			Notifier notifier,
+			InfoBoxManager infoBoxManager,
+			ScheduledExecutorService scheduledExecutorService)
 	{
 		super();
 		this.client = client;

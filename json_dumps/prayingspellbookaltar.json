@@ -1,0 +1,95 @@
+[
+  {
+    "server-tick": 8680,
+    "animation": 645,
+    "sounds": [
+      {
+        "id, delay": "1097, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8681,
+    "animation": 645
+  },
+  {
+    "server-tick": 8682,
+    "animation": 645
+  },
+  {
+    "server-tick": 8683,
+    "animation": 645
+  },
+  {
+    "server-tick": 8684,
+    "animation": 645
+  },
+  {
+    "server-tick": 8689,
+    "animation": 645,
+    "sounds": [
+      {
+        "id, delay": "1097, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8690,
+    "animation": 645
+  },
+  {
+    "server-tick": 8691,
+    "animation": 645
+  },
+  {
+    "server-tick": 8692,
+    "animation": 645
+  },
+  {
+    "server-tick": 8695,
+    "animation": 645,
+    "sounds": [
+      {
+        "id, delay": "1097, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8696,
+    "animation": 645
+  },
+  {
+    "server-tick": 8697,
+    "animation": 645
+  },
+  {
+    "server-tick": 8698,
+    "animation": 645
+  },
+  {
+    "server-tick": 8699,
+    "animation": 645,
+    "sounds": [
+      {
+        "id, delay": "1097, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8700,
+    "animation": 645
+  },
+  {
+    "server-tick": 8701,
+    "animation": 645,
+    "sounds": [
+      {
+        "id, delay": "3120, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8702,
+    "animation": 645
+  }
+]

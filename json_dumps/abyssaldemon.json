@@ -1,0 +1,485 @@
+[
+  {
+    "server-tick": 7135,
+    "pos": "3419, 3567, 2",
+    "interacting": {
+      "npc": "Abyssal demon (415)"
+    }
+  },
+  {
+    "server-tick": 7136,
+    "pos": "3421, 3567, 2",
+    "interacting": {
+      "npc": "Abyssal demon (415)"
+    }
+  },
+  {
+    "server-tick": 7137,
+    "pos": "3423, 3567, 2",
+    "interacting": {
+      "npc": "Abyssal demon (415)"
+    }
+  },
+  {
+    "server-tick": 7138,
+    "pos": "3425, 3566, 2",
+    "interacting": {
+      "npc": "Abyssal demon (415)"
+    }
+  },
+  {
+    "server-tick": 7139,
+    "animation": 1658,
+    "pos": "3427, 3564, 2",
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 2309
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7140,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 2309
+    },
+    "sounds": [
+      {
+        "id, delay": "278, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7141,
+    "interacting": {
+      "npc": "Abyssal demon (415)"
+    }
+  },
+  {
+    "server-tick": 7142,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 1537
+    },
+    "sounds": [
+      {
+        "id, delay": "276, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7143,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 2309
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7144,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 2309
+    },
+    "sounds": [
+      {
+        "id, delay": "278, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7145,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 1535,
+      "gfx": 409
+    },
+    "sounds": [
+      {
+        "id, delay": "2398, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7146,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "276, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7147,
+    "animation": 1156
+  },
+  {
+    "server-tick": 7148,
+    "animation": 1156
+  },
+  {
+    "server-tick": 7149,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 2309
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7150,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 1537
+    },
+    "sounds": [
+      {
+        "id, delay": "278, 0"
+      },
+      {
+        "id, delay": "276, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7151,
+    "gfx": 409,
+    "pos": "3428, 3566, 2",
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 1537
+    }
+  },
+  {
+    "server-tick": 7152,
+    "interacting": {
+      "npc": "Abyssal demon (415)"
+    }
+  },
+  {
+    "server-tick": 7153,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 2309
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7154,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 1537
+    },
+    "sounds": [
+      {
+        "id, delay": "278, 0"
+      },
+      {
+        "id, delay": "276, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7155,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 1537
+    }
+  },
+  {
+    "server-tick": 7156,
+    "interacting": {
+      "npc": "Abyssal demon (415)"
+    }
+  },
+  {
+    "server-tick": 7157,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 2309
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7158,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 1537
+    },
+    "sounds": [
+      {
+        "id, delay": "278, 0"
+      },
+      {
+        "id, delay": "276, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7159,
+    "gfx": 409,
+    "pos": "3429, 3564, 2",
+    "interacting": {
+      "npc": "Abyssal demon (415)"
+    }
+  },
+  {
+    "server-tick": 7160,
+    "interacting": {
+      "npc": "Abyssal demon (415)"
+    }
+  },
+  {
+    "server-tick": 7161,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 2309
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7162,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 1537
+    },
+    "sounds": [
+      {
+        "id, delay": "278, 0"
+      },
+      {
+        "id, delay": "276, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7163,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 1537
+    }
+  },
+  {
+    "server-tick": 7164,
+    "interacting": {
+      "npc": "Abyssal demon (415)"
+    }
+  },
+  {
+    "server-tick": 7165,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 2309
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7166,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 1537
+    },
+    "sounds": [
+      {
+        "id, delay": "278, 0"
+      },
+      {
+        "id, delay": "276, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7167,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 1537,
+      "gfx": 409
+    },
+    "sounds": [
+      {
+        "id, delay": "2398, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7170,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "276, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7171,
+    "animation": 1156
+  },
+  {
+    "server-tick": 7172,
+    "animation": 1156
+  },
+  {
+    "server-tick": 7174,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "276, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7175,
+    "animation": 1156
+  },
+  {
+    "server-tick": 7176,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 2309
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7177,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 2309
+    },
+    "sounds": [
+      {
+        "id, delay": "278, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7178,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 1537
+    },
+    "sounds": [
+      {
+        "id, delay": "276, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7179,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Abyssal demon (415)"
+    }
+  },
+  {
+    "server-tick": 7180,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 2309
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7181,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 2309
+    },
+    "sounds": [
+      {
+        "id, delay": "278, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7182,
+    "sounds": [
+      {
+        "id, delay": "277, 0"
+      }
+    ]
+  }
+]

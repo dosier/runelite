@@ -1,0 +1,297 @@
+[
+  {
+    "server-tick": 22598,
+    "interacting": {
+      "npc": "Lizardman shaman (7744)",
+      "animation": 7193
+    }
+  },
+  {
+    "server-tick": 22599,
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 22601,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 22602,
+    "animation": 1156
+  },
+  {
+    "server-tick": 22603,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 22604,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22605,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2548, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 22606,
+    "animation": 1156
+  },
+  {
+    "server-tick": 22607,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22608,
+    "animation": 829
+  },
+  {
+    "server-tick": 22609,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 22610,
+    "animation": 1156
+  },
+  {
+    "server-tick": 22611,
+    "animation": 1156
+  },
+  {
+    "server-tick": 22613,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2548, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 22614,
+    "animation": 1156
+  },
+  {
+    "server-tick": 22615,
+    "animation": 1156
+  },
+  {
+    "server-tick": 22621,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22622,
+    "animation": 1156
+  },
+  {
+    "server-tick": 22623,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "128, 144",
+        "slope, duration": "5, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 22624,
+    "animation": 1156
+  },
+  {
+    "server-tick": 22625,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman shaman (7744)",
+      "animation": 7192
+    },
+    "sounds": [
+      {
+        "id, delay": "2548, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 22626,
+    "interacting": {
+      "npc": "Lizardman shaman (7744)",
+      "animation": 7192
+    }
+  },
+  {
+    "server-tick": 22627,
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 22629,
+    "animation": 2594,
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      },
+      {
+        "id, delay": "2489, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22630,
+    "animation": 2595,
+    "pos": "1319, 9966, 0",
+    "sounds": [
+      {
+        "id, delay": "2489, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22631,
+    "animation": 2595
+  },
+  {
+    "server-tick": 22633,
+    "animation": 2594,
+    "sounds": [
+      {
+        "id, delay": "2489, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22634,
+    "animation": 2595,
+    "pos": "1323, 9966, 0",
+    "sounds": [
+      {
+        "id, delay": "2489, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22635,
+    "animation": 2595,
+    "pos": "1325, 9967, 0"
+  },
+  {
+    "server-tick": 22636,
+    "pos": "1326, 9967, 0",
+    "interacting": {
+      "npc": "Lizardman shaman (7744)"
+    }
+  },
+  {
+    "server-tick": 22637,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2548, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22638,
+    "animation": 1156
+  },
+  {
+    "server-tick": 22641,
+    "pos": "1324, 9967, 0"
+  },
+  {
+    "server-tick": 22642,
+    "pos": "1323, 9966, 0"
+  },
+  {
+    "server-tick": 22644,
+    "animation": 2594,
+    "sounds": [
+      {
+        "id, delay": "2489, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22645,
+    "animation": 2595,
+    "pos": "1319, 9966, 0",
+    "sounds": [
+      {
+        "id, delay": "2489, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22646,
+    "animation": 2595
+  },
+  {
+    "server-tick": 22648,
+    "pos": "1317, 9966, 0"
+  },
+  {
+    "server-tick": 22649,
+    "pos": "1316, 9965, 0"
+  },
+  {
+    "server-tick": 22651,
+    "pos": "1318, 9964, 0"
+  }
+]

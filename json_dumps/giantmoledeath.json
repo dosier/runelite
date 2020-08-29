@@ -1,0 +1,51 @@
+[
+  {
+    "server-tick": 8457,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Giant Mole (5779)",
+      "animation": 3312
+    },
+    "sounds": [
+      {
+        "id, delay": "1642, 0"
+      },
+      {
+        "id, delay": "2364, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8458,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant Mole (5779)",
+      "animation": 3312
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8459,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant Mole (5779)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1646, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8460,
+    "sounds": [
+      {
+        "id, delay": "1645, 0"
+      }
+    ]
+  }
+]

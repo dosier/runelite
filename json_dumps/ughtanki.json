@@ -1,0 +1,340 @@
+[
+  {
+    "server-tick": 11151,
+    "animation": 2062,
+    "pos": "3254, 3114, 0",
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "animation": 50
+    },
+    "sounds": [
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11152,
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "animation": 50
+    },
+    "sounds": [
+      {
+        "id, delay": "371, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11153,
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "animation": 50
+    }
+  },
+  {
+    "server-tick": 11154,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "animation": 49
+    },
+    "sounds": [
+      {
+        "id, delay": "369, 0"
+      },
+      {
+        "id, delay": "2812, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11155,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "animation": 49
+    }
+  },
+  {
+    "server-tick": 11156,
+    "animation": 2062,
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "animation": 50
+    },
+    "sounds": [
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11157,
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "animation": 50
+    },
+    "sounds": [
+      {
+        "id, delay": "371, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11158,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "animation": 49
+    },
+    "sounds": [
+      {
+        "id, delay": "369, 0"
+      },
+      {
+        "id, delay": "2814, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11159,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "animation": 49
+    }
+  },
+  {
+    "server-tick": 11160,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Ugthanki (4652)"
+    }
+  },
+  {
+    "server-tick": 11161,
+    "animation": 2062,
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "animation": 50
+    },
+    "sounds": [
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11162,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "animation": 49
+    },
+    "sounds": [
+      {
+        "id, delay": "371, 0"
+      },
+      {
+        "id, delay": "369, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11163,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "animation": 49
+    }
+  },
+  {
+    "server-tick": 11164,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Ugthanki (4652)"
+    }
+  },
+  {
+    "server-tick": 11165,
+    "interacting": {
+      "npc": "Ugthanki (4652)"
+    }
+  },
+  {
+    "server-tick": 11166,
+    "animation": 2062,
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "animation": 49
+    },
+    "sounds": [
+      {
+        "id, delay": "369, 0"
+      },
+      {
+        "id, delay": "2812, 20"
+      },
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11167,
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "animation": 49
+    },
+    "sounds": [
+      {
+        "id, delay": "371, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11168,
+    "interacting": {
+      "npc": "Ugthanki (4652)"
+    }
+  },
+  {
+    "server-tick": 11169,
+    "interacting": {
+      "npc": "Ugthanki (4652)"
+    }
+  },
+  {
+    "server-tick": 11170,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "animation": 49
+    },
+    "sounds": [
+      {
+        "id, delay": "369, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11171,
+    "animation": 2062,
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "animation": 49,
+      "gfx": 1041
+    },
+    "sounds": [
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11172,
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "gfx": 1041
+    },
+    "sounds": [
+      {
+        "id, delay": "371, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11173,
+    "interacting": {
+      "npc": "Ugthanki (4652)"
+    }
+  },
+  {
+    "server-tick": 11174,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "animation": 49
+    },
+    "sounds": [
+      {
+        "id, delay": "369, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11175,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "animation": 49
+    }
+  },
+  {
+    "server-tick": 11176,
+    "animation": 2062,
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "animation": 50
+    },
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      },
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11177,
+    "pos": "3255, 3113, 0",
+    "interacting": {
+      "npc": "Ugthanki (4652)",
+      "animation": 50
+    },
+    "sounds": [
+      {
+        "id, delay": "371, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11180,
+    "sounds": [
+      {
+        "id, delay": "370, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11182,
+    "pos": "3253, 3113, 0"
+  },
+  {
+    "server-tick": 11183,
+    "pos": "3251, 3113, 0"
+  },
+  {
+    "server-tick": 11184,
+    "pos": "3249, 3113, 0"
+  },
+  {
+    "server-tick": 11185,
+    "pos": "3247, 3113, 0"
+  },
+  {
+    "server-tick": 11186,
+    "pos": "3245, 3113, 0"
+  }
+]

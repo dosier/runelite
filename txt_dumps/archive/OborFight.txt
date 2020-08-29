@@ -1,0 +1,169 @@
+SOUND 2454	 delay: 0
+PLAYER 'ex rs'	 animation: 1148
+PLAYER 'ex rs'	 animation: 1148
+GFX 140	level: 0, start_cycle: 2281725, x: 7488, y: 5184
+SOUND 860	 delay: 0
+SOUND 1464	 delay: 0
+PLAYER 'ex rs'	 animation: 7212
+GFX 140	level: 0, start_cycle: 2281725, x: 7488, y: 5184
+GFX 60	level: 0, start_cycle: 2281734, x: 7104, y: 5440
+GFX 60	level: 0, start_cycle: 2281740, x: 6976, y: 5440
+GFX 60	level: 0, start_cycle: 2281746, x: 6848, y: 5568
+GFX 60	level: 0, start_cycle: 2281752, x: 6720, y: 5696
+GFX 60	level: 0, start_cycle: 2281722, x: 7360, y: 5184
+GFX 60	level: 0, start_cycle: 2281728, x: 7232, y: 5312
+SOUND 2958	 delay: 20
+NPC 'Obor (7416)'	animation: 7183
+GFX 60	level: 0, start_cycle: 2281752, x: 6720, y: 5696
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+SOUND 451	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+NPC 'Obor (7416)'	animation: 4666
+SOUND 2677	 delay: 0
+SOUND 2961	 delay: 20
+SOUND 446	 delay: 0
+PLAYER 'ex rs'	 animation: 7210, gfx: 98
+PLAYER 'ex rs'	 animation: 7210, gfx: 98
+PLAYER 'ex rs'	 animation: 7210
+SOUND 521	 delay: 20
+NPC 'Obor (7416)'	animation: 4666
+NPC 'Obor (7416)'	animation: 4666
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+SOUND 451	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+NPC 'Obor (7416)'	animation: 4666
+SOUND 2958	 delay: 20
+SOUND 446	 delay: 0
+PLAYER 'ex rs'	 animation: 7210, gfx: 98
+NPC 'Obor (7416)'	animation: 4666
+PLAYER 'ex rs'	 animation: 7210, gfx: 98
+NPC 'Obor (7416)'	animation: 4666
+PLAYER 'ex rs'	 animation: 7210
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+SOUND 451	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+NPC 'Obor (7416)'	animation: 4666
+SOUND 2959	 delay: 20
+NPC 'Obor (7416)'	animation: 4666
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4666
+SOUND 451	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4666
+SOUND 451	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4666
+NPC 'Obor (7416)'	animation: 4666
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+SOUND 451	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+NPC 'Obor (7416)'	animation: 4666
+SOUND 2959	 delay: 20
+NPC 'Obor (7416)'	animation: 4666
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4666
+SOUND 451	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+PLAYER 'ex rs'	 animation: 1157
+PLAYER 'ex rs'	 animation: 1157
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1157
+NPC 'Obor (7416)'	animation: 4666
+PLAYER 'ex rs'	 animation: 1157
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1157
+NPC 'Obor (7416)'	animation: 4651
+SOUND 2663	 delay: 0
+SOUND 451	 delay: 0
+NPC 'Obor (7416)'	animation: 4651
+SOUND 2676	 delay: 0
+NPC 'Obor (7416)'	animation: 7183
+GFX 140	level: 0, start_cycle: 2283315, x: 6208, y: 5056
+SOUND 860	 delay: 0
+SOUND 1464	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 7183
+GFX 140	level: 0, start_cycle: 2283315, x: 6208, y: 5056
+GFX 60	level: 0, start_cycle: 2283312, x: 6080, y: 4928
+SOUND 451	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 7183
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+SOUND 451	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 7183
+GFX 140	level: 0, start_cycle: 2283496, x: 6208, y: 5056
+SOUND 860	 delay: 0
+SOUND 1464	 delay: 0
+PLAYER 'ex rs'	 animation: 7212
+NPC 'Obor (7416)'	animation: 7183
+GFX 140	level: 0, start_cycle: 2283496, x: 6208, y: 5056
+GFX 60	level: 0, start_cycle: 2283491, x: 6080, y: 4928
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 7212
+NPC 'Obor (7416)'	animation: 7183
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+SOUND 451	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+NPC 'Obor (7416)'	animation: 7183
+GFX 140	level: 0, start_cycle: 2283676, x: 6208, y: 5056
+SOUND 860	 delay: 0
+SOUND 1464	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 7183
+GFX 140	level: 0, start_cycle: 2283676, x: 6208, y: 5056
+GFX 60	level: 0, start_cycle: 2283673, x: 6080, y: 4928
+SOUND 451	 delay: 0
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 7183
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+SOUND 451	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 7183
+GFX 140	level: 0, start_cycle: 2284066, x: 7104, y: 5184
+SOUND 860	 delay: 0
+SOUND 1464	 delay: 0
+PLAYER 'ex rs'	 animation: 7212
+GFX 140	level: 0, start_cycle: 2284066, x: 7104, y: 5184
+GFX 60	level: 0, start_cycle: 2284062, x: 7232, y: 5184
+SOUND 450	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 7212
+NPC 'Obor (7416)'	animation: 4653
+SOUND 2663	 delay: 0
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+SOUND 2582	 delay: 0
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+SOUND 2582	 delay: 0

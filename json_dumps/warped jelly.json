@@ -1,0 +1,353 @@
+[
+  {
+    "server-tick": 14169,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Warped Jelly (7277)",
+      "animation": 1585
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 226,
+        "heights": "11, 144",
+        "slope, duration": "15, 17"
+      }
+    ]
+  },
+  {
+    "server-tick": 14170,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Warped Jelly (7277)",
+      "animation": 1585
+    },
+    "sounds": [
+      {
+        "id, delay": "550, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14171,
+    "interacting": {
+      "npc": "Warped Jelly (7277)"
+    },
+    "projectiles": [
+      {
+        "id": 226,
+        "heights": "11, 144",
+        "slope, duration": "15, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 14172,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Warped Jelly (7277)",
+      "animation": 1586
+    },
+    "sounds": [
+      {
+        "id, delay": "547, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14173,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Warped Jelly (7277)",
+      "animation": 1586
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 226,
+        "heights": "11, 144",
+        "slope, duration": "15, 14"
+      }
+    ]
+  },
+  {
+    "server-tick": 14174,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Warped Jelly (7277)"
+    },
+    "sounds": [
+      {
+        "id, delay": "550, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14175,
+    "interacting": {
+      "npc": "Warped Jelly (7277)"
+    },
+    "projectiles": [
+      {
+        "id": 226,
+        "heights": "11, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 14176,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Warped Jelly (7277)",
+      "animation": 1586
+    },
+    "sounds": [
+      {
+        "id, delay": "547, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14177,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Warped Jelly (7277)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14178,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Warped Jelly (7277)"
+    },
+    "sounds": [
+      {
+        "id, delay": "550, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14179,
+    "interacting": {
+      "npc": "Warped Jelly (7277)"
+    }
+  },
+  {
+    "server-tick": 14180,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Warped Jelly (7277)",
+      "animation": 1586
+    },
+    "sounds": [
+      {
+        "id, delay": "547, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14181,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Warped Jelly (7277)",
+      "animation": 1585
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14182,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Warped Jelly (7277)",
+      "animation": 1585
+    },
+    "sounds": [
+      {
+        "id, delay": "550, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14183,
+    "interacting": {
+      "npc": "Warped Jelly (7277)"
+    },
+    "projectiles": [
+      {
+        "id": 226,
+        "heights": "11, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 14184,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Warped Jelly (7277)",
+      "animation": 1586
+    },
+    "sounds": [
+      {
+        "id, delay": "547, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14185,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Warped Jelly (7277)",
+      "animation": 1586
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14186,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Warped Jelly (7277)"
+    },
+    "sounds": [
+      {
+        "id, delay": "550, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14187,
+    "interacting": {
+      "npc": "Warped Jelly (7277)"
+    }
+  },
+  {
+    "server-tick": 14188,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Warped Jelly (7277)",
+      "animation": 1586
+    },
+    "sounds": [
+      {
+        "id, delay": "547, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14189,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Warped Jelly (7277)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14190,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Warped Jelly (7277)"
+    },
+    "sounds": [
+      {
+        "id, delay": "550, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14191,
+    "sounds": [
+      {
+        "id, delay": "549, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14194,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Warped Jelly (7277)",
+      "animation": 1585
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14195,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Warped Jelly (7277)",
+      "animation": 1585
+    },
+    "sounds": [
+      {
+        "id, delay": "550, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14196,
+    "interacting": {
+      "npc": "Warped Jelly (7277)"
+    }
+  },
+  {
+    "server-tick": 14197,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Warped Jelly (7277)",
+      "animation": 1586
+    },
+    "sounds": [
+      {
+        "id, delay": "547, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  }
+]

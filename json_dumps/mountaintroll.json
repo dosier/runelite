@@ -1,0 +1,261 @@
+[
+  {
+    "server-tick": 24688,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "867, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24689,
+    "animation": 1156,
+    "pos": "1226, 3496, 0",
+    "interacting": {
+      "npc": "Mountain troll (936)"
+    }
+  },
+  {
+    "server-tick": 24690,
+    "animation": 1156,
+    "pos": "1228, 3497, 0",
+    "interacting": {
+      "npc": "Mountain troll (936)"
+    }
+  },
+  {
+    "server-tick": 24691,
+    "animation": 1658,
+    "pos": "1230, 3498, 0",
+    "interacting": {
+      "npc": "Mountain troll (936)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24692,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mountain troll (936)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "868, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24693,
+    "interacting": {
+      "npc": "Mountain troll (936)"
+    }
+  },
+  {
+    "server-tick": 24694,
+    "interacting": {
+      "npc": "Mountain troll (936)"
+    }
+  },
+  {
+    "server-tick": 24695,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mountain troll (936)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "867, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24696,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mountain troll (936)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "868, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24697,
+    "interacting": {
+      "npc": "Mountain troll (936)"
+    }
+  },
+  {
+    "server-tick": 24698,
+    "interacting": {
+      "npc": "Mountain troll (936)"
+    }
+  },
+  {
+    "server-tick": 24699,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mountain troll (936)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24700,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mountain troll (936)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "868, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24701,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Mountain troll (936)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "867, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24702,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Mountain troll (936)",
+      "animation": 284
+    }
+  },
+  {
+    "server-tick": 24703,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mountain troll (936)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24704,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mountain troll (936)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "868, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24705,
+    "interacting": {
+      "npc": "Mountain troll (936)"
+    }
+  },
+  {
+    "server-tick": 24706,
+    "interacting": {
+      "npc": "Mountain troll (936)"
+    }
+  },
+  {
+    "server-tick": 24707,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mountain troll (936)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "867, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24708,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mountain troll (936)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "868, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24709,
+    "sounds": [
+      {
+        "id, delay": "866, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24712,
+    "pos": "1228, 3498, 0"
+  },
+  {
+    "server-tick": 24713,
+    "pos": "1226, 3498, 0"
+  },
+  {
+    "server-tick": 24714,
+    "pos": "1224, 3499, 0"
+  },
+  {
+    "server-tick": 24715,
+    "pos": "1222, 3499, 0"
+  },
+  {
+    "server-tick": 24716,
+    "pos": "1220, 3500, 0"
+  }
+]

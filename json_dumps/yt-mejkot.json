@@ -1,0 +1,199 @@
+[
+  {
+    "server-tick": 3627,
+    "animation": 5061,
+    "pos": "10907, 12400, 0",
+    "interacting": {
+      "npc": "Yt-MejKot (3123)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3628,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-MejKot (3123)",
+      "animation": 2635
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 24"
+      }
+    ]
+  },
+  {
+    "server-tick": 3629,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-MejKot (3123)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3630,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-MejKot (3123)",
+      "animation": 2635
+    }
+  },
+  {
+    "server-tick": 3631,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-MejKot (3123)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3632,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-MejKot (3123)",
+      "animation": 2635
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 3633,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-MejKot (3123)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3634,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-MejKot (3123)",
+      "animation": 2635
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 3635,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-MejKot (3123)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3636,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-MejKot (3123)",
+      "animation": 2635
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 3637,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-MejKot (3123)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3638,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-MejKot (3123)",
+      "animation": 2635
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 3639,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-MejKot (3123)"
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3640,
+    "sounds": [
+      {
+        "id, delay": "609, 0"
+      }
+    ]
+  }
+]

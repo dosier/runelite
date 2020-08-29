@@ -1,0 +1,108 @@
+SOUND 2743	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Harpie Bug Swarm (464)'	animation: 3110
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Harpie Bug Swarm (464)'	animation: 3109
+SOUND 2745	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2743	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Harpie Bug Swarm (464)'	animation: 3110
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Harpie Bug Swarm (464)'	animation: 3109
+SOUND 2745	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2743	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Harpie Bug Swarm (464)'	animation: 3110
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Harpie Bug Swarm (464)'	animation: 3109
+SOUND 2745	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2743	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Harpie Bug Swarm (464)'	animation: 3110
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Harpie Bug Swarm (464)'	animation: 3109
+SOUND 2745	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2743	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Harpie Bug Swarm (464)'	animation: 3110
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Harpie Bug Swarm (464)'	animation: 3109
+SOUND 2745	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2743	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Harpie Bug Swarm (464)'	animation: 3110
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Harpie Bug Swarm (464)'	animation: 3109
+SOUND 2745	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2743	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Harpie Bug Swarm (464)'	animation: 3110
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Harpie Bug Swarm (464)'	animation: 3109
+SOUND 2745	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2743	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Harpie Bug Swarm (464)'	animation: 3110
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Harpie Bug Swarm (464)'	animation: 3109
+SOUND 2745	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2743	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Harpie Bug Swarm (464)'	animation: 3110
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Harpie Bug Swarm (464)'	animation: 3109
+SOUND 2745	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2743	 delay: 0
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Harpie Bug Swarm (464)'	animation: 3110
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Harpie Bug Swarm (464)'	animation: 3109
+SOUND 2745	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2743	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Harpie Bug Swarm (464)'	animation: 3110
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Harpie Bug Swarm (464)'	animation: 3109
+SOUND 2745	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2743	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Harpie Bug Swarm (464)'	animation: 3110
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Harpie Bug Swarm (464)'	animation: 3109
+SOUND 2745	 delay: 0
+PLAYER 'ex rs'	 animation: 1658

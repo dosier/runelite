@@ -1,4 +1,0 @@
-PLAYER 'Lou Grinder'	 animation: 7552
-NPC 'Guard (3011)'	animation: 6488
-PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 18, x: 9536, y: 4544
-AREA_SOUND 3791	 delay: 0, range: 1, sceneX: 84, sceneY: 33, source: qeryc

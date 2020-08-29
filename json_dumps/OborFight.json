@@ -1,0 +1,958 @@
+[
+  {
+    "server-tick": 29526,
+    "pos": "3095, 9831, 0"
+  },
+  {
+    "server-tick": 29559,
+    "pos": "10131, 2775, 0"
+  },
+  {
+    "server-tick": 29599,
+    "pos": "10131, 2773, 0"
+  },
+  {
+    "server-tick": 29600,
+    "pos": "10132, 2771, 0"
+  },
+  {
+    "server-tick": 29601,
+    "pos": "10132, 2769, 0"
+  },
+  {
+    "server-tick": 29602,
+    "pos": "10132, 2768, 0"
+  },
+  {
+    "server-tick": 29606,
+    "pos": "10132, 2767, 0"
+  },
+  {
+    "server-tick": 29608,
+    "animation": 1148,
+    "pos": "10132, 2764, 0",
+    "sounds": [
+      {
+        "id, delay": "2454, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29609,
+    "animation": 1148,
+    "graphics": [
+      {
+        "id": 140,
+        "level": 0,
+        "start": 2281725
+      }
+    ]
+  },
+  {
+    "server-tick": 29610,
+    "animation": 7212,
+    "sounds": [
+      {
+        "id, delay": "860, 0"
+      },
+      {
+        "id, delay": "1464, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 140,
+        "level": 0,
+        "start": 2281725
+      },
+      {
+        "id": 60,
+        "level": 0,
+        "start": 2281734
+      },
+      {
+        "id": 60,
+        "level": 0,
+        "start": 2281740
+      },
+      {
+        "id": 60,
+        "level": 0,
+        "start": 2281746
+      },
+      {
+        "id": 60,
+        "level": 0,
+        "start": 2281752
+      },
+      {
+        "id": 60,
+        "level": 0,
+        "start": 2281722
+      },
+      {
+        "id": 60,
+        "level": 0,
+        "start": 2281728
+      }
+    ]
+  },
+  {
+    "server-tick": 29611,
+    "pos": "10134, 2763, 0",
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 7183
+    },
+    "sounds": [
+      {
+        "id, delay": "2958, 20"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 60,
+        "level": 0,
+        "start": 2281752
+      }
+    ]
+  },
+  {
+    "server-tick": 29612,
+    "interacting": {
+      "npc": "Obor (7416)"
+    }
+  },
+  {
+    "server-tick": 29613,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4651
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29614,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4651
+    },
+    "sounds": [
+      {
+        "id, delay": "451, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29615,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4666
+    }
+  },
+  {
+    "server-tick": 29616,
+    "animation": 7210,
+    "gfx": 98,
+    "sounds": [
+      {
+        "id, delay": "2677, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "446, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29617,
+    "animation": 7210,
+    "gfx": 98
+  },
+  {
+    "server-tick": 29618,
+    "animation": 7210
+  },
+  {
+    "server-tick": 29620,
+    "pos": "10132, 2763, 0"
+  },
+  {
+    "server-tick": 29621,
+    "pos": "10130, 2761, 0"
+  },
+  {
+    "server-tick": 29622,
+    "pos": "10129, 2760, 0"
+  },
+  {
+    "server-tick": 29626,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4666
+    },
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 29627,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4666
+    }
+  },
+  {
+    "server-tick": 29628,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4651
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29629,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4651
+    },
+    "sounds": [
+      {
+        "id, delay": "451, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29630,
+    "interacting": {
+      "npc": "Obor (7416)"
+    }
+  },
+  {
+    "server-tick": 29631,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4666
+    }
+  },
+  {
+    "server-tick": 29632,
+    "animation": 7210,
+    "gfx": 98,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4666
+    },
+    "sounds": [
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "446, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29633,
+    "animation": 7210,
+    "gfx": 98,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4666
+    }
+  },
+  {
+    "server-tick": 29634,
+    "animation": 7210,
+    "interacting": {
+      "npc": "Obor (7416)"
+    }
+  },
+  {
+    "server-tick": 29635,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4651
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29636,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4651
+    },
+    "sounds": [
+      {
+        "id, delay": "451, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29637,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4666
+    }
+  },
+  {
+    "server-tick": 29638,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4666
+    },
+    "sounds": [
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 29639,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4666
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29640,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)"
+    },
+    "sounds": [
+      {
+        "id, delay": "451, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29641,
+    "interacting": {
+      "npc": "Obor (7416)"
+    }
+  },
+  {
+    "server-tick": 29642,
+    "interacting": {
+      "npc": "Obor (7416)"
+    }
+  },
+  {
+    "server-tick": 29643,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4666
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29644,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4666
+    },
+    "sounds": [
+      {
+        "id, delay": "451, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 29645,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4666
+    }
+  },
+  {
+    "server-tick": 29646,
+    "interacting": {
+      "npc": "Obor (7416)"
+    }
+  },
+  {
+    "server-tick": 29647,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4651
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29648,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4651
+    },
+    "sounds": [
+      {
+        "id, delay": "451, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29649,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4666
+    }
+  },
+  {
+    "server-tick": 29650,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4666
+    },
+    "sounds": [
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 29651,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4666
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29652,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)"
+    },
+    "sounds": [
+      {
+        "id, delay": "451, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29653,
+    "interacting": {
+      "npc": "Obor (7416)"
+    }
+  },
+  {
+    "server-tick": 29654,
+    "interacting": {
+      "npc": "Obor (7416)"
+    }
+  },
+  {
+    "server-tick": 29655,
+    "animation": 1157,
+    "pos": "10127, 2758, 0"
+  },
+  {
+    "server-tick": 29656,
+    "animation": 1157
+  },
+  {
+    "server-tick": 29657,
+    "animation": 1157,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4666
+    },
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 29658,
+    "animation": 1157,
+    "interacting": {
+      "npc": "Obor (7416)"
+    }
+  },
+  {
+    "server-tick": 29659,
+    "animation": 1157,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4651
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29660,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4651
+    },
+    "sounds": [
+      {
+        "id, delay": "2663, 0"
+      },
+      {
+        "id, delay": "451, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29661,
+    "interacting": {
+      "npc": "Obor (7416)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2676, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29662,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 7183
+    },
+    "graphics": [
+      {
+        "id": 140,
+        "level": 0,
+        "start": 2283315
+      }
+    ]
+  },
+  {
+    "server-tick": 29663,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 7183
+    },
+    "sounds": [
+      {
+        "id, delay": "860, 0"
+      },
+      {
+        "id, delay": "1464, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 140,
+        "level": 0,
+        "start": 2283315
+      },
+      {
+        "id": 60,
+        "level": 0,
+        "start": 2283312
+      }
+    ]
+  },
+  {
+    "server-tick": 29664,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 7183
+    },
+    "sounds": [
+      {
+        "id, delay": "451, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 29665,
+    "interacting": {
+      "npc": "Obor (7416)"
+    }
+  },
+  {
+    "server-tick": 29666,
+    "interacting": {
+      "npc": "Obor (7416)"
+    }
+  },
+  {
+    "server-tick": 29667,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4651
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29668,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 7183
+    },
+    "sounds": [
+      {
+        "id, delay": "451, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 140,
+        "level": 0,
+        "start": 2283496
+      }
+    ]
+  },
+  {
+    "server-tick": 29669,
+    "animation": 7212,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 7183
+    },
+    "sounds": [
+      {
+        "id, delay": "860, 0"
+      },
+      {
+        "id, delay": "1464, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 140,
+        "level": 0,
+        "start": 2283496
+      },
+      {
+        "id": 60,
+        "level": 0,
+        "start": 2283491
+      }
+    ]
+  },
+  {
+    "server-tick": 29670,
+    "animation": 7212,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 7183
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 29671,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4651
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29672,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4651
+    },
+    "sounds": [
+      {
+        "id, delay": "451, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29673,
+    "interacting": {
+      "npc": "Obor (7416)"
+    }
+  },
+  {
+    "server-tick": 29674,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 7183
+    },
+    "graphics": [
+      {
+        "id": 140,
+        "level": 0,
+        "start": 2283676
+      }
+    ]
+  },
+  {
+    "server-tick": 29675,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 7183
+    },
+    "sounds": [
+      {
+        "id, delay": "860, 0"
+      },
+      {
+        "id, delay": "1464, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 140,
+        "level": 0,
+        "start": 2283676
+      },
+      {
+        "id": 60,
+        "level": 0,
+        "start": 2283673
+      }
+    ]
+  },
+  {
+    "server-tick": 29676,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 7183
+    },
+    "sounds": [
+      {
+        "id, delay": "451, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 29677,
+    "interacting": {
+      "npc": "Obor (7416)"
+    }
+  },
+  {
+    "server-tick": 29678,
+    "interacting": {
+      "npc": "Obor (7416)"
+    }
+  },
+  {
+    "server-tick": 29679,
+    "pos": "10129, 2758, 0"
+  },
+  {
+    "server-tick": 29680,
+    "pos": "10131, 2758, 0"
+  },
+  {
+    "server-tick": 29681,
+    "pos": "10133, 2760, 0"
+  },
+  {
+    "server-tick": 29682,
+    "pos": "10135, 2760, 0"
+  },
+  {
+    "server-tick": 29683,
+    "pos": "10137, 2760, 0"
+  },
+  {
+    "server-tick": 29686,
+    "animation": 1658,
+    "pos": "10136, 2760, 0",
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4651
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29687,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 7183
+    },
+    "sounds": [
+      {
+        "id, delay": "451, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 140,
+        "level": 0,
+        "start": 2284066
+      }
+    ]
+  },
+  {
+    "server-tick": 29688,
+    "animation": 7212,
+    "sounds": [
+      {
+        "id, delay": "860, 0"
+      },
+      {
+        "id, delay": "1464, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 140,
+        "level": 0,
+        "start": 2284066
+      },
+      {
+        "id": 60,
+        "level": 0,
+        "start": 2284062
+      }
+    ]
+  },
+  {
+    "server-tick": 29689,
+    "animation": 7212,
+    "interacting": {
+      "npc": "Obor (7416)",
+      "animation": 4653
+    },
+    "sounds": [
+      {
+        "id, delay": "450, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 29699,
+    "sounds": [
+      {
+        "id, delay": "2663, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29701,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29702,
+    "animation": 829
+  },
+  {
+    "server-tick": 29703,
+    "animation": 829,
+    "pos": "10134, 2760, 0"
+  },
+  {
+    "server-tick": 29704,
+    "sounds": [
+      {
+        "id, delay": "2582, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29707,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 29708,
+    "sounds": [
+      {
+        "id, delay": "2582, 0"
+      }
+    ]
+  }
+]

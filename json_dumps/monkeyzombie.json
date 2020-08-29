@@ -1,0 +1,196 @@
+[
+  {
+    "server-tick": 1618,
+    "pos": "2783, 9107, 0",
+    "interacting": {
+      "npc": "Monkey Zombie (5281)"
+    }
+  },
+  {
+    "server-tick": 1619,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Monkey Zombie (5281)",
+      "animation": 1395
+    },
+    "sounds": [
+      {
+        "id, delay": "629, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1620,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Monkey Zombie (5281)"
+    },
+    "sounds": [
+      {
+        "id, delay": "636, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1621,
+    "interacting": {
+      "npc": "Monkey Zombie (5281)"
+    }
+  },
+  {
+    "server-tick": 1622,
+    "interacting": {
+      "npc": "Monkey Zombie (5281)"
+    }
+  },
+  {
+    "server-tick": 1623,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Monkey Zombie (5281)",
+      "animation": 1395
+    },
+    "sounds": [
+      {
+        "id, delay": "629, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1624,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Monkey Zombie (5281)"
+    },
+    "sounds": [
+      {
+        "id, delay": "636, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1625,
+    "interacting": {
+      "npc": "Monkey Zombie (5281)"
+    }
+  },
+  {
+    "server-tick": 1626,
+    "interacting": {
+      "npc": "Monkey Zombie (5281)"
+    }
+  },
+  {
+    "server-tick": 1627,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Monkey Zombie (5281)",
+      "animation": 1395
+    },
+    "sounds": [
+      {
+        "id, delay": "629, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1628,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Monkey Zombie (5281)"
+    },
+    "sounds": [
+      {
+        "id, delay": "636, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1629,
+    "interacting": {
+      "npc": "Monkey Zombie (5281)"
+    }
+  },
+  {
+    "server-tick": 1630,
+    "interacting": {
+      "npc": "Monkey Zombie (5281)"
+    }
+  },
+  {
+    "server-tick": 1631,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Monkey Zombie (5281)",
+      "animation": 1395
+    },
+    "sounds": [
+      {
+        "id, delay": "629, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1632,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Monkey Zombie (5281)"
+    },
+    "sounds": [
+      {
+        "id, delay": "636, 0"
+      },
+      {
+        "id, delay": "1678, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1633,
+    "sounds": [
+      {
+        "id, delay": "635, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1635,
+    "sounds": [
+      {
+        "id, delay": "1384, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1636,
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  }
+]

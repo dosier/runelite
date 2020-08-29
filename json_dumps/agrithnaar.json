@@ -1,0 +1,468 @@
+[
+  {
+    "server-tick": 2662,
+    "gfx": 131,
+    "pos": "11118, 872, 1"
+  },
+  {
+    "server-tick": 2663,
+    "gfx": 131,
+    "pos": "11117, 873, 1"
+  },
+  {
+    "server-tick": 2664,
+    "gfx": 131
+  },
+  {
+    "server-tick": 2665,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "397, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2666,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2667,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2668,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "399, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2669,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4679
+    },
+    "sounds": [
+      {
+        "id, delay": "397, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2670,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4679
+    }
+  },
+  {
+    "server-tick": 2671,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2672,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "399, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2673,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4679
+    },
+    "sounds": [
+      {
+        "id, delay": "397, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2674,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4679
+    }
+  },
+  {
+    "server-tick": 2675,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2676,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "399, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2677,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4679
+    },
+    "sounds": [
+      {
+        "id, delay": "397, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2678,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4679
+    }
+  },
+  {
+    "server-tick": 2679,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2680,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "399, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2681,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4679
+    },
+    "sounds": [
+      {
+        "id, delay": "397, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2682,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4679
+    }
+  },
+  {
+    "server-tick": 2683,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2684,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "399, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2685,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4679
+    },
+    "sounds": [
+      {
+        "id, delay": "397, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2686,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4679
+    }
+  },
+  {
+    "server-tick": 2687,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2688,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "399, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2689,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4679
+    },
+    "sounds": [
+      {
+        "id, delay": "397, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2690,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4679
+    }
+  },
+  {
+    "server-tick": 2691,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2692,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "399, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2693,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4679
+    },
+    "sounds": [
+      {
+        "id, delay": "397, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2694,
+    "animation": 1156,
+    "pos": "11118, 871, 1"
+  },
+  {
+    "server-tick": 2697,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4679
+    },
+    "sounds": [
+      {
+        "id, delay": "397, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2698,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4679
+    },
+    "sounds": [
+      {
+        "id, delay": "399, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2699,
+    "interacting": {
+      "npc": "Agrith Naar (6388)"
+    }
+  },
+  {
+    "server-tick": 2700,
+    "interacting": {
+      "npc": "Agrith Naar (6388)"
+    }
+  },
+  {
+    "server-tick": 2701,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4679
+    },
+    "sounds": [
+      {
+        "id, delay": "397, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2702,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Agrith Naar (6388)",
+      "animation": 4679
+    },
+    "sounds": [
+      {
+        "id, delay": "399, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2703,
+    "sounds": [
+      {
+        "id, delay": "398, 0"
+      }
+    ]
+  }
+]

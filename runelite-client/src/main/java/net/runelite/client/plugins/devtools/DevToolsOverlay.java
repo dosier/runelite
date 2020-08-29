@@ -165,7 +165,7 @@ class DevToolsOverlay extends Overlay
 			}
 
 			String text = composition.getName() + " (ID:" + composition.getId() + ")" +
-				" (A: " + npc.getAnimation() + ") (P: " + npc.getPoseAnimation() + ") (G: " + npc.getGraphic() + ")";
+					" (A: " + npc.getAnimation() + ") (P: " + npc.getPoseAnimation() + ") (G: " + npc.getGraphic() + ")";
 			OverlayUtil.renderActorOverlay(graphics, npc, text, color);
 		}
 	}
@@ -403,7 +403,7 @@ class DevToolsOverlay extends Overlay
 
 			String infoString = "(ID: " + graphicsObject.getId() + ")";
 			Point textLocation = Perspective.getCanvasTextLocation(
-				client, graphics, lp, infoString, 0);
+					client, graphics, lp, infoString, 0);
 			if (textLocation != null)
 			{
 				OverlayUtil.renderTextLocation(graphics, textLocation, infoString, Color.WHITE);

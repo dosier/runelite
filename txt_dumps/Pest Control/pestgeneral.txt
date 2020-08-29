@@ -1,0 +1,324 @@
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 54, x: 9024, y: 3904
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 75, x: 6848, y: 2752
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 42, x: 8256, y: 4288
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 36, x: 3392, y: 3648
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 2, x: 3392, y: 4288
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 2, x: 5184, y: 1856
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 46, x: 8128, y: 4288
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+AREA_SOUND 198	 delay: 0, range: 5, sceneX: 49, sceneY: 35
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 23, x: 6208, y: 4544
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 9, x: 3264, y: 4032
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 76, x: 6848, y: 2752
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 48, x: 8128, y: 4288
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 43, x: 8256, y: 4288
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 2, x: 5184, y: 1856
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 6976, y: 2752
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 26, x: 6592, y: 4544
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 3264, y: 4288
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 50, x: 9024, y: 3904
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+AREA_SOUND 198	 delay: 0, range: 5, sceneX: 49, sceneY: 35
+SOUND 2720	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Shifter (1695)'	animation: 3902
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 35, x: 3392, y: 3648
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 25, x: 8256, y: 4032
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+SOUND 768	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Shifter (1695)'	animation: 3902
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 75, x: 6848, y: 2752
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 22, x: 6208, y: 4544
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 59, x: 8000, y: 1984
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 35, x: 7616, y: 2368
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+NPC 'Shifter (1695)'	animation: 3903
+PROJECTILE 203	startHeight: 120, endHeight: 144, slope: 1, duration: 27, x: 6976, y: 1984
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 34, x: 6592, y: 4544
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 23, x: 8384, y: 4032
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 12, x: 8640, y: 4288
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 35, x: 3392, y: 3648
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 1, x: 3136, y: 4288
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 30, x: 8256, y: 3776
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 38, x: 3136, y: 4288
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 6, x: 5184, y: 1856
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 78, x: 6976, y: 2752
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+SOUND 2720	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Shifter (1697)'	animation: 3901
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 6080, y: 4288
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+SOUND 768	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 31, x: 3392, y: 3648
+PROJECTILE 203	startHeight: 120, endHeight: 144, slope: 1, duration: 36, x: 6976, y: 1984
+SOUND 767	 delay: 0
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 62, x: 8000, y: 1984
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 38, x: 7616, y: 2368
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 34, x: 3136, y: 4288
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 6976, y: 2752
+PROJECTILE 12	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 9280, y: 3520
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 12, x: 3264, y: 4032
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 3264, y: 4288
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 5056, y: 1856
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 36, x: 3392, y: 3648
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 31, x: 8896, y: 3776
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 2, x: 8512, y: 4160
+SOUND 2720	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Shifter (1697)'	animation: 3901
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 12, x: 3264, y: 4032
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 58, x: 8000, y: 1984
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 34, x: 7616, y: 2368
+PROJECTILE 12	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 9280, y: 3520
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+SOUND 768	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Shifter (1697)'	animation: 3901
+PROJECTILE 203	startHeight: 120, endHeight: 144, slope: 1, duration: 42, x: 6976, y: 1984
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 29, x: 8896, y: 3776
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 39, x: 8512, y: 4160
+SOUND 2720	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Shifter (1697)'	animation: 3901
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 57, x: 8000, y: 1984
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+SOUND 768	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Shifter (1697)'	animation: 3901
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 5184, y: 1728
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 31, x: 8896, y: 3776
+SOUND 767	 delay: 0
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 33, x: 3392, y: 3648
+PROJECTILE 12	startHeight: 11, endHeight: 144, slope: 15, duration: 18, x: 9280, y: 3520
+PROJECTILE 203	startHeight: 120, endHeight: 144, slope: 1, duration: 31, x: 6976, y: 1984
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 33, x: 8256, y: 3776
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 36, x: 8512, y: 4160
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 59, x: 8000, y: 1984
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 51, x: 9152, y: 4032
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 32, x: 8896, y: 3776
+PROJECTILE 12	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 9280, y: 3520
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 36, x: 3392, y: 3648
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 12, x: 3264, y: 4032
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 3264, y: 4288
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 2, x: 5056, y: 1856
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 34, x: 4032, y: 4288
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 31, x: 8256, y: 3776
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 31, x: 8896, y: 3776
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 42, x: 8512, y: 4160
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 32, x: 7360, y: 2240
+PROJECTILE 127	startHeight: 64, endHeight: 124, slope: 16, duration: 47, x: 8896, y: 3136
+PROJECTILE 12	startHeight: 11, endHeight: 144, slope: 15, duration: 12, x: 9280, y: 3520
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 15, x: 8000, y: 1856
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+AREA_SOUND 847	 delay: 0, range: 10, sceneX: 65, sceneY: 31
+AREA_SOUND 158	 delay: 0, range: 10, sceneX: 65, sceneY: 31
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 12, x: 3264, y: 4032
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 15, x: 3264, y: 4288
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 7, x: 5056, y: 1856
+AREA_SOUND 847	 delay: 0, range: 10, sceneX: 70, sceneY: 30
+AREA_SOUND 158	 delay: 0, range: 10, sceneX: 70, sceneY: 30
+AREA_SOUND 847	 delay: 0, range: 10, sceneX: 66, sceneY: 32
+AREA_SOUND 158	 delay: 0, range: 10, sceneX: 66, sceneY: 32
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 29, x: 8256, y: 3776
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 38, x: 7360, y: 2240
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 13, x: 8000, y: 1856
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 2, x: 5056, y: 1856
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 26, x: 6848, y: 1856
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 31, x: 8896, y: 3776
+AREA_SOUND 847	 delay: 0, range: 10, sceneX: 70, sceneY: 30
+PROJECTILE 203	startHeight: 120, endHeight: 144, slope: 1, duration: 24, x: 6976, y: 1984
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 75, x: 6208, y: 2752
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 75, x: 6592, y: 2752
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 59, x: 8000, y: 1984
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 83, x: 9152, y: 4032
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 24, x: 8896, y: 3776
+AREA_SOUND 2735	 delay: 0, range: 1, sceneX: 65, sceneY: 47, source: Solidous
+AREA_SOUND 847	 delay: 0, range: 10, sceneX: 70, sceneY: 30
+AREA_SOUND 158	 delay: 0, range: 10, sceneX: 70, sceneY: 30
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 28, x: 6848, y: 1856
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 76, x: 6208, y: 2752
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 76, x: 8128, y: 1856
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 75, x: 6592, y: 2752
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 59, x: 8000, y: 1984
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 83, x: 9152, y: 4032
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 2, x: 8000, y: 1856
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 8896, y: 3776
+AREA_SOUND 847	 delay: 0, range: 10, sceneX: 70, sceneY: 30
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 75, x: 6208, y: 2752
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 75, x: 8128, y: 1856
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 4, x: 8000, y: 1856
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 21, x: 8896, y: 3776
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 73, x: 6208, y: 2752
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 73, x: 8128, y: 1856
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 36, x: 5568, y: 2240
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 4, x: 8000, y: 1856
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 847	 delay: 0, range: 10, sceneX: 62, sceneY: 13
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 76, x: 6208, y: 2752
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 76, x: 8128, y: 1856
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 392	 delay: 0, range: 5, sceneX: 61, sceneY: 13
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 73, x: 6080, y: 2752
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 73, x: 6592, y: 2752
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 57, x: 8000, y: 1984
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 34, x: 5568, y: 2240
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 51, x: 6592, y: 1856
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 2, x: 8000, y: 1856
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+AREA_SOUND 392	 delay: 0, range: 5, sceneX: 53, sceneY: 54
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 79, x: 5184, y: 7872
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+AREA_SOUND 392	 delay: 0, range: 5, sceneX: 53, sceneY: 53
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 75, x: 5056, y: 7872
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 75, x: 5568, y: 7872
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 59, x: 6976, y: 7104
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+AREA_SOUND 158	 delay: 86, range: 10, sceneX: 53, sceneY: 53
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 35, x: 4544, y: 7360
+PROJECTILE 203	startHeight: 120, endHeight: 144, slope: 1, duration: 42, x: 5952, y: 7104
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 3, x: 6976, y: 6976
+AREA_SOUND 810	 delay: 0, range: 10, sceneX: 52, sceneY: 57
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 37, x: 5568, y: 6976
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 11, x: 4160, y: 6976
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 75, x: 5184, y: 7872
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+AREA_SOUND 392	 delay: 0, range: 5, sceneX: 53, sceneY: 53
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 75, x: 5056, y: 7872
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 75, x: 5568, y: 7872
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+AREA_SOUND 847	 delay: 0, range: 10, sceneX: 52, sceneY: 54
+AREA_SOUND 158	 delay: 0, range: 10, sceneX: 52, sceneY: 54
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 35, x: 4544, y: 7360
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 3, x: 6976, y: 6976
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 2, x: 6848, y: 7104
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 11, x: 4160, y: 6976
+PROJECTILE 203	startHeight: 120, endHeight: 144, slope: 1, duration: 36, x: 5952, y: 7104
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 75, x: 5184, y: 7872
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 52, x: 6464, y: 7616
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+AREA_SOUND 392	 delay: 0, range: 5, sceneX: 53, sceneY: 53
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 73, x: 5056, y: 7872
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 73, x: 5568, y: 7872
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 20, x: 7872, y: 8896
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 33, x: 4544, y: 7360
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 1, x: 6976, y: 6976
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+SOUND 2720	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Brawler (1735)'	animation: 3895
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 52, x: 6464, y: 7616
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+AREA_SOUND 198	 delay: 0, range: 5, sceneX: 54, sceneY: 53
+SOUND 326	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Brawler (1735)'	animation: 3897
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 4160, y: 6976
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 5184, y: 7872
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+NPC 'Brawler (1735)'	animation: 3895
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 47, x: 5056, y: 6976
+AREA_SOUND 847	 delay: 0, range: 10, sceneX: 45, sceneY: 59
+NPC 'Brawler (1735)'	animation: 3895
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 36, x: 4544, y: 7360
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 53, x: 6464, y: 7616
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+SOUND 2720	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Brawler (1735)'	animation: 3895
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 4, x: 5952, y: 7744
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+SOUND 326	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Brawler (1735)'	animation: 3897
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 5184, y: 7872
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+AREA_SOUND 158	 delay: 56, range: 10, sceneX: 54, sceneY: 53
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 5056, y: 7872
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 5568, y: 7872
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 51, x: 6464, y: 7616
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+AREA_SOUND 847	 delay: 0, range: 10, sceneX: 45, sceneY: 59
+AREA_SOUND 392	 delay: 0, range: 5, sceneX: 53, sceneY: 53
+NPC 'Brawler (1735)'	animation: 3895
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 50, x: 5056, y: 6976
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 33, x: 4544, y: 7360
+SOUND 2720	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Brawler (1735)'	animation: 3895
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 4, x: 5952, y: 7744
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 52, x: 6976, y: 6976
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+SOUND 326	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Brawler (1735)'	animation: 3897, gfx: 344
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+NPC 'Brawler (1735)'	animation: 3897
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 76, x: 5056, y: 7872
+PROJECTILE 203	startHeight: 120, endHeight: 144, slope: 1, duration: 43, x: 5952, y: 7104
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+AREA_SOUND 392	 delay: 0, range: 5, sceneX: 53, sceneY: 53
+AREA_SOUND 198	 delay: 0, range: 5, sceneX: 54, sceneY: 53
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 34, x: 4544, y: 7360
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 46, x: 5952, y: 7616
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+PROJECTILE 698	startHeight: 11, endHeight: 144, slope: 5, duration: 47, x: 4800, y: 6976
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 38, x: 4160, y: 6976
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 78, x: 5184, y: 7872
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 44, x: 5952, y: 7616
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+AREA_SOUND 392	 delay: 0, range: 5, sceneX: 53, sceneY: 53
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 59, x: 6976, y: 6976
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 33, x: 4160, y: 6976
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 73, x: 5184, y: 7872
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 45, x: 5952, y: 7616
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 45, x: 5952, y: 7360
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 5056, y: 7872
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 46, x: 4800, y: 6976
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+AREA_SOUND 227	 delay: 96, range: 10, sceneX: 51, sceneY: 57
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 51, x: 5952, y: 7616
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 73, x: 5056, y: 7872
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+AREA_SOUND 392	 delay: 0, range: 5, sceneX: 51, sceneY: 57
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 54, x: 5952, y: 7616
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 26, x: 6720, y: 7488
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+AREA_SOUND 158	 delay: 96, range: 10, sceneX: 51, sceneY: 57
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 5696, y: 7360
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 5056, y: 7872
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 51, x: 5952, y: 7616
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+AREA_SOUND 392	 delay: 0, range: 5, sceneX: 51, sceneY: 57
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 48, x: 4800, y: 6976
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 5056, y: 7872
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+AREA_SOUND 198	 delay: 0, range: 5, sceneX: 54, sceneY: 53
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 50, x: 4800, y: 6976
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 54, sceneY: 51

@@ -1,0 +1,1692 @@
+[
+  {
+    "server-tick": 16037,
+    "gfx": 1243,
+    "pos": "8034, 1437, 0",
+    "interacting": {
+      "npc": "Skotizo (7286)"
+    }
+  },
+  {
+    "server-tick": 16038,
+    "animation": 390,
+    "pos": "8034, 1439, 0",
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16039,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 69
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16040,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 69
+    }
+  },
+  {
+    "server-tick": 16041,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Skotizo (7286)"
+    },
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16042,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16043,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16044,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    }
+  },
+  {
+    "server-tick": 16045,
+    "interacting": {
+      "npc": "Skotizo (7286)"
+    }
+  },
+  {
+    "server-tick": 16046,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16047,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4680
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      },
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16048,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4680
+    }
+  },
+  {
+    "server-tick": 16049,
+    "interacting": {
+      "npc": "Skotizo (7286)"
+    }
+  },
+  {
+    "server-tick": 16050,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16051,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16052,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    }
+  },
+  {
+    "server-tick": 16053,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4680
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16054,
+    "animation": 2890,
+    "gfx": 483,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4680
+    },
+    "sounds": [
+      {
+        "id, delay": "225, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16055,
+    "animation": 2890,
+    "gfx": 483,
+    "interacting": {
+      "npc": "Skotizo (7286)"
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16056,
+    "animation": 2890,
+    "gfx": 483,
+    "interacting": {
+      "npc": "Skotizo (7286)"
+    }
+  },
+  {
+    "server-tick": 16057,
+    "animation": 2890,
+    "gfx": 483,
+    "interacting": {
+      "npc": "Skotizo (7286)"
+    }
+  },
+  {
+    "server-tick": 16058,
+    "animation": 2890,
+    "gfx": 483,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "225, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16059,
+    "animation": 2890,
+    "gfx": 483,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16060,
+    "animation": 2890,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 69
+    }
+  },
+  {
+    "server-tick": 16061,
+    "animation": 2890,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 69
+    }
+  },
+  {
+    "server-tick": 16062,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16063,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16064,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    }
+  },
+  {
+    "server-tick": 16065,
+    "interacting": {
+      "npc": "Skotizo (7286)"
+    }
+  },
+  {
+    "server-tick": 16066,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16067,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16068,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16069,
+    "interacting": {
+      "npc": "Skotizo (7286)"
+    }
+  },
+  {
+    "server-tick": 16070,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16071,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16072,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 69
+    }
+  },
+  {
+    "server-tick": 16073,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 69
+    }
+  },
+  {
+    "server-tick": 16074,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16075,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16076,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    }
+  },
+  {
+    "server-tick": 16077,
+    "interacting": {
+      "npc": "Skotizo (7286)"
+    }
+  },
+  {
+    "server-tick": 16078,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4680
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16079,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4680
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16080,
+    "interacting": {
+      "npc": "Skotizo (7286)"
+    }
+  },
+  {
+    "server-tick": 16081,
+    "interacting": {
+      "npc": "Skotizo (7286)"
+    }
+  },
+  {
+    "server-tick": 16082,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16083,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16084,
+    "animation": 1156,
+    "pos": "8032, 1439, 0",
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16085,
+    "animation": 1156,
+    "pos": "8030, 1439, 0"
+  },
+  {
+    "server-tick": 16086,
+    "animation": 1156,
+    "pos": "8028, 1439, 0"
+  },
+  {
+    "server-tick": 16087,
+    "animation": 829,
+    "pos": "8026, 1439, 0",
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16088,
+    "animation": 829,
+    "pos": "8024, 1439, 0"
+  },
+  {
+    "server-tick": 16089,
+    "animation": 829,
+    "pos": "8022, 1439, 0"
+  },
+  {
+    "server-tick": 16090,
+    "pos": "8020, 1439, 0"
+  },
+  {
+    "server-tick": 16091,
+    "pos": "8018, 1439, 0"
+  },
+  {
+    "server-tick": 16092,
+    "pos": "8016, 1439, 0"
+  },
+  {
+    "server-tick": 16093,
+    "pos": "8015, 1439, 0"
+  },
+  {
+    "server-tick": 16094,
+    "pos": "8015, 1440, 0"
+  },
+  {
+    "server-tick": 16095,
+    "gfx": 1243,
+    "pos": "8015, 1441, 0"
+  },
+  {
+    "server-tick": 16096,
+    "gfx": 1243,
+    "pos": "8015, 1439, 0"
+  },
+  {
+    "server-tick": 16097,
+    "gfx": 1243,
+    "pos": "8015, 1440, 0"
+  },
+  {
+    "server-tick": 16098,
+    "gfx": 1243,
+    "pos": "8017, 1440, 0"
+  },
+  {
+    "server-tick": 16099,
+    "gfx": 1243,
+    "pos": "8019, 1442, 0"
+  },
+  {
+    "server-tick": 16100,
+    "gfx": 1243,
+    "pos": "8019, 1444, 0",
+    "sounds": [
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16101,
+    "gfx": 1243,
+    "pos": "8020, 1446, 0"
+  },
+  {
+    "server-tick": 16102,
+    "gfx": 1243,
+    "pos": "8022, 1447, 0",
+    "projectiles": [
+      {
+        "id": 1242,
+        "heights": "226, 124",
+        "slope, duration": "16, 82"
+      }
+    ]
+  },
+  {
+    "server-tick": 16103,
+    "gfx": 1243,
+    "pos": "8024, 1449, 0"
+  },
+  {
+    "server-tick": 16104,
+    "gfx": 1243,
+    "pos": "8026, 1449, 0",
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16105,
+    "gfx": 1243,
+    "pos": "8028, 1451, 0"
+  },
+  {
+    "server-tick": 16106,
+    "pos": "8030, 1453, 0"
+  },
+  {
+    "server-tick": 16107,
+    "pos": "8030, 1455, 0"
+  },
+  {
+    "server-tick": 16108,
+    "gfx": 1243
+  },
+  {
+    "server-tick": 16109,
+    "gfx": 1243
+  },
+  {
+    "server-tick": 16110,
+    "gfx": 1243
+  },
+  {
+    "server-tick": 16111,
+    "gfx": 1243,
+    "pos": "8032, 1455, 0"
+  },
+  {
+    "server-tick": 16112,
+    "gfx": 1243,
+    "pos": "8034, 1455, 0"
+  },
+  {
+    "server-tick": 16113,
+    "gfx": 1243,
+    "pos": "8036, 1455, 0"
+  },
+  {
+    "server-tick": 16114,
+    "gfx": 1243,
+    "pos": "8038, 1455, 0",
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16115,
+    "gfx": 1243,
+    "pos": "8040, 1455, 0",
+    "projectiles": [
+      {
+        "id": 1242,
+        "heights": "226, 124",
+        "slope, duration": "16, 153"
+      }
+    ]
+  },
+  {
+    "server-tick": 16116,
+    "gfx": 1243,
+    "pos": "8040, 1453, 0"
+  },
+  {
+    "server-tick": 16117,
+    "gfx": 1243,
+    "pos": "8042, 1451, 0"
+  },
+  {
+    "server-tick": 16118,
+    "gfx": 1243,
+    "pos": "8044, 1449, 0"
+  },
+  {
+    "server-tick": 16119,
+    "gfx": 1243,
+    "pos": "8044, 1447, 0"
+  },
+  {
+    "server-tick": 16120,
+    "gfx": 1243,
+    "pos": "8044, 1445, 0",
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16121,
+    "gfx": 1243,
+    "pos": "8045, 1443, 0"
+  },
+  {
+    "server-tick": 16122,
+    "gfx": 1243,
+    "pos": "8047, 1441, 0"
+  },
+  {
+    "server-tick": 16123,
+    "gfx": 1243,
+    "pos": "8049, 1439, 0"
+  },
+  {
+    "server-tick": 16124,
+    "gfx": 1243,
+    "pos": "8049, 1441, 0"
+  },
+  {
+    "server-tick": 16125,
+    "animation": 390,
+    "gfx": 1243,
+    "pos": "8049, 1440, 0",
+    "interacting": {
+      "npc": "Awakened Altar (7290)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16126,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Awakened Altar (7290)"
+    },
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16127,
+    "gfx": 1243
+  },
+  {
+    "server-tick": 16128,
+    "gfx": 1243
+  },
+  {
+    "server-tick": 16129,
+    "gfx": 1243,
+    "pos": "8047, 1439, 0"
+  },
+  {
+    "server-tick": 16130,
+    "gfx": 1243,
+    "pos": "8045, 1438, 0"
+  },
+  {
+    "server-tick": 16131,
+    "gfx": 1243,
+    "pos": "8043, 1437, 0"
+  },
+  {
+    "server-tick": 16132,
+    "gfx": 1243,
+    "pos": "8043, 1435, 0",
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16133,
+    "gfx": 1243,
+    "pos": "8042, 1433, 0",
+    "projectiles": [
+      {
+        "id": 1242,
+        "heights": "226, 124",
+        "slope, duration": "16, 102"
+      }
+    ]
+  },
+  {
+    "server-tick": 16134,
+    "gfx": 1243,
+    "pos": "8040, 1431, 0"
+  },
+  {
+    "server-tick": 16135,
+    "gfx": 1243,
+    "pos": "8038, 1429, 0"
+  },
+  {
+    "server-tick": 16136,
+    "animation": 829,
+    "gfx": 1243,
+    "pos": "8036, 1427, 0",
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16137,
+    "animation": 829,
+    "gfx": 1243
+  },
+  {
+    "server-tick": 16138,
+    "animation": 829,
+    "gfx": 1243,
+    "pos": "8034, 1425, 0"
+  },
+  {
+    "server-tick": 16139,
+    "gfx": 1243,
+    "pos": "8034, 1424, 0",
+    "projectiles": [
+      {
+        "id": 1242,
+        "heights": "226, 124",
+        "slope, duration": "16, 121"
+      }
+    ]
+  },
+  {
+    "server-tick": 16140,
+    "animation": 390,
+    "gfx": 1243,
+    "pos": "8032, 1424, 0",
+    "interacting": {
+      "npc": "Awakened Altar (7292)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16141,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Awakened Altar (7292)"
+    }
+  },
+  {
+    "server-tick": 16142,
+    "gfx": 1243,
+    "pos": "8030, 1425, 0"
+  },
+  {
+    "server-tick": 16143,
+    "gfx": 1243,
+    "pos": "8028, 1425, 0",
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16144,
+    "gfx": 1243,
+    "pos": "8026, 1426, 0"
+  },
+  {
+    "server-tick": 16145,
+    "gfx": 1243,
+    "pos": "8024, 1426, 0"
+  },
+  {
+    "server-tick": 16146,
+    "gfx": 1243,
+    "pos": "8022, 1428, 0"
+  },
+  {
+    "server-tick": 16147,
+    "animation": 829,
+    "gfx": 1243,
+    "pos": "8020, 1430, 0",
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16148,
+    "animation": 829,
+    "gfx": 1243,
+    "pos": "8018, 1432, 0",
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16149,
+    "animation": 829,
+    "gfx": 1243,
+    "pos": "8016, 1434, 0",
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16152,
+    "gfx": 1243,
+    "pos": "8015, 1433, 0"
+  },
+  {
+    "server-tick": 16153,
+    "gfx": 1243,
+    "pos": "8015, 1435, 0"
+  },
+  {
+    "server-tick": 16154,
+    "gfx": 1243,
+    "pos": "8015, 1437, 0"
+  },
+  {
+    "server-tick": 16155,
+    "gfx": 1243,
+    "pos": "8015, 1439, 0"
+  },
+  {
+    "server-tick": 16156,
+    "animation": 829,
+    "gfx": 1243,
+    "pos": "8015, 1440, 0",
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16157,
+    "animation": 829,
+    "gfx": 1243,
+    "pos": "8017, 1440, 0",
+    "interacting": {
+      "npc": "Skotizo (7286)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16158,
+    "animation": 829,
+    "gfx": 1243,
+    "pos": "8015, 1440, 0",
+    "interacting": {
+      "npc": "Awakened Altar (7294)"
+    }
+  },
+  {
+    "server-tick": 16159,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Awakened Altar (7294)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16160,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Awakened Altar (7294)"
+    }
+  },
+  {
+    "server-tick": 16161,
+    "gfx": 1243,
+    "pos": "8015, 1442, 0"
+  },
+  {
+    "server-tick": 16162,
+    "gfx": 1243,
+    "pos": "8015, 1444, 0",
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16163,
+    "gfx": 1243,
+    "pos": "8017, 1444, 0"
+  },
+  {
+    "server-tick": 16164,
+    "gfx": 1243,
+    "pos": "8019, 1444, 0"
+  },
+  {
+    "server-tick": 16165,
+    "gfx": 1243,
+    "pos": "8021, 1444, 0"
+  },
+  {
+    "server-tick": 16166,
+    "gfx": 1243,
+    "pos": "8023, 1445, 0"
+  },
+  {
+    "server-tick": 16167,
+    "animation": 829,
+    "gfx": 1243,
+    "pos": "8025, 1447, 0",
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16168,
+    "animation": 829,
+    "gfx": 1243,
+    "pos": "8027, 1449, 0",
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16169,
+    "animation": 829,
+    "gfx": 1243,
+    "pos": "8029, 1451, 0"
+  },
+  {
+    "server-tick": 16170,
+    "pos": "8031, 1453, 0"
+  },
+  {
+    "server-tick": 16171,
+    "animation": 390,
+    "pos": "8030, 1455, 0",
+    "interacting": {
+      "npc": "Awakened Altar (7288)",
+      "animation": 1471
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16172,
+    "animation": 390,
+    "interacting": {
+      "npc": "Awakened Altar (7288)",
+      "animation": 1471
+    }
+  },
+  {
+    "server-tick": 16174,
+    "pos": "8032, 1455, 0"
+  },
+  {
+    "server-tick": 16175,
+    "pos": "8034, 1455, 0"
+  },
+  {
+    "server-tick": 16176,
+    "gfx": 1243,
+    "pos": "8036, 1455, 0"
+  },
+  {
+    "server-tick": 16177,
+    "gfx": 1243,
+    "pos": "8038, 1454, 0"
+  },
+  {
+    "server-tick": 16178,
+    "gfx": 1243,
+    "pos": "8040, 1453, 0"
+  },
+  {
+    "server-tick": 16179,
+    "gfx": 1243,
+    "pos": "8042, 1451, 0"
+  },
+  {
+    "server-tick": 16180,
+    "gfx": 1243,
+    "pos": "8044, 1449, 0"
+  },
+  {
+    "server-tick": 16181,
+    "gfx": 1243,
+    "pos": "8046, 1447, 0"
+  },
+  {
+    "server-tick": 16182,
+    "gfx": 1243,
+    "pos": "8046, 1445, 0",
+    "interacting": {
+      "npc": "Awakened Altar (7290)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16183,
+    "gfx": 1243,
+    "pos": "8046, 1443, 0",
+    "interacting": {
+      "npc": "Awakened Altar (7290)"
+    }
+  },
+  {
+    "server-tick": 16184,
+    "gfx": 1243,
+    "pos": "8048, 1441, 0",
+    "interacting": {
+      "npc": "Awakened Altar (7290)"
+    }
+  },
+  {
+    "server-tick": 16185,
+    "animation": 390,
+    "gfx": 1243,
+    "pos": "8049, 1440, 0",
+    "interacting": {
+      "npc": "Awakened Altar (7290)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16186,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Awakened Altar (7290)"
+    }
+  },
+  {
+    "server-tick": 16187,
+    "gfx": 1243,
+    "pos": "8047, 1440, 0"
+  },
+  {
+    "server-tick": 16188,
+    "gfx": 1243,
+    "pos": "8045, 1440, 0"
+  },
+  {
+    "server-tick": 16189,
+    "gfx": 1243,
+    "pos": "8043, 1440, 0",
+    "sounds": [
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16190,
+    "gfx": 1243,
+    "pos": "8041, 1440, 0"
+  },
+  {
+    "server-tick": 16191,
+    "gfx": 1243,
+    "pos": "8039, 1440, 0"
+  },
+  {
+    "server-tick": 16192,
+    "gfx": 1243,
+    "pos": "8037, 1440, 0"
+  },
+  {
+    "server-tick": 16193,
+    "animation": 390,
+    "gfx": 1243,
+    "pos": "8038, 1440, 0",
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16194,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16195,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4680
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16196,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4680
+    }
+  },
+  {
+    "server-tick": 16197,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16198,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16199,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    }
+  },
+  {
+    "server-tick": 16200,
+    "interacting": {
+      "npc": "Skotizo (7286)"
+    }
+  },
+  {
+    "server-tick": 16201,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4680
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16202,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4680
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16203,
+    "interacting": {
+      "npc": "Skotizo (7286)"
+    }
+  },
+  {
+    "server-tick": 16204,
+    "interacting": {
+      "npc": "Skotizo (7286)"
+    }
+  },
+  {
+    "server-tick": 16205,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16206,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16207,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4680
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2672, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16208,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4680
+    }
+  },
+  {
+    "server-tick": 16209,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16210,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16211,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16212,
+    "animation": 829
+  },
+  {
+    "server-tick": 16213,
+    "animation": 829
+  },
+  {
+    "server-tick": 16214,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4680
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16215,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4680
+    },
+    "sounds": [
+      {
+        "id, delay": "2676, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16216,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "3825, 0"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16217,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16218,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    }
+  },
+  {
+    "server-tick": 16219,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16220,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4680
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16221,
+    "animation": 390,
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16222,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16223,
+    "animation": 829
+  },
+  {
+    "server-tick": 16224,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16225,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16226,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4680
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16227,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4680
+    }
+  },
+  {
+    "server-tick": 16228,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16229,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16230,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    }
+  }
+]

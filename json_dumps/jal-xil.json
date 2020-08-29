@@ -1,0 +1,392 @@
+[
+  {
+    "server-tick": 1891,
+    "animation": 430
+  },
+  {
+    "server-tick": 1892,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "2843, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1377,
+        "heights": "0, 124",
+        "slope, duration": "16, 20"
+      },
+      {
+        "id": 1377,
+        "heights": "0, 124",
+        "slope, duration": "16, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 1893,
+    "animation": 430
+  },
+  {
+    "server-tick": 1894,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "598, 50"
+      }
+    ]
+  },
+  {
+    "server-tick": 1895,
+    "animation": 430,
+    "pos": "6678, 10654, 0"
+  },
+  {
+    "server-tick": 1896,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "2842, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 1898,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "598, 50"
+      }
+    ]
+  },
+  {
+    "server-tick": 1899,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Xil (7698)",
+      "animation": 7605
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1900,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Xil (7698)",
+      "animation": 7605
+    },
+    "projectiles": [
+      {
+        "id": 1377,
+        "heights": "0, 124",
+        "slope, duration": "16, 35"
+      },
+      {
+        "id": 1377,
+        "heights": "0, 124",
+        "slope, duration": "16, 35"
+      },
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 28"
+      }
+    ]
+  },
+  {
+    "server-tick": 1901,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Xil (7698)",
+      "animation": 7607
+    },
+    "sounds": [
+      {
+        "id, delay": "600, 0"
+      },
+      {
+        "id, delay": "2845, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1902,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Xil (7698)",
+      "animation": 7605
+    },
+    "sounds": [
+      {
+        "id, delay": "598, 50"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 29"
+      }
+    ]
+  },
+  {
+    "server-tick": 1903,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Xil (7698)",
+      "animation": 7605
+    },
+    "sounds": [
+      {
+        "id, delay": "600, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1904,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Xil (7698)",
+      "animation": 7605
+    }
+  },
+  {
+    "server-tick": 1905,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Xil (7698)"
+    },
+    "sounds": [
+      {
+        "id, delay": "600, 0"
+      },
+      {
+        "id, delay": "2843, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1906,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Xil (7698)",
+      "animation": 7605
+    },
+    "sounds": [
+      {
+        "id, delay": "598, 50"
+      }
+    ]
+  },
+  {
+    "server-tick": 1907,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Xil (7698)",
+      "animation": 7605
+    },
+    "sounds": [
+      {
+        "id, delay": "600, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1908,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Xil (7698)",
+      "animation": 7605
+    },
+    "projectiles": [
+      {
+        "id": 1377,
+        "heights": "0, 124",
+        "slope, duration": "16, 38"
+      },
+      {
+        "id": 1377,
+        "heights": "0, 124",
+        "slope, duration": "16, 38"
+      },
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 1909,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Xil (7698)",
+      "animation": 7605
+    },
+    "sounds": [
+      {
+        "id, delay": "600, 0"
+      },
+      {
+        "id, delay": "2842, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1910,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Xil (7698)",
+      "animation": 7605
+    },
+    "sounds": [
+      {
+        "id, delay": "598, 50"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 28"
+      }
+    ]
+  },
+  {
+    "server-tick": 1911,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Xil (7698)",
+      "animation": 7605
+    },
+    "sounds": [
+      {
+        "id, delay": "600, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1912,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Xil (7698)",
+      "animation": 7605
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 1913,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Xil (7698)",
+      "animation": 7607
+    },
+    "sounds": [
+      {
+        "id, delay": "600, 0"
+      },
+      {
+        "id, delay": "2841, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1914,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Xil (7698)",
+      "animation": 7605
+    },
+    "sounds": [
+      {
+        "id, delay": "598, 50"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 27"
+      }
+    ]
+  },
+  {
+    "server-tick": 1915,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Xil (7698)",
+      "animation": 7605
+    },
+    "sounds": [
+      {
+        "id, delay": "600, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1916,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Xil (7698)",
+      "animation": 7605
+    }
+  },
+  {
+    "server-tick": 1917,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Xil (7698)"
+    },
+    "sounds": [
+      {
+        "id, delay": "600, 0"
+      },
+      {
+        "id, delay": "2845, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 1918,
+    "sounds": [
+      {
+        "id, delay": "599, 0"
+      }
+    ]
+  }
+]

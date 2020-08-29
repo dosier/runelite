@@ -11,3 +11,8 @@ project.properties
 .vscode
 .factorypath
 json_dumps/Content/clip0039.avi
+*.txt
+*.jpg
+*.gif
+*.png
+*.txt

@@ -1,0 +1,278 @@
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 12, x: 4416, y: 4800
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 12, x: 4416, y: 4800
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 11, x: 4416, y: 4800
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 13, x: 4416, y: 4800
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 14, x: 4416, y: 4800
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 12, x: 4416, y: 4800
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 13, x: 4416, y: 4800
+SOUND 2454	 delay: 0
+PLAYER 'ex rs'	 animation: 1148
+PLAYER 'ex rs'	 animation: 1148
+PLAYER 'ex rs'	 animation: 1148
+SOUND 511	 delay: 20
+SOUND 446	 delay: 0
+PLAYER 'ex rs'	 animation: 7210, gfx: 98
+PLAYER 'ex rs'	 animation: 7210, gfx: 98
+SOUND 2677	 delay: 0
+PLAYER 'ex rs'	 animation: 7210
+GFX 140	level: 0, start_cycle: 4807369, x: 6848, y: 5696
+SOUND 860	 delay: 0
+SOUND 1464	 delay: 0
+PLAYER 'ex rs'	 animation: 7212
+GFX 140	level: 0, start_cycle: 4807369, x: 6848, y: 5696
+GFX 60	level: 0, start_cycle: 4807366, x: 6720, y: 5696
+SOUND 511	 delay: 20
+PLAYER 'ex rs'	 animation: 7212
+SOUND 511	 delay: 20
+SOUND 446	 delay: 0
+PLAYER 'ex rs'	 animation: 7210, gfx: 98
+PLAYER 'ex rs'	 animation: 7210, gfx: 98
+PLAYER 'ex rs'	 animation: 7210
+GFX 140	level: 0, start_cycle: 4807730, x: 6848, y: 5696
+SOUND 860	 delay: 0
+SOUND 1464	 delay: 0
+PLAYER 'ex rs'	 animation: 7212
+GFX 140	level: 0, start_cycle: 4807730, x: 6848, y: 5696
+GFX 60	level: 0, start_cycle: 4807725, x: 6720, y: 5696
+SOUND 511	 delay: 20
+PLAYER 'ex rs'	 animation: 7212
+SOUND 511	 delay: 20
+SOUND 446	 delay: 0
+PLAYER 'ex rs'	 animation: 7210, gfx: 98
+PLAYER 'ex rs'	 animation: 7210, gfx: 98
+PLAYER 'ex rs'	 animation: 7210
+SOUND 2663	 delay: 0
+SOUND 518	 delay: 20
+SOUND 521	 delay: 20
+GFX 140	level: 0, start_cycle: 4808449, x: 6848, y: 5696
+SOUND 860	 delay: 0
+SOUND 1464	 delay: 0
+PLAYER 'ex rs'	 animation: 7212
+GFX 140	level: 0, start_cycle: 4808449, x: 6848, y: 5696
+GFX 60	level: 0, start_cycle: 4808445, x: 6720, y: 5696
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 7212
+SOUND 518	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+SOUND 451	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+NPC 'Obor (7416)'	animation: 7183
+GFX 140	level: 0, start_cycle: 4808809, x: 6848, y: 5696
+SOUND 860	 delay: 0
+SOUND 1464	 delay: 0
+PLAYER 'ex rs'	 animation: 7212
+NPC 'Obor (7416)'	animation: 7183
+GFX 140	level: 0, start_cycle: 4808809, x: 6848, y: 5696
+GFX 60	level: 0, start_cycle: 4808804, x: 6720, y: 5696
+SOUND 511	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 7183
+SOUND 451	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 7183
+GFX 140	level: 0, start_cycle: 4808991, x: 6848, y: 5696
+SOUND 451	 delay: 0
+SOUND 860	 delay: 0
+SOUND 1464	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 7183
+GFX 140	level: 0, start_cycle: 4808991, x: 6848, y: 5696
+GFX 60	level: 0, start_cycle: 4808985, x: 6720, y: 5696
+SOUND 518	 delay: 20
+NPC 'Obor (7416)'	animation: 7183
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+SOUND 451	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+NPC 'Obor (7416)'	animation: 4666
+SOUND 511	 delay: 20
+NPC 'Obor (7416)'	animation: 4666
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4666
+SOUND 451	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 3825	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4666
+SOUND 451	 delay: 0
+SOUND 511	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4666
+NPC 'Obor (7416)'	animation: 4666
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+SOUND 451	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+PLAYER 'ex rs'	 animation: 1157
+PLAYER 'ex rs'	 animation: 1157
+SOUND 511	 delay: 20
+PLAYER 'ex rs'	 animation: 1157
+PLAYER 'ex rs'	 animation: 1157
+PLAYER 'ex rs'	 animation: 1157
+GFX 140	level: 0, start_cycle: 4809708, x: 6848, y: 5696
+SOUND 860	 delay: 0
+SOUND 1464	 delay: 0
+PLAYER 'ex rs'	 animation: 7212
+GFX 140	level: 0, start_cycle: 4809708, x: 6848, y: 5696
+GFX 60	level: 0, start_cycle: 4809735, x: 6080, y: 5696
+GFX 60	level: 0, start_cycle: 4809705, x: 6720, y: 5696
+GFX 60	level: 0, start_cycle: 4809711, x: 6592, y: 5696
+GFX 60	level: 0, start_cycle: 4809717, x: 6464, y: 5696
+GFX 60	level: 0, start_cycle: 4809723, x: 6336, y: 5696
+GFX 60	level: 0, start_cycle: 4809729, x: 6208, y: 5696
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 7212
+GFX 60	level: 0, start_cycle: 4809735, x: 6080, y: 5696
+PLAYER 'ex rs'	 animation: 7212
+GFX 140	level: 0, start_cycle: 4809893, x: 6848, y: 5696
+SOUND 860	 delay: 0
+SOUND 1464	 delay: 0
+PLAYER 'ex rs'	 animation: 7212
+GFX 140	level: 0, start_cycle: 4809893, x: 6848, y: 5696
+GFX 60	level: 0, start_cycle: 4809915, x: 6080, y: 5696
+GFX 60	level: 0, start_cycle: 4809885, x: 6720, y: 5696
+GFX 60	level: 0, start_cycle: 4809891, x: 6592, y: 5696
+GFX 60	level: 0, start_cycle: 4809897, x: 6464, y: 5696
+GFX 60	level: 0, start_cycle: 4809903, x: 6336, y: 5696
+GFX 60	level: 0, start_cycle: 4809909, x: 6208, y: 5696
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 7212
+GFX 60	level: 0, start_cycle: 4809915, x: 6080, y: 5696
+PLAYER 'ex rs'	 animation: 7212
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 7183
+GFX 140	level: 0, start_cycle: 4810070, x: 6848, y: 5696
+SOUND 2677	 delay: 0
+SOUND 451	 delay: 0
+SOUND 860	 delay: 0
+SOUND 1464	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 7183
+GFX 140	level: 0, start_cycle: 4810070, x: 6848, y: 5696
+GFX 60	level: 0, start_cycle: 4810065, x: 6720, y: 5696
+SOUND 518	 delay: 20
+NPC 'Obor (7416)'	animation: 7183
+SOUND 3120	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+SOUND 451	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+NPC 'Obor (7416)'	animation: 4666
+SOUND 511	 delay: 20
+SOUND 446	 delay: 0
+PLAYER 'ex rs'	 animation: 7210, gfx: 98
+NPC 'Obor (7416)'	animation: 4666
+PLAYER 'ex rs'	 animation: 7210, gfx: 98
+NPC 'Obor (7416)'	animation: 4666
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 7210
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+GFX 140	level: 0, start_cycle: 4810429, x: 6848, y: 5696
+SOUND 860	 delay: 0
+SOUND 1464	 delay: 0
+PLAYER 'ex rs'	 animation: 7212
+GFX 140	level: 0, start_cycle: 4810429, x: 6848, y: 5696
+GFX 60	level: 0, start_cycle: 4810425, x: 6720, y: 5696
+SOUND 511	 delay: 20
+PLAYER 'ex rs'	 animation: 7212
+SOUND 2713	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651, gfx: 341
+SOUND 451	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651, gfx: 341
+PLAYER 'ex rs'	 animation: 1157
+PLAYER 'ex rs'	 animation: 1157
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 1157
+PLAYER 'ex rs'	 animation: 1157
+PLAYER 'ex rs'	 animation: 1157
+SOUND 3424	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 4651
+SOUND 451	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Obor (7416)'	animation: 7183
+GFX 140	level: 0, start_cycle: 4810819, x: 7104, y: 5696
+SOUND 860	 delay: 0
+SOUND 1464	 delay: 0
+PLAYER 'ex rs'	 animation: 7212
+GFX 140	level: 0, start_cycle: 4810819, x: 7104, y: 5696
+GFX 60	level: 0, start_cycle: 4810815, x: 7232, y: 5696
+SOUND 450	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 7212
+SOUND 2582	 delay: 0
+SOUND 2582	 delay: 0
+SOUND 2582	 delay: 0
+SOUND 2454	 delay: 0
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 12, x: 7488, y: 6848
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 13, x: 7488, y: 6848
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 13, x: 7488, y: 6848
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 12, x: 7488, y: 6848
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 17, x: 8256, y: 6592
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 6, x: 8256, y: 6592
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 9, x: 8384, y: 6720
+PLAYER 'ex rs'	 animation: 829
+SOUND 2663	 delay: 0
+SOUND 2663	 delay: 0
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 12, x: 7744, y: 6592
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 14, x: 7744, y: 6592
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 7, x: 7744, y: 6592
+AREA_SOUND 193	 delay: 0, range: 4, sceneX: 71, sceneY: 53
+PLAYER 'ex rs'	 animation: 4847, gfx: 800
+PLAYER 'ex rs'	 animation: 4847, gfx: 800
+PLAYER 'ex rs'	 animation: 4847, gfx: 800
+PLAYER 'ex rs'	 animation: 4847, gfx: 800
+PLAYER 'ex rs'	 animation: 4847, gfx: 800
+PLAYER 'ex rs'	 animation: 4847, gfx: 800
+AREA_SOUND 196	 delay: 0, range: 4, sceneX: 71, sceneY: 53
+PLAYER 'ex rs'	 animation: 4850, gfx: 800
+PLAYER 'ex rs'	 animation: 4850, gfx: 800
+PLAYER 'ex rs'	 animation: 4850, gfx: 800
+PLAYER 'ex rs'	 animation: 4850, gfx: 800
+PLAYER 'ex rs'	 animation: 4850, gfx: 800
+PLAYER 'ex rs'	 animation: 4850, gfx: 800
+AREA_SOUND 194	 delay: 0, range: 4, sceneX: 71, sceneY: 53
+PLAYER 'ex rs'	 animation: 4853, gfx: 802
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 18, x: 7488, y: 6848
+PLAYER 'ex rs'	 animation: 4853, gfx: 802
+PLAYER 'ex rs'	 animation: 4853, gfx: 802
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 12, x: 7488, y: 6848
+PLAYER 'ex rs'	 animation: 4853, gfx: 802
+AREA_SOUND 195	 delay: 0, range: 4, sceneX: 71, sceneY: 53
+PLAYER 'ex rs'	 animation: 4855, gfx: 803
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 13, x: 7488, y: 6848
+PLAYER 'ex rs'	 animation: 4855, gfx: 803
+PLAYER 'ex rs'	 animation: 4855, gfx: 803
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 13, x: 7488, y: 6848
+PLAYER 'ex rs'	 animation: 4855, gfx: 803
+PLAYER 'ex rs'	 animation: 4857, gfx: 804
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 12, x: 7488, y: 6848
+PLAYER 'ex rs'	 animation: 4857, gfx: 804
+PLAYER 'ex rs'	 animation: 4857, gfx: 804
+PROJECTILE 229	startHeight: 11, endHeight: 144, slope: 15, duration: 13, x: 7488, y: 6848

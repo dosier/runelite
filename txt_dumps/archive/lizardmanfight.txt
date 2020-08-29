@@ -1,0 +1,87 @@
+AREA_SOUND 665	 delay: 20, range: 5, sceneX: 67, sceneY: 46
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 69, sceneY: 47
+AREA_SOUND 665	 delay: 20, range: 5, sceneX: 67, sceneY: 45
+NPC 'Lizardman shaman (7744)'	animation: 7193
+AREA_SOUND 1070	 delay: 0, range: 8, sceneX: 67, sceneY: 46
+AREA_SOUND 1021	 delay: 0, range: 8, sceneX: 67, sceneY: 46
+SOUND 520	 delay: 20
+AREA_SOUND 665	 delay: 20, range: 5, sceneX: 67, sceneY: 44
+AREA_SOUND 2548	 delay: 0, range: 6, sceneX: 69, sceneY: 47
+AREA_SOUND 1021	 delay: 0, range: 8, sceneX: 67, sceneY: 45
+SOUND 2393	 delay: 0
+SOUND 2958	 delay: 20
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+AREA_SOUND 1021	 delay: 0, range: 8, sceneX: 67, sceneY: 44
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+SOUND 2548	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+AREA_SOUND 2548	 delay: 0, range: 6, sceneX: 69, sceneY: 47
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2548	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+AREA_SOUND 3033	 delay: 0, range: 8, sceneX: 67, sceneY: 46
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 69, sceneY: 47
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PROJECTILE 1291	startHeight: 128, endHeight: 144, slope: 5, duration: 12, x: 8768, y: 6080
+AREA_SOUND 665	 delay: 20, range: 5, sceneX: 67, sceneY: 46
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2548	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman shaman (7744)'	animation: 7192
+AREA_SOUND 665	 delay: 20, range: 5, sceneX: 67, sceneY: 47
+NPC 'Lizardman shaman (7744)'	animation: 7192
+AREA_SOUND 1021	 delay: 0, range: 8, sceneX: 67, sceneY: 46
+SOUND 519	 delay: 20
+AREA_SOUND 665	 delay: 20, range: 5, sceneX: 67, sceneY: 48
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 69, sceneY: 47
+AREA_SOUND 1021	 delay: 0, range: 8, sceneX: 67, sceneY: 47
+SOUND 518	 delay: 20
+SOUND 2489	 delay: 0
+PLAYER 'ex rs'	 animation: 2594
+SOUND 2489	 delay: 0
+PLAYER 'ex rs'	 animation: 2595
+AREA_SOUND 1070	 delay: 0, range: 8, sceneX: 67, sceneY: 46
+AREA_SOUND 1021	 delay: 0, range: 8, sceneX: 67, sceneY: 48
+PLAYER 'ex rs'	 animation: 2595
+SOUND 2489	 delay: 0
+PLAYER 'ex rs'	 animation: 2594
+SOUND 2489	 delay: 0
+PLAYER 'ex rs'	 animation: 2595
+PLAYER 'ex rs'	 animation: 2595
+SOUND 2548	 delay: 0
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 68, sceneY: 46
+AREA_SOUND 1070	 delay: 0, range: 8, sceneX: 70, sceneY: 47
+SOUND 2489	 delay: 0
+PLAYER 'ex rs'	 animation: 2594
+SOUND 2489	 delay: 0
+PLAYER 'ex rs'	 animation: 2595
+PLAYER 'ex rs'	 animation: 2595
+AREA_SOUND 3033	 delay: 0, range: 8, sceneX: 67, sceneY: 46
+AREA_SOUND 665	 delay: 20, range: 5, sceneX: 67, sceneY: 46
+AREA_SOUND 665	 delay: 20, range: 5, sceneX: 67, sceneY: 45
+AREA_SOUND 1021	 delay: 0, range: 8, sceneX: 67, sceneY: 46
+AREA_SOUND 665	 delay: 20, range: 5, sceneX: 67, sceneY: 44
+AREA_SOUND 1021	 delay: 0, range: 8, sceneX: 67, sceneY: 45

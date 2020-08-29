@@ -1,0 +1,86 @@
+[
+  {
+    "server-tick": 14568,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Death spawn (10)",
+      "animation": 1542
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14569,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Death spawn (10)",
+      "animation": 1540
+    },
+    "sounds": [
+      {
+        "id, delay": "884, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14570,
+    "interacting": {
+      "npc": "Death spawn (10)"
+    }
+  },
+  {
+    "server-tick": 14571,
+    "interacting": {
+      "npc": "Death spawn (10)",
+      "animation": 1542,
+      "gfx": 363
+    }
+  },
+  {
+    "server-tick": 14572,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Death spawn (10)",
+      "animation": 1542
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14573,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Death spawn (10)",
+      "animation": 1540
+    },
+    "sounds": [
+      {
+        "id, delay": "884, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14574,
+    "sounds": [
+      {
+        "id, delay": "882, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14576,
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  }
+]

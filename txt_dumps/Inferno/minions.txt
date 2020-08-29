@@ -1,0 +1,189 @@
+SOUND 595	 delay: 0
+SOUND 3528	 delay: 68
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Ak (7693)'	animation: 7581
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 24, x: 6464, y: 6976
+AREA_SOUND 595	 delay: 0, range: 7, sceneX: 57, sceneY: 55
+SOUND 597	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Ak (7693)'	animation: 7585
+SOUND 2845	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Ak (7693)'	animation: 7585
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 23, x: 6464, y: 6976
+SOUND 597	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Ak (7693)'	animation: 7585
+SOUND 596	 delay: 0
+AREA_SOUND 595	 delay: 0, range: 7, sceneX: 57, sceneY: 55
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Mej (7694)'	animation: 7585
+AREA_SOUND 595	 delay: 0, range: 7, sceneX: 57, sceneY: 55
+SOUND 3403	 delay: 72
+SOUND 595	 delay: 0
+SOUND 3528	 delay: 60
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Mej (7694)'	animation: 7581
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6464, y: 6976
+PROJECTILE 1379	startHeight: 32, endHeight: 124, slope: 16, duration: 72, x: 5824, y: 6720
+SOUND 597	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Mej (7694)'	animation: 7585
+SOUND 595	 delay: 0
+SOUND 2841	 delay: 20
+SOUND 2845	 delay: 20
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Mej (7694)'	animation: 7585
+SOUND 597	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Mej (7694)'	animation: 7585
+AREA_SOUND 595	 delay: 0, range: 7, sceneX: 57, sceneY: 55
+SOUND 3403	 delay: 72
+SOUND 596	 delay: 0
+PLAYER 'ex rs'	 animation: 430
+PROJECTILE 1379	startHeight: 32, endHeight: 124, slope: 16, duration: 72, x: 5824, y: 6720
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Ket (7696)'	animation: 7585
+SOUND 595	 delay: 0
+SOUND 2845	 delay: 20
+SOUND 2845	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Ket (7696)'	animation: 7582
+SOUND 597	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Ket (7696)'	animation: 7585
+AREA_SOUND 595	 delay: 0, range: 7, sceneX: 57, sceneY: 55
+SOUND 3403	 delay: 72
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Ket (7696)'	animation: 7585
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6464, y: 6976
+PROJECTILE 1379	startHeight: 32, endHeight: 124, slope: 16, duration: 72, x: 5824, y: 6720
+SOUND 597	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Ket (7696)'	animation: 7585
+SOUND 595	 delay: 0
+SOUND 2842	 delay: 20
+SOUND 2845	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 6464, y: 6976
+SOUND 597	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Ket (7696)'	animation: 7585
+SOUND 3403	 delay: 56
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Ket (7696)'	animation: 7585
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6208, y: 6976
+PROJECTILE 1379	startHeight: 32, endHeight: 124, slope: 16, duration: 56, x: 5824, y: 6720
+SOUND 597	 delay: 0
+SOUND 2845	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Nib (7691)'	animation: 7574
+SOUND 595	 delay: 0
+SOUND 2841	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Nib (7691)'	animation: 7575
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Nib (7691)'	animation: 7575
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 27, x: 6720, y: 6976
+AREA_SOUND 595	 delay: 0, range: 7, sceneX: 57, sceneY: 55
+SOUND 3403	 delay: 88
+SOUND 597	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Nib (7691)'	animation: 7575
+PROJECTILE 1379	startHeight: 32, endHeight: 124, slope: 16, duration: 88, x: 5824, y: 6720
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 30, x: 6720, y: 6976
+SOUND 595	 delay: 0
+SOUND 597	 delay: 0
+SOUND 2845	 delay: 20
+SOUND 2844	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+SOUND 596	 delay: 0
+SOUND 3403	 delay: 88
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Ket (7696)'	animation: 7585
+PROJECTILE 1379	startHeight: 32, endHeight: 124, slope: 16, duration: 88, x: 5824, y: 6720
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Ket (7696)'	animation: 7585
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6720, y: 6976
+SOUND 597	 delay: 0
+SOUND 595	 delay: 0
+SOUND 2843	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Ket (7696)'	animation: 7582
+SOUND 596	 delay: 0
+SOUND 3403	 delay: 88
+PLAYER 'ex rs'	 animation: 430
+PROJECTILE 1379	startHeight: 32, endHeight: 124, slope: 16, duration: 88, x: 5824, y: 6720
+PLAYER 'ex rs'	 animation: 430
+SOUND 2845	 delay: 20
+PLAYER 'ex rs'	 animation: 430
+PLAYER 'ex rs'	 animation: 430
+SOUND 3403	 delay: 64
+PLAYER 'ex rs'	 animation: 430
+PROJECTILE 1379	startHeight: 32, endHeight: 124, slope: 16, duration: 64, x: 5824, y: 6720
+PLAYER 'ex rs'	 animation: 430
+SOUND 2841	 delay: 20
+PLAYER 'ex rs'	 animation: 430
+SOUND 3403	 delay: 48
+PLAYER 'ex rs'	 animation: 430
+PROJECTILE 1379	startHeight: 32, endHeight: 124, slope: 16, duration: 48, x: 5824, y: 6720
+SOUND 2841	 delay: 20
+PLAYER 'ex rs'	 animation: 430
+PLAYER 'ex rs'	 animation: 430
+PLAYER 'ex rs'	 animation: 430
+SOUND 3403	 delay: 40
+PLAYER 'ex rs'	 animation: 430
+PROJECTILE 1379	startHeight: 32, endHeight: 124, slope: 16, duration: 40, x: 5824, y: 6720
+SOUND 2845	 delay: 20
+PLAYER 'ex rs'	 animation: 430
+SOUND 3403	 delay: 40
+PLAYER 'ex rs'	 animation: 430
+PROJECTILE 1379	startHeight: 32, endHeight: 124, slope: 16, duration: 40, x: 5824, y: 6720
+SOUND 2841	 delay: 20
+PLAYER 'ex rs'	 animation: 430
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Xil (7695)'	animation: 7585
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Xil (7695)'	animation: 7585
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 5952, y: 6720
+SOUND 597	 delay: 0
+SOUND 3403	 delay: 40
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Xil (7695)'	animation: 7585
+PROJECTILE 1379	startHeight: 32, endHeight: 124, slope: 16, duration: 40, x: 5824, y: 6720
+SOUND 2844	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 5952, y: 6720
+SOUND 597	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Xil (7695)'	animation: 7585
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Xil (7695)'	animation: 7585
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 10, x: 5952, y: 6720
+SOUND 597	 delay: 0
+SOUND 3403	 delay: 40
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-AkRek-Xil (7695)'	animation: 7585
+PROJECTILE 1379	startHeight: 32, endHeight: 124, slope: 16, duration: 40, x: 5824, y: 6720
+SOUND 2845	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 5952, y: 6720
+SOUND 597	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+SOUND 596	 delay: 0

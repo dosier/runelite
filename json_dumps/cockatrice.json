@@ -1,0 +1,559 @@
+[
+  {
+    "server-tick": 6047,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1560
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6048,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1562
+    },
+    "sounds": [
+      {
+        "id, delay": "365, 0"
+      },
+      {
+        "id, delay": "363, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6049,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1562
+    }
+  },
+  {
+    "server-tick": 6050,
+    "interacting": {
+      "npc": "Cockatrice (419)"
+    }
+  },
+  {
+    "server-tick": 6051,
+    "pos": "2786, 10034, 0"
+  },
+  {
+    "server-tick": 6052,
+    "animation": 425,
+    "pos": "2785, 10034, 0",
+    "sounds": [
+      {
+        "id, delay": "363, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6053,
+    "animation": 425
+  },
+  {
+    "server-tick": 6054,
+    "animation": 425
+  },
+  {
+    "server-tick": 6056,
+    "animation": 425,
+    "sounds": [
+      {
+        "id, delay": "363, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6057,
+    "animation": 425
+  },
+  {
+    "server-tick": 6058,
+    "animation": 425,
+    "pos": "2787, 10034, 0",
+    "interacting": {
+      "npc": "Cockatrice (419)"
+    }
+  },
+  {
+    "server-tick": 6059,
+    "animation": 1658,
+    "pos": "2788, 10034, 0",
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1560
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6060,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1562
+    },
+    "sounds": [
+      {
+        "id, delay": "365, 0"
+      },
+      {
+        "id, delay": "363, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6061,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1562
+    }
+  },
+  {
+    "server-tick": 6062,
+    "interacting": {
+      "npc": "Cockatrice (419)"
+    }
+  },
+  {
+    "server-tick": 6063,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1560
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6064,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1562
+    },
+    "sounds": [
+      {
+        "id, delay": "365, 0"
+      },
+      {
+        "id, delay": "363, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6065,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1562
+    }
+  },
+  {
+    "server-tick": 6066,
+    "interacting": {
+      "npc": "Cockatrice (419)"
+    }
+  },
+  {
+    "server-tick": 6067,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1560
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6068,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1562
+    },
+    "sounds": [
+      {
+        "id, delay": "365, 0"
+      },
+      {
+        "id, delay": "363, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6069,
+    "interacting": {
+      "npc": "Cockatrice (419)"
+    }
+  },
+  {
+    "server-tick": 6070,
+    "interacting": {
+      "npc": "Cockatrice (419)"
+    }
+  },
+  {
+    "server-tick": 6071,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1560
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6072,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1562
+    },
+    "sounds": [
+      {
+        "id, delay": "365, 0"
+      },
+      {
+        "id, delay": "363, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6073,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1562
+    }
+  },
+  {
+    "server-tick": 6074,
+    "interacting": {
+      "npc": "Cockatrice (419)"
+    }
+  },
+  {
+    "server-tick": 6075,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1560
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6076,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1562
+    },
+    "sounds": [
+      {
+        "id, delay": "365, 0"
+      },
+      {
+        "id, delay": "363, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6077,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1562
+    }
+  },
+  {
+    "server-tick": 6078,
+    "interacting": {
+      "npc": "Cockatrice (419)"
+    }
+  },
+  {
+    "server-tick": 6079,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1560
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6080,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1562
+    },
+    "sounds": [
+      {
+        "id, delay": "365, 0"
+      },
+      {
+        "id, delay": "363, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6081,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6082,
+    "animation": 829
+  },
+  {
+    "server-tick": 6083,
+    "animation": 829
+  },
+  {
+    "server-tick": 6084,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1562
+    },
+    "sounds": [
+      {
+        "id, delay": "363, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6085,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1562
+    },
+    "sounds": [
+      {
+        "id, delay": "365, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6086,
+    "interacting": {
+      "npc": "Cockatrice (419)"
+    }
+  },
+  {
+    "server-tick": 6087,
+    "interacting": {
+      "npc": "Cockatrice (419)"
+    }
+  },
+  {
+    "server-tick": 6088,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1562
+    },
+    "sounds": [
+      {
+        "id, delay": "363, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6089,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1562
+    },
+    "sounds": [
+      {
+        "id, delay": "365, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6090,
+    "interacting": {
+      "npc": "Cockatrice (419)"
+    }
+  },
+  {
+    "server-tick": 6091,
+    "interacting": {
+      "npc": "Cockatrice (419)"
+    }
+  },
+  {
+    "server-tick": 6092,
+    "animation": 425,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "363, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6093,
+    "animation": 425
+  },
+  {
+    "server-tick": 6094,
+    "animation": 425
+  },
+  {
+    "server-tick": 6095,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6096,
+    "animation": 425,
+    "sounds": [
+      {
+        "id, delay": "363, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6097,
+    "animation": 425
+  },
+  {
+    "server-tick": 6098,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6099,
+    "animation": 829
+  },
+  {
+    "server-tick": 6100,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1562
+    },
+    "sounds": [
+      {
+        "id, delay": "363, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6101,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cockatrice (419)",
+      "animation": 1562
+    },
+    "sounds": [
+      {
+        "id, delay": "365, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6102,
+    "sounds": [
+      {
+        "id, delay": "364, 0"
+      }
+    ]
+  }
+]

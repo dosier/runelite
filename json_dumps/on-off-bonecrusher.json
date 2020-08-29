@@ -1,0 +1,646 @@
+[
+  {
+    "server-tick": 31407,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "infantile297"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 60,
+        "source": "Nevala"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 55,
+        "source": "LobCityLos"
+      }
+    ]
+  },
+  {
+    "server-tick": 31408,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 60,
+        "source": "Nevala"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 50,
+        "sceneY": 58,
+        "source": "haykovic"
+      },
+      {
+        "id": 3767,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 50,
+        "sceneY": 59,
+        "source": "Henkenbergn"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 60,
+        "source": "Nevala"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 50,
+        "sceneY": 58,
+        "source": "haykovic"
+      },
+      {
+        "id": 3766,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 50,
+        "sceneY": 59,
+        "source": "Henkenbergn"
+      }
+    ]
+  },
+  {
+    "server-tick": 31409,
+    "area-sounds": [
+      {
+        "id": 3768,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 54,
+        "sceneY": 55,
+        "source": "scoochainz"
+      },
+      {
+        "id": 3769,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 50,
+        "sceneY": 59,
+        "source": "Henkenbergn"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 50,
+        "sceneY": 58,
+        "source": "haykovic"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "Vinniespure"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "infantile297"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "975, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 31410,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "Vinniespure"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "infantile297"
+      },
+      {
+        "id": 3768,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 50,
+        "sceneY": 59,
+        "source": "Henkenbergn"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "Vinniespure"
+      }
+    ]
+  },
+  {
+    "server-tick": 31411,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "infantile297"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 60,
+        "source": "Nevala"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 60,
+        "source": "Nevala"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 50,
+        "sceneY": 58,
+        "source": "haykovic"
+      }
+    ]
+  },
+  {
+    "server-tick": 31412,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 60,
+        "source": "Nevala"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 50,
+        "sceneY": 58,
+        "source": "haykovic"
+      }
+    ]
+  },
+  {
+    "server-tick": 31413,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 50,
+        "sceneY": 58,
+        "source": "haykovic"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "Vinniespure"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "infantile297"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "Vinniespure"
+      }
+    ]
+  },
+  {
+    "server-tick": 31414,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "infantile297"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "Vinniespure"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "infantile297"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 60,
+        "source": "Nevala"
+      }
+    ]
+  },
+  {
+    "server-tick": 31415,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 60,
+        "source": "Nevala"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 50,
+        "sceneY": 58,
+        "source": "haykovic"
+      }
+    ]
+  },
+  {
+    "server-tick": 31416,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 60,
+        "source": "Nevala"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 50,
+        "sceneY": 58,
+        "source": "haykovic"
+      },
+      {
+        "id": 3767,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 54,
+        "sceneY": 55,
+        "source": "scoochainz"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 50,
+        "sceneY": 58,
+        "source": "haykovic"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "Vinniespure"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "974, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 31417,
+    "area-sounds": [
+      {
+        "id": 3766,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 54,
+        "sceneY": 55,
+        "source": "scoochainz"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "infantile297"
+      },
+      {
+        "id": 3769,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 54,
+        "sceneY": 55,
+        "source": "scoochainz"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "Vinniespure"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "infantile297"
+      }
+    ]
+  },
+  {
+    "server-tick": 31418,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "Vinniespure"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "infantile297"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 60,
+        "source": "Nevala"
+      }
+    ]
+  },
+  {
+    "server-tick": 31419,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 60,
+        "source": "Nevala"
+      },
+      {
+        "id": 3768,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 54,
+        "sceneY": 55,
+        "source": "scoochainz"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 50,
+        "sceneY": 58,
+        "source": "haykovic"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 60,
+        "source": "Nevala"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 50,
+        "sceneY": 58,
+        "source": "haykovic"
+      }
+    ]
+  },
+  {
+    "server-tick": 31420,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 50,
+        "sceneY": 58,
+        "source": "haykovic"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "Vinniespure"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "infantile297"
+      }
+    ]
+  },
+  {
+    "server-tick": 31421,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "Vinniespure"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "infantile297"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "Vinniespure"
+      }
+    ]
+  },
+  {
+    "server-tick": 31422,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "infantile297"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 60,
+        "source": "Nevala"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 60,
+        "source": "Nevala"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 50,
+        "sceneY": 58,
+        "source": "haykovic"
+      }
+    ]
+  },
+  {
+    "server-tick": 31423,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 60,
+        "source": "Nevala"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 50,
+        "sceneY": 58,
+        "source": "haykovic"
+      }
+    ]
+  },
+  {
+    "server-tick": 31424,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 50,
+        "sceneY": 58,
+        "source": "haykovic"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "Vinniespure"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "infantile297"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 55,
+        "sceneY": 57,
+        "source": "Vinniespure"
+      }
+    ]
+  }
+]

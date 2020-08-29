@@ -1,0 +1,215 @@
+[
+  {
+    "server-tick": 3218,
+    "pos": "10903, 12391, 0",
+    "interacting": {
+      "npc": "Tok-Xil (3121)",
+      "animation": 2633
+    },
+    "sounds": [
+      {
+        "id, delay": "601, 15"
+      }
+    ]
+  },
+  {
+    "server-tick": 3219,
+    "animation": 5061,
+    "pos": "10903, 12389, 0",
+    "interacting": {
+      "npc": "Tok-Xil (3121)",
+      "animation": 2633
+    },
+    "sounds": [
+      {
+        "id, delay": "1184, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 443,
+        "heights": "32, 124",
+        "slope, duration": "16, 84"
+      }
+    ]
+  },
+  {
+    "server-tick": 3220,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tok-Xil (3121)",
+      "animation": 2633
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 27"
+      }
+    ]
+  },
+  {
+    "server-tick": 3221,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tok-Xil (3121)",
+      "animation": 2629
+    },
+    "sounds": [
+      {
+        "id, delay": "600, 0"
+      },
+      {
+        "id, delay": "2844, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3222,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tok-Xil (3121)",
+      "animation": 2633
+    },
+    "sounds": [
+      {
+        "id, delay": "601, 15"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 27"
+      }
+    ]
+  },
+  {
+    "server-tick": 3223,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tok-Xil (3121)",
+      "animation": 2633
+    },
+    "sounds": [
+      {
+        "id, delay": "600, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 443,
+        "heights": "32, 124",
+        "slope, duration": "16, 50"
+      }
+    ]
+  },
+  {
+    "server-tick": 3224,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tok-Xil (3121)",
+      "animation": 2633
+    },
+    "sounds": [
+      {
+        "id, delay": "1184, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 27"
+      }
+    ]
+  },
+  {
+    "server-tick": 3225,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tok-Xil (3121)",
+      "animation": 2629
+    },
+    "sounds": [
+      {
+        "id, delay": "600, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3226,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tok-Xil (3121)",
+      "animation": 2633
+    },
+    "sounds": [
+      {
+        "id, delay": "601, 15"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 27"
+      }
+    ]
+  },
+  {
+    "server-tick": 3227,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tok-Xil (3121)",
+      "animation": 2633
+    },
+    "sounds": [
+      {
+        "id, delay": "600, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 443,
+        "heights": "32, 124",
+        "slope, duration": "16, 49"
+      }
+    ]
+  },
+  {
+    "server-tick": 3228,
+    "interacting": {
+      "npc": "Tok-Xil (3121)",
+      "animation": 2630
+    },
+    "sounds": [
+      {
+        "id, delay": "599, 0"
+      },
+      {
+        "id, delay": "1184, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3229,
+    "sounds": [
+      {
+        "id, delay": "2663, 0"
+      }
+    ]
+  }
+]

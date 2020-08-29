@@ -1,0 +1,69 @@
+[
+  {
+    "server-tick": 813,
+    "pos": "3163, 9546, 0"
+  },
+  {
+    "server-tick": 814,
+    "pos": "3161, 9546, 0"
+  },
+  {
+    "server-tick": 816,
+    "animation": 1809,
+    "sounds": [
+      {
+        "id, delay": "893, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 817,
+    "animation": 1810
+  },
+  {
+    "server-tick": 818,
+    "animation": 1810
+  },
+  {
+    "server-tick": 819,
+    "animation": 1810
+  },
+  {
+    "server-tick": 820,
+    "animation": 1810
+  },
+  {
+    "server-tick": 821,
+    "animation": 1810
+  },
+  {
+    "server-tick": 822,
+    "animation": 1810
+  },
+  {
+    "server-tick": 823,
+    "animation": 1810
+  },
+  {
+    "server-tick": 824,
+    "animation": 1810
+  },
+  {
+    "server-tick": 825,
+    "animation": 1811,
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 843,
+    "animation": 1809,
+    "sounds": [
+      {
+        "id, delay": "893, 0"
+      }
+    ]
+  }
+]

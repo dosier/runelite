@@ -1,0 +1,87 @@
+[
+  {
+    "server-tick": 9044,
+    "pos": "6491, 9498, 0"
+  },
+  {
+    "server-tick": 9045,
+    "animation": 5061,
+    "pos": "6490, 9498, 0",
+    "interacting": {
+      "npc": "Jal-Nib (7691)",
+      "animation": 7575
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9046,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Nib (7691)",
+      "animation": 7574
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 9047,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Nib (7691)",
+      "animation": 7575
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9048,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Nib (7691)",
+      "animation": 7575
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9049,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Nib (7691)",
+      "animation": 7575
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9050,
+    "sounds": [
+      {
+        "id, delay": "596, 0"
+      }
+    ]
+  }
+]

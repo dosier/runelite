@@ -1,0 +1,46 @@
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Kourend head guard (7017)'	animation: 388
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Kourend head guard (7017)'	animation: 388
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Kourend head guard (7017)'	animation: 390
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Kourend head guard (7017)'	animation: 390
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2500	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Kourend head guard (7017)'	animation: 390
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Kourend head guard (7017)'	animation: 390
+SOUND 1979	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2500	 delay: 0
+SOUND 520	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Kourend head guard (7017)'	animation: 390
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Kourend head guard (7017)'	animation: 390
+SOUND 1979	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2500	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Kourend head guard (7017)'	animation: 390
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Kourend head guard (7017)'	animation: 390
+SOUND 1979	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2500	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Kourend head guard (7017)'	animation: 390
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Kourend head guard (7017)'	animation: 390
+SOUND 1979	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 512	 delay: 0

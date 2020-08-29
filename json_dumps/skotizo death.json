@@ -1,0 +1,399 @@
+[
+  {
+    "server-tick": 16584,
+    "animation": 1156,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 69
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16585,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16586,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16587,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16588,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Skotizo (7286)"
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16589,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16590,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4680
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      },
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16591,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4680
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16592,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Skotizo (7286)"
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16593,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16594,
+    "animation": 390,
+    "interacting": {
+      "npc": "Skotizo (7286)",
+      "animation": 4676
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16595,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Dark Ankou (7296)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "403, 0"
+      },
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16596,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Dark Ankou (7296)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16597,
+    "animation": 390,
+    "interacting": {
+      "npc": "Dark Ankou (7296)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16598,
+    "animation": 390,
+    "interacting": {
+      "npc": "Dark Ankou (7296)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16599,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Dark Ankou (7296)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16600,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Dark Ankou (7296)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16601,
+    "animation": 390,
+    "interacting": {
+      "npc": "Dark Ankou (7296)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16602,
+    "animation": 390,
+    "interacting": {
+      "npc": "Dark Ankou (7296)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16603,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Dark Ankou (7296)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16604,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Dark Ankou (7296)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16605,
+    "animation": 390,
+    "interacting": {
+      "npc": "Dark Ankou (7296)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16606,
+    "animation": 390,
+    "interacting": {
+      "npc": "Dark Ankou (7296)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16607,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Dark Ankou (7296)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  }
+]

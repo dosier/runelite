@@ -1,0 +1,754 @@
+[
+  {
+    "server-tick": 5028,
+    "interacting": {
+      "npc": "Shifter (1697)"
+    },
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 42"
+      }
+    ]
+  },
+  {
+    "server-tick": 5029,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Shifter (1697)",
+      "animation": 3901
+    },
+    "sounds": [
+      {
+        "id, delay": "766, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 75"
+      },
+      {
+        "id": 13,
+        "heights": "11, 144",
+        "slope, duration": "15, 32"
+      }
+    ]
+  },
+  {
+    "server-tick": 5030,
+    "animation": 390,
+    "interacting": {
+      "npc": "Shifter (1697)",
+      "animation": 3901
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 82"
+      },
+      {
+        "id": 9,
+        "heights": "11, 144",
+        "slope, duration": "15, 36"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 50"
+      }
+    ]
+  },
+  {
+    "server-tick": 5031,
+    "animation": 390,
+    "interacting": {
+      "npc": "Shifter (1697)"
+    },
+    "sounds": [
+      {
+        "id, delay": "768, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5032,
+    "interacting": {
+      "npc": "Shifter (1697)"
+    },
+    "projectiles": [
+      {
+        "id": 213,
+        "heights": "11, 144",
+        "slope, duration": "15, 24"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 23"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 20"
+      },
+      {
+        "id": 13,
+        "heights": "11, 144",
+        "slope, duration": "15, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 5033,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Shifter (1697)",
+      "animation": 3901
+    },
+    "sounds": [
+      {
+        "id, delay": "766, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 75"
+      },
+      {
+        "id": 9,
+        "heights": "11, 144",
+        "slope, duration": "15, 37"
+      }
+    ]
+  },
+  {
+    "server-tick": 5034,
+    "animation": 390,
+    "interacting": {
+      "npc": "Shifter (1697)",
+      "animation": 3901
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5035,
+    "animation": 390,
+    "interacting": {
+      "npc": "Shifter (1697)",
+      "animation": 3901
+    },
+    "sounds": [
+      {
+        "id, delay": "768, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 102"
+      }
+    ]
+  },
+  {
+    "server-tick": 5036,
+    "interacting": {
+      "npc": "Shifter (1697)"
+    },
+    "projectiles": [
+      {
+        "id": 213,
+        "heights": "11, 144",
+        "slope, duration": "15, 17"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 46"
+      },
+      {
+        "id": 9,
+        "heights": "11, 144",
+        "slope, duration": "15, 46"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 5037,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Shifter (1697)",
+      "animation": 3901
+    },
+    "sounds": [
+      {
+        "id, delay": "766, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5038,
+    "animation": 390,
+    "interacting": {
+      "npc": "Shifter (1697)",
+      "animation": 3901
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 213,
+        "heights": "11, 144",
+        "slope, duration": "15, 13"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5039,
+    "animation": 390,
+    "interacting": {
+      "npc": "Shifter (1697)",
+      "animation": 3901
+    },
+    "sounds": [
+      {
+        "id, delay": "768, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 9,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 98"
+      }
+    ]
+  },
+  {
+    "server-tick": 5040,
+    "interacting": {
+      "npc": "Shifter (1697)"
+    },
+    "projectiles": [
+      {
+        "id": 11,
+        "heights": "11, 144",
+        "slope, duration": "5, 22"
+      },
+      {
+        "id": 11,
+        "heights": "11, 144",
+        "slope, duration": "25, 36"
+      },
+      {
+        "id": 213,
+        "heights": "11, 144",
+        "slope, duration": "15, 8"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 3"
+      }
+    ]
+  },
+  {
+    "server-tick": 5041,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Shifter (1697)",
+      "animation": 3901
+    },
+    "sounds": [
+      {
+        "id, delay": "766, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 46"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      },
+      {
+        "id": 13,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 5042,
+    "animation": 390,
+    "interacting": {
+      "npc": "Shifter (1697)",
+      "animation": 3901
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 40"
+      },
+      {
+        "id": 213,
+        "heights": "11, 144",
+        "slope, duration": "15, 6"
+      },
+      {
+        "id": 9,
+        "heights": "11, 144",
+        "slope, duration": "15, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5043,
+    "animation": 390,
+    "interacting": {
+      "npc": "Shifter (1697)",
+      "animation": 3901
+    },
+    "sounds": [
+      {
+        "id, delay": "768, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 31"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 98"
+      }
+    ]
+  },
+  {
+    "server-tick": 5044,
+    "interacting": {
+      "npc": "Shifter (1697)"
+    },
+    "projectiles": [
+      {
+        "id": 13,
+        "heights": "11, 144",
+        "slope, duration": "15, 17"
+      }
+    ]
+  },
+  {
+    "server-tick": 5045,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Shifter (1697)",
+      "animation": 3901
+    },
+    "sounds": [
+      {
+        "id, delay": "766, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 78"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 70"
+      }
+    ]
+  },
+  {
+    "server-tick": 5046,
+    "animation": 390,
+    "interacting": {
+      "npc": "Shifter (1697)",
+      "animation": 3901
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      },
+      {
+        "id": 213,
+        "heights": "11, 144",
+        "slope, duration": "15, 7"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 46"
+      }
+    ]
+  },
+  {
+    "server-tick": 5047,
+    "animation": 390,
+    "interacting": {
+      "npc": "Shifter (1697)",
+      "animation": 3901
+    },
+    "sounds": [
+      {
+        "id, delay": "768, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 41"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 30"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 97"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 25"
+      }
+    ]
+  },
+  {
+    "server-tick": 5048,
+    "interacting": {
+      "npc": "Shifter (1697)"
+    },
+    "projectiles": [
+      {
+        "id": 213,
+        "heights": "11, 144",
+        "slope, duration": "15, 7"
+      },
+      {
+        "id": 9,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 5049,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Shifter (1697)",
+      "animation": 3901
+    },
+    "sounds": [
+      {
+        "id, delay": "766, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 75"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 67"
+      }
+    ]
+  },
+  {
+    "server-tick": 5050,
+    "animation": 390,
+    "interacting": {
+      "npc": "Shifter (1697)",
+      "animation": 3901
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      },
+      {
+        "id": 213,
+        "heights": "11, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 5051,
+    "animation": 390,
+    "interacting": {
+      "npc": "Shifter (1697)",
+      "animation": 3901
+    },
+    "sounds": [
+      {
+        "id, delay": "768, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 11,
+        "heights": "11, 144",
+        "slope, duration": "5, 47"
+      },
+      {
+        "id": 11,
+        "heights": "11, 144",
+        "slope, duration": "25, 86"
+      },
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 28"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 43"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 47"
+      },
+      {
+        "id": 9,
+        "heights": "11, 144",
+        "slope, duration": "15, 42"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 32"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 99"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 5052,
+    "sounds": [
+      {
+        "id, delay": "767, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5053,
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 29"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 76"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 52"
+      }
+    ]
+  },
+  {
+    "server-tick": 5054,
+    "projectiles": [
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 37"
+      },
+      {
+        "id": 9,
+        "heights": "11, 144",
+        "slope, duration": "15, 32"
+      }
+    ]
+  },
+  {
+    "server-tick": 5055,
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 26"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 46"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 102"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 14"
+      }
+    ]
+  },
+  {
+    "server-tick": 5056,
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 1"
+      },
+      {
+        "id": 213,
+        "heights": "11, 144",
+        "slope, duration": "15, 6"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 1"
+      }
+    ]
+  },
+  {
+    "server-tick": 5057,
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 44"
+      },
+      {
+        "id": 9,
+        "heights": "11, 144",
+        "slope, duration": "15, 34"
+      }
+    ]
+  },
+  {
+    "server-tick": 5058,
+    "projectiles": [
+      {
+        "id": 213,
+        "heights": "11, 144",
+        "slope, duration": "15, 9"
+      }
+    ]
+  },
+  {
+    "server-tick": 5059,
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 98"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      }
+    ]
+  }
+]

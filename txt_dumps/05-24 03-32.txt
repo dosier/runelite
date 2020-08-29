@@ -1,5 +1,0 @@
-SOUND 2248	 delay: 0
-SOUND 2538	 delay: 0
-PLAYER 'Wildy Slayer'	 animation: 7393, gfx: 246
-PLAYER 'Wildy Slayer'	 animation: 7393, gfx: 246
-PLAYER 'Wildy Slayer'	 animation: 7393, gfx: 246

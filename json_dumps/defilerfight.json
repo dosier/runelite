@@ -1,0 +1,834 @@
+[
+  {
+    "server-tick": 5407,
+    "interacting": {
+      "npc": "Defiler (1729)"
+    },
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 58"
+      }
+    ]
+  },
+  {
+    "server-tick": 5408,
+    "animation": 1156,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Defiler (1729)",
+      "animation": 3920
+    },
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 5409,
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Defiler (1729)",
+      "animation": 3920
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 20"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 76"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 4"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 4"
+      }
+    ]
+  },
+  {
+    "server-tick": 5410,
+    "animation": 390,
+    "interacting": {
+      "npc": "Defiler (1729)",
+      "animation": 3920
+    },
+    "sounds": [
+      {
+        "id, delay": "394, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 18"
+      }
+    ]
+  },
+  {
+    "server-tick": 5411,
+    "interacting": {
+      "npc": "Defiler (1729)"
+    }
+  },
+  {
+    "server-tick": 5412,
+    "animation": 1156,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Defiler (1729)",
+      "animation": 3920
+    },
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 17"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 9"
+      }
+    ]
+  },
+  {
+    "server-tick": 5413,
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Defiler (1729)",
+      "animation": 3920
+    },
+    "sounds": [
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 21"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 77"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 5"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 5"
+      }
+    ]
+  },
+  {
+    "server-tick": 5414,
+    "animation": 390,
+    "interacting": {
+      "npc": "Defiler (1729)"
+    },
+    "sounds": [
+      {
+        "id, delay": "394, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 5415,
+    "interacting": {
+      "npc": "Defiler (1729)"
+    },
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 14"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 14"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 22"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 62"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 54"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 14"
+      }
+    ]
+  },
+  {
+    "server-tick": 5416,
+    "animation": 1156,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Defiler (1729)",
+      "animation": 3920
+    },
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 12"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 5417,
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Defiler (1729)",
+      "animation": 3920
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5418,
+    "animation": 390,
+    "interacting": {
+      "npc": "Defiler (1729)",
+      "animation": 3921
+    },
+    "sounds": [
+      {
+        "id, delay": "394, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 76"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5419,
+    "interacting": {
+      "npc": "Defiler (1729)",
+      "animation": 3921
+    },
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 11"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 75"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 11"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 19"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 51"
+      }
+    ]
+  },
+  {
+    "server-tick": 5420,
+    "animation": 1156,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Defiler (1729)",
+      "animation": 3920
+    },
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 26"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 5421,
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Defiler (1729)",
+      "animation": 3920
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5422,
+    "animation": 390,
+    "interacting": {
+      "npc": "Defiler (1729)"
+    },
+    "sounds": [
+      {
+        "id, delay": "394, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 77"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 5423,
+    "interacting": {
+      "npc": "Defiler (1729)",
+      "animation": 3921
+    },
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 50"
+      }
+    ]
+  },
+  {
+    "server-tick": 5424,
+    "animation": 1156,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Defiler (1729)",
+      "animation": 3920
+    }
+  },
+  {
+    "server-tick": 5425,
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Defiler (1729)",
+      "animation": 3920
+    },
+    "sounds": [
+      {
+        "id, delay": "2962, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 13"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 77"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 5"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 5"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 69"
+      }
+    ]
+  },
+  {
+    "server-tick": 5426,
+    "animation": 390,
+    "interacting": {
+      "npc": "Defiler (1729)"
+    },
+    "sounds": [
+      {
+        "id, delay": "394, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 5427,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Defiler (1729)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5428,
+    "animation": 1156,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Defiler (1729)",
+      "animation": 3920
+    },
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 17"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 17"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 49"
+      }
+    ]
+  },
+  {
+    "server-tick": 5429,
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Defiler (1729)",
+      "animation": 3920
+    },
+    "sounds": [
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5430,
+    "animation": 390,
+    "interacting": {
+      "npc": "Defiler (1729)"
+    },
+    "sounds": [
+      {
+        "id, delay": "394, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 17"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 1"
+      }
+    ]
+  },
+  {
+    "server-tick": 5431,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Defiler (1729)"
+    },
+    "sounds": [
+      {
+        "id, delay": "766, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 11"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 75"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 19"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 43"
+      }
+    ]
+  },
+  {
+    "server-tick": 5432,
+    "animation": 1156,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Defiler (1729)",
+      "animation": 3920
+    },
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 26"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 42"
+      }
+    ]
+  },
+  {
+    "server-tick": 5433,
+    "animation": 390,
+    "gfx": 657,
+    "interacting": {
+      "npc": "Defiler (1729)",
+      "animation": 3920
+    },
+    "sounds": [
+      {
+        "id, delay": "2959, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5434,
+    "animation": 390,
+    "interacting": {
+      "npc": "Defiler (1729)",
+      "animation": 3922
+    },
+    "sounds": [
+      {
+        "id, delay": "394, 0"
+      },
+      {
+        "id, delay": "393, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 18"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 5435,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "766, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 14"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 46"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 78"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 22"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 46"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 54"
+      }
+    ]
+  },
+  {
+    "server-tick": 5436,
+    "animation": 1156,
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 42"
+      }
+    ]
+  },
+  {
+    "server-tick": 5437,
+    "animation": 1156,
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      }
+    ]
+  },
+  {
+    "server-tick": 5439,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "766, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 12"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 44"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 76"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 20"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 44"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 5440,
+    "animation": 1156
+  }
+]

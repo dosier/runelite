@@ -1,0 +1,648 @@
+[
+  {
+    "server-tick": 1577,
+    "animation": 1156
+  },
+  {
+    "server-tick": 1578,
+    "animation": 1156
+  },
+  {
+    "server-tick": 1579,
+    "animation": 1156
+  },
+  {
+    "server-tick": 1580,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 12,
+        "heights": "11, 144",
+        "slope, duration": "15, 32"
+      }
+    ]
+  },
+  {
+    "server-tick": 1581,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 1582,
+    "animation": 1156
+  },
+  {
+    "server-tick": 1583,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Zamorak warrior (7419)",
+      "animation": 388
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1584,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Zamorak warrior (7419)",
+      "animation": 390
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 0"
+      },
+      {
+        "id, delay": "2500, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 12,
+        "heights": "11, 144",
+        "slope, duration": "15, 33"
+      }
+    ]
+  },
+  {
+    "server-tick": 1585,
+    "interacting": {
+      "npc": "Zamorak warrior (7419)",
+      "animation": 390
+    },
+    "sounds": [
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 1586,
+    "interacting": {
+      "npc": "Zamorak warrior (7419)"
+    }
+  },
+  {
+    "server-tick": 1587,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Zamorak warrior (7419)",
+      "animation": 388
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1588,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Zamorak warrior (7419)",
+      "animation": 390
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 0"
+      },
+      {
+        "id, delay": "2500, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 12,
+        "heights": "11, 144",
+        "slope, duration": "15, 31"
+      }
+    ]
+  },
+  {
+    "server-tick": 1589,
+    "interacting": {
+      "npc": "Zamorak warrior (7419)",
+      "animation": 390
+    },
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 1590,
+    "interacting": {
+      "npc": "Zamorak warrior (7419)"
+    }
+  },
+  {
+    "server-tick": 1591,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Zamorak warrior (7419)",
+      "animation": 388
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1592,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Zamorak warrior (7419)",
+      "animation": 390
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 0"
+      },
+      {
+        "id, delay": "2500, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 12,
+        "heights": "11, 144",
+        "slope, duration": "15, 29"
+      }
+    ]
+  },
+  {
+    "server-tick": 1593,
+    "interacting": {
+      "npc": "Zamorak warrior (7419)",
+      "animation": 390
+    },
+    "sounds": [
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 1594,
+    "interacting": {
+      "npc": "Zamorak warrior (7419)"
+    }
+  },
+  {
+    "server-tick": 1595,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Zamorak warrior (7419)",
+      "animation": 388
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1596,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Zamorak warrior (7419)",
+      "animation": 390
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 0"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 12,
+        "heights": "11, 144",
+        "slope, duration": "15, 30"
+      }
+    ]
+  },
+  {
+    "server-tick": 1597,
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 1599,
+    "animation": 1658,
+    "pos": "3013, 5603, 0",
+    "interacting": {
+      "npc": "Zamorak ranger (7420)",
+      "animation": 426
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1600,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)",
+      "animation": 426
+    },
+    "sounds": [
+      {
+        "id, delay": "24, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 12,
+        "heights": "11, 144",
+        "slope, duration": "15, 32"
+      }
+    ]
+  },
+  {
+    "server-tick": 1601,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)"
+    },
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 1602,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)"
+    }
+  },
+  {
+    "server-tick": 1603,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)",
+      "animation": 426
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1604,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)",
+      "animation": 426
+    },
+    "sounds": [
+      {
+        "id, delay": "24, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 12,
+        "heights": "11, 144",
+        "slope, duration": "15, 24"
+      }
+    ]
+  },
+  {
+    "server-tick": 1605,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)",
+      "animation": 426
+    }
+  },
+  {
+    "server-tick": 1606,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)"
+    }
+  },
+  {
+    "server-tick": 1607,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)",
+      "animation": 426
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1608,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)",
+      "animation": 426
+    },
+    "sounds": [
+      {
+        "id, delay": "24, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 12,
+        "heights": "11, 144",
+        "slope, duration": "15, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 1609,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)"
+    }
+  },
+  {
+    "server-tick": 1610,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)"
+    }
+  },
+  {
+    "server-tick": 1611,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)",
+      "animation": 426
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1612,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)",
+      "animation": 426
+    },
+    "sounds": [
+      {
+        "id, delay": "24, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 12,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 1613,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)"
+    }
+  },
+  {
+    "server-tick": 1614,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)"
+    }
+  },
+  {
+    "server-tick": 1615,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)",
+      "animation": 426
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1616,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)",
+      "animation": 426
+    },
+    "sounds": [
+      {
+        "id, delay": "24, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 12,
+        "heights": "11, 144",
+        "slope, duration": "15, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 1617,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)"
+    }
+  },
+  {
+    "server-tick": 1618,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)"
+    }
+  },
+  {
+    "server-tick": 1619,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)",
+      "animation": 426
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1620,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Zamorak ranger (7420)",
+      "animation": 426
+    },
+    "sounds": [
+      {
+        "id, delay": "24, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 12,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 1621,
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1625,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave lizard (7424)",
+      "animation": 3856
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1626,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave lizard (7424)",
+      "animation": 3856
+    },
+    "sounds": [
+      {
+        "id, delay": "607, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1627,
+    "interacting": {
+      "npc": "Cave lizard (7424)",
+      "animation": 3856
+    }
+  },
+  {
+    "server-tick": 1628,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Cave lizard (7424)",
+      "animation": 3855
+    },
+    "sounds": [
+      {
+        "id, delay": "605, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 1629,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave lizard (7424)",
+      "animation": 3855
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1630,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave lizard (7424)"
+    },
+    "sounds": [
+      {
+        "id, delay": "607, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1631,
+    "interacting": {
+      "npc": "Cave lizard (7424)"
+    }
+  },
+  {
+    "server-tick": 1632,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Cave lizard (7424)",
+      "animation": 3855
+    },
+    "sounds": [
+      {
+        "id, delay": "605, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  }
+]

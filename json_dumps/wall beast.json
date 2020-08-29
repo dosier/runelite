@@ -1,0 +1,322 @@
+[
+  {
+    "server-tick": 13385,
+    "pos": "3162, 9573, 0"
+  },
+  {
+    "server-tick": 13387,
+    "sounds": [
+      {
+        "id, delay": "895, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 13391,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "897, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 13392,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2249, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 13393,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Wall beast (476)",
+      "animation": 1803
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 13394,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Wall beast (476)",
+      "animation": 1803
+    },
+    "sounds": [
+      {
+        "id, delay": "896, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 13395,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Wall beast (476)",
+      "animation": 1802
+    },
+    "sounds": [
+      {
+        "id, delay": "897, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 13396,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Wall beast (476)"
+    }
+  },
+  {
+    "server-tick": 13397,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Wall beast (476)",
+      "animation": 1803
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 13398,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Wall beast (476)",
+      "animation": 1803
+    },
+    "sounds": [
+      {
+        "id, delay": "896, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 13399,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Wall beast (476)",
+      "animation": 1802
+    },
+    "sounds": [
+      {
+        "id, delay": "897, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 13400,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Wall beast (476)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1792, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 13401,
+    "animation": 1156,
+    "pos": "3163, 9573, 0"
+  },
+  {
+    "server-tick": 13403,
+    "animation": 1658,
+    "pos": "3162, 9573, 0",
+    "interacting": {
+      "npc": "Wall beast (476)",
+      "animation": 1803
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 13404,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Wall beast (476)",
+      "animation": 1803
+    },
+    "sounds": [
+      {
+        "id, delay": "896, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 13405,
+    "interacting": {
+      "npc": "Wall beast (476)"
+    }
+  },
+  {
+    "server-tick": 13406,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Wall beast (476)",
+      "animation": 1802
+    },
+    "sounds": [
+      {
+        "id, delay": "897, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 13407,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Wall beast (476)",
+      "animation": 1803
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 13408,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Wall beast (476)",
+      "animation": 1803
+    },
+    "sounds": [
+      {
+        "id, delay": "896, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 13409,
+    "interacting": {
+      "npc": "Wall beast (476)"
+    }
+  },
+  {
+    "server-tick": 13410,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Wall beast (476)",
+      "animation": 1802
+    },
+    "sounds": [
+      {
+        "id, delay": "897, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 13411,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Wall beast (476)",
+      "animation": 1803
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 13412,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Wall beast (476)",
+      "animation": 1803
+    },
+    "sounds": [
+      {
+        "id, delay": "896, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 13413,
+    "interacting": {
+      "npc": "Wall beast (476)"
+    }
+  },
+  {
+    "server-tick": 13414,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Wall beast (476)",
+      "animation": 1802
+    },
+    "sounds": [
+      {
+        "id, delay": "897, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 13415,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Wall beast (476)",
+      "animation": 1803
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 13416,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Wall beast (476)",
+      "animation": 1803
+    },
+    "sounds": [
+      {
+        "id, delay": "896, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 13417,
+    "sounds": [
+      {
+        "id, delay": "894, 0"
+      }
+    ]
+  }
+]

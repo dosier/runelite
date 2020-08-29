@@ -1,0 +1,252 @@
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 38, sceneY: 10
+AREA_SOUND 847	 delay: 0, range: 10, sceneX: 39, sceneY: 13
+AREA_SOUND 158	 delay: 0, range: 10, sceneX: 39, sceneY: 13
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 3136, y: 4288
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 6720, y: 2752
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 8000, y: 1984
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 58, x: 8128, y: 4032
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 38, sceneY: 10
+AREA_SOUND 392	 delay: 0, range: 5, sceneX: 48, sceneY: 24
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PLAYER 'Lou Grinder'	 animation: 1156, gfx: 657
+NPC 'Defiler (1729)'	animation: 3920
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 23, x: 6336, y: 4416
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+SOUND 2960	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390, gfx: 657
+NPC 'Defiler (1729)'	animation: 3920
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 20, x: 5184, y: 1728
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 76, x: 6208, y: 2752
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 4, x: 6336, y: 3264
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 4, x: 7872, y: 2112
+SOUND 394	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Defiler (1729)'	animation: 3920
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 6080, y: 2752
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 18, x: 8128, y: 1984
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 847	 delay: 0, range: 10, sceneX: 39, sceneY: 13
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 392	 delay: 0, range: 5, sceneX: 48, sceneY: 24
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PLAYER 'Lou Grinder'	 animation: 1156, gfx: 657
+NPC 'Defiler (1729)'	animation: 3920
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 17, x: 5184, y: 1856
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 9, x: 8000, y: 1856
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+SOUND 2958	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390, gfx: 657
+NPC 'Defiler (1729)'	animation: 3920
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 21, x: 5184, y: 1728
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 77, x: 6208, y: 2752
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 5, x: 6336, y: 3264
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 5, x: 7872, y: 2112
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+SOUND 394	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 22, x: 6336, y: 4416
+AREA_SOUND 847	 delay: 0, range: 10, sceneX: 39, sceneY: 13
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 14, x: 3136, y: 4288
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 14, x: 8000, y: 1984
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 22, x: 8128, y: 1856
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 62, x: 8128, y: 4032
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 54, x: 8256, y: 3904
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 14, x: 8640, y: 4288
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 392	 delay: 0, range: 5, sceneX: 48, sceneY: 24
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PLAYER 'Lou Grinder'	 animation: 1156, gfx: 657
+NPC 'Defiler (1729)'	animation: 3920
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 12, x: 5184, y: 1856
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 12, x: 8000, y: 1856
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+SOUND 2960	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390, gfx: 657
+NPC 'Defiler (1729)'	animation: 3920
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+SOUND 394	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Defiler (1729)'	animation: 3921
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 76, x: 6080, y: 2752
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 20, x: 8128, y: 1984
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 847	 delay: 0, range: 10, sceneX: 39, sceneY: 13
+AREA_SOUND 158	 delay: 0, range: 10, sceneX: 39, sceneY: 13
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+NPC 'Defiler (1729)'	animation: 3921
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 11, x: 3136, y: 4288
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 75, x: 6080, y: 2752
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 11, x: 8000, y: 1984
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 19, x: 8128, y: 1856
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 51, x: 8256, y: 3904
+AREA_SOUND 392	 delay: 0, range: 5, sceneX: 48, sceneY: 24
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PLAYER 'Lou Grinder'	 animation: 1156, gfx: 657
+NPC 'Defiler (1729)'	animation: 3920
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 5184, y: 1856
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 26, x: 6336, y: 4416
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 26, x: 9024, y: 3648
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+SOUND 2960	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390, gfx: 657
+NPC 'Defiler (1729)'	animation: 3920
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+SOUND 394	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 77, x: 6080, y: 2752
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 21, x: 8128, y: 1984
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 847	 delay: 0, range: 10, sceneX: 39, sceneY: 13
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+NPC 'Defiler (1729)'	animation: 3921
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 3136, y: 4288
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 6080, y: 2752
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 8000, y: 1984
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 8128, y: 1856
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 50, x: 8256, y: 3904
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 392	 delay: 0, range: 5, sceneX: 48, sceneY: 24
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PLAYER 'Lou Grinder'	 animation: 1156, gfx: 657
+NPC 'Defiler (1729)'	animation: 3920
+AREA_SOUND 810	 delay: 0, range: 10, sceneX: 39, sceneY: 17
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+SOUND 2962	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390, gfx: 657
+NPC 'Defiler (1729)'	animation: 3920
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 13, x: 5184, y: 1728
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 77, x: 6208, y: 2752
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 5, x: 6336, y: 3264
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 5, x: 7872, y: 2112
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 69, x: 9024, y: 4032
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+SOUND 394	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 23, x: 6336, y: 4416
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 847	 delay: 0, range: 10, sceneX: 39, sceneY: 13
+AREA_SOUND 811	 delay: 0, range: 10, sceneX: 39, sceneY: 16
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+SOUND 2958	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 392	 delay: 0, range: 5, sceneX: 48, sceneY: 24
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PLAYER 'Lou Grinder'	 animation: 1156, gfx: 657
+NPC 'Defiler (1729)'	animation: 3920
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 17, x: 3136, y: 4288
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 17, x: 5184, y: 1856
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 49, x: 9024, y: 3648
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+SOUND 2958	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390, gfx: 657
+NPC 'Defiler (1729)'	animation: 3920
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+SOUND 394	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 73, x: 6208, y: 2752
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 17, x: 8128, y: 1984
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 1, x: 9024, y: 3904
+AREA_SOUND 847	 delay: 0, range: 10, sceneX: 39, sceneY: 13
+AREA_SOUND 158	 delay: 0, range: 10, sceneX: 39, sceneY: 13
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+SOUND 766	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 11, x: 3136, y: 4288
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 75, x: 6080, y: 2752
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 19, x: 8384, y: 1856
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 43, x: 8256, y: 3904
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 392	 delay: 0, range: 5, sceneX: 48, sceneY: 24
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PLAYER 'Lou Grinder'	 animation: 1156, gfx: 657
+NPC 'Defiler (1729)'	animation: 3920
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 3136, y: 4288
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 5184, y: 1856
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 26, x: 6336, y: 4416
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 42, x: 9024, y: 3648
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 810	 delay: 0, range: 10, sceneX: 40, sceneY: 17
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+SOUND 2959	 delay: 20
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390, gfx: 657
+NPC 'Defiler (1729)'	animation: 3920
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+SOUND 394	 delay: 0
+SOUND 393	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Defiler (1729)'	animation: 3922
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 6208, y: 2752
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 18, x: 8128, y: 1984
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 2, x: 9024, y: 3904
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 847	 delay: 0, range: 10, sceneX: 39, sceneY: 13
+AREA_SOUND 810	 delay: 0, range: 10, sceneX: 41, sceneY: 17
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+SOUND 766	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 14, x: 3136, y: 4288
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 46, x: 3392, y: 4928
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 78, x: 6080, y: 2752
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 22, x: 8384, y: 1856
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 46, x: 8256, y: 3904
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 54, x: 9152, y: 4032
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PLAYER 'Lou Grinder'	 animation: 1156
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 3136, y: 4288
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 5184, y: 1856
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 42, x: 9024, y: 3648
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PLAYER 'Lou Grinder'	 animation: 1156
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 5184, y: 1728
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 6720, y: 2752
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 847	 delay: 0, range: 10, sceneX: 39, sceneY: 13
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+SOUND 766	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 12, x: 3136, y: 4288
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 44, x: 3392, y: 4928
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 76, x: 6080, y: 2752
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 20, x: 8384, y: 1856
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 44, x: 8256, y: 3904
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 60, x: 9152, y: 4032
+AREA_SOUND 3812	 delay: 0, range: 15, sceneX: 62, sceneY: 11
+AREA_SOUND 65535	 delay: 0, range: 10, sceneX: 48, sceneY: 32
+PLAYER 'Lou Grinder'	 animation: 1156

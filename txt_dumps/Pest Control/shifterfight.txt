@@ -1,0 +1,136 @@
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 42, x: 8000, y: 1984
+SOUND 766	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Shifter (1697)'	animation: 3901
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 75, x: 6720, y: 2752
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 32, x: 8000, y: 3008
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Shifter (1697)'	animation: 3901
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 82, x: 5312, y: 1856
+PROJECTILE 9	startHeight: 11, endHeight: 144, slope: 15, duration: 36, x: 6336, y: 3776
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 50, x: 8000, y: 1856
+SOUND 768	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+PROJECTILE 213	startHeight: 11, endHeight: 144, slope: 15, duration: 24, x: 4928, y: 2624
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 23, x: 5184, y: 1344
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 20, x: 8000, y: 1984
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 23, x: 8000, y: 3008
+SOUND 766	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Shifter (1697)'	animation: 3901
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 75, x: 6720, y: 2752
+PROJECTILE 9	startHeight: 11, endHeight: 144, slope: 15, duration: 37, x: 6336, y: 3776
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Shifter (1697)'	animation: 3901
+SOUND 768	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Shifter (1697)'	animation: 3901
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 102, x: 7744, y: 4160
+PROJECTILE 213	startHeight: 11, endHeight: 144, slope: 15, duration: 17, x: 5184, y: 2624
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 46, x: 7104, y: 1728
+PROJECTILE 9	startHeight: 11, endHeight: 144, slope: 15, duration: 46, x: 6336, y: 3776
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 2, x: 7872, y: 1984
+SOUND 766	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Shifter (1697)'	animation: 3901
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Shifter (1697)'	animation: 3901
+PROJECTILE 213	startHeight: 11, endHeight: 144, slope: 15, duration: 13, x: 5184, y: 2624
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 0, x: 8000, y: 1856
+SOUND 768	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Shifter (1697)'	animation: 3901
+PROJECTILE 9	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 6336, y: 3776
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 98, x: 7744, y: 4160
+PROJECTILE 11	startHeight: 11, endHeight: 144, slope: 5, duration: 22, x: 4544, y: 2752
+PROJECTILE 11	startHeight: 11, endHeight: 144, slope: 25, duration: 36, x: 4544, y: 2752
+PROJECTILE 213	startHeight: 11, endHeight: 144, slope: 15, duration: 8, x: 5184, y: 2624
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 3, x: 7872, y: 1984
+SOUND 766	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Shifter (1697)'	animation: 3901
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 46, x: 7104, y: 1728
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 6720, y: 2752
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 8000, y: 3008
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Shifter (1697)'	animation: 3901
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 40, x: 5184, y: 1344
+PROJECTILE 213	startHeight: 11, endHeight: 144, slope: 15, duration: 6, x: 5184, y: 2624
+PROJECTILE 9	startHeight: 11, endHeight: 144, slope: 15, duration: 20, x: 6336, y: 3776
+SOUND 768	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Shifter (1697)'	animation: 3901
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 31, x: 6208, y: 4672
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 98, x: 7744, y: 4160
+PROJECTILE 13	startHeight: 11, endHeight: 144, slope: 15, duration: 17, x: 8000, y: 3008
+SOUND 766	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Shifter (1697)'	animation: 3901
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 78, x: 6720, y: 2752
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 70, x: 8128, y: 1856
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Shifter (1697)'	animation: 3901
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 5184, y: 1344
+PROJECTILE 213	startHeight: 11, endHeight: 144, slope: 15, duration: 7, x: 5184, y: 2624
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 46, x: 7104, y: 1728
+SOUND 768	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Shifter (1697)'	animation: 3901
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 41, x: 5568, y: 2112
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 30, x: 6208, y: 4672
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 97, x: 7744, y: 4160
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 25, x: 8000, y: 4800
+PROJECTILE 213	startHeight: 11, endHeight: 144, slope: 15, duration: 7, x: 5184, y: 2624
+PROJECTILE 9	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 6336, y: 3776
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 2, x: 7872, y: 1984
+SOUND 766	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Shifter (1697)'	animation: 3901
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 75, x: 6720, y: 2752
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 67, x: 8128, y: 1856
+SOUND 2500	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Shifter (1697)'	animation: 3901
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 5184, y: 1344
+PROJECTILE 213	startHeight: 11, endHeight: 144, slope: 15, duration: 7, x: 5184, y: 2624
+SOUND 768	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 390
+NPC 'Shifter (1697)'	animation: 3901
+PROJECTILE 11	startHeight: 11, endHeight: 144, slope: 5, duration: 47, x: 4672, y: 1856
+PROJECTILE 11	startHeight: 11, endHeight: 144, slope: 25, duration: 86, x: 4672, y: 1856
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 28, x: 4672, y: 2112
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 43, x: 5568, y: 2112
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 47, x: 7104, y: 1728
+PROJECTILE 9	startHeight: 11, endHeight: 144, slope: 15, duration: 42, x: 6336, y: 3776
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 32, x: 6208, y: 4672
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 99, x: 7744, y: 4160
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 11, x: 8000, y: 4800
+SOUND 767	 delay: 0
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 29, x: 4672, y: 2112
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 76, x: 6720, y: 2752
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 52, x: 8128, y: 1856
+PROJECTILE 696	startHeight: 11, endHeight: 144, slope: 5, duration: 37, x: 5184, y: 1344
+PROJECTILE 9	startHeight: 11, endHeight: 144, slope: 15, duration: 32, x: 6336, y: 3776
+PROJECTILE 230	startHeight: 105, endHeight: 144, slope: 15, duration: 26, x: 4672, y: 2112
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 46, x: 5568, y: 2112
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 102, x: 7744, y: 4160
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 14, x: 8000, y: 4800
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 1, x: 5312, y: 2368
+PROJECTILE 213	startHeight: 11, endHeight: 144, slope: 15, duration: 6, x: 5184, y: 2624
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 1, x: 7872, y: 1984
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 44, x: 7104, y: 1728
+PROJECTILE 9	startHeight: 11, endHeight: 144, slope: 15, duration: 34, x: 6336, y: 3776
+PROJECTILE 213	startHeight: 11, endHeight: 144, slope: 15, duration: 9, x: 5184, y: 2624
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 98, x: 7744, y: 4160
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 10, x: 8000, y: 4800

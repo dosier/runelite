@@ -1,0 +1,1780 @@
+[
+  {
+    "server-tick": 25346,
+    "pos": "3264, 3913, 0"
+  },
+  {
+    "server-tick": 25347,
+    "pos": "3264, 3915, 0",
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 157"
+      }
+    ]
+  },
+  {
+    "server-tick": 25348,
+    "animation": 7552,
+    "pos": "3264, 3917, 0",
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25349,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 52"
+      }
+    ]
+  },
+  {
+    "server-tick": 25350,
+    "animation": 7552,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 556
+    }
+  },
+  {
+    "server-tick": 25351,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "sounds": [
+      {
+        "id, delay": "351, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 79"
+      }
+    ]
+  },
+  {
+    "server-tick": 25352,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    }
+  },
+  {
+    "server-tick": 25353,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25354,
+    "animation": 7552,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 556
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 50"
+      }
+    ]
+  },
+  {
+    "server-tick": 25355,
+    "animation": 7552,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 81"
+      }
+    ]
+  },
+  {
+    "server-tick": 25356,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "351, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25357,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25358,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      },
+      {
+        "id, delay": "2913, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 25359,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 758
+    },
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 79"
+      },
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 50"
+      }
+    ]
+  },
+  {
+    "server-tick": 25360,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "gfx": 758
+    }
+  },
+  {
+    "server-tick": 25361,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "351, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25362,
+    "animation": 1156,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 556
+    }
+  },
+  {
+    "server-tick": 25363,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 80"
+      }
+    ]
+  },
+  {
+    "server-tick": 25364,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 51"
+      }
+    ]
+  },
+  {
+    "server-tick": 25365,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25366,
+    "animation": 1156,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 556
+    },
+    "sounds": [
+      {
+        "id, delay": "351, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25367,
+    "animation": 1156,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 79"
+      }
+    ]
+  },
+  {
+    "server-tick": 25368,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25369,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2958, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 51"
+      }
+    ]
+  },
+  {
+    "server-tick": 25370,
+    "animation": 7552,
+    "gfx": 558,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25371,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "sounds": [
+      {
+        "id, delay": "351, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 80"
+      }
+    ]
+  },
+  {
+    "server-tick": 25372,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    }
+  },
+  {
+    "server-tick": 25373,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25374,
+    "animation": 1156,
+    "gfx": 558,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25375,
+    "animation": 1156,
+    "gfx": 558,
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 80"
+      }
+    ]
+  },
+  {
+    "server-tick": 25376,
+    "animation": 1156,
+    "gfx": 558
+  },
+  {
+    "server-tick": 25377,
+    "animation": 1156,
+    "gfx": 558,
+    "pos": "3264, 3919, 0",
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25378,
+    "animation": 1156,
+    "gfx": 555,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 553
+    }
+  },
+  {
+    "server-tick": 25379,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 554,
+        "heights": "64, 128",
+        "slope, duration": "16, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 25380,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 25381,
+    "animation": 7552
+  },
+  {
+    "server-tick": 25382,
+    "animation": 1156,
+    "gfx": 558,
+    "pos": "3256, 3909, 0",
+    "sounds": [
+      {
+        "id, delay": "351, 0"
+      },
+      {
+        "id, delay": "346, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25383,
+    "animation": 1156,
+    "gfx": 558,
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 25384,
+    "animation": 1156,
+    "gfx": 558
+  },
+  {
+    "server-tick": 25385,
+    "animation": 1156,
+    "gfx": 558,
+    "pos": "3258, 3911, 0",
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25386,
+    "animation": 1156,
+    "gfx": 558,
+    "pos": "3258, 3913, 0",
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 556
+    }
+  },
+  {
+    "server-tick": 25387,
+    "animation": 1156,
+    "gfx": 558,
+    "pos": "3258, 3915, 0",
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 139"
+      }
+    ]
+  },
+  {
+    "server-tick": 25388,
+    "animation": 7552,
+    "pos": "3258, 3917, 0",
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25389,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 50"
+      }
+    ]
+  },
+  {
+    "server-tick": 25390,
+    "animation": 7552,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 556
+    }
+  },
+  {
+    "server-tick": 25391,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "sounds": [
+      {
+        "id, delay": "351, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 82"
+      }
+    ]
+  },
+  {
+    "server-tick": 25392,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    }
+  },
+  {
+    "server-tick": 25393,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1574,
+        "heights": "11, 144",
+        "slope, duration": "15, 61"
+      }
+    ]
+  },
+  {
+    "server-tick": 25394,
+    "animation": 7552,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 556
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 51"
+      }
+    ]
+  },
+  {
+    "server-tick": 25395,
+    "animation": 7552,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 79"
+      }
+    ]
+  },
+  {
+    "server-tick": 25396,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "351, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25397,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25398,
+    "animation": 1156,
+    "gfx": 558,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25399,
+    "animation": 1156,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 80"
+      }
+    ]
+  },
+  {
+    "server-tick": 25400,
+    "animation": 1156,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    }
+  },
+  {
+    "server-tick": 25401,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25402,
+    "animation": 7552,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 556
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 51"
+      }
+    ]
+  },
+  {
+    "server-tick": 25403,
+    "animation": 7552,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 80"
+      }
+    ]
+  },
+  {
+    "server-tick": 25404,
+    "animation": 829,
+    "gfx": 558,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "351, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25405,
+    "animation": 829,
+    "gfx": 558,
+    "pos": "3260, 3917, 0",
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25406,
+    "animation": 1156,
+    "gfx": 555,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 553
+    }
+  },
+  {
+    "server-tick": 25407,
+    "animation": 1156,
+    "gfx": 555,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "projectiles": [
+      {
+        "id": 554,
+        "heights": "64, 128",
+        "slope, duration": "16, 77"
+      }
+    ]
+  },
+  {
+    "server-tick": 25408,
+    "animation": 829,
+    "gfx": 555,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25409,
+    "animation": 829,
+    "gfx": 555
+  },
+  {
+    "server-tick": 25410,
+    "animation": 1156,
+    "gfx": 558,
+    "pos": "3254, 3925, 0",
+    "sounds": [
+      {
+        "id, delay": "346, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25411,
+    "animation": 1156,
+    "gfx": 558
+  },
+  {
+    "server-tick": 25412,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25413,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 46"
+      }
+    ]
+  },
+  {
+    "server-tick": 25414,
+    "animation": 7552,
+    "gfx": 552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 550
+    }
+  },
+  {
+    "server-tick": 25415,
+    "gfx": 552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "sounds": [
+      {
+        "id, delay": "351, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25416,
+    "gfx": 552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    }
+  },
+  {
+    "server-tick": 25417,
+    "gfx": 552,
+    "pos": "3256, 3925, 0",
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2244, 0"
+      },
+      {
+        "id, delay": "2245, 0"
+      },
+      {
+        "id, delay": "2238, 0"
+      },
+      {
+        "id, delay": "3284, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25418,
+    "animation": 424,
+    "gfx": 558,
+    "pos": "3258, 3925, 0",
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 556
+    }
+  },
+  {
+    "server-tick": 25419,
+    "animation": 423,
+    "gfx": 558,
+    "pos": "3259, 3925, 0",
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "sounds": [
+      {
+        "id, delay": "2566, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 51"
+      }
+    ]
+  },
+  {
+    "server-tick": 25420,
+    "animation": 423,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "351, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25421,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2244, 0"
+      },
+      {
+        "id, delay": "2245, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25422,
+    "animation": 1156,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 556
+    }
+  },
+  {
+    "server-tick": 25423,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2695, 0"
+      },
+      {
+        "id, delay": "2913, 1"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 18"
+      }
+    ]
+  },
+  {
+    "server-tick": 25424,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "gfx": 758
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 25425,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "351, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25426,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 556
+    },
+    "projectiles": [
+      {
+        "id": 1574,
+        "heights": "11, 144",
+        "slope, duration": "15, 51"
+      }
+    ]
+  },
+  {
+    "server-tick": 25427,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 78"
+      }
+    ]
+  },
+  {
+    "server-tick": 25428,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25429,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "projectiles": [
+      {
+        "id": 1574,
+        "heights": "11, 144",
+        "slope, duration": "15, 51"
+      },
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 25430,
+    "animation": 7552,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 556
+    },
+    "sounds": [
+      {
+        "id, delay": "351, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25431,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 17"
+      }
+    ]
+  },
+  {
+    "server-tick": 25432,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "projectiles": [
+      {
+        "id": 1574,
+        "heights": "11, 144",
+        "slope, duration": "15, 53"
+      }
+    ]
+  },
+  {
+    "server-tick": 25433,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25434,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 553
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 25435,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "sounds": [
+      {
+        "id, delay": "351, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1574,
+        "heights": "11, 144",
+        "slope, duration": "15, 51"
+      },
+      {
+        "id": 554,
+        "heights": "64, 128",
+        "slope, duration": "16, 80"
+      }
+    ]
+  },
+  {
+    "server-tick": 25436,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    }
+  },
+  {
+    "server-tick": 25437,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    }
+  },
+  {
+    "server-tick": 25438,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 556
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25439,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 80"
+      },
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 25440,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "351, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25441,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    }
+  },
+  {
+    "server-tick": 25442,
+    "animation": 1156,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 556
+    }
+  },
+  {
+    "server-tick": 25443,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "sounds": [
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25444,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 25445,
+    "animation": 7552,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "351, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25446,
+    "animation": 1156,
+    "gfx": 552,
+    "projectiles": [
+      {
+        "id": 1574,
+        "heights": "11, 144",
+        "slope, duration": "15, 51"
+      }
+    ]
+  },
+  {
+    "server-tick": 25447,
+    "animation": 1156,
+    "gfx": 552,
+    "sounds": [
+      {
+        "id, delay": "2244, 0"
+      },
+      {
+        "id, delay": "2238, 0"
+      },
+      {
+        "id, delay": "2245, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25448,
+    "animation": 829,
+    "gfx": 552,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25449,
+    "animation": 829,
+    "projectiles": [
+      {
+        "id": 1574,
+        "heights": "11, 144",
+        "slope, duration": "15, 51"
+      }
+    ]
+  },
+  {
+    "server-tick": 25450,
+    "animation": 423,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "sounds": [
+      {
+        "id, delay": "2566, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25451,
+    "animation": 423,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "sounds": [
+      {
+        "id, delay": "2244, 0"
+      },
+      {
+        "id, delay": "2245, 0"
+      },
+      {
+        "id, delay": "351, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 25452,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "projectiles": [
+      {
+        "id": 1574,
+        "heights": "11, 144",
+        "slope, duration": "15, 51"
+      }
+    ]
+  },
+  {
+    "server-tick": 25453,
+    "gfx": 558,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    }
+  },
+  {
+    "server-tick": 25454,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 556
+    }
+  },
+  {
+    "server-tick": 25455,
+    "projectiles": [
+      {
+        "id": 1574,
+        "heights": "11, 144",
+        "slope, duration": "15, 50"
+      },
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 79"
+      }
+    ]
+  },
+  {
+    "server-tick": 25457,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    }
+  },
+  {
+    "server-tick": 25458,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 556
+    },
+    "projectiles": [
+      {
+        "id": 1574,
+        "heights": "11, 144",
+        "slope, duration": "15, 54"
+      }
+    ]
+  },
+  {
+    "server-tick": 25459,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 80"
+      }
+    ]
+  },
+  {
+    "server-tick": 25461,
+    "projectiles": [
+      {
+        "id": 1574,
+        "heights": "11, 144",
+        "slope, duration": "15, 51"
+      }
+    ]
+  },
+  {
+    "server-tick": 25463,
+    "pos": "3260, 3924, 0",
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 79"
+      }
+    ]
+  },
+  {
+    "server-tick": 25464,
+    "sounds": [
+      {
+        "id, delay": "2582, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1574,
+        "heights": "11, 144",
+        "slope, duration": "15, 52"
+      }
+    ]
+  },
+  {
+    "server-tick": 25465,
+    "pos": "3259, 3924, 0",
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3120, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25466,
+    "sounds": [
+      {
+        "id, delay": "2238, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25467,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "projectiles": [
+      {
+        "id": 1574,
+        "heights": "11, 144",
+        "slope, duration": "15, 49"
+      },
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 78"
+      }
+    ]
+  },
+  {
+    "server-tick": 25468,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    }
+  },
+  {
+    "server-tick": 25469,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    }
+  },
+  {
+    "server-tick": 25470,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 556
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1574,
+        "heights": "11, 144",
+        "slope, duration": "15, 49"
+      }
+    ]
+  },
+  {
+    "server-tick": 25471,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149
+    },
+    "sounds": [
+      {
+        "id, delay": "2959, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 22"
+      },
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 25472,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "sounds": [
+      {
+        "id, delay": "351, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25473,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)"
+    },
+    "projectiles": [
+      {
+        "id": 1574,
+        "heights": "11, 144",
+        "slope, duration": "15, 51"
+      }
+    ]
+  },
+  {
+    "server-tick": 25474,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 556
+    }
+  },
+  {
+    "server-tick": 25475,
+    "animation": 4230,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 157
+    },
+    "sounds": [
+      {
+        "id, delay": "1080, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 80"
+      }
+    ]
+  },
+  {
+    "server-tick": 25476,
+    "animation": 4230,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "gfx": 157
+    },
+    "projectiles": [
+      {
+        "id": 1574,
+        "heights": "11, 144",
+        "slope, duration": "15, 51"
+      },
+      {
+        "id": 698,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 25477,
+    "animation": 4230,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "gfx": 157
+    },
+    "sounds": [
+      {
+        "id, delay": "351, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25478,
+    "interacting": {
+      "npc": "Chaos Elemental (2054)",
+      "animation": 3149,
+      "gfx": 556
+    }
+  },
+  {
+    "server-tick": 25479,
+    "projectiles": [
+      {
+        "id": 557,
+        "heights": "64, 128",
+        "slope, duration": "16, 80"
+      }
+    ]
+  },
+  {
+    "server-tick": 25484,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25485,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2607, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25486,
+    "animation": 829
+  }
+]

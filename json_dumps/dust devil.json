@@ -1,0 +1,548 @@
+[
+  {
+    "server-tick": 14404,
+    "pos": "1710, 10015, 0"
+  },
+  {
+    "server-tick": 14405,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1555
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 226,
+        "heights": "11, 144",
+        "slope, duration": "15, 16"
+      }
+    ]
+  },
+  {
+    "server-tick": 14406,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1555
+    },
+    "sounds": [
+      {
+        "id, delay": "416, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14407,
+    "interacting": {
+      "npc": "Dust devil (7249)"
+    },
+    "projectiles": [
+      {
+        "id": 226,
+        "heights": "11, 144",
+        "slope, duration": "15, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 14408,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "414, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14409,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14410,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "416, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 226,
+        "heights": "11, 144",
+        "slope, duration": "15, 10"
+      }
+    ]
+  },
+  {
+    "server-tick": 14411,
+    "interacting": {
+      "npc": "Dust devil (7249)"
+    }
+  },
+  {
+    "server-tick": 14412,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "414, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14413,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14414,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "416, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 226,
+        "heights": "11, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 14415,
+    "interacting": {
+      "npc": "Dust devil (7249)"
+    }
+  },
+  {
+    "server-tick": 14416,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "414, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14417,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14418,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "416, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14419,
+    "interacting": {
+      "npc": "Dust devil (7249)"
+    }
+  },
+  {
+    "server-tick": 14420,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "414, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14421,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14422,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "416, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14423,
+    "interacting": {
+      "npc": "Dust devil (7249)"
+    }
+  },
+  {
+    "server-tick": 14424,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "414, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14425,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14426,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "416, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14427,
+    "interacting": {
+      "npc": "Dust devil (7249)"
+    }
+  },
+  {
+    "server-tick": 14428,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "414, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14429,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14430,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "416, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14431,
+    "interacting": {
+      "npc": "Dust devil (7249)"
+    }
+  },
+  {
+    "server-tick": 14432,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "414, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14433,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14434,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "416, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14435,
+    "interacting": {
+      "npc": "Dust devil (7249)"
+    }
+  },
+  {
+    "server-tick": 14436,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "414, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14437,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14438,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "416, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14439,
+    "interacting": {
+      "npc": "Dust devil (7249)"
+    }
+  },
+  {
+    "server-tick": 14440,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "414, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14441,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14442,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "416, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14443,
+    "interacting": {
+      "npc": "Dust devil (7249)"
+    }
+  },
+  {
+    "server-tick": 14444,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "414, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14445,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14446,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dust devil (7249)",
+      "animation": 1557
+    },
+    "sounds": [
+      {
+        "id, delay": "416, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14447,
+    "sounds": [
+      {
+        "id, delay": "415, 0"
+      }
+    ]
+  }
+]

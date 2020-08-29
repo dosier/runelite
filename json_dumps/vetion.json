@@ -1,0 +1,772 @@
+[
+  {
+    "server-tick": 25912,
+    "pos": "3222, 3778, 0"
+  },
+  {
+    "server-tick": 25913,
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "11, 8",
+        "slope, duration": "40, 119"
+      },
+      {
+        "id": 280,
+        "heights": "11, 8",
+        "slope, duration": "40, 121"
+      },
+      {
+        "id": 280,
+        "heights": "11, 8",
+        "slope, duration": "40, 123"
+      }
+    ]
+  },
+  {
+    "server-tick": 25915,
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25916,
+    "sounds": [
+      {
+        "id, delay": "2685, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25917,
+    "graphics": [
+      {
+        "id": 281,
+        "level": 0,
+        "start": 1278973
+      },
+      {
+        "id": 281,
+        "level": 0,
+        "start": 1278975
+      }
+    ]
+  },
+  {
+    "server-tick": 25918,
+    "animation": 7552,
+    "pos": "3222, 3780, 0",
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5508,
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      },
+      {
+        "id, delay": "2913, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 25919,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5508,
+      "gfx": 758
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 46"
+      }
+    ]
+  },
+  {
+    "server-tick": 25920,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5508,
+      "gfx": 758
+    }
+  },
+  {
+    "server-tick": 25921,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5508,
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "774, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25922,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5508,
+      "gfx": 758
+    }
+  },
+  {
+    "server-tick": 25923,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5508,
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25924,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 47"
+      }
+    ]
+  },
+  {
+    "server-tick": 25925,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)"
+    }
+  },
+  {
+    "server-tick": 25926,
+    "interacting": {
+      "npc": "Vet'ion (6611)"
+    },
+    "sounds": [
+      {
+        "id, delay": "774, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25927,
+    "interacting": {
+      "npc": "Vet'ion (6611)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3424, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25928,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5499,
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      },
+      {
+        "id, delay": "2913, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 25929,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5499,
+      "gfx": 758
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 47"
+      },
+      {
+        "id": 280,
+        "heights": "11, 8",
+        "slope, duration": "40, 121"
+      },
+      {
+        "id": 280,
+        "heights": "11, 8",
+        "slope, duration": "40, 123"
+      }
+    ]
+  },
+  {
+    "server-tick": 25930,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5499,
+      "gfx": 758
+    }
+  },
+  {
+    "server-tick": 25931,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "774, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25932,
+    "pos": "3224, 3782, 0",
+    "sounds": [
+      {
+        "id, delay": "574, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25933,
+    "graphics": [
+      {
+        "id": 281,
+        "level": 0,
+        "start": 1279453
+      },
+      {
+        "id": 281,
+        "level": 0,
+        "start": 1279455
+      }
+    ]
+  },
+  {
+    "server-tick": 25934,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5507
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25935,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5507
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 37"
+      }
+    ]
+  },
+  {
+    "server-tick": 25936,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)"
+    }
+  },
+  {
+    "server-tick": 25937,
+    "interacting": {
+      "npc": "Vet'ion (6611)"
+    },
+    "sounds": [
+      {
+        "id, delay": "774, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25938,
+    "interacting": {
+      "npc": "Vet'ion (6611)"
+    }
+  },
+  {
+    "server-tick": 25939,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5508
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25940,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5508
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 37"
+      }
+    ]
+  },
+  {
+    "server-tick": 25941,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5508
+    }
+  },
+  {
+    "server-tick": 25942,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5508
+    },
+    "sounds": [
+      {
+        "id, delay": "774, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25943,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5508
+    }
+  },
+  {
+    "server-tick": 25944,
+    "pos": "3224, 3784, 0"
+  },
+  {
+    "server-tick": 25945,
+    "pos": "3225, 3785, 0",
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "11, 8",
+        "slope, duration": "40, 120"
+      },
+      {
+        "id": 280,
+        "heights": "11, 8",
+        "slope, duration": "40, 122"
+      }
+    ]
+  },
+  {
+    "server-tick": 25946,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5499
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25947,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25948,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5499
+    },
+    "sounds": [
+      {
+        "id, delay": "774, 0"
+      },
+      {
+        "id, delay": "775, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25949,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5499
+    },
+    "graphics": [
+      {
+        "id": 281,
+        "level": 0,
+        "start": 1279931
+      },
+      {
+        "id": 281,
+        "level": 0,
+        "start": 1279933
+      }
+    ]
+  },
+  {
+    "server-tick": 25950,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5499
+    }
+  },
+  {
+    "server-tick": 25951,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5508
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25952,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5499
+    },
+    "sounds": [
+      {
+        "id, delay": "775, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25953,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5499
+    },
+    "sounds": [
+      {
+        "id, delay": "774, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25954,
+    "pos": "3223, 3785, 0"
+  },
+  {
+    "server-tick": 25955,
+    "pos": "3221, 3785, 0"
+  },
+  {
+    "server-tick": 25956,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5507,
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "574, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      },
+      {
+        "id, delay": "2695, 0"
+      },
+      {
+        "id, delay": "2913, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 25957,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5507,
+      "gfx": 758
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 30"
+      }
+    ]
+  },
+  {
+    "server-tick": 25958,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5507,
+      "gfx": 758
+    }
+  },
+  {
+    "server-tick": 25959,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5507,
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "774, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25960,
+    "pos": "3221, 3783, 0"
+  },
+  {
+    "server-tick": 25961,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5499,
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "11, 8",
+        "slope, duration": "40, 120"
+      },
+      {
+        "id": 280,
+        "heights": "11, 8",
+        "slope, duration": "40, 122"
+      }
+    ]
+  },
+  {
+    "server-tick": 25962,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5499
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 31"
+      }
+    ]
+  },
+  {
+    "server-tick": 25963,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vet'ion (6611)"
+    }
+  },
+  {
+    "server-tick": 25964,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5499
+    },
+    "sounds": [
+      {
+        "id, delay": "774, 0"
+      },
+      {
+        "id, delay": "775, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25965,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Vet'ion (6611)",
+      "animation": 5499
+    },
+    "graphics": [
+      {
+        "id": 281,
+        "level": 0,
+        "start": 1280413
+      },
+      {
+        "id": 281,
+        "level": 0,
+        "start": 1280415
+      }
+    ]
+  },
+  {
+    "server-tick": 25966,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25967,
+    "animation": 829,
+    "pos": "3223, 3783, 0"
+  },
+  {
+    "server-tick": 25968,
+    "animation": 1156,
+    "pos": "3225, 3782, 0",
+    "sounds": [
+      {
+        "id, delay": "775, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25969,
+    "animation": 1156
+  },
+  {
+    "server-tick": 25970,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25971,
+    "animation": 829,
+    "pos": "3227, 3780, 0"
+  },
+  {
+    "server-tick": 25972,
+    "animation": 829,
+    "pos": "3229, 3778, 0",
+    "sounds": [
+      {
+        "id, delay": "574, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25973,
+    "animation": 829,
+    "pos": "3231, 3776, 0",
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25974,
+    "animation": 829,
+    "pos": "3233, 3774, 0"
+  },
+  {
+    "server-tick": 25975,
+    "animation": 829,
+    "pos": "3235, 3772, 0"
+  },
+  {
+    "server-tick": 25976,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25977,
+    "animation": 829,
+    "pos": "3237, 3772, 0"
+  },
+  {
+    "server-tick": 25978,
+    "animation": 829,
+    "pos": "3239, 3772, 0"
+  },
+  {
+    "server-tick": 25979,
+    "pos": "3241, 3772, 0"
+  }
+]

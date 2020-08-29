@@ -1,0 +1,161 @@
+[
+  {
+    "server-tick": 3855,
+    "interacting": {
+      "npc": "The Everlasting (6351)"
+    }
+  },
+  {
+    "server-tick": 3856,
+    "animation": 1156,
+    "interacting": {
+      "npc": "The Everlasting (6351)",
+      "animation": 6345
+    },
+    "sounds": [
+      {
+        "id, delay": "3622, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3857,
+    "animation": 1658,
+    "interacting": {
+      "npc": "The Everlasting (6351)",
+      "animation": 6346
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3858,
+    "animation": 1658,
+    "interacting": {
+      "npc": "The Everlasting (6351)",
+      "animation": 6346
+    },
+    "sounds": [
+      {
+        "id, delay": "3626, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3859,
+    "interacting": {
+      "npc": "The Everlasting (6351)"
+    }
+  },
+  {
+    "server-tick": 3860,
+    "interacting": {
+      "npc": "The Everlasting (6351)"
+    }
+  },
+  {
+    "server-tick": 3861,
+    "animation": 1658,
+    "interacting": {
+      "npc": "The Everlasting (6351)",
+      "animation": 6346
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3862,
+    "animation": 1658,
+    "interacting": {
+      "npc": "The Everlasting (6351)",
+      "animation": 6345
+    },
+    "sounds": [
+      {
+        "id, delay": "3626, 0"
+      },
+      {
+        "id, delay": "3622, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3863,
+    "interacting": {
+      "npc": "The Everlasting (6351)",
+      "animation": 6345
+    }
+  },
+  {
+    "server-tick": 3864,
+    "interacting": {
+      "npc": "The Everlasting (6351)"
+    }
+  },
+  {
+    "server-tick": 3865,
+    "animation": 1658,
+    "interacting": {
+      "npc": "The Everlasting (6351)",
+      "animation": 6346
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3866,
+    "animation": 1658,
+    "interacting": {
+      "npc": "The Everlasting (6351)",
+      "animation": 6346
+    },
+    "sounds": [
+      {
+        "id, delay": "3626, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3867,
+    "sounds": [
+      {
+        "id, delay": "3625, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3877,
+    "pos": "12458, 2026, 1"
+  },
+  {
+    "server-tick": 3878,
+    "pos": "12458, 2028, 1"
+  },
+  {
+    "server-tick": 3879,
+    "pos": "12458, 2030, 1"
+  },
+  {
+    "server-tick": 3880,
+    "pos": "12457, 2032, 1"
+  },
+  {
+    "server-tick": 3881,
+    "pos": "12456, 2033, 1"
+  }
+]

@@ -1,0 +1,200 @@
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 49, sceneY: 53
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 51, sceneY: 55
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 51, sceneY: 55
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 1070	 delay: 0, range: 8, sceneX: 43, sceneY: 60
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman shaman (6766)'	animation: 7193
+PROJECTILE 1291	startHeight: 128, endHeight: 144, slope: 5, duration: 43, x: 6464, y: 7232
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+SOUND 388	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman shaman (6766)'	animation: 7193
+PROJECTILE 214	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 8896, y: 6848
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 1667	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 49, sceneY: 53
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 51, sceneY: 55
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 62, sceneY: 56
+PLAYER 'ex rs'	 animation: 1156
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 11, x: 8896, y: 6720
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 46, x: 5568, y: 7744
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 1667	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 1070	 delay: 0, range: 8, sceneX: 43, sceneY: 60
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 51, sceneY: 55
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman shaman (6766)'	animation: 7193
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 1667	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 1070	 delay: 0, range: 8, sceneX: 43, sceneY: 60
+SOUND 2962	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman shaman (6766)'	animation: 7193
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 1070	 delay: 0, range: 8, sceneX: 51, sceneY: 57
+SOUND 388	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman shaman (6766)'	animation: 7193
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 49, sceneY: 53
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 51, sceneY: 55
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 11, x: 8896, y: 6720
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+SOUND 2548	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman shaman (6766)'	animation: 7192
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 15, x: 9152, y: 6464
+PROJECTILE 214	startHeight: 11, endHeight: 144, slope: 15, duration: 25, x: 8896, y: 6848
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 1070	 delay: 0, range: 8, sceneX: 51, sceneY: 57
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman shaman (6766)'	animation: 7192
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 31, x: 8512, y: 7744
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 45, x: 5568, y: 7744
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 1070	 delay: 0, range: 8, sceneX: 51, sceneY: 57
+SOUND 388	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 21, x: 9280, y: 6848
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 1667	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 2467	 delay: 0, range: 8, sceneX: 49, sceneY: 53
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 51, sceneY: 55
+SOUND 2393	 delay: 0
+PLAYER 'ex rs'	 animation: 1156
+PROJECTILE 214	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 8896, y: 6848
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 1667	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 51, sceneY: 55
+PLAYER 'ex rs'	 animation: 1156
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PROJECTILE 1291	startHeight: 128, endHeight: 144, slope: 5, duration: 12, x: 6464, y: 7232
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+SOUND 2393	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 829
+PROJECTILE 1291	startHeight: 128, endHeight: 144, slope: 5, duration: 11, x: 6720, y: 7232
+PROJECTILE 214	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 8896, y: 6848
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 2467	 delay: 0, range: 8, sceneX: 51, sceneY: 55
+PLAYER 'ex rs'	 animation: 829
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 51, sceneY: 55
+PLAYER 'ex rs'	 animation: 1156
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 42, x: 5824, y: 7488
+AREA_SOUND 1695	 delay: 0, range: 8, sceneX: 51, sceneY: 57
+PLAYER 'ex rs'	 animation: 1156
+PROJECTILE 214	startHeight: 11, endHeight: 144, slope: 15, duration: 22, x: 8896, y: 6848
+PLAYER 'ex rs'	 animation: 1156
+PROJECTILE 1291	startHeight: 128, endHeight: 144, slope: 5, duration: 32, x: 6592, y: 7232
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 12, x: 9024, y: 6848
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+AREA_SOUND 2467	 delay: 0, range: 8, sceneX: 51, sceneY: 55
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 51, sceneY: 57
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman (6915)'	animation: 7194
+AREA_SOUND 1695	 delay: 0, range: 8, sceneX: 48, sceneY: 61
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman (6915)'	animation: 7194
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 31, x: 8640, y: 9024
+PROJECTILE 214	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 8896, y: 6848
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 51, sceneY: 57
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 48, sceneY: 61
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman shaman (6767)'	animation: 7193
+SOUND 388	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman shaman (6767)'	animation: 7193
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 31, x: 8640, y: 9024
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 42, x: 8640, y: 9664
+SOUND 2959	 delay: 20
+PROJECTILE 1291	startHeight: 128, endHeight: 144, slope: 5, duration: 16, x: 6336, y: 8000
+PROJECTILE 214	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 8896, y: 6848
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 11, x: 9024, y: 6848
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 50, x: 5568, y: 6592
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 51, sceneY: 57
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 48, sceneY: 61
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman shaman (6767)'	animation: 7193
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 13, x: 9152, y: 6464
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 45, sceneY: 53
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman shaman (6767)'	animation: 7193
+SOUND 388	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman shaman (6767)'	animation: 7193
+PROJECTILE 1291	startHeight: 128, endHeight: 144, slope: 5, duration: 31, x: 6336, y: 8000
+SOUND 2960	 delay: 20
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 51, sceneY: 57
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 48, sceneY: 61
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 34, x: 8640, y: 9024
+PROJECTILE 1468	startHeight: 11, endHeight: 144, slope: 5, duration: 43, x: 8640, y: 9664
+SOUND 2393	 delay: 0
+SOUND 2393	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 829
+PROJECTILE 1291	startHeight: 128, endHeight: 144, slope: 5, duration: 32, x: 6464, y: 7488
+PROJECTILE 1291	startHeight: 128, endHeight: 144, slope: 5, duration: 12, x: 6208, y: 8000
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 829
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 51, x: 6848, y: 6592
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 51, sceneY: 57
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 48, sceneY: 61
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman shaman (6767)'	animation: 7193
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman shaman (6767)'	animation: 7196
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 31, x: 8640, y: 9024
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman shaman (6766)'	animation: 7157
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman shaman (6766)'	animation: 7157
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 41, x: 6848, y: 6592
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 1070	 delay: 0, range: 8, sceneX: 53, sceneY: 51
+AREA_SOUND 3033	 delay: 0, range: 8, sceneX: 53, sceneY: 51
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman shaman (6766)'	animation: 7157
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 58, sceneY: 51
+SOUND 388	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+SOUND 387	 delay: 0
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 11, x: 9152, y: 6464
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 1667	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 31, x: 7488, y: 6592
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 11, x: 8768, y: 6592
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 665	 delay: 20, range: 5, sceneX: 52, sceneY: 53
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 12, x: 9152, y: 6464
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 665	 delay: 20, range: 5, sceneX: 50, sceneY: 53
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 11, x: 8768, y: 6592
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 1021	 delay: 0, range: 8, sceneX: 52, sceneY: 53
+AREA_SOUND 2877	 delay: 0, range: 10, sceneX: 44, sceneY: 50
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 52, sceneY: 57
+AREA_SOUND 665	 delay: 20, range: 5, sceneX: 50, sceneY: 57
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 14, x: 8896, y: 6720

@@ -1,0 +1,440 @@
+[
+  {
+    "server-tick": 5331,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5332,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    },
+    "sounds": [
+      {
+        "id, delay": "29, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5333,
+    "interacting": {
+      "npc": "Tyras guard (3433)"
+    }
+  },
+  {
+    "server-tick": 5334,
+    "interacting": {
+      "npc": "Tyras guard (3433)"
+    }
+  },
+  {
+    "server-tick": 5335,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    },
+    "sounds": [
+      {
+        "id, delay": "2524, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5336,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    },
+    "sounds": [
+      {
+        "id, delay": "29, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5337,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    }
+  },
+  {
+    "server-tick": 5338,
+    "interacting": {
+      "npc": "Tyras guard (3433)"
+    }
+  },
+  {
+    "server-tick": 5339,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5340,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    },
+    "sounds": [
+      {
+        "id, delay": "29, 0"
+      },
+      {
+        "id, delay": "2524, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5341,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    }
+  },
+  {
+    "server-tick": 5342,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    }
+  },
+  {
+    "server-tick": 5343,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5344,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "29, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5345,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    },
+    "sounds": [
+      {
+        "id, delay": "2524, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5346,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    }
+  },
+  {
+    "server-tick": 5347,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5348,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Tyras guard (3433)"
+    },
+    "sounds": [
+      {
+        "id, delay": "29, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5349,
+    "interacting": {
+      "npc": "Tyras guard (3433)"
+    }
+  },
+  {
+    "server-tick": 5350,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    },
+    "sounds": [
+      {
+        "id, delay": "2524, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5351,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5352,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    },
+    "sounds": [
+      {
+        "id, delay": "29, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5353,
+    "interacting": {
+      "npc": "Tyras guard (3433)"
+    }
+  },
+  {
+    "server-tick": 5354,
+    "interacting": {
+      "npc": "Tyras guard (3433)"
+    }
+  },
+  {
+    "server-tick": 5355,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    },
+    "sounds": [
+      {
+        "id, delay": "2524, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5356,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    },
+    "sounds": [
+      {
+        "id, delay": "29, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5357,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    }
+  },
+  {
+    "server-tick": 5358,
+    "interacting": {
+      "npc": "Tyras guard (3433)"
+    }
+  },
+  {
+    "server-tick": 5359,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5360,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    },
+    "sounds": [
+      {
+        "id, delay": "29, 0"
+      },
+      {
+        "id, delay": "2524, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5361,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    }
+  },
+  {
+    "server-tick": 5362,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    }
+  },
+  {
+    "server-tick": 5363,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5364,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "29, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5365,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    },
+    "sounds": [
+      {
+        "id, delay": "2524, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5366,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    }
+  },
+  {
+    "server-tick": 5367,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Tyras guard (3433)",
+      "animation": 440
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5368,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Tyras guard (3433)"
+    },
+    "sounds": [
+      {
+        "id, delay": "29, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5369,
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  }
+]

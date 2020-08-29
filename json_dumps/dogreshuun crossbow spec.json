@@ -1,0 +1,250 @@
+[
+  {
+    "server-tick": 2826,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 64,
+        "sceneY": 46,
+        "source": "Magic-josh3"
+      }
+    ]
+  },
+  {
+    "server-tick": 2829,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 64,
+        "sceneY": 46,
+        "source": "Magic-josh3"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 64,
+        "sceneY": 46,
+        "source": "Magic-josh3"
+      }
+    ]
+  },
+  {
+    "server-tick": 2830,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 64,
+        "sceneY": 46,
+        "source": "Magic-josh3"
+      }
+    ]
+  },
+  {
+    "server-tick": 2831,
+    "animation": 7557,
+    "gfx": 705,
+    "interacting": {
+      "npc": "Man (3106)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "1080, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2832,
+    "animation": 7557,
+    "gfx": 705,
+    "interacting": {
+      "npc": "Man (3106)",
+      "animation": 425
+    },
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 64,
+        "sceneY": 46,
+        "source": "Magic-josh3"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 698,
+        "heights": "11, 144",
+        "slope, duration": "5, 33"
+      }
+    ]
+  },
+  {
+    "server-tick": 2833,
+    "animation": 7557,
+    "gfx": 705,
+    "interacting": {
+      "npc": "Man (3106)",
+      "animation": 425
+    },
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 64,
+        "sceneY": 46,
+        "source": "Magic-josh3"
+      }
+    ]
+  },
+  {
+    "server-tick": 2834,
+    "animation": 7557,
+    "interacting": {
+      "npc": "Man (3106)",
+      "animation": 425
+    },
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 64,
+        "sceneY": 46,
+        "source": "Magic-josh3"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "513, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2835,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Man (3106)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "1081, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2836,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Man (3106)",
+      "animation": 422
+    },
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 64,
+        "sceneY": 46,
+        "source": "Magic-josh3"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2566, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 2837,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Man (3106)",
+      "animation": 422
+    },
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 64,
+        "sceneY": 46,
+        "source": "Magic-josh3"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 64,
+        "sceneY": 46,
+        "source": "Magic-josh3"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "513, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2838,
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2840,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 64,
+        "sceneY": 46,
+        "source": "Magic-josh3"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 64,
+        "sceneY": 46,
+        "source": "Magic-josh3"
+      }
+    ]
+  },
+  {
+    "server-tick": 2841,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 64,
+        "sceneY": 46,
+        "source": "Magic-josh3"
+      }
+    ]
+  }
+]

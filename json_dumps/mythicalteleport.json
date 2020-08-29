@@ -1,0 +1,31 @@
+[
+  {
+    "server-tick": 4198,
+    "pos": "2459, 2846, 0"
+  },
+  {
+    "server-tick": 4199,
+    "pos": "2459, 2848, 0"
+  },
+  {
+    "server-tick": 4200,
+    "pos": "2458, 2849, 0"
+  },
+  {
+    "server-tick": 4201,
+    "pos": "2457, 2849, 0"
+  },
+  {
+    "server-tick": 4203,
+    "animation": 2796,
+    "sounds": [
+      {
+        "id, delay": "2495, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4204,
+    "pos": "1936, 9009, 1"
+  }
+]

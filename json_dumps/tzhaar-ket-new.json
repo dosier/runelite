@@ -1,0 +1,627 @@
+[
+  {
+    "server-tick": 9492,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2605
+    },
+    "sounds": [
+      {
+        "id, delay": "258, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9493,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2605
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 9494,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2610
+    },
+    "sounds": [
+      {
+        "id, delay": "258, 0"
+      },
+      {
+        "id, delay": "250, 0"
+      },
+      {
+        "id, delay": "2842, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9495,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2610
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 9"
+      }
+    ]
+  },
+  {
+    "server-tick": 9496,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2605
+    },
+    "sounds": [
+      {
+        "id, delay": "258, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9497,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2605
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9498,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2610
+    },
+    "sounds": [
+      {
+        "id, delay": "258, 0"
+      },
+      {
+        "id, delay": "250, 0"
+      },
+      {
+        "id, delay": "2844, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9499,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2610
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9500,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2605
+    },
+    "sounds": [
+      {
+        "id, delay": "258, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9501,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2605
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9502,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2610
+    },
+    "sounds": [
+      {
+        "id, delay": "258, 0"
+      },
+      {
+        "id, delay": "250, 0"
+      },
+      {
+        "id, delay": "2842, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9503,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2610
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 9504,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2605
+    },
+    "sounds": [
+      {
+        "id, delay": "258, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9505,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2605
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9506,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2610
+    },
+    "sounds": [
+      {
+        "id, delay": "258, 0"
+      },
+      {
+        "id, delay": "250, 0"
+      },
+      {
+        "id, delay": "2841, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9507,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2610
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9508,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2605
+    },
+    "sounds": [
+      {
+        "id, delay": "258, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9509,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2605
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9510,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2610
+    },
+    "sounds": [
+      {
+        "id, delay": "258, 0"
+      },
+      {
+        "id, delay": "250, 0"
+      },
+      {
+        "id, delay": "2842, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9511,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2610
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9512,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2605
+    },
+    "sounds": [
+      {
+        "id, delay": "258, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9513,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2605
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 9514,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2610
+    },
+    "sounds": [
+      {
+        "id, delay": "258, 0"
+      },
+      {
+        "id, delay": "250, 0"
+      },
+      {
+        "id, delay": "2842, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9515,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2610
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9516,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2605
+    },
+    "sounds": [
+      {
+        "id, delay": "258, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9517,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2605
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9518,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2610
+    },
+    "sounds": [
+      {
+        "id, delay": "258, 0"
+      },
+      {
+        "id, delay": "250, 0"
+      },
+      {
+        "id, delay": "2842, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9519,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2610
+    }
+  },
+  {
+    "server-tick": 9520,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2605
+    },
+    "sounds": [
+      {
+        "id, delay": "258, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9521,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2605
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9522,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2610
+    },
+    "sounds": [
+      {
+        "id, delay": "258, 0"
+      },
+      {
+        "id, delay": "250, 0"
+      },
+      {
+        "id, delay": "2845, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9523,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2610
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 9524,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2605
+    },
+    "sounds": [
+      {
+        "id, delay": "258, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9525,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2605
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9526,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2610
+    },
+    "sounds": [
+      {
+        "id, delay": "258, 0"
+      },
+      {
+        "id, delay": "250, 0"
+      },
+      {
+        "id, delay": "2841, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9527,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)",
+      "animation": 2610
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9528,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Ket (7679)"
+    },
+    "sounds": [
+      {
+        "id, delay": "258, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9529,
+    "sounds": [
+      {
+        "id, delay": "256, 0"
+      }
+    ]
+  }
+]

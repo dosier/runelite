@@ -1,0 +1,129 @@
+SOUND 3120	 delay: 0
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 26, x: 5184, y: 5184
+PLAYER 'ex rs'	 animation: 1156
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 41, sceneY: 39
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 40, sceneY: 40
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman (6917)'	animation: 7193
+SOUND 2961	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman (6917)'	animation: 7193
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 32, x: 5312, y: 5056
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 27, x: 5184, y: 5184
+SOUND 388	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 41, sceneY: 39
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 40, sceneY: 40
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman (6917)'	animation: 7193
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman (6917)'	animation: 7193
+SOUND 2961	 delay: 20
+SOUND 2962	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman (6917)'	animation: 7193
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 16, x: 5312, y: 5056
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 11, x: 5184, y: 5184
+SOUND 388	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 41, sceneY: 39
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 40, sceneY: 40
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman (6917)'	animation: 7193
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman (6917)'	animation: 7193
+SOUND 2961	 delay: 20
+SOUND 2958	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman (6917)'	animation: 7193
+SOUND 388	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 41, sceneY: 39
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 40, sceneY: 40
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman (6917)'	animation: 7193
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman (6917)'	animation: 7193
+SOUND 2960	 delay: 20
+SOUND 2960	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman (6917)'	animation: 7193
+SOUND 388	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 41, sceneY: 39
+SOUND 387	 delay: 0
+PLAYER 'ex rs'	 animation: 1156
+SOUND 3424	 delay: 0
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2959	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman brute (6919)'	animation: 7193
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 19, x: 5312, y: 5056
+SOUND 388	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 41, sceneY: 39
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman brute (6919)'	animation: 7193
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman brute (6919)'	animation: 7193
+SOUND 2961	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman brute (6919)'	animation: 7193
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 13, x: 5312, y: 5056
+SOUND 388	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 41, sceneY: 39
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman brute (6919)'	animation: 7193
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman brute (6919)'	animation: 7193
+SOUND 2961	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman brute (6919)'	animation: 7193
+PROJECTILE 1291	startHeight: 20, endHeight: 144, slope: 5, duration: 11, x: 5312, y: 5056
+SOUND 388	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 2548	 delay: 0
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman brute (6919)'	animation: 7192
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman brute (6919)'	animation: 7192
+SOUND 2962	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman brute (6919)'	animation: 7194
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 45, sceneY: 38
+SOUND 388	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman brute (6919)'	animation: 7194
+SOUND 2548	 delay: 0
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman brute (6919)'	animation: 7192
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman brute (6919)'	animation: 7192
+SOUND 2960	 delay: 20
+SOUND 2958	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman brute (6919)'	animation: 7192
+SOUND 388	 delay: 0
+SOUND 2548	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+AREA_SOUND 385	 delay: 0, range: 10, sceneX: 41, sceneY: 39
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Lizardman brute (6919)'	animation: 7193
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Lizardman brute (6919)'	animation: 7193

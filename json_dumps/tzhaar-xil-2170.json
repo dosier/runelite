@@ -1,0 +1,449 @@
+[
+  {
+    "server-tick": 9547,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2605
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 9548,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2610
+    },
+    "sounds": [
+      {
+        "id, delay": "271, 0"
+      },
+      {
+        "id, delay": "267, 0"
+      },
+      {
+        "id, delay": "2841, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9549,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2610
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 9550,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2605
+    },
+    "sounds": [
+      {
+        "id, delay": "271, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9551,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2605
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9552,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2610
+    },
+    "sounds": [
+      {
+        "id, delay": "271, 0"
+      },
+      {
+        "id, delay": "267, 0"
+      },
+      {
+        "id, delay": "2844, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9553,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2610
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 9554,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2605
+    },
+    "sounds": [
+      {
+        "id, delay": "271, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9555,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2605
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9556,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2610
+    },
+    "sounds": [
+      {
+        "id, delay": "271, 0"
+      },
+      {
+        "id, delay": "267, 0"
+      },
+      {
+        "id, delay": "2842, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9557,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2610
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9558,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2605
+    },
+    "sounds": [
+      {
+        "id, delay": "271, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9559,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2605
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9560,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2610
+    },
+    "sounds": [
+      {
+        "id, delay": "271, 0"
+      },
+      {
+        "id, delay": "267, 0"
+      },
+      {
+        "id, delay": "2842, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9561,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2610
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9562,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2605
+    },
+    "sounds": [
+      {
+        "id, delay": "271, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9563,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2605
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 9564,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2610
+    },
+    "sounds": [
+      {
+        "id, delay": "271, 0"
+      },
+      {
+        "id, delay": "267, 0"
+      },
+      {
+        "id, delay": "2844, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9565,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2610
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9566,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2605
+    },
+    "sounds": [
+      {
+        "id, delay": "271, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9567,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2605
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9568,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2610
+    },
+    "sounds": [
+      {
+        "id, delay": "271, 0"
+      },
+      {
+        "id, delay": "267, 0"
+      },
+      {
+        "id, delay": "2843, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9569,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2610
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9570,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2605
+    },
+    "sounds": [
+      {
+        "id, delay": "271, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9571,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2605
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 10"
+      }
+    ]
+  },
+  {
+    "server-tick": 9572,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Xil (2170)",
+      "animation": 2610
+    },
+    "sounds": [
+      {
+        "id, delay": "271, 0"
+      },
+      {
+        "id, delay": "267, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9573,
+    "sounds": [
+      {
+        "id, delay": "270, 0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,329 @@
+[
+  {
+    "server-tick": 9808,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "262, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 9809,
+    "animation": 430
+  },
+  {
+    "server-tick": 9810,
+    "animation": 430
+  },
+  {
+    "server-tick": 9811,
+    "animation": 430
+  },
+  {
+    "server-tick": 9813,
+    "sounds": [
+      {
+        "id, delay": "2842, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 9815,
+    "pos": "2536, 5138, 0"
+  },
+  {
+    "server-tick": 9818,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Mej (2156)",
+      "animation": 2613,
+      "gfx": 439
+    },
+    "sounds": [
+      {
+        "id, delay": "2843, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9819,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Mej (2156)",
+      "animation": 2613,
+      "gfx": 439
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 9"
+      }
+    ]
+  },
+  {
+    "server-tick": 9820,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Mej (2156)",
+      "animation": 2613,
+      "gfx": 439
+    },
+    "sounds": [
+      {
+        "id, delay": "264, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9821,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Mej (2156)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9822,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Mej (2156)",
+      "animation": 2606
+    },
+    "sounds": [
+      {
+        "id, delay": "264, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9823,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Mej (2156)",
+      "animation": 2613,
+      "gfx": 439
+    },
+    "sounds": [
+      {
+        "id, delay": "2842, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9824,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Mej (2156)",
+      "animation": 2613,
+      "gfx": 439
+    },
+    "sounds": [
+      {
+        "id, delay": "264, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9825,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Mej (2156)",
+      "animation": 2613,
+      "gfx": 439
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9826,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Mej (2156)",
+      "animation": 2606
+    },
+    "sounds": [
+      {
+        "id, delay": "264, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9827,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Mej (2156)",
+      "animation": 2606
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 9828,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Mej (2156)",
+      "animation": 2613,
+      "gfx": 439
+    },
+    "sounds": [
+      {
+        "id, delay": "264, 0"
+      },
+      {
+        "id, delay": "2844, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9829,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Mej (2156)",
+      "animation": 2613,
+      "gfx": 439
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9830,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Mej (2156)",
+      "animation": 2613,
+      "gfx": 439
+    },
+    "sounds": [
+      {
+        "id, delay": "264, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9831,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Mej (2156)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 9832,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Mej (2156)",
+      "animation": 2606
+    },
+    "sounds": [
+      {
+        "id, delay": "264, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9833,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Mej (2156)",
+      "animation": 2613,
+      "gfx": 439
+    },
+    "sounds": [
+      {
+        "id, delay": "2844, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 9834,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzHaar-Mej (2156)",
+      "animation": 2613,
+      "gfx": 439
+    },
+    "sounds": [
+      {
+        "id, delay": "264, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 9835,
+    "sounds": [
+      {
+        "id, delay": "263, 0"
+      }
+    ]
+  }
+]

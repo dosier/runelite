@@ -1,0 +1,962 @@
+[
+  {
+    "server-tick": 2957,
+    "pos": "9971, 1250, 1"
+  },
+  {
+    "server-tick": 2958,
+    "pos": "9971, 1252, 1"
+  },
+  {
+    "server-tick": 2959,
+    "pos": "9971, 1253, 1"
+  },
+  {
+    "server-tick": 2960,
+    "pos": "9971, 1251, 1"
+  },
+  {
+    "server-tick": 2961,
+    "pos": "9970, 1250, 1"
+  },
+  {
+    "server-tick": 2964,
+    "pos": "9968, 1249, 1",
+    "interacting": {
+      "npc": "Glod (6358)"
+    }
+  },
+  {
+    "server-tick": 2965,
+    "animation": 1658,
+    "pos": "9967, 1248, 1",
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6503
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2966,
+    "animation": 1658,
+    "pos": "9965, 1248, 1",
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "3685, 0"
+      },
+      {
+        "id, delay": "3674, 0"
+      },
+      {
+        "id, delay": "3686, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2967,
+    "pos": "9963, 1248, 1",
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 2968,
+    "pos": "9962, 1248, 1",
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 2969,
+    "animation": 1658,
+    "pos": "9963, 1247, 1",
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6503
+    },
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2970,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "3685, 0"
+      },
+      {
+        "id, delay": "3674, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2971,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 2972,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 2973,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6503
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2974,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "3685, 0"
+      },
+      {
+        "id, delay": "3674, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2975,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 2976,
+    "pos": "9964, 1245, 1",
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "3687, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2977,
+    "animation": 1658,
+    "pos": "9963, 1245, 1",
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6503
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2978,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "3685, 0"
+      },
+      {
+        "id, delay": "3674, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2979,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 2980,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 2981,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6503
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2982,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "3685, 0"
+      },
+      {
+        "id, delay": "3674, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2983,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 2984,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 2985,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6503
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2986,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "2676, 0"
+      },
+      {
+        "id, delay": "3685, 0"
+      },
+      {
+        "id, delay": "3674, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2987,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 2988,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 2989,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6503
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2990,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "3685, 0"
+      },
+      {
+        "id, delay": "3674, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2991,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 2992,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 2993,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6503
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2994,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "3685, 0"
+      },
+      {
+        "id, delay": "3674, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2995,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 2996,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 2997,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6503
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2998,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "3685, 0"
+      },
+      {
+        "id, delay": "3674, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2999,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 3000,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 3001,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6503
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3002,
+    "animation": 1658,
+    "pos": "9963, 1247, 1",
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "3685, 0"
+      },
+      {
+        "id, delay": "3674, 0"
+      },
+      {
+        "id, delay": "3686, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3003,
+    "pos": "9963, 1249, 1",
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 3004,
+    "pos": "9963, 1250, 1",
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 3005,
+    "animation": 1658,
+    "pos": "9964, 1248, 1",
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6503
+    },
+    "sounds": [
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3006,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "3685, 0"
+      },
+      {
+        "id, delay": "3674, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3007,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 3008,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 3009,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6503
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3010,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "3685, 0"
+      },
+      {
+        "id, delay": "3674, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3011,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 3012,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 3013,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6503
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3014,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "3685, 0"
+      },
+      {
+        "id, delay": "3674, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3015,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 3016,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 3017,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6503
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3018,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "3685, 0"
+      },
+      {
+        "id, delay": "3674, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3019,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 3020,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 3021,
+    "pos": "9964, 1246, 1",
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6524
+    },
+    "sounds": [
+      {
+        "id, delay": "3687, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3022,
+    "pos": "9964, 1244, 1",
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6524
+    }
+  },
+  {
+    "server-tick": 3023,
+    "animation": 1658,
+    "pos": "9963, 1244, 1",
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6503
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3024,
+    "animation": 1658,
+    "pos": "9963, 1246, 1",
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "3685, 0"
+      },
+      {
+        "id, delay": "3674, 0"
+      },
+      {
+        "id, delay": "3686, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3025,
+    "pos": "9963, 1248, 1",
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 3026,
+    "pos": "9963, 1249, 1",
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 3027,
+    "animation": 1658,
+    "pos": "9964, 1248, 1",
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6503
+    },
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3028,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "3685, 0"
+      },
+      {
+        "id, delay": "3674, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3029,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 3030,
+    "pos": "9964, 1246, 1",
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "3687, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3031,
+    "pos": "9964, 1244, 1",
+    "interacting": {
+      "npc": "Glod (6358)"
+    }
+  },
+  {
+    "server-tick": 3032,
+    "animation": 1658,
+    "pos": "9963, 1244, 1",
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6503
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3033,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "3685, 0"
+      },
+      {
+        "id, delay": "3674, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3034,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 3035,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 3036,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6503
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3037,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "3685, 0"
+      },
+      {
+        "id, delay": "3674, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3038,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 3039,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    }
+  },
+  {
+    "server-tick": 3040,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6503
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3041,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Glod (6358)",
+      "animation": 6501
+    },
+    "sounds": [
+      {
+        "id, delay": "3685, 0"
+      },
+      {
+        "id, delay": "3674, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3042,
+    "sounds": [
+      {
+        "id, delay": "3684, 0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+NPC 'Ravager (1706)'	animation: 3916
+SOUND 714	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Ravager (1706)'	animation: 3915
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 46, x: 5696, y: 3520
+PROJECTILE 1384	startHeight: 11, endHeight: 144, slope: 15, duration: 46, x: 5696, y: 4288
+PROJECTILE 249	startHeight: 11, endHeight: 144, slope: 15, duration: 31, x: 6848, y: 4288
+SOUND 2720	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Ravager (1706)'	animation: 3915
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 24, x: 6336, y: 2752
+SOUND 716	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Ravager (1706)'	animation: 3915
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 66, x: 4160, y: 4416
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 4800, y: 4160
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 4800, y: 4160
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 98, x: 7744, y: 4160
+SOUND 714	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Ravager (1706)'	animation: 3915
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 3, x: 5056, y: 1728
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 3, x: 5056, y: 1728
+SOUND 2720	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Ravager (1706)'	animation: 3915
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 73, x: 6336, y: 2752
+SOUND 716	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 66, x: 4160, y: 4416
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 4800, y: 4160
+SOUND 714	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Ravager (1706)'	animation: 3915
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 4, x: 5056, y: 1728
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 4, x: 5056, y: 1728
+SOUND 2720	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Ravager (1706)'	animation: 3915
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 51, x: 5696, y: 3520
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 6336, y: 2752
+SOUND 716	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 101, x: 7744, y: 4160
+SOUND 714	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'Lou Grinder'	 animation: 1156
+NPC 'Ravager (1706)'	animation: 3915
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 1, x: 5056, y: 1728
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 1, x: 5056, y: 1728
+SOUND 2720	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+NPC 'Ravager (1706)'	animation: 3915
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 6336, y: 2752
+SOUND 716	 delay: 0
+PLAYER 'Lou Grinder'	 animation: 1658
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 49, x: 5696, y: 3520
+SOUND 715	 delay: 0
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 76, x: 6080, y: 2752
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 100, x: 7744, y: 4160
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 3, x: 5056, y: 1728
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 3, x: 5056, y: 1728
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 67, x: 5056, y: 1728
+PROJECTILE 27	startHeight: 11, endHeight: 144, slope: 5, duration: 42, x: 6848, y: 4288
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 73, x: 6336, y: 2752
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 78, x: 4800, y: 4160
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 78, x: 6080, y: 2752
+PROJECTILE 647	startHeight: 24, endHeight: 124, slope: 16, duration: 102, x: 7744, y: 4160
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 77, x: 6336, y: 2752
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 21, x: 6208, y: 3136
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 66, x: 4160, y: 4416
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 74, x: 4800, y: 4160
+PROJECTILE 656	startHeight: 24, endHeight: 124, slope: 16, duration: 2, x: 9152, y: 3904

@@ -30,6 +30,7 @@ import com.google.gson.reflect.TypeToken;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.nio.charset.StandardCharsets;
 import java.util.Collection;
 import java.util.List;
 import java.util.UUID;
@@ -81,7 +82,14 @@ public class LootTrackerClient
 			@Override
 			public void onResponse(Call call, Response response)
 			{
-				log.debug("Submitted loot");
+				if (response.isSuccessful())
+				{
+					log.debug("Submitted loot");
+				}
+				else
+				{
+					log.warn("Error submitting loot: {} - {}", response.code(), response.message());
+				}
 				response.close();
 				future.complete(null);
 			}
@@ -110,7 +118,7 @@ public class LootTrackerClient
 			}
 
 			InputStream in = response.body().byteStream();
-			return RuneLiteAPI.GSON.fromJson(new InputStreamReader(in), new TypeToken<List<LootAggregate>>()
+			return RuneLiteAPI.GSON.fromJson(new InputStreamReader(in, StandardCharsets.UTF_8), new TypeToken<List<LootAggregate>>()
 			{
 			}.getType());
 		}

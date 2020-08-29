@@ -1,0 +1,44 @@
+SOUND 291	 delay: 15
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-MejRah (7692)'	animation: 7578
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 24, x: 6208, y: 6720
+PROJECTILE 1382	startHeight: 128, endHeight: 124, slope: 16, duration: 64, x: 6720, y: 6720
+SOUND 296	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-MejRah (7692)'	animation: 7579
+AREA_SOUND 595	 delay: 0, range: 7, sceneX: 44, sceneY: 53
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-MejRah (7692)'	animation: 7579
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 23, x: 6208, y: 6720
+SOUND 296	 delay: 0
+SOUND 291	 delay: 15
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-MejRah (7692)'	animation: 7579
+PROJECTILE 1382	startHeight: 128, endHeight: 124, slope: 16, duration: 64, x: 6720, y: 6720
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 23, x: 6208, y: 6720
+SOUND 296	 delay: 0
+SOUND 2845	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+AREA_SOUND 595	 delay: 0, range: 7, sceneX: 44, sceneY: 53
+SOUND 295	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Nib (7691)'	animation: 7575
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Nib (7691)'	animation: 7575
+SOUND 597	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Nib (7691)'	animation: 7575
+AREA_SOUND 595	 delay: 0, range: 7, sceneX: 44, sceneY: 53
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Nib (7691)'	animation: 7574
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6208, y: 6720
+SOUND 597	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Nib (7691)'	animation: 7574
+SOUND 596	 delay: 0

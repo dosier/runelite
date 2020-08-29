@@ -1,0 +1,7 @@
+8432 : magic ball gfx 1728
+8435: falling rocks gfx 1727
+8432 : spawn golem gfx 1728
+7618 anim with 1731gfx throw rocks at zalcano / 1732gfx on impact
+8437 death anim to mineable version
+1725gfx yellow circle
+1726gfx blue circle

@@ -1,5 +1,0 @@
-AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Large Luck
-AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Estru23
-AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 83, sceneY: 34, source: NewDarkar
-AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: rafixe
-AREA_SOUND 3790	 delay: 0, range: 1, sceneX: 84, sceneY: 35, source: Sve99

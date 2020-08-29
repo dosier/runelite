@@ -1,0 +1,4830 @@
+[
+  {
+    "server-tick": 8218,
+    "gfx": 446,
+    "sounds": [
+      {
+        "id, delay": "599, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8219,
+    "gfx": 446,
+    "sounds": [
+      {
+        "id, delay": "2843, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8220,
+    "gfx": 446,
+    "pos": "10905, 12377, 0"
+  },
+  {
+    "server-tick": 8221,
+    "gfx": 446,
+    "pos": "10907, 12379, 0"
+  },
+  {
+    "server-tick": 8225,
+    "pos": "10909, 12381, 0"
+  },
+  {
+    "server-tick": 8226,
+    "pos": "10910, 12382, 0"
+  },
+  {
+    "server-tick": 8229,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8230,
+    "gfx": 157
+  },
+  {
+    "server-tick": 8231,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8234,
+    "pos": "10908, 12382, 0",
+    "sounds": [
+      {
+        "id, delay": "159, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8235,
+    "pos": "10906, 12382, 0"
+  },
+  {
+    "server-tick": 8236,
+    "pos": "10904, 12382, 0"
+  },
+  {
+    "server-tick": 8237,
+    "gfx": 157,
+    "pos": "10902, 12383, 0",
+    "sounds": [
+      {
+        "id, delay": "162, 0"
+      },
+      {
+        "id, delay": "163, 98"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 448,
+        "heights": "32, 124",
+        "slope, duration": "16, 98"
+      },
+      {
+        "id": 449,
+        "heights": "32, 124",
+        "slope, duration": "16, 102"
+      },
+      {
+        "id": 450,
+        "heights": "32, 124",
+        "slope, duration": "16, 108"
+      }
+    ]
+  },
+  {
+    "server-tick": 8238,
+    "gfx": 157,
+    "pos": "10900, 12385, 0"
+  },
+  {
+    "server-tick": 8239,
+    "gfx": 157,
+    "pos": "10898, 12387, 0"
+  },
+  {
+    "server-tick": 8240,
+    "gfx": 157,
+    "pos": "10897, 12388, 0",
+    "sounds": [
+      {
+        "id, delay": "2844, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8241,
+    "gfx": 157
+  },
+  {
+    "server-tick": 8242,
+    "pos": "10897, 12386, 0"
+  },
+  {
+    "server-tick": 8243,
+    "pos": "10897, 12384, 0"
+  },
+  {
+    "server-tick": 8244,
+    "pos": "10897, 12382, 0"
+  },
+  {
+    "server-tick": 8245,
+    "gfx": 157,
+    "pos": "10897, 12380, 0",
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8246,
+    "animation": 5061,
+    "gfx": 157,
+    "pos": "10897, 12378, 0",
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8247,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8248,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8249,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 8250,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8251,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8252,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "2677, 0"
+      },
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8253,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8254,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8255,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "2845, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8256,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8257,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8258,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8259,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8260,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8261,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8262,
+    "animation": 5061,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8263,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "2841, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8265,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8266,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "159, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8267,
+    "animation": 829
+  },
+  {
+    "server-tick": 8268,
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8269,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "162, 0"
+      },
+      {
+        "id, delay": "163, 50"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 448,
+        "heights": "32, 124",
+        "slope, duration": "16, 50"
+      },
+      {
+        "id": 449,
+        "heights": "32, 124",
+        "slope, duration": "16, 54"
+      },
+      {
+        "id": 450,
+        "heights": "32, 124",
+        "slope, duration": "16, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 8270,
+    "animation": 829,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "2844, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8271,
+    "animation": 829,
+    "gfx": 157
+  },
+  {
+    "server-tick": 8272,
+    "animation": 829
+  },
+  {
+    "server-tick": 8273,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8274,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "159, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8275,
+    "animation": 829
+  },
+  {
+    "server-tick": 8277,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "162, 0"
+      },
+      {
+        "id, delay": "163, 50"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 448,
+        "heights": "32, 124",
+        "slope, duration": "16, 50"
+      },
+      {
+        "id": 449,
+        "heights": "32, 124",
+        "slope, duration": "16, 54"
+      },
+      {
+        "id": 450,
+        "heights": "32, 124",
+        "slope, duration": "16, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 8278,
+    "animation": 829,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "2844, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8279,
+    "animation": 829,
+    "gfx": 157
+  },
+  {
+    "server-tick": 8280,
+    "animation": 829
+  },
+  {
+    "server-tick": 8281,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8282,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "159, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8283,
+    "animation": 829
+  },
+  {
+    "server-tick": 8284,
+    "sounds": [
+      {
+        "id, delay": "2677, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8285,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      },
+      {
+        "id, delay": "162, 0"
+      },
+      {
+        "id, delay": "163, 50"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 448,
+        "heights": "32, 124",
+        "slope, duration": "16, 50"
+      },
+      {
+        "id": 449,
+        "heights": "32, 124",
+        "slope, duration": "16, 54"
+      },
+      {
+        "id": 450,
+        "heights": "32, 124",
+        "slope, duration": "16, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 8286,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "2841, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8287,
+    "gfx": 157
+  },
+  {
+    "server-tick": 8290,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8291,
+    "animation": 829
+  },
+  {
+    "server-tick": 8292,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2677, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8293,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8294,
+    "gfx": 157
+  },
+  {
+    "server-tick": 8295,
+    "animation": 829,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "2845, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8296,
+    "animation": 829
+  },
+  {
+    "server-tick": 8297,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8298,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "sounds": [
+      {
+        "id, delay": "159, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8299,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8300,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 24"
+      }
+    ]
+  },
+  {
+    "server-tick": 8301,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656,
+      "gfx": 447
+    },
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      },
+      {
+        "id, delay": "162, 0"
+      },
+      {
+        "id, delay": "163, 50"
+      },
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 448,
+        "heights": "32, 124",
+        "slope, duration": "16, 50"
+      },
+      {
+        "id": 449,
+        "heights": "32, 124",
+        "slope, duration": "16, 54"
+      },
+      {
+        "id": 450,
+        "heights": "32, 124",
+        "slope, duration": "16, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 8302,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656,
+      "gfx": 447
+    },
+    "sounds": [
+      {
+        "id, delay": "2842, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 8303,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8304,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 24"
+      }
+    ]
+  },
+  {
+    "server-tick": 8305,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8306,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8307,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8308,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "gfx": 444
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8309,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "2677, 0"
+      },
+      {
+        "id, delay": "163, 0"
+      },
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8310,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653,
+      "gfx": 444
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 8311,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2845, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8312,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653,
+      "gfx": 444
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 8313,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8314,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652,
+      "gfx": 444
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 8315,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8316,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "gfx": 444
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8317,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      },
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8318,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653,
+      "gfx": 444
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8319,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2845, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8320,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653,
+      "gfx": 444
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 8321,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8322,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "159, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 8323,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8324,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 8325,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "162, 0"
+      },
+      {
+        "id, delay": "163, 50"
+      },
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 448,
+        "heights": "32, 124",
+        "slope, duration": "16, 50"
+      },
+      {
+        "id": 449,
+        "heights": "32, 124",
+        "slope, duration": "16, 54"
+      },
+      {
+        "id": 450,
+        "heights": "32, 124",
+        "slope, duration": "16, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 8326,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "2844, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8327,
+    "animation": 5061,
+    "gfx": 157,
+    "pos": "10897, 12376, 0",
+    "interacting": {
+      "npc": "Yt-HurKot (3128)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8328,
+    "animation": 5061,
+    "pos": "10897, 12374, 0",
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8329,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2639
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 8330,
+    "animation": 5061,
+    "pos": "10899, 12374, 0",
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8331,
+    "pos": "10901, 12374, 0",
+    "sounds": [
+      {
+        "id, delay": "159, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8332,
+    "pos": "10903, 12374, 0"
+  },
+  {
+    "server-tick": 8334,
+    "gfx": 157,
+    "pos": "10901, 12374, 0",
+    "sounds": [
+      {
+        "id, delay": "162, 0"
+      },
+      {
+        "id, delay": "163, 66"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 448,
+        "heights": "32, 124",
+        "slope, duration": "16, 66"
+      },
+      {
+        "id": 449,
+        "heights": "32, 124",
+        "slope, duration": "16, 70"
+      },
+      {
+        "id": 450,
+        "heights": "32, 124",
+        "slope, duration": "16, 76"
+      }
+    ]
+  },
+  {
+    "server-tick": 8335,
+    "animation": 5061,
+    "gfx": 157,
+    "pos": "10900, 12374, 0",
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8336,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "608, 0"
+      },
+      {
+        "id, delay": "2841, 20"
+      },
+      {
+        "id, delay": "2841, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8337,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8338,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8339,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8340,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "608, 0"
+      },
+      {
+        "id, delay": "2843, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 8341,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "2677, 0"
+      },
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8342,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)"
+    },
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8343,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8344,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2639,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "167, 0"
+      },
+      {
+        "id, delay": "2841, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 8345,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2639,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8346,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "gfx": 444
+    }
+  },
+  {
+    "server-tick": 8347,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8348,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "608, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8349,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8350,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)"
+    },
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8351,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8352,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "608, 0"
+      },
+      {
+        "id, delay": "2843, 20"
+      },
+      {
+        "id, delay": "2843, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8353,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8354,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 8355,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8356,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2639,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "167, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8357,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2639,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8358,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      },
+      {
+        "id, delay": "609, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8359,
+    "gfx": 157,
+    "pos": "10902, 12375, 0"
+  },
+  {
+    "server-tick": 8360,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "2844, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8361,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2639
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8362,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 8363,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8364,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 17"
+      }
+    ]
+  },
+  {
+    "server-tick": 8365,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "608, 0"
+      },
+      {
+        "id, delay": "2841, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8366,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8367,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8368,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "2841, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8369,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "608, 0"
+      },
+      {
+        "id, delay": "2844, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8370,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    }
+  },
+  {
+    "server-tick": 8371,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "159, 0"
+      },
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8372,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8373,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      },
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "608, 0"
+      },
+      {
+        "id, delay": "2843, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8374,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "162, 0"
+      },
+      {
+        "id, delay": "163, 58"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      },
+      {
+        "id": 448,
+        "heights": "32, 124",
+        "slope, duration": "16, 58"
+      },
+      {
+        "id": 449,
+        "heights": "32, 124",
+        "slope, duration": "16, 62"
+      },
+      {
+        "id": 450,
+        "heights": "32, 124",
+        "slope, duration": "16, 68"
+      }
+    ]
+  },
+  {
+    "server-tick": 8375,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2842, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8376,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8377,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2639,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "167, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8378,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2639,
+      "gfx": 444
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8379,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "159, 0"
+      },
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8380,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635,
+      "gfx": 444
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8381,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "608, 0"
+      },
+      {
+        "id, delay": "2843, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8382,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "162, 0"
+      },
+      {
+        "id, delay": "163, 58"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      },
+      {
+        "id": 448,
+        "heights": "32, 124",
+        "slope, duration": "16, 58"
+      },
+      {
+        "id": 449,
+        "heights": "32, 124",
+        "slope, duration": "16, 62"
+      },
+      {
+        "id": 450,
+        "heights": "32, 124",
+        "slope, duration": "16, 68"
+      }
+    ]
+  },
+  {
+    "server-tick": 8383,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2842, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8384,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 8385,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "608, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8386,
+    "sounds": [
+      {
+        "id, delay": "609, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8389,
+    "sounds": [
+      {
+        "id, delay": "2677, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8390,
+    "gfx": 157,
+    "pos": "10902, 12373, 0",
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8391,
+    "gfx": 157,
+    "pos": "10902, 12371, 0"
+  },
+  {
+    "server-tick": 8392,
+    "gfx": 157,
+    "pos": "10900, 12371, 0",
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2639
+    },
+    "sounds": [
+      {
+        "id, delay": "2842, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8393,
+    "animation": 5061,
+    "pos": "10898, 12371, 0",
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8394,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 29"
+      }
+    ]
+  },
+  {
+    "server-tick": 8395,
+    "animation": 5061,
+    "pos": "10898, 12369, 0",
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8396,
+    "pos": "10898, 12367, 0"
+  },
+  {
+    "server-tick": 8397,
+    "pos": "10897, 12366, 0"
+  },
+  {
+    "server-tick": 8398,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8399,
+    "animation": 430,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "608, 0"
+      },
+      {
+        "id, delay": "2843, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8400,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "2845, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8401,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 8402,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8403,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "608, 0"
+      },
+      {
+        "id, delay": "2843, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8404,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8405,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 8406,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      },
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8407,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "608, 0"
+      },
+      {
+        "id, delay": "2842, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8408,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2844, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8409,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 8410,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8411,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "608, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 8412,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8413,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8414,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      },
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8415,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "608, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 8416,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2843, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8417,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 8418,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8419,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2639,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "167, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8420,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2639,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8421,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "gfx": 444
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8422,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2635,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      },
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8423,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637,
+      "gfx": 444
+    },
+    "sounds": [
+      {
+        "id, delay": "608, 0"
+      },
+      {
+        "id, delay": "2844, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 8424,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "Yt-HurKot (3128)",
+      "animation": 2637
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2842, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8425,
+    "sounds": [
+      {
+        "id, delay": "609, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8430,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8431,
+    "gfx": 157
+  },
+  {
+    "server-tick": 8432,
+    "animation": 829,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "2842, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8433,
+    "animation": 829
+  },
+  {
+    "server-tick": 8434,
+    "animation": 829
+  },
+  {
+    "server-tick": 8435,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8436,
+    "animation": 829
+  },
+  {
+    "server-tick": 8437,
+    "animation": 829
+  },
+  {
+    "server-tick": 8438,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8439,
+    "animation": 829,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8440,
+    "animation": 829,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "2845, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8441,
+    "animation": 829
+  },
+  {
+    "server-tick": 8446,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8447,
+    "animation": 829,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8448,
+    "animation": 829,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "2843, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8449,
+    "animation": 829
+  },
+  {
+    "server-tick": 8451,
+    "sounds": [
+      {
+        "id, delay": "159, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8453,
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8454,
+    "animation": 5061,
+    "gfx": 157,
+    "pos": "10897, 12368, 0",
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656,
+      "gfx": 447
+    },
+    "sounds": [
+      {
+        "id, delay": "162, 0"
+      },
+      {
+        "id, delay": "163, 66"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 448,
+        "heights": "32, 124",
+        "slope, duration": "16, 66"
+      },
+      {
+        "id": 449,
+        "heights": "32, 124",
+        "slope, duration": "16, 70"
+      },
+      {
+        "id": 450,
+        "heights": "32, 124",
+        "slope, duration": "16, 76"
+      }
+    ]
+  },
+  {
+    "server-tick": 8455,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656,
+      "gfx": 447
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8456,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2844, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8457,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8458,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "2685, 0"
+      },
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8459,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "sounds": [
+      {
+        "id, delay": "159, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8460,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8461,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8462,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656,
+      "gfx": 447
+    },
+    "sounds": [
+      {
+        "id, delay": "162, 0"
+      },
+      {
+        "id, delay": "163, 50"
+      },
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 448,
+        "heights": "32, 124",
+        "slope, duration": "16, 50"
+      },
+      {
+        "id": 449,
+        "heights": "32, 124",
+        "slope, duration": "16, 54"
+      },
+      {
+        "id": 450,
+        "heights": "32, 124",
+        "slope, duration": "16, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 8463,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656,
+      "gfx": 447
+    },
+    "sounds": [
+      {
+        "id, delay": "2843, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 8464,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8465,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 8466,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8467,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "sounds": [
+      {
+        "id, delay": "159, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8468,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8469,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8470,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656,
+      "gfx": 447
+    },
+    "sounds": [
+      {
+        "id, delay": "162, 0"
+      },
+      {
+        "id, delay": "163, 50"
+      },
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 448,
+        "heights": "32, 124",
+        "slope, duration": "16, 50"
+      },
+      {
+        "id": 449,
+        "heights": "32, 124",
+        "slope, duration": "16, 54"
+      },
+      {
+        "id": 450,
+        "heights": "32, 124",
+        "slope, duration": "16, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 8471,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656,
+      "gfx": 447
+    },
+    "sounds": [
+      {
+        "id, delay": "2841, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8472,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8473,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 8474,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8475,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8476,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8477,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2677, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 8478,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      },
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8479,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8480,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2843, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8481,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8482,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8483,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652
+    }
+  },
+  {
+    "server-tick": 8484,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8485,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 8486,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      },
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8487,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 8488,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2843, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8489,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8490,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8491,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652
+    }
+  },
+  {
+    "server-tick": 8492,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8493,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 8494,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      },
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8495,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 8496,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2842, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8497,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 8498,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8499,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 8500,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8501,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8502,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      },
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8503,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    }
+  },
+  {
+    "server-tick": 8504,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2844, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      },
+      {
+        "id, delay": "800, 32"
+      }
+    ]
+  },
+  {
+    "server-tick": 8505,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "projectiles": [
+      {
+        "id": 1043,
+        "heights": "105, 144",
+        "slope, duration": "15, 30"
+      }
+    ]
+  },
+  {
+    "server-tick": 8506,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8507,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "159, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8508,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8509,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 8510,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656,
+      "gfx": 447
+    },
+    "sounds": [
+      {
+        "id, delay": "162, 0"
+      },
+      {
+        "id, delay": "163, 50"
+      },
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 448,
+        "heights": "32, 124",
+        "slope, duration": "16, 50"
+      },
+      {
+        "id": 449,
+        "heights": "32, 124",
+        "slope, duration": "16, 54"
+      },
+      {
+        "id": 450,
+        "heights": "32, 124",
+        "slope, duration": "16, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 8511,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656,
+      "gfx": 447
+    },
+    "sounds": [
+      {
+        "id, delay": "2843, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8512,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8513,
+    "animation": 5061,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8514,
+    "animation": 5061,
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8515,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8516,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 8517,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8518,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "2677, 0"
+      },
+      {
+        "id, delay": "163, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 8519,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8520,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "2844, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8521,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8522,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8523,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8524,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8525,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      },
+      {
+        "id, delay": "800, 32"
+      }
+    ]
+  },
+  {
+    "server-tick": 8526,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1043,
+        "heights": "105, 144",
+        "slope, duration": "15, 30"
+      }
+    ]
+  },
+  {
+    "server-tick": 8527,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8528,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2841, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 8529,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8530,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 8531,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8532,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2652
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 8533,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8534,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "163, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8535,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8536,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "2844, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8537,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8538,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)"
+    }
+  },
+  {
+    "server-tick": 8539,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "159, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8540,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8541,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8542,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656,
+      "gfx": 447
+    },
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      },
+      {
+        "id, delay": "162, 0"
+      },
+      {
+        "id, delay": "163, 50"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      },
+      {
+        "id": 448,
+        "heights": "32, 124",
+        "slope, duration": "16, 50"
+      },
+      {
+        "id": 449,
+        "heights": "32, 124",
+        "slope, duration": "16, 54"
+      },
+      {
+        "id": 450,
+        "heights": "32, 124",
+        "slope, duration": "16, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 8543,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656,
+      "gfx": 447
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2843, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8544,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 8545,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8546,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2653
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 8547,
+    "animation": 5061,
+    "pos": "10897, 12370, 0",
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "159, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8548,
+    "pos": "10899, 12372, 0"
+  },
+  {
+    "server-tick": 8549,
+    "pos": "10900, 12374, 0"
+  },
+  {
+    "server-tick": 8550,
+    "gfx": 157,
+    "sounds": [
+      {
+        "id, delay": "162, 0"
+      },
+      {
+        "id, delay": "163, 42"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 448,
+        "heights": "32, 124",
+        "slope, duration": "16, 42"
+      },
+      {
+        "id": 449,
+        "heights": "32, 124",
+        "slope, duration": "16, 46"
+      },
+      {
+        "id": 450,
+        "heights": "32, 124",
+        "slope, duration": "16, 52"
+      }
+    ]
+  },
+  {
+    "server-tick": 8551,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656,
+      "gfx": 447
+    },
+    "sounds": [
+      {
+        "id, delay": "2841, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8552,
+    "animation": 5061,
+    "gfx": 157,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)",
+      "animation": 2656
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 17"
+      }
+    ]
+  },
+  {
+    "server-tick": 8553,
+    "animation": 5061,
+    "interacting": {
+      "npc": "TzTok-Jad (3127)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8554,
+    "sounds": [
+      {
+        "id, delay": "409, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8560,
+    "animation": 862
+  },
+  {
+    "server-tick": 8561,
+    "animation": 862
+  },
+  {
+    "server-tick": 8562,
+    "animation": 862
+  },
+  {
+    "server-tick": 8563,
+    "animation": 862,
+    "pos": "2439, 5168, 0"
+  },
+  {
+    "server-tick": 8564,
+    "animation": 862
+  }
+]

@@ -1,0 +1,676 @@
+[
+  {
+    "server-tick": 14316,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14317,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14318,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1312
+    },
+    "sounds": [
+      {
+        "id, delay": "720, 0"
+      },
+      {
+        "id, delay": "718, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14319,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1312
+    }
+  },
+  {
+    "server-tick": 14320,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14321,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14322,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1312
+    },
+    "sounds": [
+      {
+        "id, delay": "720, 0"
+      },
+      {
+        "id, delay": "718, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14323,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1312
+    }
+  },
+  {
+    "server-tick": 14324,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14325,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14326,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1312
+    },
+    "sounds": [
+      {
+        "id, delay": "720, 0"
+      },
+      {
+        "id, delay": "718, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14327,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1312
+    }
+  },
+  {
+    "server-tick": 14328,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14329,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14330,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1312
+    },
+    "sounds": [
+      {
+        "id, delay": "720, 0"
+      },
+      {
+        "id, delay": "718, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14331,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1312
+    }
+  },
+  {
+    "server-tick": 14332,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14333,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14334,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1312
+    },
+    "sounds": [
+      {
+        "id, delay": "720, 0"
+      },
+      {
+        "id, delay": "718, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14335,
+    "pos": "1702, 9995, 0"
+  },
+  {
+    "server-tick": 14336,
+    "pos": "1703, 9995, 0",
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14337,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14338,
+    "animation": 1658,
+    "pos": "1702, 9993, 0",
+    "sounds": [
+      {
+        "id, delay": "720, 0"
+      },
+      {
+        "id, delay": "718, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14339,
+    "pos": "1701, 9994, 0"
+  },
+  {
+    "server-tick": 14340,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14341,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14342,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1312
+    },
+    "sounds": [
+      {
+        "id, delay": "720, 0"
+      },
+      {
+        "id, delay": "718, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14343,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1312
+    }
+  },
+  {
+    "server-tick": 14344,
+    "pos": "1703, 9992, 0"
+  },
+  {
+    "server-tick": 14346,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "718, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14347,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14348,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14349,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14350,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "718, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14351,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14352,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14353,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14354,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "718, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14355,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14356,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14357,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14358,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "718, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14359,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14360,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14361,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14362,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "718, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14363,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14364,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14365,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14366,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "718, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14367,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    },
+    "sounds": [
+      {
+        "id, delay": "720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14368,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14369,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14370,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "718, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14371,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14372,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14373,
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 14374,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "718, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14375,
+    "animation": 1658,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14376,
+    "sounds": [
+      {
+        "id, delay": "719, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14379,
+    "animation": 1156,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1312
+    },
+    "sounds": [
+      {
+        "id, delay": "718, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  }
+]

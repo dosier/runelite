@@ -1,0 +1,225 @@
+[
+  {
+    "server-tick": 6573,
+    "animation": 1658,
+    "pos": "3420, 3546, 0",
+    "interacting": {
+      "npc": "Crawling Hand (448)",
+      "animation": 1591
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6574,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Crawling Hand (448)",
+      "animation": 1591
+    },
+    "sounds": [
+      {
+        "id, delay": "379, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6575,
+    "interacting": {
+      "npc": "Crawling Hand (448)"
+    }
+  },
+  {
+    "server-tick": 6576,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Crawling Hand (448)",
+      "animation": 1592
+    },
+    "sounds": [
+      {
+        "id, delay": "377, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6577,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Crawling Hand (448)",
+      "animation": 1592
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6578,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Crawling Hand (448)"
+    },
+    "sounds": [
+      {
+        "id, delay": "379, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6579,
+    "interacting": {
+      "npc": "Crawling Hand (448)"
+    }
+  },
+  {
+    "server-tick": 6580,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Crawling Hand (448)",
+      "animation": 1592
+    },
+    "sounds": [
+      {
+        "id, delay": "377, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6581,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Crawling Hand (448)",
+      "animation": 1592
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6582,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Crawling Hand (448)"
+    },
+    "sounds": [
+      {
+        "id, delay": "379, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6583,
+    "interacting": {
+      "npc": "Crawling Hand (448)"
+    }
+  },
+  {
+    "server-tick": 6584,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Crawling Hand (448)",
+      "animation": 1592
+    },
+    "sounds": [
+      {
+        "id, delay": "377, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6585,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Crawling Hand (448)",
+      "animation": 1592
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6586,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Crawling Hand (448)"
+    },
+    "sounds": [
+      {
+        "id, delay": "379, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6587,
+    "interacting": {
+      "npc": "Crawling Hand (448)"
+    }
+  },
+  {
+    "server-tick": 6588,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Crawling Hand (448)",
+      "animation": 1592
+    },
+    "sounds": [
+      {
+        "id, delay": "377, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6589,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Crawling Hand (448)",
+      "animation": 1592
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6590,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Crawling Hand (448)"
+    },
+    "sounds": [
+      {
+        "id, delay": "379, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6591,
+    "sounds": [
+      {
+        "id, delay": "378, 0"
+      }
+    ]
+  }
+]

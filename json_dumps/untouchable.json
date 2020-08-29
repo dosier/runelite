@@ -1,0 +1,250 @@
+[
+  {
+    "server-tick": 3728,
+    "animation": 1658,
+    "interacting": {
+      "npc": "The Untouchable (6352)",
+      "animation": 6329
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3729,
+    "animation": 1658,
+    "interacting": {
+      "npc": "The Untouchable (6352)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3640, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3730,
+    "interacting": {
+      "npc": "The Untouchable (6352)"
+    }
+  },
+  {
+    "server-tick": 3731,
+    "interacting": {
+      "npc": "The Untouchable (6352)"
+    }
+  },
+  {
+    "server-tick": 3732,
+    "animation": 1658,
+    "interacting": {
+      "npc": "The Untouchable (6352)",
+      "animation": 6329
+    },
+    "sounds": [
+      {
+        "id, delay": "3638, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3733,
+    "animation": 1658,
+    "interacting": {
+      "npc": "The Untouchable (6352)",
+      "animation": 6329
+    },
+    "sounds": [
+      {
+        "id, delay": "3640, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3734,
+    "interacting": {
+      "npc": "The Untouchable (6352)",
+      "animation": 6329
+    }
+  },
+  {
+    "server-tick": 3735,
+    "interacting": {
+      "npc": "The Untouchable (6352)"
+    }
+  },
+  {
+    "server-tick": 3736,
+    "animation": 1658,
+    "interacting": {
+      "npc": "The Untouchable (6352)",
+      "animation": 6330
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3737,
+    "animation": 1658,
+    "interacting": {
+      "npc": "The Untouchable (6352)",
+      "animation": 6330
+    },
+    "sounds": [
+      {
+        "id, delay": "3640, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3738,
+    "animation": 1156,
+    "interacting": {
+      "npc": "The Untouchable (6352)",
+      "animation": 6329
+    },
+    "sounds": [
+      {
+        "id, delay": "3638, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3739,
+    "animation": 1156,
+    "interacting": {
+      "npc": "The Untouchable (6352)",
+      "animation": 6329
+    }
+  },
+  {
+    "server-tick": 3740,
+    "animation": 1658,
+    "interacting": {
+      "npc": "The Untouchable (6352)",
+      "animation": 6329
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3741,
+    "animation": 1658,
+    "interacting": {
+      "npc": "The Untouchable (6352)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3640, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3742,
+    "interacting": {
+      "npc": "The Untouchable (6352)"
+    }
+  },
+  {
+    "server-tick": 3743,
+    "interacting": {
+      "npc": "The Untouchable (6352)"
+    }
+  },
+  {
+    "server-tick": 3744,
+    "animation": 1658,
+    "interacting": {
+      "npc": "The Untouchable (6352)",
+      "animation": 6329
+    },
+    "sounds": [
+      {
+        "id, delay": "3638, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3745,
+    "animation": 1658,
+    "interacting": {
+      "npc": "The Untouchable (6352)",
+      "animation": 6329
+    },
+    "sounds": [
+      {
+        "id, delay": "3640, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3746,
+    "interacting": {
+      "npc": "The Untouchable (6352)",
+      "animation": 6329
+    }
+  },
+  {
+    "server-tick": 3747,
+    "interacting": {
+      "npc": "The Untouchable (6352)"
+    }
+  },
+  {
+    "server-tick": 3748,
+    "animation": 1658,
+    "interacting": {
+      "npc": "The Untouchable (6352)",
+      "animation": 6330
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3749,
+    "animation": 1658,
+    "interacting": {
+      "npc": "The Untouchable (6352)",
+      "animation": 6330
+    },
+    "sounds": [
+      {
+        "id, delay": "3640, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3750,
+    "sounds": [
+      {
+        "id, delay": "3639, 0"
+      }
+    ]
+  }
+]

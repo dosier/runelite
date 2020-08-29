@@ -80,9 +80,9 @@ import net.runelite.http.api.worlds.World;
 import org.slf4j.LoggerFactory;
 
 @PluginDescriptor(
-	name = "Developer Tools",
-	tags = {"panel"},
-	developerPlugin = true
+		name = "Developer Tools",
+		tags = {"panel"},
+		developerPlugin = true
 )
 @Getter
 public class DevToolsPlugin extends Plugin
@@ -299,11 +299,11 @@ public class DevToolsPlugin extends Plugin
 		final BufferedImage icon = ImageUtil.getResourceStreamFromClass(getClass(), "devtools_icon.png");
 
 		navButton = NavigationButton.builder()
-			.tooltip("Developer Tools")
-			.icon(icon)
-			.priority(1)
-			.panel(panel)
-			.build();
+				.tooltip("Developer Tools")
+				.icon(icon)
+				.priority(1)
+				.panel(panel)
+				.build();
 
 		clientToolbar.addNavigation(navButton);
 
@@ -400,10 +400,10 @@ public class DevToolsPlugin extends Plugin
 				client.queueChangedSkill(skill);
 
 				StatChanged statChanged = new StatChanged(
-					skill,
-					totalXp,
-					level,
-					level
+						skill,
+						totalXp,
+						level,
+						level
 				);
 				eventBus.post(statChanged);
 				break;
@@ -423,10 +423,10 @@ public class DevToolsPlugin extends Plugin
 				client.queueChangedSkill(skill);
 
 				StatChanged statChanged = new StatChanged(
-					skill,
-					xp,
-					level,
-					level
+						skill,
+						xp,
+						level,
+						level
 				);
 				eventBus.post(statChanged);
 				break;
@@ -503,9 +503,9 @@ public class DevToolsPlugin extends Plugin
 					message = String.format("Set configuration %s.%s to %s (was: %s)", group, key, value, current);
 				}
 				chatMessageManager.queue(QueuedMessage.builder()
-					.type(ChatMessageType.GAMEMESSAGE)
-					.runeLiteFormattedMessage(new ChatMessageBuilder().append(message).build())
-					.build());
+						.type(ChatMessageType.GAMEMESSAGE)
+						.runeLiteFormattedMessage(new ChatMessageBuilder().append(message).build())
+						.build());
 				break;
 			}
 			case "getconf":
@@ -514,9 +514,9 @@ public class DevToolsPlugin extends Plugin
 				String value = configManager.getConfiguration(group, key);
 				final String message = String.format("%s.%s = %s", group, key, value);
 				chatMessageManager.queue(QueuedMessage.builder()
-					.type(ChatMessageType.GAMEMESSAGE)
-					.runeLiteFormattedMessage(new ChatMessageBuilder().append(message).build())
-					.build());
+						.type(ChatMessageType.GAMEMESSAGE)
+						.runeLiteFormattedMessage(new ChatMessageBuilder().append(message).build())
+						.build());
 				break;
 			}
 		}

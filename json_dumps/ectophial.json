@@ -1,0 +1,31 @@
+[
+  {
+    "server-tick": 7765,
+    "animation": 878,
+    "gfx": 1273
+  },
+  {
+    "server-tick": 7766,
+    "animation": 878,
+    "gfx": 1273
+  },
+  {
+    "server-tick": 7767,
+    "animation": 878,
+    "gfx": 1273
+  },
+  {
+    "server-tick": 7768,
+    "gfx": 1273,
+    "pos": "3658, 3522, 0"
+  },
+  {
+    "server-tick": 7769,
+    "animation": 827,
+    "sounds": [
+      {
+        "id, delay": "1132, 30"
+      }
+    ]
+  }
+]

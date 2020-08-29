@@ -1,0 +1,134 @@
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+AREA_SOUND 2693	 delay: 0, range: 10, sceneX: 53, sceneY: 26
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2500	 delay: 0
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PROJECTILE 12	startHeight: 11, endHeight: 144, slope: 15, duration: 32, x: 6848, y: 3392
+SOUND 520	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+AREA_SOUND 2693	 delay: 0, range: 10, sceneX: 53, sceneY: 26
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Zamorak warrior (7419)'	animation: 388
+SOUND 2960	 delay: 0
+SOUND 2500	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Zamorak warrior (7419)'	animation: 390
+PROJECTILE 12	startHeight: 11, endHeight: 144, slope: 15, duration: 33, x: 6848, y: 3392
+SOUND 2962	 delay: 20
+NPC 'Zamorak warrior (7419)'	animation: 390
+AREA_SOUND 2693	 delay: 0, range: 10, sceneX: 53, sceneY: 26
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Zamorak warrior (7419)'	animation: 388
+SOUND 2960	 delay: 0
+SOUND 2500	 delay: 0
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Zamorak warrior (7419)'	animation: 390
+PROJECTILE 12	startHeight: 11, endHeight: 144, slope: 15, duration: 31, x: 6848, y: 3392
+SOUND 2961	 delay: 20
+NPC 'Zamorak warrior (7419)'	animation: 390
+AREA_SOUND 2693	 delay: 0, range: 10, sceneX: 53, sceneY: 26
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Zamorak warrior (7419)'	animation: 388
+SOUND 2960	 delay: 0
+SOUND 2500	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Zamorak warrior (7419)'	animation: 390
+PROJECTILE 12	startHeight: 11, endHeight: 144, slope: 15, duration: 29, x: 6848, y: 3392
+SOUND 2962	 delay: 20
+NPC 'Zamorak warrior (7419)'	animation: 390
+AREA_SOUND 2693	 delay: 0, range: 10, sceneX: 53, sceneY: 26
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Zamorak warrior (7419)'	animation: 388
+SOUND 2960	 delay: 0
+SOUND 2500	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Zamorak warrior (7419)'	animation: 390
+PROJECTILE 12	startHeight: 11, endHeight: 144, slope: 15, duration: 30, x: 6848, y: 3392
+SOUND 512	 delay: 0
+SOUND 520	 delay: 20
+AREA_SOUND 2693	 delay: 0, range: 10, sceneX: 53, sceneY: 26
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Zamorak ranger (7420)'	animation: 426
+SOUND 24	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Zamorak ranger (7420)'	animation: 426
+PROJECTILE 12	startHeight: 11, endHeight: 144, slope: 15, duration: 32, x: 6848, y: 3392
+SOUND 518	 delay: 20
+AREA_SOUND 2693	 delay: 0, range: 10, sceneX: 53, sceneY: 26
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Zamorak ranger (7420)'	animation: 426
+SOUND 24	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Zamorak ranger (7420)'	animation: 426
+PROJECTILE 12	startHeight: 11, endHeight: 144, slope: 15, duration: 24, x: 6848, y: 3392
+NPC 'Zamorak ranger (7420)'	animation: 426
+AREA_SOUND 2693	 delay: 0, range: 10, sceneX: 53, sceneY: 26
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Zamorak ranger (7420)'	animation: 426
+SOUND 24	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Zamorak ranger (7420)'	animation: 426
+PROJECTILE 12	startHeight: 11, endHeight: 144, slope: 15, duration: 23, x: 6848, y: 3392
+AREA_SOUND 2693	 delay: 0, range: 10, sceneX: 53, sceneY: 26
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Zamorak ranger (7420)'	animation: 426
+SOUND 24	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Zamorak ranger (7420)'	animation: 426
+PROJECTILE 12	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 6848, y: 3392
+AREA_SOUND 2693	 delay: 0, range: 10, sceneX: 53, sceneY: 26
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Zamorak ranger (7420)'	animation: 426
+SOUND 24	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Zamorak ranger (7420)'	animation: 426
+PROJECTILE 12	startHeight: 11, endHeight: 144, slope: 15, duration: 20, x: 6848, y: 3392
+AREA_SOUND 2693	 delay: 0, range: 10, sceneX: 53, sceneY: 26
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Zamorak ranger (7420)'	animation: 426
+SOUND 24	 delay: 0
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Zamorak ranger (7420)'	animation: 426
+PROJECTILE 12	startHeight: 11, endHeight: 144, slope: 15, duration: 21, x: 6848, y: 3392
+SOUND 512	 delay: 0
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cave lizard (7424)'	animation: 3856
+SOUND 607	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cave lizard (7424)'	animation: 3856
+NPC 'Cave lizard (7424)'	animation: 3856
+SOUND 605	 delay: 0
+SOUND 2960	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Cave lizard (7424)'	animation: 3855
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Cave lizard (7424)'	animation: 3855
+SOUND 607	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+SOUND 605	 delay: 0
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Cave lizard (7424)'	animation: 3855

@@ -1,0 +1,298 @@
+[
+  {
+    "server-tick": 6178,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Basilisk (417)",
+      "animation": 1547
+    },
+    "sounds": [
+      {
+        "id, delay": "290, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6179,
+    "interacting": {
+      "npc": "Basilisk (417)"
+    }
+  },
+  {
+    "server-tick": 6180,
+    "animation": 425,
+    "interacting": {
+      "npc": "Basilisk (417)",
+      "animation": 1546
+    },
+    "sounds": [
+      {
+        "id, delay": "288, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6181,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Basilisk (417)",
+      "animation": 1546
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 36"
+      }
+    ]
+  },
+  {
+    "server-tick": 6182,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Basilisk (417)"
+    },
+    "sounds": [
+      {
+        "id, delay": "290, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6183,
+    "interacting": {
+      "npc": "Basilisk (417)"
+    }
+  },
+  {
+    "server-tick": 6184,
+    "animation": 425,
+    "interacting": {
+      "npc": "Basilisk (417)",
+      "animation": 1546
+    },
+    "sounds": [
+      {
+        "id, delay": "288, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6185,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Basilisk (417)",
+      "animation": 1546
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6186,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Basilisk (417)"
+    },
+    "sounds": [
+      {
+        "id, delay": "290, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6187,
+    "interacting": {
+      "npc": "Basilisk (417)"
+    }
+  },
+  {
+    "server-tick": 6188,
+    "animation": 425,
+    "interacting": {
+      "npc": "Basilisk (417)",
+      "animation": 1546
+    },
+    "sounds": [
+      {
+        "id, delay": "288, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6189,
+    "animation": 425,
+    "pos": "2745, 10003, 0"
+  },
+  {
+    "server-tick": 6190,
+    "animation": 425
+  },
+  {
+    "server-tick": 6191,
+    "animation": 1658,
+    "pos": "2743, 10001, 0",
+    "interacting": {
+      "npc": "Basilisk (417)",
+      "animation": 1547
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6192,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Basilisk (417)",
+      "animation": 1546
+    },
+    "sounds": [
+      {
+        "id, delay": "290, 0"
+      },
+      {
+        "id, delay": "288, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6193,
+    "interacting": {
+      "npc": "Basilisk (417)",
+      "animation": 1546
+    }
+  },
+  {
+    "server-tick": 6194,
+    "interacting": {
+      "npc": "Basilisk (417)"
+    }
+  },
+  {
+    "server-tick": 6195,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Basilisk (417)",
+      "animation": 1547
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 6196,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Basilisk (417)",
+      "animation": 1546
+    },
+    "sounds": [
+      {
+        "id, delay": "290, 0"
+      },
+      {
+        "id, delay": "288, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6197,
+    "interacting": {
+      "npc": "Basilisk (417)",
+      "animation": 1546
+    }
+  },
+  {
+    "server-tick": 6198,
+    "interacting": {
+      "npc": "Basilisk (417)"
+    }
+  },
+  {
+    "server-tick": 6199,
+    "pos": "2743, 10003, 0"
+  },
+  {
+    "server-tick": 6200,
+    "animation": 425,
+    "pos": "2743, 10005, 0",
+    "sounds": [
+      {
+        "id, delay": "288, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 6201,
+    "animation": 425,
+    "pos": "2743, 10007, 0"
+  },
+  {
+    "server-tick": 6202,
+    "animation": 425,
+    "pos": "2743, 10009, 0"
+  },
+  {
+    "server-tick": 6203,
+    "pos": "2743, 10011, 0"
+  },
+  {
+    "server-tick": 6204,
+    "pos": "2743, 10013, 0"
+  },
+  {
+    "server-tick": 6205,
+    "pos": "2743, 10015, 0",
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 20"
+      }
+    ]
+  }
+]

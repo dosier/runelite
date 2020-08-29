@@ -1,0 +1,75 @@
+[
+  {
+    "server-tick": 5361,
+    "pos": "10308, 6626, 0"
+  },
+  {
+    "server-tick": 5362,
+    "pos": "10307, 6626, 0"
+  },
+  {
+    "server-tick": 5366,
+    "pos": "10307, 6624, 0"
+  },
+  {
+    "server-tick": 5367,
+    "pos": "10307, 6623, 0",
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 36"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      }
+    ]
+  },
+  {
+    "server-tick": 5370,
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 31"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 31"
+      }
+    ]
+  },
+  {
+    "server-tick": 5371,
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      }
+    ]
+  },
+  {
+    "server-tick": 5373,
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      }
+    ]
+  },
+  {
+    "server-tick": 5374,
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 18"
+      }
+    ]
+  }
+]

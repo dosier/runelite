@@ -1,0 +1,1233 @@
+[
+  {
+    "server-tick": 4076,
+    "pos": "8243, 2403, 1"
+  },
+  {
+    "server-tick": 4077,
+    "pos": "8241, 2401, 1"
+  },
+  {
+    "server-tick": 4078,
+    "pos": "8239, 2399, 1"
+  },
+  {
+    "server-tick": 4079,
+    "pos": "8238, 2398, 1"
+  },
+  {
+    "server-tick": 4080,
+    "animation": 1658,
+    "pos": "8237, 2398, 1",
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4081,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      },
+      {
+        "id, delay": "1353, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4082,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    }
+  },
+  {
+    "server-tick": 4083,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    }
+  },
+  {
+    "server-tick": 4084,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4085,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 385,
+      "gfx": 193
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      },
+      {
+        "id, delay": "2708, 0"
+      },
+      {
+        "id, delay": "2589, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 4086,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 385,
+      "gfx": 193
+    }
+  },
+  {
+    "server-tick": 4087,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    }
+  },
+  {
+    "server-tick": 4088,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4089,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      },
+      {
+        "id, delay": "1353, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4090,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    }
+  },
+  {
+    "server-tick": 4091,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    }
+  },
+  {
+    "server-tick": 4092,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4093,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      },
+      {
+        "id, delay": "1353, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4094,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    }
+  },
+  {
+    "server-tick": 4095,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    }
+  },
+  {
+    "server-tick": 4096,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4097,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      },
+      {
+        "id, delay": "1353, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4098,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    }
+  },
+  {
+    "server-tick": 4099,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    }
+  },
+  {
+    "server-tick": 4100,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4101,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      },
+      {
+        "id, delay": "1353, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4102,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    }
+  },
+  {
+    "server-tick": 4103,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    }
+  },
+  {
+    "server-tick": 4104,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4105,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      },
+      {
+        "id, delay": "1353, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4106,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    }
+  },
+  {
+    "server-tick": 4107,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    }
+  },
+  {
+    "server-tick": 4108,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4109,
+    "animation": 1658,
+    "gfx": 1575,
+    "pos": "8236, 2398, 1",
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      },
+      {
+        "id, delay": "2544, 0"
+      },
+      {
+        "id, delay": "2727, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4110,
+    "gfx": 1575,
+    "sounds": [
+      {
+        "id, delay": "2707, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4111,
+    "animation": 1156,
+    "gfx": 1575,
+    "projectiles": [
+      {
+        "id": 217,
+        "heights": "11, 160",
+        "slope, duration": "15, 30"
+      }
+    ]
+  },
+  {
+    "server-tick": 4112,
+    "animation": 1156,
+    "gfx": 1575,
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4113,
+    "animation": 1156
+  },
+  {
+    "server-tick": 4114,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "1353, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4115,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4116,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4117,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    }
+  },
+  {
+    "server-tick": 4118,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 385,
+      "gfx": 193
+    },
+    "sounds": [
+      {
+        "id, delay": "2708, 0"
+      },
+      {
+        "id, delay": "2589, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 4119,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 385
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4120,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4121,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    }
+  },
+  {
+    "server-tick": 4122,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "1353, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4123,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4124,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4125,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    }
+  },
+  {
+    "server-tick": 4126,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "1353, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4127,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4128,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4129,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    }
+  },
+  {
+    "server-tick": 4130,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "1353, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4131,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4132,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4133,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    }
+  },
+  {
+    "server-tick": 4134,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "1353, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4135,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4136,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4137,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    }
+  },
+  {
+    "server-tick": 4138,
+    "animation": 1156,
+    "gfx": 1575,
+    "pos": "8235, 2398, 1",
+    "sounds": [
+      {
+        "id, delay": "2544, 0"
+      },
+      {
+        "id, delay": "2727, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4139,
+    "animation": 1156,
+    "gfx": 1575,
+    "sounds": [
+      {
+        "id, delay": "2707, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4140,
+    "animation": 1156,
+    "gfx": 1575,
+    "projectiles": [
+      {
+        "id": 217,
+        "heights": "11, 160",
+        "slope, duration": "15, 30"
+      }
+    ]
+  },
+  {
+    "server-tick": 4141,
+    "gfx": 1575,
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4142,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4143,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      },
+      {
+        "id, delay": "1353, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4144,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    }
+  },
+  {
+    "server-tick": 4145,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    }
+  },
+  {
+    "server-tick": 4146,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4147,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 385,
+      "gfx": 193
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      },
+      {
+        "id, delay": "2708, 0"
+      },
+      {
+        "id, delay": "2589, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 4148,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 385,
+      "gfx": 193
+    }
+  },
+  {
+    "server-tick": 4149,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    }
+  },
+  {
+    "server-tick": 4150,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4151,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      },
+      {
+        "id, delay": "1353, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4152,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    }
+  },
+  {
+    "server-tick": 4153,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    }
+  },
+  {
+    "server-tick": 4154,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4155,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      },
+      {
+        "id, delay": "1353, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4156,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    }
+  },
+  {
+    "server-tick": 4157,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    }
+  },
+  {
+    "server-tick": 4158,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4159,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      },
+      {
+        "id, delay": "1353, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4160,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    }
+  },
+  {
+    "server-tick": 4161,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    }
+  },
+  {
+    "server-tick": 4162,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4163,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      },
+      {
+        "id, delay": "1353, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4164,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    }
+  },
+  {
+    "server-tick": 4165,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    }
+  },
+  {
+    "server-tick": 4166,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4167,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      },
+      {
+        "id, delay": "1353, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4168,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    }
+  },
+  {
+    "server-tick": 4169,
+    "interacting": {
+      "npc": "Essyllt (9249)"
+    }
+  },
+  {
+    "server-tick": 4170,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4171,
+    "animation": 1658,
+    "gfx": 1575,
+    "pos": "8234, 2398, 1",
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      },
+      {
+        "id, delay": "2544, 0"
+      },
+      {
+        "id, delay": "2727, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4172,
+    "gfx": 1575,
+    "sounds": [
+      {
+        "id, delay": "2707, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4173,
+    "animation": 1156,
+    "gfx": 1575,
+    "projectiles": [
+      {
+        "id": 217,
+        "heights": "11, 160",
+        "slope, duration": "15, 30"
+      }
+    ]
+  },
+  {
+    "server-tick": 4174,
+    "animation": 1658,
+    "gfx": 1575,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4175,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4176,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 385,
+      "gfx": 193
+    },
+    "sounds": [
+      {
+        "id, delay": "2708, 0"
+      },
+      {
+        "id, delay": "2589, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 4177,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 385,
+      "gfx": 193
+    }
+  },
+  {
+    "server-tick": 4178,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4179,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4180,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    },
+    "sounds": [
+      {
+        "id, delay": "1353, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4181,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 428
+    }
+  },
+  {
+    "server-tick": 4182,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4183,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Essyllt (9249)",
+      "animation": 430
+    },
+    "sounds": [
+      {
+        "id, delay": "1349, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4184,
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,518 @@
+[
+  {
+    "server-tick": 3488,
+    "pos": "7473, 1830, 1"
+  },
+  {
+    "server-tick": 3489,
+    "pos": "7471, 1832, 1"
+  },
+  {
+    "server-tick": 3491,
+    "pos": "7471, 1830, 1"
+  },
+  {
+    "server-tick": 3492,
+    "pos": "7471, 1828, 1"
+  },
+  {
+    "server-tick": 3493,
+    "pos": "7471, 1826, 1"
+  },
+  {
+    "server-tick": 3494,
+    "pos": "7469, 1824, 1"
+  },
+  {
+    "server-tick": 3495,
+    "pos": "7467, 1822, 1"
+  },
+  {
+    "server-tick": 3497,
+    "animation": 1658,
+    "pos": "7467, 1820, 1",
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5458
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3498,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    },
+    "sounds": [
+      {
+        "id, delay": "743, 0"
+      },
+      {
+        "id, delay": "741, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3499,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    }
+  },
+  {
+    "server-tick": 3500,
+    "interacting": {
+      "npc": "Giant scarab (6343)"
+    }
+  },
+  {
+    "server-tick": 3501,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5458
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3502,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    },
+    "sounds": [
+      {
+        "id, delay": "743, 0"
+      },
+      {
+        "id, delay": "741, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3503,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    }
+  },
+  {
+    "server-tick": 3504,
+    "interacting": {
+      "npc": "Giant scarab (6343)"
+    }
+  },
+  {
+    "server-tick": 3505,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5458
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3506,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    },
+    "sounds": [
+      {
+        "id, delay": "743, 0"
+      },
+      {
+        "id, delay": "741, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3507,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    }
+  },
+  {
+    "server-tick": 3508,
+    "interacting": {
+      "npc": "Giant scarab (6343)"
+    }
+  },
+  {
+    "server-tick": 3509,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5458
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3510,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    },
+    "sounds": [
+      {
+        "id, delay": "743, 0"
+      },
+      {
+        "id, delay": "741, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3511,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    }
+  },
+  {
+    "server-tick": 3512,
+    "interacting": {
+      "npc": "Giant scarab (6343)"
+    }
+  },
+  {
+    "server-tick": 3513,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5458
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3514,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    },
+    "sounds": [
+      {
+        "id, delay": "743, 0"
+      },
+      {
+        "id, delay": "741, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3515,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    }
+  },
+  {
+    "server-tick": 3516,
+    "interacting": {
+      "npc": "Giant scarab (6343)"
+    }
+  },
+  {
+    "server-tick": 3517,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5458
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3518,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    },
+    "sounds": [
+      {
+        "id, delay": "743, 0"
+      },
+      {
+        "id, delay": "741, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3519,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    }
+  },
+  {
+    "server-tick": 3520,
+    "interacting": {
+      "npc": "Giant scarab (6343)"
+    }
+  },
+  {
+    "server-tick": 3521,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5458
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3522,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    },
+    "sounds": [
+      {
+        "id, delay": "743, 0"
+      },
+      {
+        "id, delay": "741, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3523,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    }
+  },
+  {
+    "server-tick": 3524,
+    "interacting": {
+      "npc": "Giant scarab (6343)"
+    }
+  },
+  {
+    "server-tick": 3525,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5458
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3526,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    },
+    "sounds": [
+      {
+        "id, delay": "743, 0"
+      },
+      {
+        "id, delay": "741, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3527,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    }
+  },
+  {
+    "server-tick": 3528,
+    "interacting": {
+      "npc": "Giant scarab (6343)"
+    }
+  },
+  {
+    "server-tick": 3529,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5458
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3530,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    },
+    "sounds": [
+      {
+        "id, delay": "743, 0"
+      },
+      {
+        "id, delay": "741, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3531,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    }
+  },
+  {
+    "server-tick": 3532,
+    "interacting": {
+      "npc": "Giant scarab (6343)"
+    }
+  },
+  {
+    "server-tick": 3533,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5458
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3534,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    },
+    "sounds": [
+      {
+        "id, delay": "743, 0"
+      },
+      {
+        "id, delay": "741, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3535,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    }
+  },
+  {
+    "server-tick": 3536,
+    "interacting": {
+      "npc": "Giant scarab (6343)"
+    }
+  },
+  {
+    "server-tick": 3537,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5458
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3538,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Giant scarab (6343)",
+      "animation": 5457
+    },
+    "sounds": [
+      {
+        "id, delay": "743, 0"
+      },
+      {
+        "id, delay": "741, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3539,
+    "sounds": [
+      {
+        "id, delay": "742, 0"
+      }
+    ]
+  }
+]

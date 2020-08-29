@@ -1,0 +1,736 @@
+[
+  {
+    "server-tick": 14603,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)"
+    },
+    "sounds": [
+      {
+        "id, delay": "647, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14604,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)"
+    }
+  },
+  {
+    "server-tick": 14605,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)",
+      "animation": 1529
+    },
+    "sounds": [
+      {
+        "id, delay": "2418, 0"
+      },
+      {
+        "id, delay": "879, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14606,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)",
+      "animation": 1529
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 14607,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)",
+      "animation": 1529
+    },
+    "sounds": [
+      {
+        "id, delay": "647, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14608,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)",
+      "animation": 1529
+    }
+  },
+  {
+    "server-tick": 14609,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "645, 0"
+      },
+      {
+        "id, delay": "879, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14610,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14611,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)"
+    },
+    "sounds": [
+      {
+        "id, delay": "647, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 28"
+      }
+    ]
+  },
+  {
+    "server-tick": 14612,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)"
+    }
+  },
+  {
+    "server-tick": 14613,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Death spawn (10)",
+      "animation": 1540
+    },
+    "sounds": [
+      {
+        "id, delay": "645, 0"
+      },
+      {
+        "id, delay": "879, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14614,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Death spawn (10)",
+      "animation": 1542
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14615,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Death spawn (10)"
+    },
+    "sounds": [
+      {
+        "id, delay": "884, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14616,
+    "interacting": {
+      "npc": "Death spawn (10)"
+    },
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 25"
+      }
+    ]
+  },
+  {
+    "server-tick": 14617,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Death spawn (10)",
+      "animation": 1540
+    },
+    "sounds": [
+      {
+        "id, delay": "645, 0"
+      },
+      {
+        "id, delay": "879, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14618,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Death spawn (10)",
+      "animation": 1542
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14619,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Death spawn (10)"
+    },
+    "sounds": [
+      {
+        "id, delay": "884, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14620,
+    "interacting": {
+      "npc": "Death spawn (10)"
+    }
+  },
+  {
+    "server-tick": 14621,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Death spawn (10)",
+      "animation": 1540
+    },
+    "sounds": [
+      {
+        "id, delay": "645, 0"
+      },
+      {
+        "id, delay": "879, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 14622,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Death spawn (10)",
+      "animation": 1542
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14623,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Death spawn (10)"
+    },
+    "sounds": [
+      {
+        "id, delay": "884, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14624,
+    "interacting": {
+      "npc": "Death spawn (10)"
+    }
+  },
+  {
+    "server-tick": 14625,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Death spawn (10)",
+      "animation": 1540
+    },
+    "sounds": [
+      {
+        "id, delay": "645, 0"
+      },
+      {
+        "id, delay": "879, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14626,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Death spawn (10)",
+      "animation": 1542
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 14627,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Death spawn (10)"
+    },
+    "sounds": [
+      {
+        "id, delay": "884, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14628,
+    "interacting": {
+      "npc": "Death spawn (10)"
+    }
+  },
+  {
+    "server-tick": 14629,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Death spawn (10)",
+      "animation": 1540
+    },
+    "sounds": [
+      {
+        "id, delay": "645, 0"
+      },
+      {
+        "id, delay": "879, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14630,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Death spawn (10)",
+      "animation": 1542
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "11, 144",
+        "slope, duration": "15, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 14631,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Death spawn (10)"
+    },
+    "sounds": [
+      {
+        "id, delay": "884, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14632,
+    "interacting": {
+      "npc": "Death spawn (10)"
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "11, 144",
+        "slope, duration": "15, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 14633,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Death spawn (10)",
+      "animation": 1540
+    },
+    "sounds": [
+      {
+        "id, delay": "645, 0"
+      },
+      {
+        "id, delay": "879, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14634,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Death spawn (10)",
+      "animation": 1542
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14635,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Death spawn (10)"
+    },
+    "sounds": [
+      {
+        "id, delay": "884, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14636,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)"
+    },
+    "sounds": [
+      {
+        "id, delay": "882, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14637,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "645, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14638,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "11, 144",
+        "slope, duration": "15, 17"
+      }
+    ]
+  },
+  {
+    "server-tick": 14639,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)"
+    },
+    "sounds": [
+      {
+        "id, delay": "647, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14640,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)"
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "11, 144",
+        "slope, duration": "15, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 14641,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "645, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14642,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14643,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)"
+    },
+    "sounds": [
+      {
+        "id, delay": "647, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14644,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)"
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "11, 144",
+        "slope, duration": "15, 13"
+      }
+    ]
+  },
+  {
+    "server-tick": 14645,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "645, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14646,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "11, 144",
+        "slope, duration": "15, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 14647,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)"
+    },
+    "sounds": [
+      {
+        "id, delay": "647, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14648,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)"
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "11, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 14649,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "645, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14650,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14651,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)"
+    },
+    "sounds": [
+      {
+        "id, delay": "647, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14652,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)"
+    }
+  },
+  {
+    "server-tick": 14653,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Greater Nechryael (7278)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "645, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "server-tick": 6317,
+    "animation": 1658,
+    "pos": "2699, 9992, 0",
+    "interacting": {
+      "npc": "Kurask (410)",
+      "animation": 1514
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6318,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kurask (410)",
+      "animation": 1514
+    },
+    "sounds": [
+      {
+        "id, delay": "590, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6319,
+    "interacting": {
+      "npc": "Kurask (410)"
+    }
+  },
+  {
+    "server-tick": 6320,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Kurask (410)",
+      "animation": 1512
+    },
+    "sounds": [
+      {
+        "id, delay": "588, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6321,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kurask (410)",
+      "animation": 1512
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 6322,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kurask (410)",
+      "animation": 1512
+    },
+    "sounds": [
+      {
+        "id, delay": "590, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6323,
+    "interacting": {
+      "npc": "Kurask (410)"
+    }
+  },
+  {
+    "server-tick": 6324,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Kurask (410)",
+      "animation": 1512
+    },
+    "sounds": [
+      {
+        "id, delay": "588, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6325,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kurask (410)",
+      "animation": 1512
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6326,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kurask (410)",
+      "animation": 1512
+    },
+    "sounds": [
+      {
+        "id, delay": "590, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6327,
+    "interacting": {
+      "npc": "Kurask (410)"
+    }
+  },
+  {
+    "server-tick": 6328,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Kurask (410)",
+      "animation": 1512
+    },
+    "sounds": [
+      {
+        "id, delay": "588, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6329,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kurask (410)",
+      "animation": 1512
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6330,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kurask (410)",
+      "animation": 1512
+    },
+    "sounds": [
+      {
+        "id, delay": "590, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6331,
+    "interacting": {
+      "npc": "Kurask (410)"
+    },
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 6332,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Kurask (410)",
+      "animation": 1512
+    },
+    "sounds": [
+      {
+        "id, delay": "588, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6333,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kurask (410)",
+      "animation": 1512
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6334,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kurask (410)",
+      "animation": 1512
+    },
+    "sounds": [
+      {
+        "id, delay": "590, 0"
+      }
+    ]
+  }
+]

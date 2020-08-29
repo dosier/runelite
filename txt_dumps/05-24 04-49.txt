@@ -1,1 +1,0 @@
-AREA_SOUND 3767	 delay: 0, range: 1, sceneX: 55, sceneY: 50, source: MoonMeadow15

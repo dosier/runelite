@@ -1,0 +1,44 @@
+[
+  {
+    "server-tick": 11098,
+    "animation": 3265,
+    "gfx": 569,
+    "sounds": [
+      {
+        "id, delay": "1098, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11099,
+    "animation": 3265,
+    "gfx": 569
+  },
+  {
+    "server-tick": 11100,
+    "animation": 3265,
+    "gfx": 569
+  },
+  {
+    "server-tick": 11101,
+    "animation": 3266,
+    "gfx": 569,
+    "pos": "2412, 4434, 0"
+  },
+  {
+    "server-tick": 11102,
+    "gfx": 569
+  },
+  {
+    "server-tick": 11103,
+    "gfx": 569
+  },
+  {
+    "server-tick": 11104,
+    "gfx": 569
+  },
+  {
+    "server-tick": 11105,
+    "gfx": 569
+  }
+]

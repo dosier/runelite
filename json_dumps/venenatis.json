@@ -1,0 +1,546 @@
+[
+  {
+    "server-tick": 26208,
+    "pos": "3326, 3740, 0",
+    "interacting": {
+      "npc": "Venenatis (6610)"
+    }
+  },
+  {
+    "server-tick": 26209,
+    "animation": 7552,
+    "pos": "3328, 3740, 0",
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5320
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26210,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5320
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 47"
+      }
+    ]
+  },
+  {
+    "server-tick": 26211,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5320
+    }
+  },
+  {
+    "server-tick": 26212,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5320
+    },
+    "sounds": [
+      {
+        "id, delay": "543, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26213,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5320
+    },
+    "sounds": [
+      {
+        "id, delay": "3424, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26214,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5320
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26215,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5320
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 36"
+      }
+    ]
+  },
+  {
+    "server-tick": 26216,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5320
+    }
+  },
+  {
+    "server-tick": 26217,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5320
+    },
+    "sounds": [
+      {
+        "id, delay": "543, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26218,
+    "interacting": {
+      "npc": "Venenatis (6610)"
+    }
+  },
+  {
+    "server-tick": 26219,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5320
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26220,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5319
+    },
+    "sounds": [
+      {
+        "id, delay": "541, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 25"
+      }
+    ]
+  },
+  {
+    "server-tick": 26221,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5319
+    },
+    "sounds": [
+      {
+        "id, delay": "543, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26222,
+    "interacting": {
+      "npc": "Venenatis (6610)"
+    }
+  },
+  {
+    "server-tick": 26223,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5319,
+      "gfx": 164
+    },
+    "sounds": [
+      {
+        "id, delay": "541, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26224,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5319,
+      "gfx": 164
+    },
+    "sounds": [
+      {
+        "id, delay": "2959, 20"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 165,
+        "heights": "64, 84",
+        "slope, duration": "0, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 26225,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Venenatis (6610)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 26226,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Venenatis (6610)"
+    },
+    "sounds": [
+      {
+        "id, delay": "543, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26227,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5322,
+      "gfx": 164
+    }
+  },
+  {
+    "server-tick": 26228,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5322,
+      "gfx": 164
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 165,
+        "heights": "64, 84",
+        "slope, duration": "0, 28"
+      }
+    ]
+  },
+  {
+    "server-tick": 26229,
+    "pos": "3328, 3738, 0"
+  },
+  {
+    "server-tick": 26230,
+    "pos": "3328, 3736, 0"
+  },
+  {
+    "server-tick": 26231,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5320,
+      "gfx": 164
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26232,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5320,
+      "gfx": 164
+    },
+    "sounds": [
+      {
+        "id, delay": "2958, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 165,
+        "heights": "64, 84",
+        "slope, duration": "0, 26"
+      },
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 26233,
+    "animation": 7552,
+    "pos": "3328, 3734, 0",
+    "sounds": [
+      {
+        "id, delay": "543, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26234,
+    "pos": "3328, 3732, 0"
+  },
+  {
+    "server-tick": 26235,
+    "interacting": {
+      "npc": "Venenatis (6610)"
+    }
+  },
+  {
+    "server-tick": 26236,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5320
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26237,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5320
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 34"
+      }
+    ]
+  },
+  {
+    "server-tick": 26238,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5320
+    }
+  },
+  {
+    "server-tick": 26239,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5319
+    },
+    "sounds": [
+      {
+        "id, delay": "543, 0"
+      },
+      {
+        "id, delay": "541, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26240,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Venenatis (6610)",
+      "animation": 5319
+    }
+  },
+  {
+    "server-tick": 26241,
+    "animation": 1156,
+    "pos": "3330, 3730, 0"
+  },
+  {
+    "server-tick": 26242,
+    "pos": "3330, 3728, 0"
+  },
+  {
+    "server-tick": 26243,
+    "animation": 829,
+    "pos": "3330, 3726, 0",
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26244,
+    "animation": 829,
+    "pos": "3330, 3728, 0"
+  },
+  {
+    "server-tick": 26245,
+    "animation": 829,
+    "pos": "3330, 3730, 0"
+  },
+  {
+    "server-tick": 26246,
+    "animation": 1156,
+    "pos": "3332, 3732, 0",
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "541, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26247,
+    "animation": 1156,
+    "pos": "3333, 3733, 0"
+  },
+  {
+    "server-tick": 26248,
+    "animation": 1156,
+    "pos": "3333, 3731, 0"
+  },
+  {
+    "server-tick": 26249,
+    "pos": "3333, 3729, 0"
+  },
+  {
+    "server-tick": 26250,
+    "animation": 1156,
+    "pos": "3333, 3727, 0",
+    "sounds": [
+      {
+        "id, delay": "541, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26251,
+    "animation": 1156,
+    "pos": "3333, 3725, 0"
+  },
+  {
+    "server-tick": 26252,
+    "animation": 1156,
+    "pos": "3333, 3723, 0"
+  },
+  {
+    "server-tick": 26253,
+    "pos": "3335, 3721, 0"
+  },
+  {
+    "server-tick": 26254,
+    "gfx": 172,
+    "pos": "3335, 3719, 0"
+  },
+  {
+    "server-tick": 26255,
+    "pos": "3335, 3717, 0"
+  },
+  {
+    "server-tick": 26256,
+    "pos": "3335, 3715, 0"
+  },
+  {
+    "server-tick": 26257,
+    "pos": "3337, 3713, 0"
+  },
+  {
+    "server-tick": 26258,
+    "animation": 829,
+    "pos": "3339, 3711, 0",
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26259,
+    "animation": 829
+  },
+  {
+    "server-tick": 26260,
+    "animation": 829
+  },
+  {
+    "server-tick": 26264,
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 46"
+      }
+    ]
+  },
+  {
+    "server-tick": 26265,
+    "projectiles": [
+      {
+        "id": 165,
+        "heights": "64, 84",
+        "slope, duration": "0, 96"
+      }
+    ]
+  }
+]

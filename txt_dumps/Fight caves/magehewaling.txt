@@ -1,0 +1,62 @@
+SOUND 610	 delay: 0
+SOUND 608	 delay: 0
+SOUND 601	 delay: 15
+SOUND 1184	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-MejKot (3123)'	animation: 2637
+SOUND 2844	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-MejKot (3123)'	animation: 2637
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 6336, y: 7232
+PROJECTILE 443	startHeight: 32, endHeight: 124, slope: 16, duration: 115, x: 8128, y: 8128
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-MejKot (3123)'	animation: 2635
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-MejKot (3123)'	animation: 2635
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6336, y: 7232
+SOUND 610	 delay: 0
+SOUND 167	 delay: 0
+SOUND 601	 delay: 15
+SOUND 1184	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-MejKot (3123)'	animation: 2639, gfx: 444
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-MejKot (3123)'	animation: 2639, gfx: 444
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6336, y: 7232
+PROJECTILE 443	startHeight: 32, endHeight: 124, slope: 16, duration: 114, x: 8128, y: 8128
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-MejKot (3123)'	animation: 2635, gfx: 444
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-MejKot (3123)'	animation: 2635, gfx: 444
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6336, y: 7232
+SOUND 610	 delay: 0
+SOUND 608	 delay: 0
+SOUND 601	 delay: 15
+SOUND 1184	 delay: 0
+SOUND 2841	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-MejKot (3123)'	animation: 2637, gfx: 444
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-MejKot (3123)'	animation: 2637
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 6336, y: 7232
+PROJECTILE 443	startHeight: 32, endHeight: 124, slope: 16, duration: 113, x: 8128, y: 8128
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-MejKot (3123)'	animation: 2635
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-MejKot (3123)'	animation: 2635
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 6336, y: 7232
+SOUND 610	 delay: 0
+SOUND 608	 delay: 0
+SOUND 601	 delay: 15
+SOUND 1184	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-MejKot (3123)'	animation: 2637

@@ -1,0 +1,533 @@
+[
+  {
+    "server-tick": 21950,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "3120, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21951,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 21952,
+    "animation": 1156
+  },
+  {
+    "server-tick": 21953,
+    "animation": 1156
+  },
+  {
+    "server-tick": 21954,
+    "pos": "1365, 3530, 0",
+    "interacting": {
+      "npc": "Lizardman (6917)",
+      "animation": 7193
+    }
+  },
+  {
+    "server-tick": 21955,
+    "animation": 1658,
+    "pos": "1367, 3528, 0",
+    "interacting": {
+      "npc": "Lizardman (6917)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 32"
+      },
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 27"
+      }
+    ]
+  },
+  {
+    "server-tick": 21956,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman (6917)"
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 21957,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman (6917)",
+      "animation": 7193
+    }
+  },
+  {
+    "server-tick": 21958,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman (6917)",
+      "animation": 7193
+    }
+  },
+  {
+    "server-tick": 21959,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman (6917)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2962, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 16"
+      },
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 21960,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman (6917)"
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21961,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman (6917)",
+      "animation": 7193
+    }
+  },
+  {
+    "server-tick": 21962,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman (6917)",
+      "animation": 7193
+    }
+  },
+  {
+    "server-tick": 21963,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman (6917)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21964,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman (6917)"
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21965,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman (6917)",
+      "animation": 7193
+    }
+  },
+  {
+    "server-tick": 21966,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman (6917)",
+      "animation": 7193
+    }
+  },
+  {
+    "server-tick": 21967,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman (6917)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21968,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman (6917)"
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21969,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "387, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21970,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "3424, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21971,
+    "animation": 1658,
+    "pos": "1368, 3527, 0",
+    "interacting": {
+      "npc": "Lizardman brute (6919)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "2959, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 21972,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman brute (6919)"
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21973,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman brute (6919)",
+      "animation": 7193
+    }
+  },
+  {
+    "server-tick": 21974,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman brute (6919)",
+      "animation": 7193
+    }
+  },
+  {
+    "server-tick": 21975,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman brute (6919)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 13"
+      }
+    ]
+  },
+  {
+    "server-tick": 21976,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman brute (6919)"
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21977,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman brute (6919)",
+      "animation": 7193
+    }
+  },
+  {
+    "server-tick": 21978,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman brute (6919)",
+      "animation": 7193
+    }
+  },
+  {
+    "server-tick": 21979,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman brute (6919)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 21980,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman brute (6919)"
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21981,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman brute (6919)",
+      "animation": 7192
+    },
+    "sounds": [
+      {
+        "id, delay": "2548, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21982,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman brute (6919)",
+      "animation": 7192
+    }
+  },
+  {
+    "server-tick": 21983,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman brute (6919)",
+      "animation": 7194
+    },
+    "sounds": [
+      {
+        "id, delay": "2962, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21984,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman brute (6919)",
+      "animation": 7194
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21985,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman brute (6919)",
+      "animation": 7192
+    },
+    "sounds": [
+      {
+        "id, delay": "2548, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21986,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman brute (6919)",
+      "animation": 7192
+    }
+  },
+  {
+    "server-tick": 21987,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman brute (6919)",
+      "animation": 7192
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21988,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman brute (6919)"
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      },
+      {
+        "id, delay": "2548, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21989,
+    "interacting": {
+      "npc": "Lizardman brute (6919)"
+    }
+  },
+  {
+    "server-tick": 21990,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman brute (6919)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 21991,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman brute (6919)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+SOUND 2489	 delay: 0
+PLAYER 'ex rs'	 animation: 2594
+SOUND 2489	 delay: 0
+PLAYER 'ex rs'	 animation: 2595
+PLAYER 'ex rs'	 animation: 2595
+AREA_SOUND 2548	 delay: 0, range: 6, sceneX: 69, sceneY: 47
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156

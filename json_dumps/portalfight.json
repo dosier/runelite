@@ -1,0 +1,371 @@
+[
+  {
+    "server-tick": 4984,
+    "pos": "6467, 6049, 0",
+    "projectiles": [
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 30"
+      }
+    ]
+  },
+  {
+    "server-tick": 4985,
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 23"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 63"
+      }
+    ]
+  },
+  {
+    "server-tick": 4986,
+    "animation": 390,
+    "interacting": {
+      "npc": "Portal (1747)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 26"
+      },
+      {
+        "id": 213,
+        "heights": "11, 144",
+        "slope, duration": "15, 12"
+      },
+      {
+        "id": 11,
+        "heights": "11, 144",
+        "slope, duration": "5, 26"
+      },
+      {
+        "id": 11,
+        "heights": "11, 144",
+        "slope, duration": "25, 45"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      }
+    ]
+  },
+  {
+    "server-tick": 4987,
+    "animation": 390,
+    "interacting": {
+      "npc": "Portal (1747)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1727, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4988,
+    "interacting": {
+      "npc": "Portal (1747)"
+    }
+  },
+  {
+    "server-tick": 4989,
+    "interacting": {
+      "npc": "Portal (1747)"
+    },
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 58"
+      }
+    ]
+  },
+  {
+    "server-tick": 4990,
+    "animation": 390,
+    "interacting": {
+      "npc": "Portal (1747)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4991,
+    "animation": 390,
+    "interacting": {
+      "npc": "Portal (1747)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1727, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 4992,
+    "interacting": {
+      "npc": "Portal (1747)"
+    }
+  },
+  {
+    "server-tick": 4993,
+    "interacting": {
+      "npc": "Portal (1747)"
+    }
+  },
+  {
+    "server-tick": 4994,
+    "animation": 390,
+    "interacting": {
+      "npc": "Portal (1747)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4995,
+    "animation": 390,
+    "interacting": {
+      "npc": "Portal (1747)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1727, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 213,
+        "heights": "11, 144",
+        "slope, duration": "15, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 4996,
+    "interacting": {
+      "npc": "Portal (1747)"
+    },
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 26"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 4997,
+    "interacting": {
+      "npc": "Portal (1747)"
+    },
+    "projectiles": [
+      {
+        "id": 213,
+        "heights": "11, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 4998,
+    "animation": 390,
+    "interacting": {
+      "npc": "Portal (1747)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4999,
+    "animation": 390,
+    "interacting": {
+      "npc": "Portal (1747)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1727, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 1"
+      },
+      {
+        "id": 213,
+        "heights": "11, 144",
+        "slope, duration": "15, 14"
+      }
+    ]
+  },
+  {
+    "server-tick": 5000,
+    "interacting": {
+      "npc": "Portal (1747)"
+    },
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 25"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5001,
+    "interacting": {
+      "npc": "Portal (1747)"
+    },
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 27"
+      },
+      {
+        "id": 213,
+        "heights": "11, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 5002,
+    "interacting": {
+      "npc": "Portal (1747)"
+    }
+  },
+  {
+    "server-tick": 5003,
+    "projectiles": [
+      {
+        "id": 213,
+        "heights": "11, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 5004,
+    "projectiles": [
+      {
+        "id": 11,
+        "heights": "11, 144",
+        "slope, duration": "5, 14"
+      },
+      {
+        "id": 11,
+        "heights": "11, 144",
+        "slope, duration": "25, 28"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 14"
+      }
+    ]
+  },
+  {
+    "server-tick": 5005,
+    "projectiles": [
+      {
+        "id": 213,
+        "heights": "11, 144",
+        "slope, duration": "15, 14"
+      }
+    ]
+  },
+  {
+    "server-tick": 5007,
+    "projectiles": [
+      {
+        "id": 213,
+        "heights": "11, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 5008,
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 25"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5009,
+    "projectiles": [
+      {
+        "id": 213,
+        "heights": "11, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 5010,
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 58"
+      }
+    ]
+  }
+]

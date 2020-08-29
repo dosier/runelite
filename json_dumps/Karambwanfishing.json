@@ -1,0 +1,426 @@
+[
+  {
+    "server-tick": 159,
+    "pos": "2899, 3118, 0",
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 160,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 161,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 162,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 163,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 164,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    },
+    "area-sounds": [
+      {
+        "id": 2600,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 51,
+        "sceneY": 54,
+        "source": "ex rs"
+      }
+    ]
+  },
+  {
+    "server-tick": 165,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 166,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 167,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 168,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 169,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 170,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    },
+    "area-sounds": [
+      {
+        "id": 2600,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 51,
+        "sceneY": 54,
+        "source": "ex rs"
+      }
+    ]
+  },
+  {
+    "server-tick": 171,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 172,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 173,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 174,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 175,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 176,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    },
+    "area-sounds": [
+      {
+        "id": 2600,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 51,
+        "sceneY": 54,
+        "source": "ex rs"
+      }
+    ]
+  },
+  {
+    "server-tick": 177,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 178,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 179,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 180,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 181,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 182,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    },
+    "area-sounds": [
+      {
+        "id": 2600,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 51,
+        "sceneY": 54,
+        "source": "ex rs"
+      }
+    ]
+  },
+  {
+    "server-tick": 183,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 184,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 185,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 186,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 187,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    },
+    "area-sounds": [
+      {
+        "id": 2600,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 51,
+        "sceneY": 54,
+        "source": "ex rs"
+      }
+    ]
+  },
+  {
+    "server-tick": 188,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 189,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 190,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 191,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 192,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 193,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    },
+    "area-sounds": [
+      {
+        "id": 2600,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 51,
+        "sceneY": 54,
+        "source": "ex rs"
+      }
+    ]
+  },
+  {
+    "server-tick": 194,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 195,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 196,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 197,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 198,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 199,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    },
+    "area-sounds": [
+      {
+        "id": 2600,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 51,
+        "sceneY": 54,
+        "source": "ex rs"
+      }
+    ]
+  },
+  {
+    "server-tick": 200,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 201,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 202,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 203,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 204,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 205,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    },
+    "area-sounds": [
+      {
+        "id": 2600,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 51,
+        "sceneY": 54,
+        "source": "ex rs"
+      }
+    ]
+  },
+  {
+    "server-tick": 206,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 207,
+    "animation": 1193,
+    "interacting": {
+      "npc": "Fishing spot (4712)"
+    }
+  },
+  {
+    "server-tick": 208,
+    "pos": "2900, 3117, 0"
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "server-tick": 24589,
+    "animation": 393,
+    "pos": "1277, 3475, 0",
+    "interacting": {
+      "npc": "Grizzly bear (2838)",
+      "animation": 4927
+    },
+    "sounds": [
+      {
+        "id, delay": "2555, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24590,
+    "animation": 393,
+    "interacting": {
+      "npc": "Grizzly bear (2838)",
+      "animation": 4927
+    },
+    "sounds": [
+      {
+        "id, delay": "302, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24591,
+    "interacting": {
+      "npc": "Grizzly bear (2838)"
+    }
+  },
+  {
+    "server-tick": 24592,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Grizzly bear (2838)",
+      "animation": 4925
+    },
+    "sounds": [
+      {
+        "id, delay": "300, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24593,
+    "animation": 393,
+    "interacting": {
+      "npc": "Grizzly bear (2838)",
+      "animation": 4925
+    },
+    "sounds": [
+      {
+        "id, delay": "2555, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24594,
+    "animation": 393,
+    "interacting": {
+      "npc": "Grizzly bear (2838)"
+    },
+    "sounds": [
+      {
+        "id, delay": "302, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24595,
+    "interacting": {
+      "npc": "Grizzly bear (2838)"
+    }
+  },
+  {
+    "server-tick": 24596,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Grizzly bear (2838)",
+      "animation": 4925
+    },
+    "sounds": [
+      {
+        "id, delay": "300, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24597,
+    "animation": 393,
+    "interacting": {
+      "npc": "Grizzly bear (2838)",
+      "animation": 4925
+    },
+    "sounds": [
+      {
+        "id, delay": "2555, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24598,
+    "animation": 393,
+    "interacting": {
+      "npc": "Grizzly bear (2838)"
+    },
+    "sounds": [
+      {
+        "id, delay": "302, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24599,
+    "interacting": {
+      "npc": "Grizzly bear (2838)"
+    }
+  },
+  {
+    "server-tick": 24600,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Grizzly bear (2838)",
+      "animation": 4925
+    },
+    "sounds": [
+      {
+        "id, delay": "300, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24601,
+    "animation": 393,
+    "interacting": {
+      "npc": "Grizzly bear (2838)",
+      "animation": 4925
+    },
+    "sounds": [
+      {
+        "id, delay": "2555, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24602,
+    "animation": 393,
+    "interacting": {
+      "npc": "Grizzly bear (2838)"
+    },
+    "sounds": [
+      {
+        "id, delay": "302, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24603,
+    "interacting": {
+      "npc": "Grizzly bear (2838)"
+    }
+  },
+  {
+    "server-tick": 24604,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Grizzly bear (2838)",
+      "animation": 4925
+    },
+    "sounds": [
+      {
+        "id, delay": "300, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24605,
+    "animation": 393,
+    "interacting": {
+      "npc": "Grizzly bear (2838)",
+      "animation": 4925
+    },
+    "sounds": [
+      {
+        "id, delay": "2555, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24606,
+    "animation": 393,
+    "interacting": {
+      "npc": "Grizzly bear (2838)"
+    },
+    "sounds": [
+      {
+        "id, delay": "302, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24607,
+    "sounds": [
+      {
+        "id, delay": "301, 0"
+      }
+    ]
+  }
+]

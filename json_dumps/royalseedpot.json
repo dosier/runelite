@@ -1,0 +1,51 @@
+[
+  {
+    "server-tick": 106,
+    "animation": 4544,
+    "gfx": 767
+  },
+  {
+    "server-tick": 107,
+    "animation": 4544,
+    "gfx": 767
+  },
+  {
+    "server-tick": 108,
+    "animation": 4544,
+    "gfx": 767
+  },
+  {
+    "server-tick": 109,
+    "animation": 4544,
+    "gfx": 767
+  },
+  {
+    "server-tick": 110,
+    "animation": 4544,
+    "gfx": 767,
+    "pos": "2465, 3495, 0"
+  },
+  {
+    "server-tick": 111,
+    "animation": 4546,
+    "gfx": 769
+  },
+  {
+    "server-tick": 112,
+    "animation": 4546,
+    "gfx": 769
+  },
+  {
+    "server-tick": 113,
+    "animation": 4546,
+    "gfx": 769
+  },
+  {
+    "server-tick": 114,
+    "gfx": 769
+  },
+  {
+    "server-tick": 115,
+    "gfx": 769
+  }
+]

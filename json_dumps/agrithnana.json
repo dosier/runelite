@@ -1,0 +1,107 @@
+[
+  {
+    "server-tick": 3312,
+    "animation": 1658,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Agrith-Na-Na (6369)",
+      "animation": 3500
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3313,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Agrith-Na-Na (6369)"
+    }
+  },
+  {
+    "server-tick": 3314,
+    "interacting": {
+      "npc": "Agrith-Na-Na (6369)"
+    }
+  },
+  {
+    "server-tick": 3315,
+    "animation": 1658,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Agrith-Na-Na (6369)",
+      "animation": 3500
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3316,
+    "animation": 1658,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Agrith-Na-Na (6369)",
+      "animation": 3500
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3317,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Agrith-Na-Na (6369)"
+    }
+  },
+  {
+    "server-tick": 3318,
+    "interacting": {
+      "npc": "Agrith-Na-Na (6369)"
+    }
+  },
+  {
+    "server-tick": 3319,
+    "animation": 1658,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Agrith-Na-Na (6369)",
+      "animation": 3500
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3320,
+    "animation": 1658,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Agrith-Na-Na (6369)",
+      "animation": 3500
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3321,
+    "gfx": 85,
+    "sounds": [
+      {
+        "id, delay": "403, 0"
+      }
+    ]
+  }
+]

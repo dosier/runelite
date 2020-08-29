@@ -1,0 +1,46 @@
+[
+  {
+    "server-tick": 22568,
+    "pos": "1319, 9966, 0"
+  },
+  {
+    "server-tick": 22570,
+    "animation": 2594,
+    "sounds": [
+      {
+        "id, delay": "2489, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22571,
+    "animation": 2595,
+    "pos": "1323, 9966, 0",
+    "sounds": [
+      {
+        "id, delay": "2489, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22572,
+    "animation": 2595
+  },
+  {
+    "server-tick": 22573,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 22574,
+    "animation": 1156
+  },
+  {
+    "server-tick": 22575,
+    "animation": 1156
+  }
+]

@@ -1,5 +1,0 @@
-AREA_SOUND 3766	 delay: 0, range: 1, sceneX: 55, sceneY: 50, source: MoonMeadow15
-AREA_SOUND 3769	 delay: 0, range: 1, sceneX: 55, sceneY: 50, source: MoonMeadow15
-AREA_SOUND 3768	 delay: 0, range: 1, sceneX: 55, sceneY: 50, source: MoonMeadow15
-AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 55, sceneY: 50, source: SawyerEmily
-AREA_SOUND 2605	 delay: 0, range: 1, sceneX: 55, sceneY: 50, source: SawyerEmily

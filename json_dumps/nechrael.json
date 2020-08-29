@@ -1,0 +1,245 @@
+[
+  {
+    "server-tick": 7071,
+    "interacting": {
+      "npc": "Nechryael (8)"
+    }
+  },
+  {
+    "server-tick": 7072,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Nechryael (8)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "645, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7073,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Nechryael (8)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7074,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Nechryael (8)"
+    },
+    "sounds": [
+      {
+        "id, delay": "647, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7075,
+    "interacting": {
+      "npc": "Nechryael (8)"
+    }
+  },
+  {
+    "server-tick": 7076,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Nechryael (8)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "645, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7077,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Nechryael (8)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7078,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Nechryael (8)"
+    },
+    "sounds": [
+      {
+        "id, delay": "647, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7079,
+    "interacting": {
+      "npc": "Nechryael (8)"
+    }
+  },
+  {
+    "server-tick": 7080,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Nechryael (8)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "645, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7081,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Nechryael (8)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7082,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Nechryael (8)"
+    },
+    "sounds": [
+      {
+        "id, delay": "647, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7083,
+    "interacting": {
+      "npc": "Nechryael (8)"
+    }
+  },
+  {
+    "server-tick": 7084,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Nechryael (8)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "645, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7085,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Nechryael (8)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7086,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Nechryael (8)"
+    },
+    "sounds": [
+      {
+        "id, delay": "647, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7087,
+    "interacting": {
+      "npc": "Nechryael (8)"
+    }
+  },
+  {
+    "server-tick": 7088,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Nechryael (8)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "645, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7089,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Nechryael (8)",
+      "animation": 1528
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7090,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Nechryael (8)"
+    },
+    "sounds": [
+      {
+        "id, delay": "647, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7091,
+    "sounds": [
+      {
+        "id, delay": "646, 0"
+      }
+    ]
+  }
+]

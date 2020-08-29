@@ -1,0 +1,536 @@
+[
+  {
+    "server-tick": 3119,
+    "animation": 1156
+  },
+  {
+    "server-tick": 3120,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "860, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3121,
+    "animation": 1156
+  },
+  {
+    "server-tick": 3122,
+    "animation": 1156,
+    "pos": "8820, 1436, 1",
+    "interacting": {
+      "npc": "Ice Troll King (6356)"
+    }
+  },
+  {
+    "server-tick": 3123,
+    "animation": 1658,
+    "pos": "8820, 1438, 1",
+    "interacting": {
+      "npc": "Ice Troll King (6356)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3124,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ice Troll King (6356)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "3186, 0"
+      },
+      {
+        "id, delay": "860, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1023,
+        "heights": "128, 144",
+        "slope, duration": "8, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 3125,
+    "interacting": {
+      "npc": "Ice Troll King (6356)"
+    }
+  },
+  {
+    "server-tick": 3126,
+    "interacting": {
+      "npc": "Ice Troll King (6356)"
+    }
+  },
+  {
+    "server-tick": 3127,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ice Troll King (6356)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "2399, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3128,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ice Troll King (6356)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "3186, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3129,
+    "interacting": {
+      "npc": "Ice Troll King (6356)"
+    }
+  },
+  {
+    "server-tick": 3130,
+    "interacting": {
+      "npc": "Ice Troll King (6356)"
+    }
+  },
+  {
+    "server-tick": 3131,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ice Troll King (6356)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "2399, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3132,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ice Troll King (6356)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "3186, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3133,
+    "interacting": {
+      "npc": "Ice Troll King (6356)"
+    }
+  },
+  {
+    "server-tick": 3134,
+    "interacting": {
+      "npc": "Ice Troll King (6356)"
+    }
+  },
+  {
+    "server-tick": 3135,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ice Troll King (6356)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "2399, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3136,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ice Troll King (6356)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "3186, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3137,
+    "interacting": {
+      "npc": "Ice Troll King (6356)"
+    }
+  },
+  {
+    "server-tick": 3138,
+    "interacting": {
+      "npc": "Ice Troll King (6356)"
+    }
+  },
+  {
+    "server-tick": 3139,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ice Troll King (6356)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "2399, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3140,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ice Troll King (6356)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "3186, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3141,
+    "interacting": {
+      "npc": "Ice Troll King (6356)"
+    }
+  },
+  {
+    "server-tick": 3142,
+    "interacting": {
+      "npc": "Ice Troll King (6356)"
+    }
+  },
+  {
+    "server-tick": 3143,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ice Troll King (6356)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "2399, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3144,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ice Troll King (6356)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "3186, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3145,
+    "interacting": {
+      "npc": "Ice Troll King (6356)"
+    }
+  },
+  {
+    "server-tick": 3146,
+    "interacting": {
+      "npc": "Ice Troll King (6356)"
+    }
+  },
+  {
+    "server-tick": 3147,
+    "animation": 1157,
+    "pos": "8815, 1433, 1",
+    "sounds": [
+      {
+        "id, delay": "865, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3148,
+    "animation": 1157
+  },
+  {
+    "server-tick": 3149,
+    "animation": 1157,
+    "sounds": [
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3150,
+    "animation": 1157
+  },
+  {
+    "server-tick": 3151,
+    "animation": 1157
+  },
+  {
+    "server-tick": 3152,
+    "sounds": [
+      {
+        "id, delay": "860, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1023,
+        "heights": "128, 144",
+        "slope, duration": "8, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 3153,
+    "pos": "8815, 1435, 1"
+  },
+  {
+    "server-tick": 3154,
+    "pos": "8817, 1437, 1"
+  },
+  {
+    "server-tick": 3155,
+    "animation": 1658,
+    "pos": "8818, 1438, 1",
+    "interacting": {
+      "npc": "Ice Troll King (6356)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3156,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ice Troll King (6356)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "3186, 0"
+      },
+      {
+        "id, delay": "860, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1023,
+        "heights": "128, 144",
+        "slope, duration": "8, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 3157,
+    "interacting": {
+      "npc": "Ice Troll King (6356)"
+    },
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3158,
+    "interacting": {
+      "npc": "Ice Troll King (6356)"
+    }
+  },
+  {
+    "server-tick": 3159,
+    "animation": 1157,
+    "pos": "8813, 1433, 1",
+    "sounds": [
+      {
+        "id, delay": "865, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3160,
+    "animation": 1157
+  },
+  {
+    "server-tick": 3161,
+    "animation": 1157,
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3162,
+    "animation": 1157
+  },
+  {
+    "server-tick": 3163,
+    "animation": 1157,
+    "pos": "8815, 1435, 1",
+    "interacting": {
+      "npc": "Ice Troll King (6356)",
+      "animation": 5779,
+      "gfx": 1022
+    }
+  },
+  {
+    "server-tick": 3164,
+    "animation": 1658,
+    "pos": "8817, 1437, 1",
+    "interacting": {
+      "npc": "Ice Troll King (6356)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "860, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1023,
+        "heights": "128, 144",
+        "slope, duration": "8, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 3165,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ice Troll King (6356)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "3186, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3166,
+    "interacting": {
+      "npc": "Ice Troll King (6356)"
+    }
+  },
+  {
+    "server-tick": 3167,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Ice Troll King (6356)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "2399, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3168,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ice Troll King (6356)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3169,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ice Troll King (6356)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3186, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3170,
+    "sounds": [
+      {
+        "id, delay": "863, 0"
+      }
+    ]
+  }
+]

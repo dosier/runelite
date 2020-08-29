@@ -1,0 +1,500 @@
+[
+  {
+    "server-tick": 75,
+    "area-sounds": [
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "NoBannerinoX"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 49,
+        "sceneY": 60,
+        "source": "TDF Mike NL"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "NoBannerinoX"
+      }
+    ]
+  },
+  {
+    "server-tick": 76,
+    "pos": "3176, 3430, 0",
+    "area-sounds": [
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "Hot Shade"
+      },
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 51,
+        "sceneY": 42,
+        "source": "Die Angel3"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 49,
+        "sceneY": 60,
+        "source": "TDF Mike NL"
+      },
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "NoBannerinoX"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "Hot Shade"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 51,
+        "sceneY": 42,
+        "source": "Die Angel3"
+      }
+    ]
+  },
+  {
+    "server-tick": 77,
+    "pos": "3175, 3429, 0",
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 49,
+        "sceneY": 60,
+        "source": "TDF Mike NL"
+      },
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "Finnix1777"
+      },
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "TearySquash"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "NoBannerinoX"
+      },
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "Hot Shade"
+      },
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 51,
+        "sceneY": 42,
+        "source": "Die Angel3"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "Finnix1777"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "TearySquash"
+      }
+    ]
+  },
+  {
+    "server-tick": 78,
+    "area-sounds": [
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "Hot Shade"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 51,
+        "sceneY": 42,
+        "source": "Die Angel3"
+      },
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "Finnix1777"
+      },
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "TearySquash"
+      }
+    ]
+  },
+  {
+    "server-tick": 79,
+    "area-sounds": [
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "Finnix1777"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "TearySquash"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 49,
+        "sceneY": 60,
+        "source": "TDF Mike NL"
+      }
+    ]
+  },
+  {
+    "server-tick": 80,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 49,
+        "sceneY": 60,
+        "source": "TDF Mike NL"
+      },
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "NoBannerinoX"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 49,
+        "sceneY": 60,
+        "source": "TDF Mike NL"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "NoBannerinoX"
+      }
+    ]
+  },
+  {
+    "server-tick": 81,
+    "pos": "3173, 3429, 0",
+    "interacting": {
+      "npc": "Guard (3010)"
+    },
+    "area-sounds": [
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "Hot Shade"
+      },
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 51,
+        "sceneY": 42,
+        "source": "Die Angel3"
+      },
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "NoBannerinoX"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "Hot Shade"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 51,
+        "sceneY": 42,
+        "source": "Die Angel3"
+      }
+    ]
+  },
+  {
+    "server-tick": 82,
+    "animation": 4198,
+    "gfx": 704,
+    "pos": "3171, 3428, 0",
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "area-sounds": [
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "Finnix1777"
+      },
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "TearySquash"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "NoBannerinoX"
+      },
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "Hot Shade"
+      },
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 51,
+        "sceneY": 42,
+        "source": "Die Angel3"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "Finnix1777"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 52,
+        "sceneY": 43,
+        "source": "TearySquash"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "1084, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 83,
+    "animation": 4198,
+    "gfx": 704,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 84,
+    "animation": 4198,
+    "gfx": 704,
+    "interacting": {
+      "npc": "Guard (3010)"
+    }
+  },
+  {
+    "server-tick": 85,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6489
+    },
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 86,
+    "animation": 386,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 87,
+    "animation": 386,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 88,
+    "interacting": {
+      "npc": "Guard (3010)"
+    }
+  },
+  {
+    "server-tick": 89,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6489
+    },
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 90,
+    "animation": 386,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 91,
+    "animation": 386,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 92,
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  }
+]

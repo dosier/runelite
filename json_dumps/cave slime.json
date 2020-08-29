@@ -1,0 +1,83 @@
+[
+  {
+    "server-tick": 13487,
+    "animation": 1658,
+    "pos": "3151, 9555, 0",
+    "interacting": {
+      "npc": "Cave slime (480)",
+      "animation": 1791
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 13488,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave slime (480)"
+    },
+    "sounds": [
+      {
+        "id, delay": "786, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 13489,
+    "interacting": {
+      "npc": "Cave slime (480)"
+    }
+  },
+  {
+    "server-tick": 13490,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Cave slime (480)",
+      "animation": 1789
+    },
+    "sounds": [
+      {
+        "id, delay": "784, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 13491,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave slime (480)",
+      "animation": 1791
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 13492,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave slime (480)"
+    },
+    "sounds": [
+      {
+        "id, delay": "786, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 13493,
+    "sounds": [
+      {
+        "id, delay": "785, 0"
+      }
+    ]
+  }
+]

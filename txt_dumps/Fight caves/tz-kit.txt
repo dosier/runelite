@@ -1,0 +1,39 @@
+SOUND 595	 delay: 0
+SOUND 296	 delay: 0
+SOUND 2841	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Tz-Kih (3116)'	animation: 2622
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3776, y: 4672
+SOUND 296	 delay: 0
+SOUND 291	 delay: 0
+SOUND 2844	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Tz-Kih (3116)'	animation: 2621
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 3776, y: 4672
+SOUND 595	 delay: 0
+SOUND 296	 delay: 0
+SOUND 2844	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+SOUND 295	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Tz-Kek (3118)'	animation: 2626
+SOUND 595	 delay: 0
+SOUND 2843	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Tz-Kek (3118)'	animation: 2625
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 3776, y: 4672
+SOUND 597	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Tz-Kek (3118)'	animation: 2625
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 3776, y: 4672
+SOUND 597	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Tz-Kek (3118)'	animation: 2626

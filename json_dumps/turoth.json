@@ -1,0 +1,226 @@
+[
+  {
+    "server-tick": 6276,
+    "pos": "2719, 10007, 0",
+    "interacting": {
+      "npc": "Turoth (430)"
+    }
+  },
+  {
+    "server-tick": 6277,
+    "pos": "2719, 10009, 0",
+    "interacting": {
+      "npc": "Turoth (430)"
+    }
+  },
+  {
+    "server-tick": 6278,
+    "animation": 1658,
+    "pos": "2719, 10010, 0",
+    "interacting": {
+      "npc": "Turoth (430)",
+      "animation": 1596
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6279,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Turoth (430)"
+    },
+    "sounds": [
+      {
+        "id, delay": "875, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6280,
+    "interacting": {
+      "npc": "Turoth (430)"
+    }
+  },
+  {
+    "server-tick": 6281,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Turoth (430)",
+      "animation": 1595
+    },
+    "sounds": [
+      {
+        "id, delay": "873, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 6282,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Turoth (430)",
+      "animation": 1595
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6283,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Turoth (430)"
+    },
+    "sounds": [
+      {
+        "id, delay": "875, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6284,
+    "interacting": {
+      "npc": "Turoth (430)"
+    }
+  },
+  {
+    "server-tick": 6285,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Turoth (430)",
+      "animation": 1595
+    },
+    "sounds": [
+      {
+        "id, delay": "873, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6286,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Turoth (430)",
+      "animation": 1595
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 6287,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Turoth (430)"
+    },
+    "sounds": [
+      {
+        "id, delay": "875, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6288,
+    "interacting": {
+      "npc": "Turoth (430)"
+    }
+  },
+  {
+    "server-tick": 6289,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Turoth (430)",
+      "animation": 1595
+    },
+    "sounds": [
+      {
+        "id, delay": "873, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6290,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Turoth (430)",
+      "animation": 1595
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6291,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Turoth (430)"
+    },
+    "sounds": [
+      {
+        "id, delay": "875, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 6292,
+    "interacting": {
+      "npc": "Turoth (430)"
+    }
+  },
+  {
+    "server-tick": 6293,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Turoth (430)",
+      "animation": 1595
+    },
+    "sounds": [
+      {
+        "id, delay": "873, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "server-tick": 5961,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave crawler (408)",
+      "animation": 1504
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5962,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave crawler (408)"
+    },
+    "sounds": [
+      {
+        "id, delay": "343, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5963,
+    "sounds": [
+      {
+        "id, delay": "342, 0"
+      }
+    ]
+  }
+]

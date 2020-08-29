@@ -1,0 +1,243 @@
+[
+  {
+    "server-tick": 21832,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kourend head guard (7017)",
+      "animation": 388
+    }
+  },
+  {
+    "server-tick": 21833,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kourend head guard (7017)",
+      "animation": 388
+    }
+  },
+  {
+    "server-tick": 21834,
+    "interacting": {
+      "npc": "Kourend head guard (7017)"
+    }
+  },
+  {
+    "server-tick": 21835,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Kourend head guard (7017)",
+      "animation": 390
+    }
+  },
+  {
+    "server-tick": 21836,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kourend head guard (7017)",
+      "animation": 390
+    }
+  },
+  {
+    "server-tick": 21837,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kourend head guard (7017)"
+    }
+  },
+  {
+    "server-tick": 21838,
+    "interacting": {
+      "npc": "Kourend head guard (7017)"
+    }
+  },
+  {
+    "server-tick": 21839,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Kourend head guard (7017)",
+      "animation": 390
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 21840,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kourend head guard (7017)",
+      "animation": 390
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21841,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kourend head guard (7017)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21842,
+    "interacting": {
+      "npc": "Kourend head guard (7017)"
+    }
+  },
+  {
+    "server-tick": 21843,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Kourend head guard (7017)",
+      "animation": 390
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 21844,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kourend head guard (7017)",
+      "animation": 390
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21845,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kourend head guard (7017)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21846,
+    "interacting": {
+      "npc": "Kourend head guard (7017)"
+    }
+  },
+  {
+    "server-tick": 21847,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Kourend head guard (7017)",
+      "animation": 390
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 21848,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kourend head guard (7017)",
+      "animation": 390
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21849,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kourend head guard (7017)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21850,
+    "interacting": {
+      "npc": "Kourend head guard (7017)"
+    }
+  },
+  {
+    "server-tick": 21851,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Kourend head guard (7017)",
+      "animation": 390
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 21852,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kourend head guard (7017)",
+      "animation": 390
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21853,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kourend head guard (7017)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 21854,
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  }
+]

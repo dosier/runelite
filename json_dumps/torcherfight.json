@@ -1,0 +1,555 @@
+[
+  {
+    "server-tick": 5083,
+    "animation": 390,
+    "interacting": {
+      "npc": "Torcher (1717)",
+      "animation": 3880
+    },
+    "sounds": [
+      {
+        "id, delay": "848, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      },
+      {
+        "id": 9,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 98"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 5084,
+    "interacting": {
+      "npc": "Torcher (1717)"
+    },
+    "projectiles": [
+      {
+        "id": 13,
+        "heights": "11, 144",
+        "slope, duration": "15, 28"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 18"
+      }
+    ]
+  },
+  {
+    "server-tick": 5085,
+    "animation": 1156,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Torcher (1717)",
+      "animation": 3882,
+      "gfx": 646
+    },
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 77"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 24"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 37"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 34"
+      }
+    ]
+  },
+  {
+    "server-tick": 5086,
+    "animation": 390,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Torcher (1717)",
+      "animation": 3882
+    },
+    "sounds": [
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 27"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      },
+      {
+        "id": 9,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 26"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 46"
+      }
+    ]
+  },
+  {
+    "server-tick": 5087,
+    "animation": 390,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Torcher (1717)"
+    },
+    "sounds": [
+      {
+        "id, delay": "848, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 47"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 75"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 99"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 11"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 3"
+      }
+    ]
+  },
+  {
+    "server-tick": 5088,
+    "interacting": {
+      "npc": "Torcher (1717)"
+    },
+    "projectiles": [
+      {
+        "id": 11,
+        "heights": "11, 144",
+        "slope, duration": "5, 35"
+      },
+      {
+        "id": 11,
+        "heights": "11, 144",
+        "slope, duration": "25, 64"
+      },
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 1"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 33"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5089,
+    "animation": 1156,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Torcher (1717)",
+      "animation": 3882,
+      "gfx": 646
+    },
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      },
+      {
+        "id": 9,
+        "heights": "11, 144",
+        "slope, duration": "15, 46"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 34"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 31"
+      }
+    ]
+  },
+  {
+    "server-tick": 5090,
+    "animation": 390,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Torcher (1717)",
+      "animation": 3882
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 50"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 2"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 26"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 46"
+      }
+    ]
+  },
+  {
+    "server-tick": 5091,
+    "animation": 390,
+    "gfx": 648,
+    "interacting": {
+      "npc": "Torcher (1717)"
+    },
+    "sounds": [
+      {
+        "id, delay": "848, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 13,
+        "heights": "11, 144",
+        "slope, duration": "15, 34"
+      }
+    ]
+  },
+  {
+    "server-tick": 5092,
+    "sounds": [
+      {
+        "id, delay": "846, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 9,
+        "heights": "11, 144",
+        "slope, duration": "15, 49"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 5"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 37"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 24"
+      }
+    ]
+  },
+  {
+    "server-tick": 5093,
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 46"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 34"
+      }
+    ]
+  },
+  {
+    "server-tick": 5094,
+    "projectiles": [
+      {
+        "id": 13,
+        "heights": "11, 144",
+        "slope, duration": "15, 31"
+      }
+    ]
+  },
+  {
+    "server-tick": 5095,
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 79"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 103"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 7"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 15"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 5096,
+    "projectiles": [
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 16"
+      }
+    ]
+  },
+  {
+    "server-tick": 5097,
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 78"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 38"
+      }
+    ]
+  },
+  {
+    "server-tick": 5098,
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 50"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 46"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 34"
+      }
+    ]
+  },
+  {
+    "server-tick": 5099,
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 75"
+      },
+      {
+        "id": 9,
+        "heights": "11, 144",
+        "slope, duration": "15, 47"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 99"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 3"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 3"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 11"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 5100,
+    "projectiles": [
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 20"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 9"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 33"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 45"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 17"
+      },
+      {
+        "id": 696,
+        "heights": "11, 144",
+        "slope, duration": "5, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5102,
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 77"
+      },
+      {
+        "id": 9,
+        "heights": "11, 144",
+        "slope, duration": "15, 49"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 37"
+      }
+    ]
+  }
+]

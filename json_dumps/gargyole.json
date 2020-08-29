@@ -1,0 +1,735 @@
+[
+  {
+    "server-tick": 6842,
+    "animation": 1156
+  },
+  {
+    "server-tick": 6843,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6844,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6845,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1517
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6846,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)"
+    }
+  },
+  {
+    "server-tick": 6847,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6848,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6849,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1517
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6850,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1517
+    }
+  },
+  {
+    "server-tick": 6851,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6852,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6853,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1517
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6854,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)"
+    }
+  },
+  {
+    "server-tick": 6855,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6856,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6857,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1517
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6858,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1517
+    }
+  },
+  {
+    "server-tick": 6859,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6860,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6861,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1517
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6862,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)"
+    }
+  },
+  {
+    "server-tick": 6863,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6864,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6865,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1517
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6866,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)"
+    }
+  },
+  {
+    "server-tick": 6867,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6868,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6869,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1517
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6870,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)"
+    }
+  },
+  {
+    "server-tick": 6871,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6872,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6873,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1517
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6874,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)"
+    }
+  },
+  {
+    "server-tick": 6875,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6876,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6877,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1517
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6878,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)"
+    }
+  },
+  {
+    "server-tick": 6879,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6880,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6881,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1517
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6882,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)"
+    }
+  },
+  {
+    "server-tick": 6883,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6884,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6885,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1517
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6886,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1517
+    }
+  },
+  {
+    "server-tick": 6887,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6888,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6889,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1517
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6890,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)"
+    }
+  },
+  {
+    "server-tick": 6891,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6892,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6893,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1517
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6894,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Gargoyle (412)"
+    }
+  },
+  {
+    "server-tick": 6895,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6896,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6897,
+    "animation": 401,
+    "interacting": {
+      "npc": "Gargoyle (412)",
+      "animation": 1517
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "2567, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6898,
+    "animation": 401,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6902,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6903,
+    "animation": 1156
+  },
+  {
+    "server-tick": 6904,
+    "animation": 1156
+  },
+  {
+    "server-tick": 6906,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  }
+]

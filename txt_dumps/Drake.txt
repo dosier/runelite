@@ -1,0 +1,223 @@
+Player Animation: ID:7056, Delay:78
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+Projectile: endHeight: 22, -delay + lifetime-: 78, gfx: 1636, startHeight: 20, to: -1363, angle: 10, steepness: 128,delay: 44, toTilez: -7, totilex: 0, X: 54, Y: 61
+Sound ID:4136, TIMES:1, DELAY:5
+Sound ID:1965, TIMES:1, DELAY:20
+Player Animation: ID:7045, Delay:0
+NPCID:8612, NPC Graphic: ID:65535, Height:0, Delay:0
+Sound ID:2358, TIMES:1, DELAY:20
+Sound ID:3847, TIMES:1, DELAY:0
+Sound ID:4101, TIMES:1, DELAY:0
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+Sound ID:4096, TIMES:1, DELAY:0
+Projectile: endHeight: 7, -delay + lifetime-: 120, gfx: 1637, startHeight: 20, to: 0, angle: 10, steepness: 128,delay: 14, toTilez: -2, totilex: 0, X: 54, Y: 61
+Sound ID:2675, TIMES:1, DELAY:0
+Player Animation: ID:7045, Delay:0
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+NPCID:8612, NPC Graphic: ID:65535, Height:0, Delay:0
+Projectile: endHeight: 22, -delay + lifetime-: 63, gfx: 1636, startHeight: 20, to: -1363, angle: 10, steepness: 128,delay: 44, toTilez: -2, totilex: 0, X: 54, Y: 61
+Sound ID:3825, TIMES:1, DELAY:0
+Sound ID:4136, TIMES:1, DELAY:5
+Sound ID:1965, TIMES:1, DELAY:20
+Sound ID:3847, TIMES:1, DELAY:0
+Sound ID:4101, TIMES:1, DELAY:0
+Sound ID:4031, TIMES:1, DELAY:0
+Sound ID:510, TIMES:1, DELAY:20
+Sound ID:2365, TIMES:1, DELAY:20
+Sound ID:510, TIMES:1, DELAY:20
+Sound ID:509, TIMES:1, DELAY:20
+Player Animation: ID:7056, Delay:63
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+Projectile: endHeight: 22, -delay + lifetime-: 63, gfx: 1636, startHeight: 20, to: -1363, angle: 10, steepness: 128,delay: 44, toTilez: -2, totilex: 0, X: 54, Y: 61
+Sound ID:4136, TIMES:1, DELAY:5
+Sound ID:1965, TIMES:1, DELAY:20
+Sound ID:510, TIMES:1, DELAY:20
+Player Animation: ID:7045, Delay:0
+NPCID:8612, NPC Graphic: ID:65535, Height:0, Delay:0
+Sound ID:2358, TIMES:1, DELAY:20
+Sound ID:3847, TIMES:1, DELAY:0
+Sound ID:4101, TIMES:1, DELAY:0
+Player Animation: ID:7056, Delay:63
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+Projectile: endHeight: 22, -delay + lifetime-: 63, gfx: 1636, startHeight: 20, to: -1363, angle: 10, steepness: 128,delay: 44, toTilez: -2, totilex: 0, X: 54, Y: 61
+Sound ID:4136, TIMES:1, DELAY:5
+Sound ID:1965, TIMES:1, DELAY:20
+Sound ID:2364, TIMES:1, DELAY:20
+Player Animation: ID:7045, Delay:0
+NPCID:8612, NPC Animation: ID:8275, Delay:0
+NPCID:8612, NPC Graphic: ID:65535, Height:0, Delay:0
+Sound ID:4130, TIMES:1, DELAY:0
+Sound ID:2360, TIMES:1, DELAY:20
+Sound ID:3847, TIMES:1, DELAY:0
+Sound ID:4101, TIMES:1, DELAY:0
+Player Animation: ID:7056, Delay:0
+NPCID:8612, NPC Animation: ID:8275, Delay:0
+Sound ID:4130, TIMES:1, DELAY:0
+Sound ID:2364, TIMES:1, DELAY:20
+Player Animation: ID:7045, Delay:0
+NPCID:8612, NPC Graphic: ID:65535, Height:0, Delay:0
+Sound ID:3847, TIMES:1, DELAY:0
+Sound ID:4101, TIMES:1, DELAY:0
+Player Animation: ID:7056, Delay:63
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+Projectile: endHeight: 22, -delay + lifetime-: 63, gfx: 1636, startHeight: 20, to: -1363, angle: 10, steepness: 128,delay: 44, toTilez: -2, totilex: 0, X: 54, Y: 61
+Sound ID:4136, TIMES:1, DELAY:5
+Sound ID:1965, TIMES:1, DELAY:20
+Sound ID:2359, TIMES:1, DELAY:20
+Player Animation: ID:7045, Delay:0
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+NPCID:8612, NPC Graphic: ID:65535, Height:0, Delay:0
+Projectile: endHeight: 22, -delay + lifetime-: 63, gfx: 1636, startHeight: 20, to: -1363, angle: 10, steepness: 128,delay: 44, toTilez: -2, totilex: 0, X: 54, Y: 61
+Sound ID:4136, TIMES:1, DELAY:5
+Sound ID:1965, TIMES:1, DELAY:20
+Sound ID:3847, TIMES:1, DELAY:0
+Sound ID:4101, TIMES:1, DELAY:0
+Sound ID:510, TIMES:1, DELAY:20
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+Sound ID:4096, TIMES:1, DELAY:0
+Projectile: endHeight: 7, -delay + lifetime-: 120, gfx: 1637, startHeight: 20, to: 0, angle: 10, steepness: 128,delay: 14, toTilez: -5, totilex: 0, X: 54, Y: 61
+Player Animation: ID:7045, Delay:0
+NPCID:8612, NPC Graphic: ID:65535, Height:0, Delay:0
+Sound ID:3847, TIMES:1, DELAY:0
+Sound ID:4101, TIMES:1, DELAY:0
+Player Animation: ID:7056, Delay:0
+NPCID:8612, NPC Animation: ID:8275, Delay:0
+Sound ID:4130, TIMES:1, DELAY:0
+Sound ID:510, TIMES:1, DELAY:20
+Sound ID:4031, TIMES:1, DELAY:0
+Player Animation: ID:7056, Delay:72
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+Projectile: endHeight: 22, -delay + lifetime-: 72, gfx: 1636, startHeight: 20, to: -1363, angle: 10, steepness: 128,delay: 44, toTilez: -5, totilex: 0, X: 55, Y: 61
+Sound ID:4136, TIMES:1, DELAY:5
+Sound ID:1965, TIMES:1, DELAY:20
+Sound ID:509, TIMES:1, DELAY:20
+Player Animation: ID:7056, Delay:0
+NPCID:8612, NPC Animation: ID:8275, Delay:0
+Sound ID:4130, TIMES:1, DELAY:0
+Sound ID:509, TIMES:1, DELAY:20
+Player Animation: ID:7045, Delay:0
+NPCID:8612, NPC Graphic: ID:65535, Height:0, Delay:0
+Sound ID:3847, TIMES:1, DELAY:0
+Sound ID:4101, TIMES:1, DELAY:0
+Sound ID:3282, TIMES:1, DELAY:0
+Player Animation: ID:7056, Delay:72
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+Projectile: endHeight: 22, -delay + lifetime-: 72, gfx: 1636, startHeight: 20, to: -1363, angle: 10, steepness: 128,delay: 44, toTilez: -5, totilex: 0, X: 55, Y: 61
+Sound ID:4136, TIMES:1, DELAY:5
+Sound ID:1965, TIMES:1, DELAY:20
+Sound ID:509, TIMES:1, DELAY:20
+Player Animation: ID:7045, Delay:0
+NPCID:8612, NPC Graphic: ID:65535, Height:0, Delay:0
+Sound ID:3847, TIMES:1, DELAY:0
+Player Animation: ID:7056, Delay:0
+NPCID:8612, NPC Animation: ID:8275, Delay:0
+Sound ID:4101, TIMES:1, DELAY:0
+Sound ID:4130, TIMES:1, DELAY:0
+Sound ID:2364, TIMES:1, DELAY:20
+Player Animation: ID:7056, Delay:69
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+Projectile: endHeight: 22, -delay + lifetime-: 69, gfx: 1636, startHeight: 20, to: -1363, angle: 10, steepness: 128,delay: 44, toTilez: -4, totilex: 0, X: 55, Y: 61
+Sound ID:4136, TIMES:1, DELAY:5
+Sound ID:1965, TIMES:1, DELAY:20
+Player Animation: ID:7045, Delay:0
+NPCID:8612, NPC Graphic: ID:65535, Height:0, Delay:0
+Sound ID:2364, TIMES:1, DELAY:20
+Sound ID:3847, TIMES:1, DELAY:0
+Sound ID:4101, TIMES:1, DELAY:0
+Player Animation: ID:7056, Delay:0
+NPCID:8612, NPC Animation: ID:8275, Delay:0
+Sound ID:4130, TIMES:1, DELAY:0
+Sound ID:2358, TIMES:1, DELAY:20
+Player Animation: ID:7045, Delay:0
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+NPCID:8612, NPC Graphic: ID:65535, Height:0, Delay:0
+Sound ID:4096, TIMES:1, DELAY:0
+Sound ID:3847, TIMES:1, DELAY:0
+Projectile: endHeight: 7, -delay + lifetime-: 120, gfx: 1637, startHeight: 20, to: 0, angle: 10, steepness: 128,delay: 14, toTilez: -2, totilex: 0, X: 55, Y: 61
+Sound ID:4101, TIMES:1, DELAY:0
+Player Animation: ID:7056, Delay:63
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+Projectile: endHeight: 22, -delay + lifetime-: 63, gfx: 1636, startHeight: 20, to: -1363, angle: 10, steepness: 128,delay: 44, toTilez: -2, totilex: 0, X: 55, Y: 61
+Sound ID:4136, TIMES:1, DELAY:5
+Sound ID:1965, TIMES:1, DELAY:20
+Sound ID:4031, TIMES:1, DELAY:0
+Sound ID:510, TIMES:1, DELAY:20
+Player Animation: ID:7045, Delay:0
+NPCID:8612, NPC Graphic: ID:65535, Height:0, Delay:0
+Sound ID:2364, TIMES:1, DELAY:20
+Sound ID:509, TIMES:1, DELAY:20
+Sound ID:3847, TIMES:1, DELAY:0
+Sound ID:4101, TIMES:1, DELAY:0
+Sound ID:509, TIMES:1, DELAY:20
+Player Animation: ID:7056, Delay:63
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+Projectile: endHeight: 22, -delay + lifetime-: 63, gfx: 1636, startHeight: 20, to: -1363, angle: 10, steepness: 128,delay: 44, toTilez: -2, totilex: 0, X: 55, Y: 61
+Sound ID:4136, TIMES:1, DELAY:5
+Sound ID:1965, TIMES:1, DELAY:20
+Sound ID:509, TIMES:1, DELAY:20
+Player Animation: ID:829, Delay:0
+Sound ID:2393, TIMES:1, DELAY:0
+Sound ID:2360, TIMES:1, DELAY:20
+Player Animation: ID:7056, Delay:69
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+Projectile: endHeight: 22, -delay + lifetime-: 69, gfx: 1636, startHeight: 20, to: -1363, angle: 10, steepness: 128,delay: 44, toTilez: -4, totilex: 0, X: 53, Y: 61
+Sound ID:2393, TIMES:1, DELAY:0
+Sound ID:4136, TIMES:1, DELAY:5
+Sound ID:1965, TIMES:1, DELAY:20
+Sound ID:2365, TIMES:1, DELAY:20
+Player Animation: ID:7056, Delay:63
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+Projectile: endHeight: 22, -delay + lifetime-: 63, gfx: 1636, startHeight: 20, to: -1363, angle: 10, steepness: 128,delay: 44, toTilez: -2, totilex: 0, X: 53, Y: 61
+Sound ID:4136, TIMES:1, DELAY:5
+Sound ID:1965, TIMES:1, DELAY:20
+Player Animation: ID:7045, Delay:0
+NPCID:8612, NPC Graphic: ID:65535, Height:0, Delay:0
+Sound ID:2364, TIMES:1, DELAY:20
+Sound ID:3847, TIMES:1, DELAY:0
+Sound ID:4101, TIMES:1, DELAY:0
+Player Animation: ID:7056, Delay:63
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+Projectile: endHeight: 22, -delay + lifetime-: 63, gfx: 1636, startHeight: 20, to: -1363, angle: 10, steepness: 128,delay: 44, toTilez: -2, totilex: 0, X: 53, Y: 61
+Sound ID:4136, TIMES:1, DELAY:5
+Sound ID:1965, TIMES:1, DELAY:20
+Sound ID:509, TIMES:1, DELAY:20
+Player Animation: ID:7056, Delay:72
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+Projectile: endHeight: 22, -delay + lifetime-: 72, gfx: 1636, startHeight: 20, to: -1363, angle: 10, steepness: 128,delay: 44, toTilez: -5, totilex: 0, X: 53, Y: 61
+Sound ID:4136, TIMES:1, DELAY:5
+Sound ID:1965, TIMES:1, DELAY:20
+Sound ID:2360, TIMES:1, DELAY:20
+Player Animation: ID:7056, Delay:63
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+Projectile: endHeight: 22, -delay + lifetime-: 63, gfx: 1636, startHeight: 20, to: -1363, angle: 10, steepness: 128,delay: 44, toTilez: -2, totilex: 0, X: 53, Y: 61
+Sound ID:4136, TIMES:1, DELAY:5
+Sound ID:1965, TIMES:1, DELAY:20
+Sound ID:2360, TIMES:1, DELAY:20
+Player Animation: ID:7056, Delay:0
+NPCID:8612, NPC Animation: ID:8275, Delay:0
+Sound ID:4130, TIMES:1, DELAY:0
+Sound ID:2359, TIMES:1, DELAY:20
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+Sound ID:4096, TIMES:1, DELAY:0
+Projectile: endHeight: 7, -delay + lifetime-: 120, gfx: 1637, startHeight: 20, to: 0, angle: 10, steepness: 128,delay: 14, toTilez: -3, totilex: 0, X: 53, Y: 61
+Player Animation: ID:7056, Delay:72
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+Projectile: endHeight: 22, -delay + lifetime-: 72, gfx: 1636, startHeight: 20, to: -1363, angle: 10, steepness: 128,delay: 44, toTilez: -5, totilex: 0, X: 53, Y: 61
+Sound ID:4136, TIMES:1, DELAY:5
+Sound ID:1965, TIMES:1, DELAY:20
+Sound ID:4031, TIMES:1, DELAY:0
+Sound ID:2358, TIMES:1, DELAY:20
+Player Animation: ID:7045, Delay:0
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+NPCID:8612, NPC Graphic: ID:65535, Height:0, Delay:0
+Projectile: endHeight: 22, -delay + lifetime-: 63, gfx: 1636, startHeight: 20, to: -1363, angle: 10, steepness: 128,delay: 44, toTilez: -2, totilex: 0, X: 53, Y: 61
+Sound ID:4136, TIMES:1, DELAY:5
+Sound ID:1965, TIMES:1, DELAY:20
+Sound ID:3847, TIMES:1, DELAY:0
+Sound ID:4101, TIMES:1, DELAY:0
+Sound ID:2359, TIMES:1, DELAY:20
+Player Animation: ID:7056, Delay:63
+NPCID:8612, NPC Animation: ID:8276, Delay:0
+Projectile: endHeight: 22, -delay + lifetime-: 63, gfx: 1636, startHeight: 20, to: -1363, angle: 10, steepness: 128,delay: 44, toTilez: -2, totilex: 0, X: 53, Y: 61
+Sound ID:4136, TIMES:1, DELAY:5
+Sound ID:1965, TIMES:1, DELAY:20

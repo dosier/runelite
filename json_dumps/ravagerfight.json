@@ -1,0 +1,438 @@
+[
+  {
+    "server-tick": 6043,
+    "interacting": {
+      "npc": "Ravager (1706)",
+      "animation": 3916
+    }
+  },
+  {
+    "server-tick": 6044,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Ravager (1706)",
+      "animation": 3915
+    },
+    "sounds": [
+      {
+        "id, delay": "714, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 46"
+      },
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 46"
+      },
+      {
+        "id": 249,
+        "heights": "11, 144",
+        "slope, duration": "15, 31"
+      }
+    ]
+  },
+  {
+    "server-tick": 6045,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ravager (1706)",
+      "animation": 3915
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 24"
+      }
+    ]
+  },
+  {
+    "server-tick": 6046,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ravager (1706)",
+      "animation": 3915
+    },
+    "sounds": [
+      {
+        "id, delay": "716, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 66"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      }
+    ]
+  },
+  {
+    "server-tick": 6047,
+    "interacting": {
+      "npc": "Ravager (1706)"
+    },
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 98"
+      }
+    ]
+  },
+  {
+    "server-tick": 6048,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Ravager (1706)",
+      "animation": 3915
+    },
+    "sounds": [
+      {
+        "id, delay": "714, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 3"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 3"
+      }
+    ]
+  },
+  {
+    "server-tick": 6049,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ravager (1706)",
+      "animation": 3915
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      }
+    ]
+  },
+  {
+    "server-tick": 6050,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ravager (1706)"
+    },
+    "sounds": [
+      {
+        "id, delay": "716, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 66"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      }
+    ]
+  },
+  {
+    "server-tick": 6051,
+    "interacting": {
+      "npc": "Ravager (1706)"
+    }
+  },
+  {
+    "server-tick": 6052,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Ravager (1706)",
+      "animation": 3915
+    },
+    "sounds": [
+      {
+        "id, delay": "714, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 4"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 4"
+      }
+    ]
+  },
+  {
+    "server-tick": 6053,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ravager (1706)",
+      "animation": 3915
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 51"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      }
+    ]
+  },
+  {
+    "server-tick": 6054,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ravager (1706)"
+    },
+    "sounds": [
+      {
+        "id, delay": "716, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6055,
+    "interacting": {
+      "npc": "Ravager (1706)"
+    },
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 101"
+      }
+    ]
+  },
+  {
+    "server-tick": 6056,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Ravager (1706)",
+      "animation": 3915
+    },
+    "sounds": [
+      {
+        "id, delay": "714, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 1"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 1"
+      }
+    ]
+  },
+  {
+    "server-tick": 6057,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ravager (1706)",
+      "animation": 3915
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      }
+    ]
+  },
+  {
+    "server-tick": 6058,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ravager (1706)"
+    },
+    "sounds": [
+      {
+        "id, delay": "716, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 49"
+      }
+    ]
+  },
+  {
+    "server-tick": 6059,
+    "sounds": [
+      {
+        "id, delay": "715, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 76"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 6060,
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 3"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 3"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 67"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 42"
+      }
+    ]
+  },
+  {
+    "server-tick": 6061,
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      }
+    ]
+  },
+  {
+    "server-tick": 6063,
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 78"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 78"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 102"
+      }
+    ]
+  },
+  {
+    "server-tick": 6065,
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 77"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 6066,
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 66"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 2"
+      }
+    ]
+  }
+]

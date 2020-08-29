@@ -1,0 +1,309 @@
+[
+  {
+    "server-tick": 1974,
+    "animation": 6695,
+    "gfx": 1160,
+    "sounds": [
+      {
+        "id, delay": "3740, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1975,
+    "gfx": 1160
+  },
+  {
+    "server-tick": 1976,
+    "gfx": 1160,
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 49,
+        "sceneY": 73,
+        "source": "Elvarg (6349)"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 130,
+        "heights": "200, 92",
+        "slope, duration": "23, 64"
+      },
+      {
+        "id": 130,
+        "heights": "200, 100",
+        "slope, duration": "15, 69"
+      },
+      {
+        "id": 130,
+        "heights": "200, 84",
+        "slope, duration": "8, 74"
+      }
+    ]
+  },
+  {
+    "server-tick": 1977,
+    "gfx": 1160,
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 1978,
+    "animation": 6695,
+    "gfx": 1161,
+    "pos": "12465, 12398, 1",
+    "sounds": [
+      {
+        "id, delay": "3740, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1979,
+    "animation": 6695,
+    "gfx": 1161,
+    "pos": "12465, 12399, 1",
+    "interacting": {
+      "npc": "Elvarg (6349)",
+      "animation": 81
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1980,
+    "animation": 6695,
+    "gfx": 1161,
+    "interacting": {
+      "npc": "Elvarg (6349)",
+      "animation": 81
+    },
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 49,
+        "sceneY": 73,
+        "source": "Elvarg (6349)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 130,
+        "heights": "200, 104",
+        "slope, duration": "20, 61"
+      },
+      {
+        "id": 130,
+        "heights": "200, 92",
+        "slope, duration": "20, 66"
+      },
+      {
+        "id": 130,
+        "heights": "200, 88",
+        "slope, duration": "8, 71"
+      }
+    ]
+  },
+  {
+    "server-tick": 1981,
+    "animation": 6695,
+    "gfx": 1161,
+    "interacting": {
+      "npc": "Elvarg (6349)"
+    },
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 1982,
+    "animation": 6695,
+    "gfx": 1161,
+    "interacting": {
+      "npc": "Elvarg (6349)",
+      "animation": 81
+    },
+    "sounds": [
+      {
+        "id, delay": "3740, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1983,
+    "animation": 1658,
+    "gfx": 1161,
+    "interacting": {
+      "npc": "Elvarg (6349)",
+      "animation": 81
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1984,
+    "animation": 1658,
+    "gfx": 1161,
+    "interacting": {
+      "npc": "Elvarg (6349)",
+      "animation": 81
+    },
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 49,
+        "sceneY": 73,
+        "source": "Elvarg (6349)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 130,
+        "heights": "200, 72",
+        "slope, duration": "21, 30"
+      },
+      {
+        "id": 130,
+        "heights": "200, 80",
+        "slope, duration": "13, 35"
+      },
+      {
+        "id": 130,
+        "heights": "200, 96",
+        "slope, duration": "17, 40"
+      }
+    ]
+  },
+  {
+    "server-tick": 1985,
+    "gfx": 1161,
+    "interacting": {
+      "npc": "Elvarg (6349)"
+    }
+  },
+  {
+    "server-tick": 1986,
+    "animation": 6695,
+    "gfx": 1161,
+    "interacting": {
+      "npc": "Elvarg (6349)",
+      "animation": 81
+    },
+    "sounds": [
+      {
+        "id, delay": "3740, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1987,
+    "animation": 6695,
+    "gfx": 1161,
+    "interacting": {
+      "npc": "Elvarg (6349)",
+      "animation": 81
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1988,
+    "animation": 6695,
+    "gfx": 1161,
+    "interacting": {
+      "npc": "Elvarg (6349)",
+      "animation": 81
+    },
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 49,
+        "sceneY": 73,
+        "source": "Elvarg (6349)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 130,
+        "heights": "200, 100",
+        "slope, duration": "13, 30"
+      },
+      {
+        "id": 130,
+        "heights": "200, 72",
+        "slope, duration": "17, 35"
+      },
+      {
+        "id": 130,
+        "heights": "200, 88",
+        "slope, duration": "14, 40"
+      }
+    ]
+  },
+  {
+    "server-tick": 1989,
+    "animation": 6695,
+    "gfx": 1161,
+    "interacting": {
+      "npc": "Elvarg (6349)"
+    }
+  },
+  {
+    "server-tick": 1990,
+    "animation": 6695,
+    "gfx": 1161,
+    "interacting": {
+      "npc": "Elvarg (6349)",
+      "animation": 81
+    },
+    "sounds": [
+      {
+        "id, delay": "3740, 0"
+      }
+    ]
+  }
+]

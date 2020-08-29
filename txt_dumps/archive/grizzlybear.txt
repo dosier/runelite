@@ -1,0 +1,43 @@
+SOUND 2555	 delay: 0
+PLAYER 'ex rs'	 animation: 393
+NPC 'Grizzly bear (2838)'	animation: 4927
+SOUND 302	 delay: 0
+PLAYER 'ex rs'	 animation: 393
+NPC 'Grizzly bear (2838)'	animation: 4927
+SOUND 300	 delay: 0
+SOUND 2961	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Grizzly bear (2838)'	animation: 4925
+SOUND 2555	 delay: 0
+PLAYER 'ex rs'	 animation: 393
+NPC 'Grizzly bear (2838)'	animation: 4925
+SOUND 302	 delay: 0
+PLAYER 'ex rs'	 animation: 393
+SOUND 300	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Grizzly bear (2838)'	animation: 4925
+SOUND 2555	 delay: 0
+PLAYER 'ex rs'	 animation: 393
+NPC 'Grizzly bear (2838)'	animation: 4925
+SOUND 302	 delay: 0
+PLAYER 'ex rs'	 animation: 393
+SOUND 300	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Grizzly bear (2838)'	animation: 4925
+SOUND 2555	 delay: 0
+PLAYER 'ex rs'	 animation: 393
+NPC 'Grizzly bear (2838)'	animation: 4925
+SOUND 302	 delay: 0
+PLAYER 'ex rs'	 animation: 393
+SOUND 300	 delay: 0
+SOUND 2959	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Grizzly bear (2838)'	animation: 4925
+SOUND 2555	 delay: 0
+PLAYER 'ex rs'	 animation: 393
+NPC 'Grizzly bear (2838)'	animation: 4925
+SOUND 302	 delay: 0
+PLAYER 'ex rs'	 animation: 393
+SOUND 301	 delay: 0

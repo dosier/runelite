@@ -1,0 +1,146 @@
+[
+  {
+    "server-tick": 2567,
+    "pos": "9007, 866, 1"
+  },
+  {
+    "server-tick": 2568,
+    "pos": "9006, 867, 1"
+  },
+  {
+    "server-tick": 2569,
+    "pos": "9006, 869, 1"
+  },
+  {
+    "server-tick": 2570,
+    "pos": "9006, 871, 1"
+  },
+  {
+    "server-tick": 2573,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Skeleton Hellhound (6387)",
+      "animation": 6578
+    },
+    "sounds": [
+      {
+        "id, delay": "1187, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2574,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Skeleton Hellhound (6387)",
+      "animation": 6578
+    },
+    "sounds": [
+      {
+        "id, delay": "1185, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2575,
+    "interacting": {
+      "npc": "Skeleton Hellhound (6387)"
+    }
+  },
+  {
+    "server-tick": 2576,
+    "interacting": {
+      "npc": "Skeleton Hellhound (6387)"
+    }
+  },
+  {
+    "server-tick": 2577,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Skeleton Hellhound (6387)",
+      "animation": 6578
+    },
+    "sounds": [
+      {
+        "id, delay": "1187, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2578,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Skeleton Hellhound (6387)",
+      "animation": 6578
+    },
+    "sounds": [
+      {
+        "id, delay": "1185, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2579,
+    "interacting": {
+      "npc": "Skeleton Hellhound (6387)"
+    }
+  },
+  {
+    "server-tick": 2580,
+    "interacting": {
+      "npc": "Skeleton Hellhound (6387)"
+    }
+  },
+  {
+    "server-tick": 2581,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Skeleton Hellhound (6387)",
+      "animation": 6578
+    },
+    "sounds": [
+      {
+        "id, delay": "1187, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2582,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Skeleton Hellhound (6387)",
+      "animation": 6578
+    },
+    "sounds": [
+      {
+        "id, delay": "1185, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2583,
+    "sounds": [
+      {
+        "id, delay": "1188, 0"
+      }
+    ]
+  }
+]

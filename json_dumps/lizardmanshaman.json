@@ -1,0 +1,690 @@
+[
+  {
+    "server-tick": 23566,
+    "pos": "1426, 3706, 0"
+  },
+  {
+    "server-tick": 23567,
+    "pos": "1427, 3705, 0"
+  },
+  {
+    "server-tick": 23568,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman shaman (6766)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "128, 144",
+        "slope, duration": "5, 43"
+      }
+    ]
+  },
+  {
+    "server-tick": 23569,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman shaman (6766)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 214,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 23570,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman shaman (6766)"
+    },
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 11"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 46"
+      }
+    ]
+  },
+  {
+    "server-tick": 23571,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman shaman (6766)",
+      "animation": 7193
+    }
+  },
+  {
+    "server-tick": 23572,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman shaman (6766)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "2962, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23573,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman shaman (6766)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23574,
+    "interacting": {
+      "npc": "Lizardman shaman (6766)"
+    },
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 23575,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman shaman (6766)",
+      "animation": 7192
+    },
+    "sounds": [
+      {
+        "id, delay": "2548, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 15"
+      },
+      {
+        "id": 214,
+        "heights": "11, 144",
+        "slope, duration": "15, 25"
+      }
+    ]
+  },
+  {
+    "server-tick": 23576,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman shaman (6766)",
+      "animation": 7192
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 31"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 45"
+      }
+    ]
+  },
+  {
+    "server-tick": 23577,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman shaman (6766)"
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 23578,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 214,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 23579,
+    "animation": 1156,
+    "pos": "1426, 3707, 0"
+  },
+  {
+    "server-tick": 23580,
+    "animation": 1156,
+    "pos": "1424, 3709, 0",
+    "sounds": [
+      {
+        "id, delay": "2962, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "128, 144",
+        "slope, duration": "5, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 23581,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "128, 144",
+        "slope, duration": "5, 11"
+      },
+      {
+        "id": 214,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 23582,
+    "animation": 829
+  },
+  {
+    "server-tick": 23583,
+    "animation": 1156,
+    "pos": "1424, 3711, 0",
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 42"
+      }
+    ]
+  },
+  {
+    "server-tick": 23584,
+    "animation": 1156,
+    "pos": "1424, 3713, 0",
+    "projectiles": [
+      {
+        "id": 214,
+        "heights": "11, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 23585,
+    "animation": 1156,
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "128, 144",
+        "slope, duration": "5, 32"
+      },
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 23586,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23587,
+    "animation": 1156,
+    "pos": "1426, 3712, 0",
+    "interacting": {
+      "npc": "Lizardman (6915)",
+      "animation": 7194
+    }
+  },
+  {
+    "server-tick": 23588,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman (6915)",
+      "animation": 7194
+    },
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 31"
+      }
+    ]
+  },
+  {
+    "server-tick": 23590,
+    "projectiles": [
+      {
+        "id": 214,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 23591,
+    "animation": 1658,
+    "pos": "1425, 3711, 0",
+    "interacting": {
+      "npc": "Lizardman shaman (6767)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23592,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman shaman (6767)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 31"
+      },
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 42"
+      }
+    ]
+  },
+  {
+    "server-tick": 23593,
+    "pos": "1425, 3713, 0",
+    "sounds": [
+      {
+        "id, delay": "2959, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "128, 144",
+        "slope, duration": "5, 16"
+      },
+      {
+        "id": 214,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      },
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 11"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 50"
+      }
+    ]
+  },
+  {
+    "server-tick": 23594,
+    "pos": "1423, 3715, 0"
+  },
+  {
+    "server-tick": 23595,
+    "animation": 1156,
+    "pos": "1423, 3713, 0",
+    "interacting": {
+      "npc": "Lizardman shaman (6767)",
+      "animation": 7193
+    },
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 13"
+      }
+    ]
+  },
+  {
+    "server-tick": 23596,
+    "animation": 1658,
+    "pos": "1423, 3711, 0",
+    "interacting": {
+      "npc": "Lizardman shaman (6767)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23597,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman shaman (6767)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "128, 144",
+        "slope, duration": "5, 31"
+      }
+    ]
+  },
+  {
+    "server-tick": 23598,
+    "interacting": {
+      "npc": "Lizardman shaman (6767)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23599,
+    "animation": 1156,
+    "pos": "1423, 3713, 0"
+  },
+  {
+    "server-tick": 23600,
+    "animation": 1156,
+    "pos": "1423, 3715, 0",
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 34"
+      },
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 43"
+      }
+    ]
+  },
+  {
+    "server-tick": 23601,
+    "animation": 829,
+    "pos": "1423, 3716, 0",
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "128, 144",
+        "slope, duration": "5, 32"
+      },
+      {
+        "id": 1291,
+        "heights": "128, 144",
+        "slope, duration": "5, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 23602,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 51"
+      }
+    ]
+  },
+  {
+    "server-tick": 23603,
+    "animation": 1156,
+    "pos": "1423, 3714, 0",
+    "interacting": {
+      "npc": "Lizardman shaman (6767)",
+      "animation": 7193
+    }
+  },
+  {
+    "server-tick": 23604,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lizardman shaman (6767)",
+      "animation": 7196
+    },
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 31"
+      }
+    ]
+  },
+  {
+    "server-tick": 23605,
+    "animation": 1156
+  },
+  {
+    "server-tick": 23606,
+    "animation": 1156,
+    "pos": "1423, 3712, 0",
+    "sounds": [
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23607,
+    "animation": 1156,
+    "pos": "1423, 3710, 0",
+    "interacting": {
+      "npc": "Lizardman shaman (6766)",
+      "animation": 7157
+    }
+  },
+  {
+    "server-tick": 23608,
+    "animation": 1156,
+    "pos": "1425, 3708, 0",
+    "interacting": {
+      "npc": "Lizardman shaman (6766)",
+      "animation": 7157
+    },
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 23609,
+    "animation": 1658,
+    "pos": "1426, 3707, 0",
+    "interacting": {
+      "npc": "Lizardman shaman (6766)",
+      "animation": 7157
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23610,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizardman shaman (6766)"
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23611,
+    "sounds": [
+      {
+        "id, delay": "387, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 23612,
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 31"
+      },
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 23615,
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 23616,
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 23618,
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 14"
+      }
+    ]
+  }
+]

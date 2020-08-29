@@ -1,0 +1,548 @@
+[
+  {
+    "server-tick": 5648,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Brawler (1737)",
+      "animation": 3895
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5649,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Brawler (1737)",
+      "animation": 3897
+    },
+    "sounds": [
+      {
+        "id, delay": "326, 0"
+      },
+      {
+        "id, delay": "323, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 12"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 4"
+      },
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 23"
+      },
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 23"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 63"
+      }
+    ]
+  },
+  {
+    "server-tick": 5650,
+    "interacting": {
+      "npc": "Brawler (1737)"
+    },
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 41"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 73"
+      }
+    ]
+  },
+  {
+    "server-tick": 5651,
+    "interacting": {
+      "npc": "Brawler (1737)",
+      "animation": 3895
+    }
+  },
+  {
+    "server-tick": 5652,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Brawler (1737)",
+      "animation": 3895
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 20"
+      },
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 5653,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Brawler (1737)",
+      "animation": 3897
+    },
+    "sounds": [
+      {
+        "id, delay": "326, 0"
+      },
+      {
+        "id, delay": "323, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 9"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 1"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 1"
+      }
+    ]
+  },
+  {
+    "server-tick": 5654,
+    "interacting": {
+      "npc": "Brawler (1737)",
+      "animation": 3895
+    }
+  },
+  {
+    "server-tick": 5655,
+    "interacting": {
+      "npc": "Brawler (1737)",
+      "animation": 3895
+    },
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 22"
+      },
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 5656,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Brawler (1737)",
+      "animation": 3895
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 5"
+      }
+    ]
+  },
+  {
+    "server-tick": 5657,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Brawler (1737)",
+      "animation": 3897
+    },
+    "sounds": [
+      {
+        "id, delay": "326, 0"
+      },
+      {
+        "id, delay": "323, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 11"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 3"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 3"
+      }
+    ]
+  },
+  {
+    "server-tick": 5658,
+    "interacting": {
+      "npc": "Brawler (1737)"
+    },
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 18"
+      }
+    ]
+  },
+  {
+    "server-tick": 5659,
+    "interacting": {
+      "npc": "Brawler (1737)"
+    }
+  },
+  {
+    "server-tick": 5660,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Brawler (1737)",
+      "animation": 3895
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 3"
+      }
+    ]
+  },
+  {
+    "server-tick": 5661,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Brawler (1737)",
+      "animation": 3897
+    },
+    "sounds": [
+      {
+        "id, delay": "326, 0"
+      },
+      {
+        "id, delay": "323, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 18"
+      }
+    ]
+  },
+  {
+    "server-tick": 5662,
+    "interacting": {
+      "npc": "Brawler (1737)",
+      "animation": 3897
+    }
+  },
+  {
+    "server-tick": 5663,
+    "interacting": {
+      "npc": "Brawler (1737)",
+      "animation": 3895
+    }
+  },
+  {
+    "server-tick": 5664,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Brawler (1737)",
+      "animation": 3895
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 5665,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Brawler (1737)",
+      "animation": 3897
+    },
+    "sounds": [
+      {
+        "id, delay": "326, 0"
+      },
+      {
+        "id, delay": "323, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 19"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 19"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 5666,
+    "interacting": {
+      "npc": "Brawler (1737)",
+      "animation": 3895
+    },
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 24"
+      }
+    ]
+  },
+  {
+    "server-tick": 5667,
+    "interacting": {
+      "npc": "Brawler (1737)",
+      "animation": 3895
+    },
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 18"
+      }
+    ]
+  },
+  {
+    "server-tick": 5668,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Brawler (1737)",
+      "animation": 3895
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 5"
+      }
+    ]
+  },
+  {
+    "server-tick": 5669,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Brawler (1737)",
+      "animation": 3897
+    },
+    "sounds": [
+      {
+        "id, delay": "326, 0"
+      },
+      {
+        "id, delay": "323, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 11"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 11"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 3"
+      }
+    ]
+  },
+  {
+    "server-tick": 5670,
+    "sounds": [
+      {
+        "id, delay": "325, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 5671,
+    "projectiles": [
+      {
+        "id": 326,
+        "heights": "11, 144",
+        "slope, duration": "15, 49"
+      }
+    ]
+  },
+  {
+    "server-tick": 5672,
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 3"
+      }
+    ]
+  },
+  {
+    "server-tick": 5673,
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 10"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 5674,
+    "projectiles": [
+      {
+        "id": 326,
+        "heights": "11, 144",
+        "slope, duration": "15, 38"
+      }
+    ]
+  },
+  {
+    "server-tick": 5675,
+    "projectiles": [
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 5676,
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 2"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 74"
+      }
+    ]
+  },
+  {
+    "server-tick": 5677,
+    "projectiles": [
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 11"
+      },
+      {
+        "id": 656,
+        "heights": "24, 124",
+        "slope, duration": "16, 11"
+      },
+      {
+        "id": 647,
+        "heights": "24, 124",
+        "slope, duration": "16, 3"
+      }
+    ]
+  }
+]

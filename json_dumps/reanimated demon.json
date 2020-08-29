@@ -1,0 +1,426 @@
+[
+  {
+    "server-tick": 16371,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)",
+      "animation": 64
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16372,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)"
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16373,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)"
+    }
+  },
+  {
+    "server-tick": 16374,
+    "animation": 1156,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)",
+      "animation": 64
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16375,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)",
+      "animation": 64
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16376,
+    "animation": 390,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)"
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16377,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)"
+    }
+  },
+  {
+    "server-tick": 16378,
+    "animation": 1156,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)",
+      "animation": 64
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1242,
+        "heights": "226, 124",
+        "slope, duration": "16, 111"
+      }
+    ]
+  },
+  {
+    "server-tick": 16379,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)",
+      "animation": 64
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16380,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)"
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16381,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16382,
+    "animation": 1156,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)",
+      "animation": 64
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16383,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)",
+      "animation": 64
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16384,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)"
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16385,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)"
+    }
+  },
+  {
+    "server-tick": 16386,
+    "animation": 1156,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)",
+      "animation": 64
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16387,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)",
+      "animation": 64
+    },
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16388,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)"
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16389,
+    "gfx": 1243,
+    "pos": "8016, 1443, 0",
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)"
+    }
+  },
+  {
+    "server-tick": 16390,
+    "animation": 1156,
+    "gfx": 1243,
+    "pos": "8015, 1443, 0",
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)"
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16391,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)",
+      "animation": 64
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16392,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)",
+      "animation": 64
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16393,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)",
+      "animation": 67
+    },
+    "sounds": [
+      {
+        "id, delay": "403, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16394,
+    "animation": 1156,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)",
+      "animation": 64
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16395,
+    "animation": 390,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)",
+      "animation": 64
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16396,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)"
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16397,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)"
+    },
+    "projectiles": [
+      {
+        "id": 1242,
+        "heights": "226, 124",
+        "slope, duration": "16, 121"
+      }
+    ]
+  },
+  {
+    "server-tick": 16398,
+    "animation": 1156,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)",
+      "animation": 64
+    },
+    "sounds": [
+      {
+        "id, delay": "400, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 16399,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)",
+      "animation": 64
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 16400,
+    "animation": 390,
+    "gfx": 1243,
+    "interacting": {
+      "npc": "Reanimated demon spawn (7287)"
+    },
+    "sounds": [
+      {
+        "id, delay": "404, 0"
+      }
+    ]
+  }
+]

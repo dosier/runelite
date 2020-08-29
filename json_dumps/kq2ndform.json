@@ -1,0 +1,2930 @@
+[
+  {
+    "server-tick": 11438,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    }
+  },
+  {
+    "server-tick": 11439,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6234
+    },
+    "sounds": [
+      {
+        "id, delay": "555, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 289,
+        "heights": "170, 124",
+        "slope, duration": "10, 34"
+      }
+    ]
+  },
+  {
+    "server-tick": 11440,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6234
+    },
+    "sounds": [
+      {
+        "id, delay": "2962, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11441,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6234
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11442,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6234
+    }
+  },
+  {
+    "server-tick": 11443,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    },
+    "sounds": [
+      {
+        "id, delay": "558, 0"
+      },
+      {
+        "id, delay": "559, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "170, 124",
+        "slope, duration": "10, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 11444,
+    "gfx": 281,
+    "sounds": [
+      {
+        "id, delay": "2246, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11445,
+    "gfx": 281,
+    "pos": "3480, 9496, 0",
+    "sounds": [
+      {
+        "id, delay": "3424, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11446,
+    "animation": 829,
+    "gfx": 281,
+    "pos": "3482, 9496, 0",
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11447,
+    "animation": 829,
+    "gfx": 281
+  },
+  {
+    "server-tick": 11448,
+    "animation": 829,
+    "gfx": 281
+  },
+  {
+    "server-tick": 11449,
+    "animation": 2062,
+    "gfx": 281,
+    "pos": "3483, 9496, 0",
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6237
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      },
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11450,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      },
+      {
+        "id, delay": "558, 0"
+      },
+      {
+        "id, delay": "559, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2811, 20"
+      },
+      {
+        "id, delay": "2814, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "170, 124",
+        "slope, duration": "10, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 11451,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    }
+  },
+  {
+    "server-tick": 11452,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    }
+  },
+  {
+    "server-tick": 11453,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11454,
+    "animation": 2062,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6234
+    },
+    "sounds": [
+      {
+        "id, delay": "555, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2812, 20"
+      },
+      {
+        "id, delay": "1323, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 289,
+        "heights": "170, 124",
+        "slope, duration": "10, 34"
+      }
+    ]
+  },
+  {
+    "server-tick": 11455,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6234
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11456,
+    "animation": 829,
+    "gfx": 281,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11457,
+    "animation": 2063,
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2814, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11458,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6234
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2812, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 289,
+        "heights": "170, 124",
+        "slope, duration": "10, 74"
+      }
+    ]
+  },
+  {
+    "server-tick": 11459,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6234
+    }
+  },
+  {
+    "server-tick": 11460,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6234
+    }
+  },
+  {
+    "server-tick": 11461,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2814, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11462,
+    "animation": 2062,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6237
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      },
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11463,
+    "animation": 2063,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "554, 0"
+      },
+      {
+        "id, delay": "555, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 289,
+        "heights": "170, 124",
+        "slope, duration": "10, 26"
+      },
+      {
+        "id": 289,
+        "heights": "170, 124",
+        "slope, duration": "10, 34"
+      }
+    ]
+  },
+  {
+    "server-tick": 11464,
+    "animation": 2063,
+    "sounds": [
+      {
+        "id, delay": "2813, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11465,
+    "animation": 2063,
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11466,
+    "animation": 2063,
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11467,
+    "pos": "3482, 9496, 0",
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    }
+  },
+  {
+    "server-tick": 11468,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    },
+    "sounds": [
+      {
+        "id, delay": "559, 0"
+      },
+      {
+        "id, delay": "2811, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "170, 124",
+        "slope, duration": "10, 16"
+      }
+    ]
+  },
+  {
+    "server-tick": 11469,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11470,
+    "animation": 2062,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      },
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11471,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11472,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    },
+    "sounds": [
+      {
+        "id, delay": "551, 0"
+      },
+      {
+        "id, delay": "2811, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11473,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11474,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2811, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11475,
+    "animation": 2062,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6237
+    },
+    "sounds": [
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11476,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      },
+      {
+        "id, delay": "558, 0"
+      },
+      {
+        "id, delay": "559, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "170, 124",
+        "slope, duration": "10, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 11477,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11478,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11479,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    }
+  },
+  {
+    "server-tick": 11480,
+    "animation": 2062,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 1041
+    },
+    "sounds": [
+      {
+        "id, delay": "558, 0"
+      },
+      {
+        "id, delay": "559, 0"
+      },
+      {
+        "id, delay": "2811, 20"
+      },
+      {
+        "id, delay": "1323, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "170, 124",
+        "slope, duration": "10, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 11481,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 1041
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11482,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11483,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    }
+  },
+  {
+    "server-tick": 11484,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    },
+    "sounds": [
+      {
+        "id, delay": "558, 0"
+      },
+      {
+        "id, delay": "559, 0"
+      },
+      {
+        "id, delay": "2812, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "170, 124",
+        "slope, duration": "10, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 11485,
+    "animation": 2062,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2812, 20"
+      },
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11486,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11487,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6237
+    }
+  },
+  {
+    "server-tick": 11488,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    },
+    "sounds": [
+      {
+        "id, delay": "551, 0"
+      },
+      {
+        "id, delay": "2811, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11489,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2814, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11490,
+    "animation": 2062,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2812, 20"
+      },
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11491,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11492,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    }
+  },
+  {
+    "server-tick": 11493,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6234
+    },
+    "sounds": [
+      {
+        "id, delay": "555, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2812, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 289,
+        "heights": "170, 124",
+        "slope, duration": "10, 26"
+      },
+      {
+        "id": 289,
+        "heights": "170, 124",
+        "slope, duration": "10, 34"
+      }
+    ]
+  },
+  {
+    "server-tick": 11494,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6234
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      },
+      {
+        "id, delay": "2812, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11495,
+    "animation": 2062,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6234
+    },
+    "sounds": [
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11496,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11497,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6234
+    },
+    "sounds": [
+      {
+        "id, delay": "555, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 289,
+        "heights": "170, 124",
+        "slope, duration": "10, 26"
+      },
+      {
+        "id": 289,
+        "heights": "170, 124",
+        "slope, duration": "10, 34"
+      }
+    ]
+  },
+  {
+    "server-tick": 11498,
+    "animation": 2063,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      },
+      {
+        "id, delay": "2811, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11499,
+    "animation": 2063
+  },
+  {
+    "server-tick": 11501,
+    "animation": 2063,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2812, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11502,
+    "animation": 2063,
+    "sounds": [
+      {
+        "id, delay": "551, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      },
+      {
+        "id, delay": "2811, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11503,
+    "animation": 2063
+  },
+  {
+    "server-tick": 11504,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11505,
+    "animation": 2063,
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11506,
+    "animation": 2063,
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2812, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11507,
+    "animation": 2063,
+    "gfx": 281,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "559, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "170, 124",
+        "slope, duration": "10, 13"
+      },
+      {
+        "id": 280,
+        "heights": "11, 144",
+        "slope, duration": "0, 29"
+      }
+    ]
+  },
+  {
+    "server-tick": 11508,
+    "gfx": 281
+  },
+  {
+    "server-tick": 11509,
+    "animation": 2063,
+    "gfx": 281,
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2814, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11510,
+    "animation": 2063,
+    "gfx": 281,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11511,
+    "animation": 2063,
+    "gfx": 281,
+    "sounds": [
+      {
+        "id, delay": "555, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 289,
+        "heights": "170, 124",
+        "slope, duration": "10, 26"
+      },
+      {
+        "id": 289,
+        "heights": "170, 124",
+        "slope, duration": "10, 34"
+      }
+    ]
+  },
+  {
+    "server-tick": 11512,
+    "gfx": 281,
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11513,
+    "animation": 2063,
+    "gfx": 281,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11514,
+    "animation": 2063,
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11515,
+    "animation": 2063,
+    "gfx": 281,
+    "sounds": [
+      {
+        "id, delay": "558, 0"
+      },
+      {
+        "id, delay": "559, 0"
+      },
+      {
+        "id, delay": "2814, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "170, 124",
+        "slope, duration": "10, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 11516,
+    "gfx": 281
+  },
+  {
+    "server-tick": 11517,
+    "animation": 2063,
+    "gfx": 281,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2812, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11518,
+    "animation": 2063,
+    "gfx": 281,
+    "pos": "3480, 9497, 0",
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11519,
+    "animation": 2062,
+    "gfx": 281,
+    "pos": "3482, 9497, 0",
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170
+    },
+    "sounds": [
+      {
+        "id, delay": "559, 0"
+      },
+      {
+        "id, delay": "1323, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "170, 124",
+        "slope, duration": "10, 43"
+      }
+    ]
+  },
+  {
+    "server-tick": 11520,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11521,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170
+    },
+    "sounds": [
+      {
+        "id, delay": "2811, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11522,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2812, 20"
+      },
+      {
+        "id, delay": "2815, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11523,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6234
+    },
+    "sounds": [
+      {
+        "id, delay": "555, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 289,
+        "heights": "170, 124",
+        "slope, duration": "10, 34"
+      }
+    ]
+  },
+  {
+    "server-tick": 11524,
+    "animation": 829,
+    "gfx": 281,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11525,
+    "animation": 829,
+    "gfx": 281
+  },
+  {
+    "server-tick": 11526,
+    "animation": 2062,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "gfx": 1041
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2811, 20"
+      },
+      {
+        "id, delay": "2814, 20"
+      },
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11527,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      },
+      {
+        "id, delay": "558, 0"
+      },
+      {
+        "id, delay": "559, 0"
+      },
+      {
+        "id, delay": "2811, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "170, 124",
+        "slope, duration": "10, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 11528,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    }
+  },
+  {
+    "server-tick": 11529,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    }
+  },
+  {
+    "server-tick": 11530,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      },
+      {
+        "id, delay": "2811, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11531,
+    "animation": 2062,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6234
+    },
+    "sounds": [
+      {
+        "id, delay": "555, 0"
+      },
+      {
+        "id, delay": "1323, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 289,
+        "heights": "170, 124",
+        "slope, duration": "10, 34"
+      }
+    ]
+  },
+  {
+    "server-tick": 11532,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6234
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11533,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6234
+    }
+  },
+  {
+    "server-tick": 11534,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11535,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    },
+    "sounds": [
+      {
+        "id, delay": "558, 0"
+      },
+      {
+        "id, delay": "559, 0"
+      },
+      {
+        "id, delay": "2812, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "170, 124",
+        "slope, duration": "10, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 11536,
+    "animation": 2062,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170
+    },
+    "sounds": [
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11537,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11538,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2811, 20"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11539,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6234
+    },
+    "sounds": [
+      {
+        "id, delay": "555, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 289,
+        "heights": "170, 124",
+        "slope, duration": "10, 34"
+      }
+    ]
+  },
+  {
+    "server-tick": 11540,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6234
+    },
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11541,
+    "animation": 2062,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6234
+    },
+    "sounds": [
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11542,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      },
+      {
+        "id, delay": "2812, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11543,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    },
+    "sounds": [
+      {
+        "id, delay": "551, 0"
+      },
+      {
+        "id, delay": "2811, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11544,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    }
+  },
+  {
+    "server-tick": 11545,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    }
+  },
+  {
+    "server-tick": 11546,
+    "animation": 2062,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6237
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2814, 20"
+      },
+      {
+        "id, delay": "2813, 20"
+      },
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11547,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      },
+      {
+        "id, delay": "551, 0"
+      },
+      {
+        "id, delay": "2811, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11548,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    }
+  },
+  {
+    "server-tick": 11549,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    }
+  },
+  {
+    "server-tick": 11550,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      },
+      {
+        "id, delay": "2815, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11551,
+    "animation": 2062,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170
+    },
+    "sounds": [
+      {
+        "id, delay": "558, 0"
+      },
+      {
+        "id, delay": "559, 0"
+      },
+      {
+        "id, delay": "2811, 20"
+      },
+      {
+        "id, delay": "1323, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "170, 124",
+        "slope, duration": "10, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 11552,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11553,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170
+    }
+  },
+  {
+    "server-tick": 11554,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11555,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    },
+    "sounds": [
+      {
+        "id, delay": "558, 0"
+      },
+      {
+        "id, delay": "559, 0"
+      },
+      {
+        "id, delay": "2814, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "170, 124",
+        "slope, duration": "10, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 11556,
+    "animation": 2062,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170
+    },
+    "sounds": [
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11557,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11558,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2814, 20"
+      },
+      {
+        "id, delay": "2812, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11559,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    },
+    "sounds": [
+      {
+        "id, delay": "558, 0"
+      },
+      {
+        "id, delay": "559, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "170, 124",
+        "slope, duration": "10, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 11560,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    }
+  },
+  {
+    "server-tick": 11561,
+    "animation": 2062,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 1041
+    },
+    "sounds": [
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11562,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "gfx": 1041
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      },
+      {
+        "id, delay": "2811, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11563,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    },
+    "sounds": [
+      {
+        "id, delay": "551, 0"
+      },
+      {
+        "id, delay": "2811, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11564,
+    "animation": 829,
+    "gfx": 281,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11565,
+    "animation": 829,
+    "gfx": 281
+  },
+  {
+    "server-tick": 11566,
+    "animation": 2063,
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      },
+      {
+        "id, delay": "2812, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11567,
+    "animation": 2063,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "551, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11568,
+    "animation": 2063
+  },
+  {
+    "server-tick": 11570,
+    "animation": 2063,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2812, 20"
+      },
+      {
+        "id, delay": "2815, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11571,
+    "animation": 2063,
+    "sounds": [
+      {
+        "id, delay": "555, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 289,
+        "heights": "170, 124",
+        "slope, duration": "10, 34"
+      }
+    ]
+  },
+  {
+    "server-tick": 11572,
+    "animation": 2063,
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11573,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11574,
+    "animation": 2062,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "gfx": 1041
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      },
+      {
+        "id, delay": "2814, 20"
+      },
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11575,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      },
+      {
+        "id, delay": "558, 0"
+      },
+      {
+        "id, delay": "559, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "170, 124",
+        "slope, duration": "10, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 11576,
+    "animation": 829,
+    "gfx": 281,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11577,
+    "animation": 829,
+    "gfx": 281
+  },
+  {
+    "server-tick": 11578,
+    "animation": 2063,
+    "gfx": 281,
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11579,
+    "animation": 2063,
+    "gfx": 281,
+    "sounds": [
+      {
+        "id, delay": "558, 0"
+      },
+      {
+        "id, delay": "559, 0"
+      },
+      {
+        "id, delay": "2812, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "170, 124",
+        "slope, duration": "10, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 11580,
+    "animation": 2062,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170
+    },
+    "sounds": [
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11581,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11582,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2811, 20"
+      },
+      {
+        "id, delay": "2812, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11583,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    },
+    "sounds": [
+      {
+        "id, delay": "551, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11584,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    }
+  },
+  {
+    "server-tick": 11585,
+    "animation": 2062,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6237
+    },
+    "sounds": [
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11586,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6237
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2812, 20"
+      },
+      {
+        "id, delay": "2814, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11587,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    },
+    "sounds": [
+      {
+        "id, delay": "558, 0"
+      },
+      {
+        "id, delay": "559, 0"
+      },
+      {
+        "id, delay": "2814, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "170, 124",
+        "slope, duration": "10, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 11588,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    }
+  },
+  {
+    "server-tick": 11589,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    }
+  },
+  {
+    "server-tick": 11590,
+    "animation": 2062,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6237,
+      "gfx": 1041
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      },
+      {
+        "id, delay": "2815, 20"
+      },
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11591,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      },
+      {
+        "id, delay": "558, 0"
+      },
+      {
+        "id, delay": "559, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "170, 124",
+        "slope, duration": "10, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 11592,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    }
+  },
+  {
+    "server-tick": 11593,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170,
+      "gfx": 279
+    }
+  },
+  {
+    "server-tick": 11594,
+    "animation": 2063,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      },
+      {
+        "id, delay": "2814, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11595,
+    "animation": 2062,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    },
+    "sounds": [
+      {
+        "id, delay": "551, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      },
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11596,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11597,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    }
+  },
+  {
+    "server-tick": 11598,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2811, 20"
+      },
+      {
+        "id, delay": "2815, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11599,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    },
+    "sounds": [
+      {
+        "id, delay": "551, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11600,
+    "animation": 2062,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    },
+    "sounds": [
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11601,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11602,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11603,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    },
+    "sounds": [
+      {
+        "id, delay": "551, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11604,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    }
+  },
+  {
+    "server-tick": 11605,
+    "animation": 2062,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "gfx": 1041
+    },
+    "sounds": [
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11606,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "gfx": 1041
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2812, 20"
+      },
+      {
+        "id, delay": "2814, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11607,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    },
+    "sounds": [
+      {
+        "id, delay": "551, 0"
+      },
+      {
+        "id, delay": "2812, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11608,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    }
+  },
+  {
+    "server-tick": 11609,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    }
+  },
+  {
+    "server-tick": 11610,
+    "animation": 2062,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6237
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      },
+      {
+        "id, delay": "2813, 20"
+      },
+      {
+        "id, delay": "1323, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11611,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      },
+      {
+        "id, delay": "551, 0"
+      },
+      {
+        "id, delay": "2815, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11612,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 6235
+    }
+  },
+  {
+    "server-tick": 11613,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    }
+  },
+  {
+    "server-tick": 11614,
+    "animation": 2063,
+    "interacting": {
+      "npc": "Kalphite Queen (965)"
+    },
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2812, 20"
+      },
+      {
+        "id, delay": "2814, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11615,
+    "animation": 2062,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170
+    },
+    "sounds": [
+      {
+        "id, delay": "558, 0"
+      },
+      {
+        "id, delay": "559, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      },
+      {
+        "id, delay": "1323, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 280,
+        "heights": "170, 124",
+        "slope, duration": "10, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 11616,
+    "gfx": 281,
+    "interacting": {
+      "npc": "Kalphite Queen (965)",
+      "animation": 1170
+    },
+    "sounds": [
+      {
+        "id, delay": "554, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11617,
+    "gfx": 281,
+    "sounds": [
+      {
+        "id, delay": "553, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11618,
+    "animation": 2063,
+    "gfx": 281,
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      },
+      {
+        "id, delay": "2812, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11619,
+    "animation": 2063,
+    "gfx": 281
+  },
+  {
+    "server-tick": 11620,
+    "animation": 2063,
+    "gfx": 281
+  },
+  {
+    "server-tick": 11621,
+    "gfx": 281
+  },
+  {
+    "server-tick": 11622,
+    "animation": 2063,
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2812, 20"
+      },
+      {
+        "id, delay": "2815, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11623,
+    "animation": 2063
+  },
+  {
+    "server-tick": 11624,
+    "animation": 2063
+  },
+  {
+    "server-tick": 11626,
+    "animation": 2063,
+    "sounds": [
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "571, 0"
+      },
+      {
+        "id, delay": "2813, 20"
+      },
+      {
+        "id, delay": "2813, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11627,
+    "animation": 2063
+  }
+]

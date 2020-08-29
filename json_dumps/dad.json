@@ -1,0 +1,358 @@
+[
+  {
+    "server-tick": 2865,
+    "animation": 1658,
+    "pos": "11502, 1060, 1",
+    "interacting": {
+      "npc": "Dad (6391)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2866,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dad (6391)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "864, 0"
+      },
+      {
+        "id, delay": "862, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2867,
+    "interacting": {
+      "npc": "Dad (6391)",
+      "animation": 284
+    }
+  },
+  {
+    "server-tick": 2868,
+    "interacting": {
+      "npc": "Dad (6391)"
+    }
+  },
+  {
+    "server-tick": 2869,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dad (6391)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2870,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dad (6391)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "864, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2871,
+    "interacting": {
+      "npc": "Dad (6391)"
+    }
+  },
+  {
+    "server-tick": 2872,
+    "interacting": {
+      "npc": "Dad (6391)"
+    }
+  },
+  {
+    "server-tick": 2873,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dad (6391)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2874,
+    "animation": 1157,
+    "pos": "11497, 1065, 1",
+    "sounds": [
+      {
+        "id, delay": "864, 0"
+      },
+      {
+        "id, delay": "865, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2875,
+    "animation": 1157
+  },
+  {
+    "server-tick": 2876,
+    "animation": 1157,
+    "sounds": [
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2877,
+    "animation": 1157
+  },
+  {
+    "server-tick": 2878,
+    "animation": 1157
+  },
+  {
+    "server-tick": 2882,
+    "animation": 1157,
+    "pos": "11492, 1070, 1",
+    "sounds": [
+      {
+        "id, delay": "865, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2883,
+    "animation": 1157
+  },
+  {
+    "server-tick": 2884,
+    "animation": 1157,
+    "sounds": [
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2885,
+    "animation": 1157
+  },
+  {
+    "server-tick": 2886,
+    "animation": 1157,
+    "pos": "11493, 1069, 1",
+    "interacting": {
+      "npc": "Dad (6391)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2887,
+    "interacting": {
+      "npc": "Dad (6391)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "864, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2888,
+    "interacting": {
+      "npc": "Dad (6391)"
+    }
+  },
+  {
+    "server-tick": 2889,
+    "interacting": {
+      "npc": "Dad (6391)"
+    }
+  },
+  {
+    "server-tick": 2890,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dad (6391)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "862, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2891,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dad (6391)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "864, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2892,
+    "interacting": {
+      "npc": "Dad (6391)"
+    }
+  },
+  {
+    "server-tick": 2893,
+    "interacting": {
+      "npc": "Dad (6391)"
+    }
+  },
+  {
+    "server-tick": 2894,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dad (6391)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2895,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dad (6391)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "864, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2896,
+    "interacting": {
+      "npc": "Dad (6391)"
+    }
+  },
+  {
+    "server-tick": 2897,
+    "interacting": {
+      "npc": "Dad (6391)"
+    }
+  },
+  {
+    "server-tick": 2898,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dad (6391)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "862, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2899,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dad (6391)",
+      "animation": 284
+    },
+    "sounds": [
+      {
+        "id, delay": "864, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2900,
+    "interacting": {
+      "npc": "Dad (6391)"
+    }
+  },
+  {
+    "server-tick": 2901,
+    "interacting": {
+      "npc": "Dad (6391)"
+    }
+  },
+  {
+    "server-tick": 2902,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dad (6391)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2903,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dad (6391)",
+      "animation": 285
+    },
+    "sounds": [
+      {
+        "id, delay": "864, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2904,
+    "sounds": [
+      {
+        "id, delay": "863, 0"
+      }
+    ]
+  }
+]

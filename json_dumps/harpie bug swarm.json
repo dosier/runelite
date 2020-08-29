@@ -1,0 +1,632 @@
+[
+  {
+    "server-tick": 26339,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    }
+  },
+  {
+    "server-tick": 26340,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3110
+    },
+    "sounds": [
+      {
+        "id, delay": "2743, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26341,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3109
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26342,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2745, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26343,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    }
+  },
+  {
+    "server-tick": 26344,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3110
+    },
+    "sounds": [
+      {
+        "id, delay": "2743, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26345,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3109
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26346,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2745, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26347,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    }
+  },
+  {
+    "server-tick": 26348,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3110
+    },
+    "sounds": [
+      {
+        "id, delay": "2743, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26349,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3109
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26350,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2745, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26351,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    }
+  },
+  {
+    "server-tick": 26352,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3110
+    },
+    "sounds": [
+      {
+        "id, delay": "2743, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26353,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3109
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26354,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2745, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26355,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    }
+  },
+  {
+    "server-tick": 26356,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3110
+    },
+    "sounds": [
+      {
+        "id, delay": "2743, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26357,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3109
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26358,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2745, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26359,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    }
+  },
+  {
+    "server-tick": 26360,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3110
+    },
+    "sounds": [
+      {
+        "id, delay": "2743, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26361,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3109
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26362,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2745, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26363,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    }
+  },
+  {
+    "server-tick": 26364,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3110
+    },
+    "sounds": [
+      {
+        "id, delay": "2743, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26365,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3109
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26366,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2745, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26367,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    }
+  },
+  {
+    "server-tick": 26368,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3110
+    },
+    "sounds": [
+      {
+        "id, delay": "2743, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26369,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3109
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26370,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2745, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26371,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    }
+  },
+  {
+    "server-tick": 26372,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3110
+    },
+    "sounds": [
+      {
+        "id, delay": "2743, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26373,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3109
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26374,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2745, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26375,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    }
+  },
+  {
+    "server-tick": 26376,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3110
+    },
+    "sounds": [
+      {
+        "id, delay": "2743, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26377,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3109
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26378,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2745, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26379,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    }
+  },
+  {
+    "server-tick": 26380,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3110
+    },
+    "sounds": [
+      {
+        "id, delay": "2743, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26381,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3109
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26382,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2745, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26383,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)"
+    }
+  },
+  {
+    "server-tick": 26384,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3110
+    },
+    "sounds": [
+      {
+        "id, delay": "2743, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26385,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Harpie Bug Swarm (464)",
+      "animation": 3109
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26386,
+    "animation": 1658,
+    "pos": "2861, 3110, 0",
+    "sounds": [
+      {
+        "id, delay": "2745, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26387,
+    "pos": "2862, 3112, 0"
+  },
+  {
+    "server-tick": 26388,
+    "pos": "2862, 3114, 0"
+  },
+  {
+    "server-tick": 26389,
+    "pos": "2860, 3114, 0"
+  },
+  {
+    "server-tick": 26390,
+    "pos": "2858, 3115, 0"
+  },
+  {
+    "server-tick": 26391,
+    "pos": "2856, 3115, 0"
+  },
+  {
+    "server-tick": 26392,
+    "pos": "2854, 3116, 0"
+  },
+  {
+    "server-tick": 26393,
+    "pos": "2852, 3117, 0"
+  },
+  {
+    "server-tick": 26394,
+    "pos": "2850, 3117, 0"
+  },
+  {
+    "server-tick": 26395,
+    "pos": "2848, 3117, 0"
+  },
+  {
+    "server-tick": 26396,
+    "pos": "2846, 3119, 0"
+  },
+  {
+    "server-tick": 26397,
+    "pos": "2844, 3121, 0"
+  },
+  {
+    "server-tick": 26401,
+    "pos": "2842, 3121, 0"
+  },
+  {
+    "server-tick": 26402,
+    "pos": "2840, 3121, 0"
+  },
+  {
+    "server-tick": 26403,
+    "pos": "2838, 3123, 0"
+  },
+  {
+    "server-tick": 26404,
+    "pos": "2836, 3125, 0"
+  },
+  {
+    "server-tick": 26405,
+    "pos": "2834, 3127, 0"
+  },
+  {
+    "server-tick": 26406,
+    "pos": "2832, 3128, 0"
+  }
+]

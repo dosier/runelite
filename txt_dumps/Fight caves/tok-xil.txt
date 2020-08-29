@@ -1,0 +1,44 @@
+SOUND 601	 delay: 15
+NPC 'Tok-Xil (3121)'	animation: 2633
+SOUND 1184	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Tok-Xil (3121)'	animation: 2633
+PROJECTILE 443	startHeight: 32, endHeight: 124, slope: 16, duration: 84, x: 4160, y: 3008
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Tok-Xil (3121)'	animation: 2633
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 27, x: 4032, y: 3776
+SOUND 600	 delay: 0
+SOUND 2844	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Tok-Xil (3121)'	animation: 2629
+SOUND 601	 delay: 15
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Tok-Xil (3121)'	animation: 2633
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 27, x: 4032, y: 3776
+SOUND 600	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Tok-Xil (3121)'	animation: 2633
+PROJECTILE 443	startHeight: 32, endHeight: 124, slope: 16, duration: 50, x: 4160, y: 3008
+SOUND 1184	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Tok-Xil (3121)'	animation: 2633
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 27, x: 4032, y: 3776
+SOUND 600	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Tok-Xil (3121)'	animation: 2629
+SOUND 601	 delay: 15
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Tok-Xil (3121)'	animation: 2633
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 27, x: 4032, y: 3776
+SOUND 600	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Tok-Xil (3121)'	animation: 2633
+PROJECTILE 443	startHeight: 32, endHeight: 124, slope: 16, duration: 49, x: 4160, y: 3008
+SOUND 599	 delay: 0
+SOUND 1184	 delay: 0
+NPC 'Tok-Xil (3121)'	animation: 2630
+SOUND 2663	 delay: 0

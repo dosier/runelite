@@ -1,0 +1,395 @@
+[
+  {
+    "server-tick": 15115,
+    "animation": 1658,
+    "pos": "1607, 10056, 0",
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 81
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15116,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 81
+    },
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 32,
+        "sceneY": 74,
+        "source": "Steel dragon (7255)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 15117,
+    "pos": "1607, 10055, 0",
+    "projectiles": [
+      {
+        "id": 88,
+        "heights": "64, 124",
+        "slope, duration": "16, 38"
+      }
+    ]
+  },
+  {
+    "server-tick": 15118,
+    "pos": "1607, 10054, 0"
+  },
+  {
+    "server-tick": 15119,
+    "pos": "1607, 10053, 0"
+  },
+  {
+    "server-tick": 15120,
+    "pos": "1606, 10052, 0",
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 32,
+        "sceneY": 74,
+        "source": "Steel dragon (7255)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 15122,
+    "projectiles": [
+      {
+        "id": 88,
+        "heights": "64, 124",
+        "slope, duration": "16, 37"
+      }
+    ]
+  },
+  {
+    "server-tick": 15124,
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 32,
+        "sceneY": 74,
+        "source": "Steel dragon (7255)"
+      }
+    ]
+  },
+  {
+    "server-tick": 15125,
+    "pos": "1606, 10053, 0",
+    "interacting": {
+      "npc": "Steel dragon (7255)"
+    },
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 15126,
+    "pos": "1606, 10054, 0",
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 81
+    }
+  },
+  {
+    "server-tick": 15127,
+    "pos": "1606, 10055, 0",
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 81
+    }
+  },
+  {
+    "server-tick": 15128,
+    "animation": 1658,
+    "pos": "1607, 10056, 0",
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 81
+    },
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 32,
+        "sceneY": 74,
+        "source": "Steel dragon (7255)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15129,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Steel dragon (7255)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15130,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 91
+    },
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 15131,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 91
+    }
+  },
+  {
+    "server-tick": 15132,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15133,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15134,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 91
+    },
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 15135,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 91
+    }
+  },
+  {
+    "server-tick": 15136,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "4195, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15137,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15138,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 91
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 15139,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 91
+    }
+  },
+  {
+    "server-tick": 15140,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15141,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15142,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 91
+    },
+    "sounds": [
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 15143,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 91
+    }
+  },
+  {
+    "server-tick": 15144,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15145,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15146,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 91
+    },
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 15147,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 91
+    }
+  },
+  {
+    "server-tick": 15148,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Steel dragon (7255)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  }
+]

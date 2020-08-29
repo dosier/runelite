@@ -1,0 +1,286 @@
+[
+  {
+    "server-tick": 3082,
+    "pos": "10903, 12398, 0",
+    "interacting": {
+      "npc": "Tz-Kek (3118)"
+    }
+  },
+  {
+    "server-tick": 3083,
+    "animation": 5061,
+    "pos": "10903, 12396, 0",
+    "interacting": {
+      "npc": "Tz-Kek (3118)",
+      "animation": 2626
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3084,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tz-Kek (3118)",
+      "animation": 2626
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 3085,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tz-Kek (3118)",
+      "animation": 2626
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3086,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tz-Kek (3118)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 13"
+      }
+    ]
+  },
+  {
+    "server-tick": 3087,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tz-Kek (3118)",
+      "animation": 2625
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      },
+      {
+        "id, delay": "595, 0"
+      },
+      {
+        "id, delay": "2843, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3088,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tz-Kek (3118)",
+      "animation": 2625
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 3089,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tz-Kek (3118)",
+      "animation": 2626
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3090,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tz-Kek (3118)",
+      "animation": 2626
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 3091,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tz-Kek (3118)",
+      "animation": 2625
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      },
+      {
+        "id, delay": "595, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3092,
+    "sounds": [
+      {
+        "id, delay": "596, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3094,
+    "animation": 430,
+    "interacting": {
+      "npc": "Tz-Kek (3120)",
+      "animation": 2625
+    },
+    "sounds": [
+      {
+        "id, delay": "595, 0"
+      },
+      {
+        "id, delay": "2842, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3095,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tz-Kek (3120)",
+      "animation": 2625
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3096,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tz-Kek (3120)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 3097,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tz-Kek (3120)"
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3098,
+    "sounds": [
+      {
+        "id, delay": "596, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3100,
+    "animation": 430,
+    "interacting": {
+      "npc": "Tz-Kek (3120)",
+      "animation": 2625
+    },
+    "sounds": [
+      {
+        "id, delay": "595, 0"
+      },
+      {
+        "id, delay": "2841, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3101,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tz-Kek (3120)",
+      "animation": 2625
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3102,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tz-Kek (3120)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 3103,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Tz-Kek (3120)"
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3104,
+    "sounds": [
+      {
+        "id, delay": "596, 0"
+      }
+    ]
+  }
+]

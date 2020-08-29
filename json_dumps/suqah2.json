@@ -1,0 +1,296 @@
+[
+  {
+    "server-tick": 529,
+    "animation": 1156
+  },
+  {
+    "server-tick": 530,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Suqah (787)",
+      "animation": 4384
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 531,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Suqah (787)",
+      "animation": 4384
+    },
+    "sounds": [
+      {
+        "id, delay": "817, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 532,
+    "interacting": {
+      "npc": "Suqah (787)"
+    }
+  },
+  {
+    "server-tick": 533,
+    "interacting": {
+      "npc": "Suqah (787)"
+    }
+  },
+  {
+    "server-tick": 534,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Suqah (787)",
+      "animation": 4384
+    },
+    "sounds": [
+      {
+        "id, delay": "815, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 535,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Suqah (787)",
+      "animation": 4384
+    },
+    "sounds": [
+      {
+        "id, delay": "817, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 536,
+    "interacting": {
+      "npc": "Suqah (787)"
+    }
+  },
+  {
+    "server-tick": 537,
+    "interacting": {
+      "npc": "Suqah (787)"
+    }
+  },
+  {
+    "server-tick": 538,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Suqah (787)",
+      "animation": 4384
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 539,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Suqah (787)",
+      "animation": 4384
+    },
+    "sounds": [
+      {
+        "id, delay": "817, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 540,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Suqah (787)",
+      "animation": 4387
+    },
+    "sounds": [
+      {
+        "id, delay": "815, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 541,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Suqah (787)",
+      "animation": 4387
+    }
+  },
+  {
+    "server-tick": 542,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Suqah (787)",
+      "animation": 4384
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 543,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Suqah (787)",
+      "animation": 4384
+    },
+    "sounds": [
+      {
+        "id, delay": "817, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 544,
+    "interacting": {
+      "npc": "Suqah (787)"
+    }
+  },
+  {
+    "server-tick": 545,
+    "interacting": {
+      "npc": "Suqah (787)"
+    }
+  },
+  {
+    "server-tick": 546,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Suqah (787)",
+      "animation": 4384
+    },
+    "sounds": [
+      {
+        "id, delay": "815, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 547,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Suqah (787)",
+      "animation": 4384
+    },
+    "sounds": [
+      {
+        "id, delay": "817, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 548,
+    "interacting": {
+      "npc": "Suqah (787)"
+    }
+  },
+  {
+    "server-tick": 549,
+    "interacting": {
+      "npc": "Suqah (787)"
+    }
+  },
+  {
+    "server-tick": 550,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Suqah (787)",
+      "animation": 4384
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 551,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Suqah (787)",
+      "animation": 4384
+    },
+    "sounds": [
+      {
+        "id, delay": "817, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 552,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Suqah (787)",
+      "animation": 4387
+    },
+    "sounds": [
+      {
+        "id, delay": "815, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 553,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Suqah (787)",
+      "animation": 4387
+    }
+  },
+  {
+    "server-tick": 554,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Suqah (787)",
+      "animation": 4384
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 555,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Suqah (787)",
+      "animation": 4384
+    },
+    "sounds": [
+      {
+        "id, delay": "817, 0"
+      }
+    ]
+  }
+]

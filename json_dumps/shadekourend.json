@@ -1,0 +1,348 @@
+[
+  {
+    "server-tick": 15020,
+    "interacting": {
+      "npc": "Shade (7258)"
+    }
+  },
+  {
+    "server-tick": 15021,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Shade (7258)",
+      "animation": 1283
+    },
+    "sounds": [
+      {
+        "id, delay": "745, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 15022,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Shade (7258)",
+      "animation": 1283
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15023,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Shade (7258)",
+      "animation": 1283
+    },
+    "sounds": [
+      {
+        "id, delay": "747, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15024,
+    "interacting": {
+      "npc": "Shade (7258)"
+    }
+  },
+  {
+    "server-tick": 15025,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Shade (7258)",
+      "animation": 1283
+    },
+    "sounds": [
+      {
+        "id, delay": "745, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 15026,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Shade (7258)",
+      "animation": 1283
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15027,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Shade (7258)"
+    },
+    "sounds": [
+      {
+        "id, delay": "747, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15028,
+    "interacting": {
+      "npc": "Shade (7258)"
+    }
+  },
+  {
+    "server-tick": 15029,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Shade (7258)",
+      "animation": 1283
+    },
+    "sounds": [
+      {
+        "id, delay": "745, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 15030,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Shade (7258)",
+      "animation": 1283
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15031,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Shade (7258)"
+    },
+    "sounds": [
+      {
+        "id, delay": "747, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15032,
+    "interacting": {
+      "npc": "Shade (7258)"
+    }
+  },
+  {
+    "server-tick": 15033,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Shade (7258)",
+      "animation": 1283
+    },
+    "sounds": [
+      {
+        "id, delay": "745, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 15034,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Shade (7258)",
+      "animation": 1283
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15035,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Shade (7258)"
+    },
+    "sounds": [
+      {
+        "id, delay": "747, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15036,
+    "interacting": {
+      "npc": "Shade (7258)"
+    }
+  },
+  {
+    "server-tick": 15037,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Shade (7258)",
+      "animation": 1283
+    },
+    "sounds": [
+      {
+        "id, delay": "745, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 88,
+        "heights": "64, 124",
+        "slope, duration": "16, 39"
+      }
+    ]
+  },
+  {
+    "server-tick": 15038,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Shade (7258)",
+      "animation": 1283
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15039,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Shade (7258)"
+    },
+    "sounds": [
+      {
+        "id, delay": "747, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15040,
+    "interacting": {
+      "npc": "Shade (7258)"
+    }
+  },
+  {
+    "server-tick": 15041,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Shade (7258)",
+      "animation": 1283
+    },
+    "sounds": [
+      {
+        "id, delay": "745, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 15042,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Shade (7258)",
+      "animation": 1283
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15043,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Shade (7258)",
+      "animation": 1283
+    },
+    "sounds": [
+      {
+        "id, delay": "747, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15044,
+    "interacting": {
+      "npc": "Shade (7258)"
+    }
+  },
+  {
+    "server-tick": 15045,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Shade (7258)",
+      "animation": 1283
+    },
+    "sounds": [
+      {
+        "id, delay": "745, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 15046,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Shade (7258)",
+      "animation": 1283
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15047,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Shade (7258)"
+    },
+    "sounds": [
+      {
+        "id, delay": "747, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15048,
+    "sounds": [
+      {
+        "id, delay": "746, 0"
+      }
+    ]
+  }
+]

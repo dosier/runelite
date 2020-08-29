@@ -1,0 +1,224 @@
+[
+  {
+    "server-tick": 1146,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-ImKot (7697)",
+      "animation": 7598
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1147,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-ImKot (7697)",
+      "animation": 7597
+    },
+    "sounds": [
+      {
+        "id, delay": "608, 0"
+      },
+      {
+        "id, delay": "2844, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 1148,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-ImKot (7697)",
+      "animation": 7597
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1149,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-ImKot (7697)"
+    }
+  },
+  {
+    "server-tick": 1150,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-ImKot (7697)",
+      "animation": 7598
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1151,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-ImKot (7697)",
+      "animation": 7597
+    },
+    "sounds": [
+      {
+        "id, delay": "608, 0"
+      },
+      {
+        "id, delay": "2845, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 1152,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-ImKot (7697)",
+      "animation": 7597
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1153,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-ImKot (7697)",
+      "animation": 7597
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 1154,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-ImKot (7697)",
+      "animation": 7598
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1155,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-ImKot (7697)",
+      "animation": 7597
+    },
+    "sounds": [
+      {
+        "id, delay": "608, 0"
+      },
+      {
+        "id, delay": "2842, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 1156,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-ImKot (7697)",
+      "animation": 7597
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1157,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-ImKot (7697)",
+      "animation": 7597
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 9"
+      }
+    ]
+  },
+  {
+    "server-tick": 1158,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-ImKot (7697)"
+    },
+    "sounds": [
+      {
+        "id, delay": "610, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1159,
+    "sounds": [
+      {
+        "id, delay": "609, 0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1032 @@
+SOUND 599	 delay: 0
+PLAYER 'ex rs'	 gfx: 446
+SOUND 2843	 delay: 20
+PLAYER 'ex rs'	 gfx: 446
+PLAYER 'ex rs'	 gfx: 446
+PLAYER 'ex rs'	 gfx: 446
+SOUND 163	 delay: 0
+PLAYER 'ex rs'	 gfx: 157
+PLAYER 'ex rs'	 gfx: 157
+SOUND 520	 delay: 20
+PLAYER 'ex rs'	 gfx: 157
+SOUND 159	 delay: 0
+SOUND 162	 delay: 0
+SOUND 163	 delay: 98
+PLAYER 'ex rs'	 gfx: 157
+PROJECTILE 448	startHeight: 32, endHeight: 124, slope: 16, duration: 98, x: 5824, y: 6464
+PROJECTILE 449	startHeight: 32, endHeight: 124, slope: 16, duration: 102, x: 5824, y: 6464
+PROJECTILE 450	startHeight: 32, endHeight: 124, slope: 16, duration: 108, x: 5824, y: 6464
+PLAYER 'ex rs'	 gfx: 157
+PLAYER 'ex rs'	 gfx: 157
+SOUND 2844	 delay: 20
+PLAYER 'ex rs'	 gfx: 157
+PLAYER 'ex rs'	 gfx: 157
+SOUND 163	 delay: 0
+PLAYER 'ex rs'	 gfx: 157
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+SOUND 521	 delay: 20
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 7488
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6336, y: 7488
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 7488
+SOUND 2677	 delay: 0
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+SOUND 163	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+SOUND 2845	 delay: 20
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 7488
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 7488
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 7488
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+SOUND 163	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 7488
+SOUND 2401	 delay: 0
+SOUND 410	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+SOUND 2841	 delay: 20
+PLAYER 'ex rs'	 gfx: 157
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+SOUND 159	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+SOUND 2675	 delay: 0
+SOUND 162	 delay: 0
+SOUND 163	 delay: 50
+PLAYER 'ex rs'	 gfx: 157
+PROJECTILE 448	startHeight: 32, endHeight: 124, slope: 16, duration: 50, x: 6080, y: 6720
+PROJECTILE 449	startHeight: 32, endHeight: 124, slope: 16, duration: 54, x: 6080, y: 6720
+PROJECTILE 450	startHeight: 32, endHeight: 124, slope: 16, duration: 60, x: 6080, y: 6720
+SOUND 2401	 delay: 0
+SOUND 2844	 delay: 20
+PLAYER 'ex rs'	 animation: 829, gfx: 157
+PLAYER 'ex rs'	 animation: 829, gfx: 157
+PLAYER 'ex rs'	 animation: 829
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+SOUND 159	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+SOUND 162	 delay: 0
+SOUND 163	 delay: 50
+PLAYER 'ex rs'	 gfx: 157
+PROJECTILE 448	startHeight: 32, endHeight: 124, slope: 16, duration: 50, x: 6080, y: 6720
+PROJECTILE 449	startHeight: 32, endHeight: 124, slope: 16, duration: 54, x: 6080, y: 6720
+PROJECTILE 450	startHeight: 32, endHeight: 124, slope: 16, duration: 60, x: 6080, y: 6720
+SOUND 2401	 delay: 0
+SOUND 2844	 delay: 20
+PLAYER 'ex rs'	 animation: 829, gfx: 157
+PLAYER 'ex rs'	 animation: 829, gfx: 157
+PLAYER 'ex rs'	 animation: 829
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+SOUND 159	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+SOUND 2677	 delay: 0
+SOUND 2675	 delay: 0
+SOUND 162	 delay: 0
+SOUND 163	 delay: 50
+PLAYER 'ex rs'	 gfx: 157
+PROJECTILE 448	startHeight: 32, endHeight: 124, slope: 16, duration: 50, x: 6080, y: 6720
+PROJECTILE 449	startHeight: 32, endHeight: 124, slope: 16, duration: 54, x: 6080, y: 6720
+PROJECTILE 450	startHeight: 32, endHeight: 124, slope: 16, duration: 60, x: 6080, y: 6720
+SOUND 2841	 delay: 20
+PLAYER 'ex rs'	 gfx: 157
+PLAYER 'ex rs'	 gfx: 157
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+SOUND 2677	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+SOUND 163	 delay: 0
+PLAYER 'ex rs'	 gfx: 157
+PLAYER 'ex rs'	 gfx: 157
+SOUND 2401	 delay: 0
+SOUND 2845	 delay: 20
+PLAYER 'ex rs'	 animation: 829, gfx: 157
+PLAYER 'ex rs'	 animation: 829
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+SOUND 159	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2656
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 7488
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2656
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2656
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 24, x: 6336, y: 7488
+SOUND 2675	 delay: 0
+SOUND 162	 delay: 0
+SOUND 163	 delay: 50
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656, gfx: 447
+PROJECTILE 448	startHeight: 32, endHeight: 124, slope: 16, duration: 50, x: 6080, y: 6720
+PROJECTILE 449	startHeight: 32, endHeight: 124, slope: 16, duration: 54, x: 6080, y: 6720
+PROJECTILE 450	startHeight: 32, endHeight: 124, slope: 16, duration: 60, x: 6080, y: 6720
+SOUND 2842	 delay: 20
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656, gfx: 447
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6336, y: 7488
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 24, x: 6336, y: 7488
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 7488
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652, gfx: 444
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	gfx: 444
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 7488
+SOUND 2677	 delay: 0
+SOUND 163	 delay: 0
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653, gfx: 444
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653, gfx: 444
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 23, x: 6336, y: 7488
+SOUND 410	 delay: 0
+SOUND 2845	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653, gfx: 444
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653, gfx: 444
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6336, y: 7488
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653, gfx: 444
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652, gfx: 444
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 23, x: 6336, y: 7488
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652, gfx: 444
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	gfx: 444
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 7488
+SOUND 163	 delay: 0
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653, gfx: 444
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653, gfx: 444
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 7488
+SOUND 410	 delay: 0
+SOUND 2845	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653, gfx: 444
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653, gfx: 444
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 23, x: 6336, y: 7488
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653, gfx: 444
+SOUND 159	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2656, gfx: 444
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 23, x: 6336, y: 7488
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2656, gfx: 444
+SOUND 2675	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2656, gfx: 444
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 26, x: 6336, y: 7488
+SOUND 162	 delay: 0
+SOUND 163	 delay: 50
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656, gfx: 444
+PROJECTILE 448	startHeight: 32, endHeight: 124, slope: 16, duration: 50, x: 6080, y: 6720
+PROJECTILE 449	startHeight: 32, endHeight: 124, slope: 16, duration: 54, x: 6080, y: 6720
+PROJECTILE 450	startHeight: 32, endHeight: 124, slope: 16, duration: 60, x: 6080, y: 6720
+SOUND 2844	 delay: 20
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656, gfx: 444
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 7488
+SOUND 410	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2635
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2639
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6336, y: 6976
+SOUND 610	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+SOUND 159	 delay: 0
+SOUND 162	 delay: 0
+SOUND 163	 delay: 66
+PLAYER 'ex rs'	 gfx: 157
+PROJECTILE 448	startHeight: 32, endHeight: 124, slope: 16, duration: 66, x: 6080, y: 6976
+PROJECTILE 449	startHeight: 32, endHeight: 124, slope: 16, duration: 70, x: 6080, y: 6976
+PROJECTILE 450	startHeight: 32, endHeight: 124, slope: 16, duration: 76, x: 6080, y: 6976
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2635
+SOUND 608	 delay: 0
+SOUND 2841	 delay: 20
+SOUND 2841	 delay: 20
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2637
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6720, y: 6976
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2637
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6720, y: 6976
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2635
+SOUND 608	 delay: 0
+SOUND 2843	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2637
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 6720, y: 6976
+SOUND 2677	 delay: 0
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2637
+SOUND 163	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6720, y: 6976
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2635
+SOUND 167	 delay: 0
+SOUND 2841	 delay: 20
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2639, gfx: 444
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 6720, y: 6976
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2639, gfx: 444
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	gfx: 444
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2635, gfx: 444
+SOUND 608	 delay: 0
+SOUND 518	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2637, gfx: 444
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6720, y: 6976
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2637
+SOUND 163	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6720, y: 6976
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2635
+SOUND 608	 delay: 0
+SOUND 2843	 delay: 20
+SOUND 2843	 delay: 20
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2637
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6720, y: 6976
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2637
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 6720, y: 6976
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2635
+SOUND 167	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2639, gfx: 444
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6720, y: 6976
+SOUND 610	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2639, gfx: 444
+SOUND 163	 delay: 0
+SOUND 609	 delay: 0
+PLAYER 'ex rs'	 gfx: 157
+PLAYER 'ex rs'	 gfx: 157
+SOUND 2844	 delay: 20
+PLAYER 'ex rs'	 gfx: 157
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2639
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6976, y: 7104
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2635
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2635
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 6976, y: 7104
+SOUND 610	 delay: 0
+SOUND 608	 delay: 0
+SOUND 2841	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2637
+SOUND 163	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2637
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6976, y: 7104
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2635
+SOUND 2841	 delay: 20
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2635
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6976, y: 7104
+SOUND 610	 delay: 0
+SOUND 608	 delay: 0
+SOUND 2844	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2637
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2637
+SOUND 159	 delay: 0
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2635
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2635
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6976, y: 7104
+SOUND 2675	 delay: 0
+SOUND 610	 delay: 0
+SOUND 608	 delay: 0
+SOUND 2843	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2637
+SOUND 162	 delay: 0
+SOUND 163	 delay: 58
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2637
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6976, y: 7104
+PROJECTILE 448	startHeight: 32, endHeight: 124, slope: 16, duration: 58, x: 6080, y: 6976
+PROJECTILE 449	startHeight: 32, endHeight: 124, slope: 16, duration: 62, x: 6080, y: 6976
+PROJECTILE 450	startHeight: 32, endHeight: 124, slope: 16, duration: 68, x: 6080, y: 6976
+SOUND 610	 delay: 0
+SOUND 2842	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2635
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2635
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6976, y: 7104
+SOUND 610	 delay: 0
+SOUND 167	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2639, gfx: 444
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2639, gfx: 444
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6976, y: 7104
+SOUND 159	 delay: 0
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2635, gfx: 444
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2635, gfx: 444
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6976, y: 7104
+SOUND 610	 delay: 0
+SOUND 608	 delay: 0
+SOUND 2843	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2637, gfx: 444
+SOUND 162	 delay: 0
+SOUND 163	 delay: 58
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2637
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6976, y: 7104
+PROJECTILE 448	startHeight: 32, endHeight: 124, slope: 16, duration: 58, x: 6080, y: 6976
+PROJECTILE 449	startHeight: 32, endHeight: 124, slope: 16, duration: 62, x: 6080, y: 6976
+PROJECTILE 450	startHeight: 32, endHeight: 124, slope: 16, duration: 68, x: 6080, y: 6976
+SOUND 610	 delay: 0
+SOUND 2842	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2635
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2635
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 6976, y: 7104
+SOUND 610	 delay: 0
+SOUND 608	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2637
+SOUND 609	 delay: 0
+SOUND 2677	 delay: 0
+SOUND 163	 delay: 0
+PLAYER 'ex rs'	 gfx: 157
+PLAYER 'ex rs'	 gfx: 157
+SOUND 2842	 delay: 20
+PLAYER 'ex rs'	 gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2639
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2635
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2635
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 29, x: 6464, y: 6592
+SOUND 610	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+SOUND 163	 delay: 0
+PLAYER 'ex rs'	 gfx: 157
+SOUND 608	 delay: 0
+SOUND 2843	 delay: 20
+PLAYER 'ex rs'	 animation: 430, gfx: 157
+SOUND 2845	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2637
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 6336, y: 5952
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2635
+SOUND 608	 delay: 0
+SOUND 2843	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2637
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6336, y: 5952
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2637
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 6336, y: 5952
+SOUND 163	 delay: 0
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2635
+SOUND 608	 delay: 0
+SOUND 2842	 delay: 20
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2637
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6336, y: 5952
+SOUND 610	 delay: 0
+SOUND 2844	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2637
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 6336, y: 5952
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2635
+SOUND 608	 delay: 0
+SOUND 519	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2637
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 6336, y: 5952
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2637
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6336, y: 5952
+SOUND 163	 delay: 0
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2635
+SOUND 608	 delay: 0
+SOUND 520	 delay: 20
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2637
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 6336, y: 5952
+SOUND 610	 delay: 0
+SOUND 2843	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2637
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 6336, y: 5952
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2635
+SOUND 167	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2639, gfx: 444
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6336, y: 5952
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	animation: 2639, gfx: 444
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Yt-HurKot (3128)'	gfx: 444
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 6336, y: 5952
+SOUND 163	 delay: 0
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2635, gfx: 444
+SOUND 608	 delay: 0
+SOUND 2844	 delay: 20
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2637, gfx: 444
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 6336, y: 5952
+SOUND 610	 delay: 0
+SOUND 2842	 delay: 20
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'Yt-HurKot (3128)'	animation: 2637
+SOUND 609	 delay: 0
+SOUND 163	 delay: 0
+PLAYER 'ex rs'	 gfx: 157
+PLAYER 'ex rs'	 gfx: 157
+SOUND 2401	 delay: 0
+SOUND 2842	 delay: 20
+PLAYER 'ex rs'	 animation: 829, gfx: 157
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+PLAYER 'ex rs'	 animation: 829
+SOUND 163	 delay: 0
+PLAYER 'ex rs'	 gfx: 157
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829, gfx: 157
+SOUND 2845	 delay: 20
+PLAYER 'ex rs'	 animation: 829, gfx: 157
+PLAYER 'ex rs'	 animation: 829
+SOUND 163	 delay: 0
+PLAYER 'ex rs'	 gfx: 157
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 829, gfx: 157
+SOUND 2843	 delay: 20
+PLAYER 'ex rs'	 animation: 829, gfx: 157
+PLAYER 'ex rs'	 animation: 829
+SOUND 159	 delay: 0
+SOUND 2675	 delay: 0
+SOUND 162	 delay: 0
+SOUND 163	 delay: 66
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656, gfx: 447
+PROJECTILE 448	startHeight: 32, endHeight: 124, slope: 16, duration: 66, x: 6080, y: 6976
+PROJECTILE 449	startHeight: 32, endHeight: 124, slope: 16, duration: 70, x: 6080, y: 6976
+PROJECTILE 450	startHeight: 32, endHeight: 124, slope: 16, duration: 76, x: 6080, y: 6976
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656, gfx: 447
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2844	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+SOUND 2685	 delay: 0
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+SOUND 159	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2656
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2656
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2656
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+SOUND 162	 delay: 0
+SOUND 163	 delay: 50
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656, gfx: 447
+PROJECTILE 448	startHeight: 32, endHeight: 124, slope: 16, duration: 50, x: 6080, y: 6976
+PROJECTILE 449	startHeight: 32, endHeight: 124, slope: 16, duration: 54, x: 6080, y: 6976
+PROJECTILE 450	startHeight: 32, endHeight: 124, slope: 16, duration: 60, x: 6080, y: 6976
+SOUND 2843	 delay: 20
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656, gfx: 447
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+SOUND 159	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2656
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2656
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2656
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+SOUND 162	 delay: 0
+SOUND 163	 delay: 50
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656, gfx: 447
+PROJECTILE 448	startHeight: 32, endHeight: 124, slope: 16, duration: 50, x: 6080, y: 6976
+PROJECTILE 449	startHeight: 32, endHeight: 124, slope: 16, duration: 54, x: 6080, y: 6976
+PROJECTILE 450	startHeight: 32, endHeight: 124, slope: 16, duration: 60, x: 6080, y: 6976
+SOUND 2841	 delay: 20
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656, gfx: 447
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652
+SOUND 2677	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6336, y: 6208
+SOUND 163	 delay: 0
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2843	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 23, x: 6336, y: 6208
+SOUND 163	 delay: 0
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2843	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6336, y: 6208
+SOUND 163	 delay: 0
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 23, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2842	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 23, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+SOUND 163	 delay: 0
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+SOUND 410	 delay: 0
+SOUND 2844	 delay: 20
+SOUND 2696	 delay: 0
+SOUND 800	 delay: 32
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PROJECTILE 1043	startHeight: 105, endHeight: 144, slope: 15, duration: 30, x: 6336, y: 6208
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+SOUND 410	 delay: 0
+SOUND 159	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2656
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2656
+SOUND 2675	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2656
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6336, y: 6208
+SOUND 162	 delay: 0
+SOUND 163	 delay: 50
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656, gfx: 447
+PROJECTILE 448	startHeight: 32, endHeight: 124, slope: 16, duration: 50, x: 6080, y: 6976
+PROJECTILE 449	startHeight: 32, endHeight: 124, slope: 16, duration: 54, x: 6080, y: 6976
+PROJECTILE 450	startHeight: 32, endHeight: 124, slope: 16, duration: 60, x: 6080, y: 6976
+SOUND 2843	 delay: 20
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656, gfx: 447
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656
+SOUND 2401	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+SOUND 410	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+SOUND 2677	 delay: 0
+SOUND 163	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+SOUND 2844	 delay: 20
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PLAYER 'ex rs'	 animation: 5061
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+SOUND 800	 delay: 32
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+SOUND 163	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PROJECTILE 1043	startHeight: 105, endHeight: 144, slope: 15, duration: 30, x: 6336, y: 6208
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+SOUND 410	 delay: 0
+SOUND 2841	 delay: 20
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2652
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 23, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+SOUND 163	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+SOUND 2844	 delay: 20
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PLAYER 'ex rs'	 animation: 5061
+SOUND 410	 delay: 0
+SOUND 159	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2656
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2656
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2656
+SOUND 2675	 delay: 0
+SOUND 162	 delay: 0
+SOUND 163	 delay: 50
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656, gfx: 447
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+PROJECTILE 448	startHeight: 32, endHeight: 124, slope: 16, duration: 50, x: 6080, y: 6976
+PROJECTILE 449	startHeight: 32, endHeight: 124, slope: 16, duration: 54, x: 6080, y: 6976
+PROJECTILE 450	startHeight: 32, endHeight: 124, slope: 16, duration: 60, x: 6080, y: 6976
+SOUND 410	 delay: 0
+SOUND 2843	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656, gfx: 447
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 22, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PLAYER 'ex rs'	 animation: 5061
+NPC 'TzTok-Jad (3127)'	animation: 2653
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 21, x: 6336, y: 6208
+SOUND 410	 delay: 0
+SOUND 159	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+SOUND 162	 delay: 0
+SOUND 163	 delay: 42
+PLAYER 'ex rs'	 gfx: 157
+PROJECTILE 448	startHeight: 32, endHeight: 124, slope: 16, duration: 42, x: 6080, y: 6976
+PROJECTILE 449	startHeight: 32, endHeight: 124, slope: 16, duration: 46, x: 6080, y: 6976
+PROJECTILE 450	startHeight: 32, endHeight: 124, slope: 16, duration: 52, x: 6080, y: 6976
+SOUND 2841	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656, gfx: 447
+PLAYER 'ex rs'	 animation: 5061, gfx: 157
+NPC 'TzTok-Jad (3127)'	animation: 2656
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 17, x: 6720, y: 6976
+SOUND 410	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+SOUND 409	 delay: 0
+PLAYER 'ex rs'	 animation: 862
+PLAYER 'ex rs'	 animation: 862
+PLAYER 'ex rs'	 animation: 862
+PLAYER 'ex rs'	 animation: 862
+PLAYER 'ex rs'	 animation: 862

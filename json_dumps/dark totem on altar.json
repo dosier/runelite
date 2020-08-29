@@ -1,0 +1,34 @@
+[
+  {
+    "server-tick": 16010,
+    "pos": "1664, 10049, 0"
+  },
+  {
+    "server-tick": 16012,
+    "animation": 3865,
+    "gfx": 1296
+  },
+  {
+    "server-tick": 16013,
+    "animation": 3865,
+    "gfx": 1296
+  },
+  {
+    "server-tick": 16014,
+    "animation": 3865,
+    "gfx": 1296
+  },
+  {
+    "server-tick": 16015,
+    "animation": 3865
+  },
+  {
+    "server-tick": 16016,
+    "animation": 3865
+  },
+  {
+    "server-tick": 16017,
+    "animation": 3865,
+    "pos": "8034, 1433, 0"
+  }
+]

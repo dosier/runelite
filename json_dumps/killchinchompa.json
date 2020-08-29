@@ -1,0 +1,70 @@
+[
+  {
+    "server-tick": 1136,
+    "pos": "2317, 3608, 0",
+    "interacting": {
+      "npc": "Chinchompa (2910)"
+    }
+  },
+  {
+    "server-tick": 1137,
+    "pos": "2319, 3608, 0",
+    "interacting": {
+      "npc": "Chinchompa (2910)"
+    }
+  },
+  {
+    "server-tick": 1138,
+    "animation": 1658,
+    "pos": "2321, 3608, 0",
+    "interacting": {
+      "npc": "Chinchompa (2910)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1139,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Chinchompa (2910)"
+    },
+    "sounds": [
+      {
+        "id, delay": "361, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1140,
+    "pos": "2319, 3606, 0",
+    "sounds": [
+      {
+        "id, delay": "361, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1141,
+    "pos": "2318, 3605, 0"
+  },
+  {
+    "server-tick": 1142,
+    "sounds": [
+      {
+        "id, delay": "360, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 1144,
+    "sounds": [
+      {
+        "id, delay": "3424, 0"
+      }
+    ]
+  }
+]

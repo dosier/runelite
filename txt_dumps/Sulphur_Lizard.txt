@@ -1,0 +1,22 @@
+NPCID:8614, NPC Animation: ID:8284, Delay:0
+NPCID:8614, NPC Graphic: ID:65535, Height:0, Delay:0
+Sound ID:606, TIMES:1, DELAY:0
+Player Animation: ID:7045, Delay:0
+NPCID:8614, NPC Graphic: ID:65535, Height:0, Delay:0
+Sound ID:3847, TIMES:1, DELAY:0
+Sound ID:607, TIMES:1, DELAY:0
+Player Animation: ID:7056, Delay:30
+NPCID:8614, NPC Animation: ID:8283, Delay:0
+Sound ID:605, TIMES:1, DELAY:0
+Sound ID:2365, TIMES:1, DELAY:20
+Player Animation: ID:7045, Delay:0
+NPCID:8614, NPC Graphic: ID:65535, Height:0, Delay:0
+Sound ID:3847, TIMES:1, DELAY:0
+Player Animation: ID:7056, Delay:30
+NPCID:8614, NPC Animation: ID:8283, Delay:0
+Sound ID:607, TIMES:1, DELAY:0
+Sound ID:605, TIMES:1, DELAY:0
+NPCID:8614, NPC Animation: ID:8284, Delay:0
+NPCID:8614, NPC Graphic: ID:65535, Height:0, Delay:0
+Sound ID:606, TIMES:1, DELAY:0
+NPCID:8614, NPC Animation: ID:-1, Delay:0

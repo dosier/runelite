@@ -1,0 +1,374 @@
+[
+  {
+    "server-tick": 42,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    },
+    "sounds": [
+      {
+        "id, delay": "3330, 0"
+      },
+      {
+        "id, delay": "3326, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 43,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    }
+  },
+  {
+    "server-tick": 44,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    }
+  },
+  {
+    "server-tick": 45,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5626
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 46,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    },
+    "sounds": [
+      {
+        "id, delay": "3330, 0"
+      },
+      {
+        "id, delay": "3326, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 47,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    }
+  },
+  {
+    "server-tick": 48,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    }
+  },
+  {
+    "server-tick": 49,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5626
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 50,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    },
+    "sounds": [
+      {
+        "id, delay": "3330, 0"
+      },
+      {
+        "id, delay": "3326, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 51,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    }
+  },
+  {
+    "server-tick": 52,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    }
+  },
+  {
+    "server-tick": 53,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5626
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 54,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    },
+    "sounds": [
+      {
+        "id, delay": "3330, 0"
+      },
+      {
+        "id, delay": "3326, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 55,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    }
+  },
+  {
+    "server-tick": 56,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    }
+  },
+  {
+    "server-tick": 57,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5626
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 58,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    },
+    "sounds": [
+      {
+        "id, delay": "3330, 0"
+      },
+      {
+        "id, delay": "3326, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 59,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    }
+  },
+  {
+    "server-tick": 60,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    }
+  },
+  {
+    "server-tick": 61,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5626
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 62,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    },
+    "sounds": [
+      {
+        "id, delay": "3330, 0"
+      },
+      {
+        "id, delay": "3326, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 63,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    }
+  },
+  {
+    "server-tick": 64,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    }
+  },
+  {
+    "server-tick": 65,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5626
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 66,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    },
+    "sounds": [
+      {
+        "id, delay": "3330, 0"
+      },
+      {
+        "id, delay": "3326, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 67,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    }
+  },
+  {
+    "server-tick": 68,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    }
+  },
+  {
+    "server-tick": 69,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5626
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 70,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Terror dog (6473)",
+      "animation": 5625
+    },
+    "sounds": [
+      {
+        "id, delay": "3330, 0"
+      },
+      {
+        "id, delay": "3326, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 71,
+    "sounds": [
+      {
+        "id, delay": "3328, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 76,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "3326, 0"
+      },
+      {
+        "id, delay": "3326, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 77,
+    "animation": 1156
+  },
+  {
+    "server-tick": 78,
+    "animation": 1156
+  }
+]

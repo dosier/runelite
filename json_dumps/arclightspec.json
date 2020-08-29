@@ -1,0 +1,117 @@
+[
+  {
+    "server-tick": 3162,
+    "animation": 2890,
+    "gfx": 483,
+    "pos": "3101, 3508, 0",
+    "interacting": {
+      "npc": "Man (3108)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "225, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3163,
+    "animation": 2890,
+    "gfx": 483,
+    "interacting": {
+      "npc": "Man (3108)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "513, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3164,
+    "animation": 2890,
+    "gfx": 483,
+    "interacting": {
+      "npc": "Man (3108)",
+      "animation": 425
+    }
+  },
+  {
+    "server-tick": 3165,
+    "animation": 1156,
+    "gfx": 483,
+    "interacting": {
+      "npc": "Man (3108)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "2566, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3166,
+    "animation": 390,
+    "interacting": {
+      "npc": "Man (3108)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3167,
+    "animation": 390,
+    "interacting": {
+      "npc": "Man (3108)"
+    },
+    "sounds": [
+      {
+        "id, delay": "513, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3168,
+    "interacting": {
+      "npc": "Man (3108)"
+    }
+  },
+  {
+    "server-tick": 3169,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Man (3108)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "2566, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3170,
+    "animation": 390,
+    "interacting": {
+      "npc": "Man (3108)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  }
+]

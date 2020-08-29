@@ -1,0 +1,103 @@
+[
+  {
+    "server-tick": 4942,
+    "animation": 5061,
+    "gfx": 446,
+    "interacting": {
+      "npc": "Ket-Zek (3125)",
+      "animation": 2647
+    },
+    "sounds": [
+      {
+        "id, delay": "600, 0"
+      },
+      {
+        "id, delay": "2842, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4943,
+    "animation": 5061,
+    "gfx": 446,
+    "interacting": {
+      "npc": "Ket-Zek (3125)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 27"
+      }
+    ]
+  },
+  {
+    "server-tick": 4944,
+    "animation": 5061,
+    "gfx": 446,
+    "interacting": {
+      "npc": "Ket-Zek (3125)",
+      "animation": 2647
+    },
+    "sounds": [
+      {
+        "id, delay": "600, 0"
+      },
+      {
+        "id, delay": "598, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4945,
+    "animation": 5061,
+    "gfx": 446,
+    "interacting": {
+      "npc": "Ket-Zek (3125)",
+      "animation": 2647
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 28"
+      }
+    ]
+  },
+  {
+    "server-tick": 4946,
+    "animation": 5061,
+    "gfx": 446,
+    "interacting": {
+      "npc": "Ket-Zek (3125)",
+      "animation": 2647
+    },
+    "sounds": [
+      {
+        "id, delay": "600, 0"
+      },
+      {
+        "id, delay": "2842, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4947,
+    "gfx": 446,
+    "sounds": [
+      {
+        "id, delay": "599, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4948,
+    "gfx": 446
+  }
+]

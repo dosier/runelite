@@ -1,0 +1,87 @@
+PLAYER 'ex rs'	 animation: 430
+SOUND 2843	 delay: 20
+PLAYER 'ex rs'	 animation: 430
+PROJECTILE 1377	startHeight: 0, endHeight: 124, slope: 16, duration: 20, x: 6080, y: 6720
+PROJECTILE 1377	startHeight: 0, endHeight: 124, slope: 16, duration: 20, x: 5824, y: 6464
+PLAYER 'ex rs'	 animation: 430
+SOUND 598	 delay: 50
+PLAYER 'ex rs'	 animation: 430
+PLAYER 'ex rs'	 animation: 430
+SOUND 2842	 delay: 20
+PLAYER 'ex rs'	 animation: 430
+SOUND 598	 delay: 50
+PLAYER 'ex rs'	 animation: 430
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Xil (7698)'	animation: 7605
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Xil (7698)'	animation: 7605
+PROJECTILE 1377	startHeight: 0, endHeight: 124, slope: 16, duration: 35, x: 6080, y: 6720
+PROJECTILE 1377	startHeight: 0, endHeight: 124, slope: 16, duration: 35, x: 5824, y: 6464
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 28, x: 5952, y: 5952
+SOUND 600	 delay: 0
+SOUND 2845	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Xil (7698)'	animation: 7607
+SOUND 598	 delay: 50
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Xil (7698)'	animation: 7605
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 29, x: 5952, y: 5952
+SOUND 600	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Xil (7698)'	animation: 7605
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Xil (7698)'	animation: 7605
+SOUND 600	 delay: 0
+SOUND 2843	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+SOUND 598	 delay: 50
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Xil (7698)'	animation: 7605
+SOUND 600	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Xil (7698)'	animation: 7605
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Xil (7698)'	animation: 7605
+PROJECTILE 1377	startHeight: 0, endHeight: 124, slope: 16, duration: 38, x: 6080, y: 6720
+PROJECTILE 1377	startHeight: 0, endHeight: 124, slope: 16, duration: 38, x: 5824, y: 6464
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 26, x: 5952, y: 5952
+SOUND 600	 delay: 0
+SOUND 2842	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Xil (7698)'	animation: 7605
+SOUND 598	 delay: 50
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Xil (7698)'	animation: 7605
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 28, x: 5952, y: 5952
+SOUND 600	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Xil (7698)'	animation: 7605
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Xil (7698)'	animation: 7605
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 26, x: 5952, y: 5952
+SOUND 600	 delay: 0
+SOUND 2841	 delay: 20
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Xil (7698)'	animation: 7607
+SOUND 598	 delay: 50
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Xil (7698)'	animation: 7605
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 27, x: 5952, y: 5952
+SOUND 600	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Xil (7698)'	animation: 7605
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-Xil (7698)'	animation: 7605
+SOUND 600	 delay: 0
+SOUND 2845	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+SOUND 599	 delay: 0

@@ -1,0 +1,46 @@
+SOUND 867	 delay: 0
+SOUND 2958	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+PLAYER 'ex rs'	 animation: 1156
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Mountain troll (936)'	animation: 285
+SOUND 868	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Mountain troll (936)'	animation: 285
+SOUND 867	 delay: 0
+SOUND 2961	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Mountain troll (936)'	animation: 284
+SOUND 868	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Mountain troll (936)'	animation: 284
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Mountain troll (936)'	animation: 285
+SOUND 868	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Mountain troll (936)'	animation: 285
+SOUND 867	 delay: 0
+SOUND 2962	 delay: 20
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Mountain troll (936)'	animation: 284
+PLAYER 'ex rs'	 animation: 1156
+NPC 'Mountain troll (936)'	animation: 284
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Mountain troll (936)'	animation: 285
+SOUND 868	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Mountain troll (936)'	animation: 285
+SOUND 867	 delay: 0
+SOUND 2960	 delay: 20
+SOUND 2720	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Mountain troll (936)'	animation: 284
+SOUND 868	 delay: 0
+PLAYER 'ex rs'	 animation: 1658
+NPC 'Mountain troll (936)'	animation: 284
+SOUND 866	 delay: 0

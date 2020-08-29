@@ -1,0 +1,759 @@
+[
+  {
+    "server-tick": 20456,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2042)",
+      "animation": 5808
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20457,
+    "animation": 5061,
+    "pos": "11494, 5469, 0"
+  },
+  {
+    "server-tick": 20458,
+    "animation": 5061,
+    "pos": "11496, 5470, 0",
+    "sounds": [
+      {
+        "id, delay": "796, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20459,
+    "pos": "11496, 5472, 0",
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20460,
+    "pos": "11496, 5474, 0"
+  },
+  {
+    "server-tick": 20461,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2042)",
+      "animation": 5069
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20462,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2042)",
+      "animation": 5069
+    },
+    "projectiles": [
+      {
+        "id": 1045,
+        "heights": "0, 20",
+        "slope, duration": "0, 60"
+      },
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 20463,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2042)"
+    },
+    "sounds": [
+      {
+        "id, delay": "796, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20464,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2042)",
+      "animation": 5069
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 20465,
+    "animation": 5061,
+    "pos": "11496, 5476, 0",
+    "sounds": [
+      {
+        "id, delay": "796, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1045,
+        "heights": "0, 20",
+        "slope, duration": "0, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 20466,
+    "pos": "11496, 5477, 0"
+  },
+  {
+    "server-tick": 20467,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2042)",
+      "animation": 5069
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20468,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2042)",
+      "animation": 5069
+    },
+    "projectiles": [
+      {
+        "id": 1045,
+        "heights": "0, 20",
+        "slope, duration": "0, 62"
+      },
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 14"
+      }
+    ]
+  },
+  {
+    "server-tick": 20469,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2042)",
+      "animation": 5069
+    },
+    "sounds": [
+      {
+        "id, delay": "796, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20470,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2042)",
+      "animation": 5069
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 20471,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2042)",
+      "animation": 5069
+    },
+    "sounds": [
+      {
+        "id, delay": "796, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1045,
+        "heights": "0, 20",
+        "slope, duration": "0, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 20472,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2042)",
+      "animation": 5069
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 13"
+      }
+    ]
+  },
+  {
+    "server-tick": 20473,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2042)",
+      "animation": 5808
+    },
+    "sounds": [
+      {
+        "id, delay": "796, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20474,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2042)",
+      "animation": 5072
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 20475,
+    "animation": 5061
+  },
+  {
+    "server-tick": 20480,
+    "sounds": [
+      {
+        "id, delay": "2676, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20481,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2043)",
+      "animation": 5807
+    },
+    "sounds": [
+      {
+        "id, delay": "796, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20482,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2043)",
+      "animation": 5807
+    }
+  },
+  {
+    "server-tick": 20483,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2043)",
+      "animation": 5807
+    },
+    "sounds": [
+      {
+        "id, delay": "796, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20484,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2043)",
+      "animation": 5807
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 20485,
+    "animation": 1157,
+    "gfx": 245,
+    "pos": "11498, 5477, 0",
+    "sounds": [
+      {
+        "id, delay": "796, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      },
+      {
+        "id, delay": "2727, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20486,
+    "animation": 1157,
+    "gfx": 245
+  },
+  {
+    "server-tick": 20487,
+    "animation": 1157,
+    "gfx": 245
+  },
+  {
+    "server-tick": 20488,
+    "animation": 1157,
+    "gfx": 245
+  },
+  {
+    "server-tick": 20489,
+    "gfx": 245
+  },
+  {
+    "server-tick": 20490,
+    "gfx": 245
+  },
+  {
+    "server-tick": 20491,
+    "gfx": 245,
+    "interacting": {
+      "npc": "Zulrah (2043)",
+      "animation": 5806
+    }
+  },
+  {
+    "server-tick": 20492,
+    "animation": 5061,
+    "gfx": 245,
+    "interacting": {
+      "npc": "Zulrah (2043)",
+      "animation": 5806
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20493,
+    "animation": 5061,
+    "gfx": 245,
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      },
+      {
+        "id, delay": "2727, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 20494,
+    "animation": 5061,
+    "gfx": 245,
+    "sounds": [
+      {
+        "id, delay": "796, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20495,
+    "gfx": 245
+  },
+  {
+    "server-tick": 20496,
+    "gfx": 245
+  },
+  {
+    "server-tick": 20497,
+    "gfx": 245
+  },
+  {
+    "server-tick": 20498,
+    "gfx": 245
+  },
+  {
+    "server-tick": 20499,
+    "gfx": 245
+  },
+  {
+    "server-tick": 20500,
+    "gfx": 245
+  },
+  {
+    "server-tick": 20502,
+    "sounds": [
+      {
+        "id, delay": "163, 90"
+      }
+    ]
+  },
+  {
+    "server-tick": 20503,
+    "sounds": [
+      {
+        "id, delay": "2677, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1046,
+        "heights": "0, 48",
+        "slope, duration": "0, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 20505,
+    "interacting": {
+      "npc": "Zulrah (2044)",
+      "animation": 5069
+    },
+    "sounds": [
+      {
+        "id, delay": "214, 90"
+      },
+      {
+        "id, delay": "2359, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 20506,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2044)",
+      "animation": 5069
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1044,
+        "heights": "0, 48",
+        "slope, duration": "0, 59"
+      }
+    ]
+  },
+  {
+    "server-tick": 20507,
+    "animation": 5061,
+    "pos": "11497, 5475, 0"
+  },
+  {
+    "server-tick": 20508,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2044)",
+      "animation": 5069
+    },
+    "sounds": [
+      {
+        "id, delay": "796, 0"
+      },
+      {
+        "id, delay": "214, 90"
+      },
+      {
+        "id, delay": "2358, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20509,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2044)",
+      "animation": 5069
+    },
+    "projectiles": [
+      {
+        "id": 1044,
+        "heights": "0, 48",
+        "slope, duration": "0, 60"
+      },
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 17"
+      }
+    ]
+  },
+  {
+    "server-tick": 20510,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2044)"
+    },
+    "sounds": [
+      {
+        "id, delay": "796, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20511,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2044)",
+      "animation": 5069
+    },
+    "sounds": [
+      {
+        "id, delay": "163, 90"
+      },
+      {
+        "id, delay": "2364, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 17"
+      }
+    ]
+  },
+  {
+    "server-tick": 20512,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2044)",
+      "animation": 5069
+    },
+    "sounds": [
+      {
+        "id, delay": "796, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1046,
+        "heights": "0, 48",
+        "slope, duration": "0, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 20513,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2044)"
+    }
+  },
+  {
+    "server-tick": 20514,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Zulrah (2044)",
+      "animation": 5072
+    },
+    "sounds": [
+      {
+        "id, delay": "2364, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 20519,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20520,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "796, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20521,
+    "animation": 829,
+    "projectiles": [
+      {
+        "id": 1045,
+        "heights": "0, 20",
+        "slope, duration": "0, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 20524,
+    "projectiles": [
+      {
+        "id": 1045,
+        "heights": "0, 20",
+        "slope, duration": "0, 60"
+      }
+    ]
+  },
+  {
+    "server-tick": 20525,
+    "pos": "11496, 5477, 0"
+  },
+  {
+    "server-tick": 20527,
+    "projectiles": [
+      {
+        "id": 1045,
+        "heights": "0, 20",
+        "slope, duration": "0, 57"
+      },
+      {
+        "id": 1045,
+        "heights": "0, 20",
+        "slope, duration": "10, 87"
+      }
+    ]
+  },
+  {
+    "server-tick": 20530,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20531,
+    "animation": 829,
+    "projectiles": [
+      {
+        "id": 1047,
+        "heights": "0, 20",
+        "slope, duration": "0, 90"
+      }
+    ]
+  },
+  {
+    "server-tick": 20532,
+    "animation": 829
+  },
+  {
+    "server-tick": 20534,
+    "projectiles": [
+      {
+        "id": 1047,
+        "heights": "0, 20",
+        "slope, duration": "0, 91"
+      }
+    ]
+  },
+  {
+    "server-tick": 20535,
+    "pos": "11496, 5476, 0"
+  },
+  {
+    "server-tick": 20537,
+    "projectiles": [
+      {
+        "id": 1047,
+        "heights": "0, 20",
+        "slope, duration": "0, 87"
+      }
+    ]
+  },
+  {
+    "server-tick": 20539,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20540,
+    "animation": 829,
+    "projectiles": [
+      {
+        "id": 1047,
+        "heights": "0, 20",
+        "slope, duration": "0, 90"
+      }
+    ]
+  },
+  {
+    "server-tick": 20541,
+    "animation": 829
+  }
+]

@@ -1,0 +1,179 @@
+Climbing over rock:
+Music ID:461
+Player Animation: ID:839, Delay:0
+Sound ID:2454, TIMES:3, DELAY:4
+Player Animation: ID:-1, Delay:0
+"You climb over the ice."
+
+
+Projectile: endHeight: 31, -delay + lifetime-: 80, gfx: 1470, startHeight: 35, to: -1249, angle: 14, steepness: 128,delay: 30, toTilez: -1, totilex: -2, X: 46, Y: 64
+Sound ID:587, TIMES:1, DELAY:0
+Sound ID:3750, TIMES:1, DELAY:15
+Sound ID:129, TIMES:1, DELAY:80
+Sound ID:509, TIMES:1, DELAY:20
+Projectile: endHeight: 31, -delay + lifetime-: 100, gfx: 1479, startHeight: 35, to: -1249, angle: 14, steepness: 128,delay: 30, toTilez: 0, totilex: -6, X: 46, Y: 65
+Sound ID:408, TIMES:1, DELAY:10
+Sound ID:222, TIMES:1, DELAY:20
+Sound ID:223, TIMES:1, DELAY:100
+Sound ID:2393, TIMES:1, DELAY:0
+Sound ID:2360, TIMES:1, DELAY:20
+Sound ID:2393, TIMES:1, DELAY:0
+Projectile: endHeight: 31, -delay + lifetime-: 95, gfx: 1471, startHeight: 35, to: -1249, angle: 14, steepness: 128,delay: 30, toTilez: 2, totilex: -5, X: 46, Y: 67
+Sound ID:284, TIMES:1, DELAY:0
+Sound ID:3750, TIMES:1, DELAY:15
+Sound ID:135, TIMES:1, DELAY:95
+Sound ID:509, TIMES:1, DELAY:20
+Sound ID:2393, TIMES:1, DELAY:0
+Projectile: endHeight: 31, -delay + lifetime-: 95, gfx: 1470, startHeight: 35, to: -1249, angle: 14, steepness: 128,delay: 30, toTilez: 5, totilex: -3, X: 46, Y: 67
+Sound ID:587, TIMES:1, DELAY:0
+Sound ID:3750, TIMES:1, DELAY:15
+Sound ID:129, TIMES:1, DELAY:95
+Sound ID:510, TIMES:1, DELAY:20
+Projectile: endHeight: 31, -delay + lifetime-: 100, gfx: 1479, startHeight: 35, to: -1249, angle: 14, steepness: 128,delay: 30, toTilez: 6, totilex: 1, X: 49, Y: 67
+Sound ID:408, TIMES:1, DELAY:10
+Sound ID:222, TIMES:1, DELAY:20
+Sound ID:223, TIMES:1, DELAY:100
+Sound ID:2393, TIMES:1, DELAY:0
+Sound ID:2675, TIMES:1, DELAY:0
+Sound ID:2670, TIMES:1, DELAY:0
+Sound ID:510, TIMES:1, DELAY:20
+Projectile: endHeight: 31, -delay + lifetime-: 85, gfx: 1477, startHeight: 35, to: -1249, angle: 14, steepness: 128,delay: 30, toTilez: 1, totilex: 3, X: 50, Y: 66
+Sound ID:408, TIMES:1, DELAY:10
+Sound ID:1965, TIMES:1, DELAY:20
+Sound ID:3403, TIMES:1, DELAY:85
+Sound ID:2393, TIMES:1, DELAY:0
+Sound ID:509, TIMES:1, DELAY:20
+Projectile: endHeight: 31, -delay + lifetime-: 100, gfx: 395, startHeight: 35, to: -1249, angle: 14, steepness: 128,delay: 30, toTilez: -3, totilex: 6, X: 50, Y: 63
+Sound ID:586, TIMES:1, DELAY:0
+Sound ID:3750, TIMES:1, DELAY:15
+Sound ID:168, TIMES:1, DELAY:100
+Projectile: endHeight: 0, -delay + lifetime-: 120, gfx: 1484, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 3, totilex: 3, X: 50, Y: 63
+Sound ID:1784, TIMES:1, DELAY:28
+Sound ID:2393, TIMES:1, DELAY:0
+Projectile: endHeight: 36, -delay + lifetime-: 81, gfx: 27, startHeight: 38, to: 23130, angle: 5, steepness: 11,delay: 41, toTilez: 7, totilex: 0, X: 52, Y: 58
+Sound ID:154, TIMES:1, DELAY:0
+Sound ID:2695, TIMES:1, DELAY:0
+Sound ID:154, TIMES:1, DELAY:0
+Sound ID:154, TIMES:1, DELAY:0
+Sound ID:231, TIMES:1, DELAY:0
+Sound ID:154, TIMES:1, DELAY:0
+Sound ID:154, TIMES:1, DELAY:0
+Sound ID:154, TIMES:1, DELAY:0
+Sound ID:232, TIMES:1, DELAY:0
+Sound ID:208, TIMES:1, DELAY:22
+Sound ID:1519, TIMES:1, DELAY:20
+Sound ID:510, TIMES:1, DELAY:20
+Projectile: endHeight: 9, -delay + lifetime-: 120, gfx: 1481, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 0, toTilez: -5, totilex: 2, X: 50, Y: 63
+Sound ID:2393, TIMES:1, DELAY:0
+Projectile: endHeight: 31, -delay + lifetime-: 95, gfx: 1477, startHeight: 35, to: -1249, angle: 14, steepness: 128,delay: 30, toTilez: -5, totilex: 0, X: 48, Y: 63
+Sound ID:408, TIMES:1, DELAY:10
+Sound ID:1965, TIMES:1, DELAY:20
+Sound ID:3403, TIMES:1, DELAY:95
+Sound ID:2364, TIMES:1, DELAY:20
+Projectile: endHeight: 31, -delay + lifetime-: 90, gfx: 1479, startHeight: 35, to: -1249, angle: 14, steepness: 128,delay: 30, toTilez: -2, totilex: -4, X: 46, Y: 64
+Sound ID:408, TIMES:1, DELAY:10
+Sound ID:222, TIMES:1, DELAY:20
+Sound ID:223, TIMES:1, DELAY:90
+Sound ID:2364, TIMES:1, DELAY:20
+Projectile: endHeight: 31, -delay + lifetime-: 90, gfx: 1477, startHeight: 35, to: -1249, angle: 14, steepness: 128,delay: 30, toTilez: 2, totilex: -4, X: 46, Y: 66
+Sound ID:408, TIMES:1, DELAY:10
+Sound ID:1965, TIMES:1, DELAY:20
+Sound ID:3403, TIMES:1, DELAY:90
+Sound ID:2393, TIMES:1, DELAY:0
+Sound ID:510, TIMES:1, DELAY:20
+Projectile: endHeight: 31, -delay + lifetime-: 95, gfx: 1477, startHeight: 35, to: -1249, angle: 14, steepness: 128,delay: 30, toTilez: 5, totilex: -3, X: 46, Y: 67
+Sound ID:408, TIMES:1, DELAY:10
+Sound ID:1965, TIMES:1, DELAY:20
+Sound ID:3403, TIMES:1, DELAY:95
+Sound ID:510, TIMES:1, DELAY:20
+Sound ID:1519, TIMES:1, DELAY:20
+Projectile: endHeight: 9, -delay + lifetime-: 120, gfx: 1481, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 0, toTilez: 5, totilex: 1, X: 48, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -11, totilex: -12, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -10, totilex: -7, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -10, totilex: -4, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -11, totilex: -3, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -11, totilex: 1, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -11, totilex: 3, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -12, totilex: 8, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -8, totilex: -11, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -9, totilex: -8, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -7, totilex: -6, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -9, totilex: -1, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -7, totilex: 1, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -9, totilex: 3, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -9, totilex: 8, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -4, totilex: -10, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -6, totilex: -7, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -6, totilex: -4, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -6, totilex: -2, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -4, totilex: 2, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -4, totilex: 5, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -5, totilex: 6, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -1, totilex: -11, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -2, totilex: -9, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -3, totilex: -6, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -1, totilex: 2, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -2, totilex: 3, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -3, totilex: 6, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 0, totilex: -11, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 2, totilex: -9, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 0, totilex: -6, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 2, totilex: -3, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 2, totilex: 0, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 0, totilex: 4, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 0, totilex: 7, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 3, totilex: -12, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 3, totilex: -7, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 4, totilex: -4, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 4, totilex: -2, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 3, totilex: 1, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 5, totilex: 4, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 5, totilex: 6, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 7, totilex: -11, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 7, totilex: -7, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 8, totilex: -5, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 8, totilex: -3, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 6, totilex: 0, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 8, totilex: 3, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 8, totilex: 8, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -13, totilex: -8, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -13, totilex: 3, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 9, totilex: -8, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 9, totilex: 2, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -6, totilex: -13, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 4, totilex: -13, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: -8, totilex: 9, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 2, totilex: 9, X: 50, Y: 67
+Projectile: endHeight: 0, -delay + lifetime-: 90, gfx: 1483, startHeight: 85, to: 0, angle: 46, steepness: 128,delay: 32, toTilez: 3, totilex: 4, X: 50, Y: 67
+Sound ID:736, TIMES:1, DELAY:20
+Projectile: endHeight: 7, -delay + lifetime-: 30, gfx: 1482, startHeight: 34, to: 0, angle: 22, steepness: 128,delay: 0, toTilez: 2, totilex: 4, X: 50, Y: 66
+Sound ID:3749, TIMES:1, DELAY:2
+Projectile: endHeight: 7, -delay + lifetime-: 30, gfx: 1482, startHeight: 34, to: 0, angle: 22, steepness: 128,delay: 0, toTilez: 2, totilex: 5, X: 50, Y: 67
+Sound ID:3749, TIMES:1, DELAY:2
+Projectile: endHeight: 7, -delay + lifetime-: 30, gfx: 1482, startHeight: 34, to: 0, angle: 22, steepness: 128,delay: 0, toTilez: 2, totilex: 5, X: 50, Y: 67
+Sound ID:3749, TIMES:1, DELAY:2
+Sound ID:510, TIMES:1, DELAY:20
+Projectile: endHeight: 7, -delay + lifetime-: 30, gfx: 1482, startHeight: 34, to: 0, angle: 22, steepness: 128,delay: 0, toTilez: 3, totilex: 6, X: 50, Y: 67
+Sound ID:3749, TIMES:1, DELAY:2
+Projectile: endHeight: 7, -delay + lifetime-: 30, gfx: 1482, startHeight: 34, to: 0, angle: 22, steepness: 128,delay: 0, toTilez: 4, totilex: 5, X: 50, Y: 67
+Sound ID:3749, TIMES:1, DELAY:2
+Projectile: endHeight: 7, -delay + lifetime-: 30, gfx: 1482, startHeight: 34, to: 0, angle: 22, steepness: 128,delay: 0, toTilez: 5, totilex: 5, X: 50, Y: 67
+Sound ID:3749, TIMES:1, DELAY:2
+Projectile: endHeight: 7, -delay + lifetime-: 30, gfx: 1482, startHeight: 34, to: 0, angle: 22, steepness: 128,delay: 0, toTilez: 5, totilex: 4, X: 50, Y: 67
+Sound ID:3749, TIMES:1, DELAY:2
+Sound ID:510, TIMES:1, DELAY:20
+Projectile: endHeight: 7, -delay + lifetime-: 30, gfx: 1482, startHeight: 34, to: 0, angle: 22, steepness: 128,delay: 0, toTilez: 6, totilex: 3, X: 50, Y: 67
+Sound ID:3749, TIMES:1, DELAY:2
+Projectile: endHeight: 7, -delay + lifetime-: 30, gfx: 1482, startHeight: 34, to: 0, angle: 22, steepness: 128,delay: 0, toTilez: 7, totilex: 2, X: 50, Y: 67
+Sound ID:3749, TIMES:1, DELAY:2
+Projectile: endHeight: 7, -delay + lifetime-: 30, gfx: 1482, startHeight: 34, to: 0, angle: 22, steepness: 128,delay: 0, toTilez: 8, totilex: 2, X: 49, Y: 67
+Sound ID:965, TIMES:1, DELAY:15
+Sound ID:3749, TIMES:1, DELAY:2
+Projectile: endHeight: 7, -delay + lifetime-: 30, gfx: 1482, startHeight: 34, to: 0, angle: 22, steepness: 128,delay: 0, toTilez: 8, totilex: 2, X: 49, Y: 67
+Sound ID:3749, TIMES:1, DELAY:2
+Projectile: endHeight: 7, -delay + lifetime-: 30, gfx: 1482, startHeight: 34, to: 0, angle: 22, steepness: 128,delay: 0, toTilez: 8, totilex: 2, X: 49, Y: 67
+Sound ID:3749, TIMES:1, DELAY:2
+Projectile: endHeight: 7, -delay + lifetime-: 30, gfx: 1482, startHeight: 34, to: 0, angle: 22, steepness: 128,delay: 0, toTilez: 8, totilex: 2, X: 49, Y: 67
+Sound ID:3749, TIMES:1, DELAY:2
+Sound ID:3749, TIMES:1, DELAY:2
+Music ID:290

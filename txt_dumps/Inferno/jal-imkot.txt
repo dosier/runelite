@@ -1,0 +1,49 @@
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-ImKot (7697)'	animation: 7598
+SOUND 608	 delay: 0
+SOUND 2844	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-ImKot (7697)'	animation: 7597
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 7488, y: 6208
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-ImKot (7697)'	animation: 7597
+PLAYER 'ex rs'	 animation: 5061
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-ImKot (7697)'	animation: 7598
+SOUND 608	 delay: 0
+SOUND 2845	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-ImKot (7697)'	animation: 7597
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 6, x: 7488, y: 6208
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-ImKot (7697)'	animation: 7597
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-ImKot (7697)'	animation: 7597
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 8, x: 7488, y: 6208
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-ImKot (7697)'	animation: 7598
+SOUND 608	 delay: 0
+SOUND 2842	 delay: 20
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-ImKot (7697)'	animation: 7597
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 7, x: 7488, y: 6208
+SOUND 610	 delay: 0
+SOUND 2696	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-ImKot (7697)'	animation: 7597
+PLAYER 'ex rs'	 animation: 5061
+NPC 'Jal-ImKot (7697)'	animation: 7597
+PROJECTILE 1122	startHeight: 105, endHeight: 144, slope: 15, duration: 9, x: 7488, y: 6208
+SOUND 610	 delay: 0
+PLAYER 'ex rs'	 animation: 5061
+SOUND 609	 delay: 0

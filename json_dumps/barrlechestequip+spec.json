@@ -1,0 +1,292 @@
+[
+  {
+    "server-tick": 11448,
+    "animation": 1156,
+    "pos": "3679, 3010, 0",
+    "sounds": [
+      {
+        "id, delay": "496, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11449,
+    "animation": 1156
+  },
+  {
+    "server-tick": 11450,
+    "animation": 1156
+  },
+  {
+    "server-tick": 11451,
+    "sounds": [
+      {
+        "id, delay": "2246, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11452,
+    "animation": 5866,
+    "sounds": [
+      {
+        "id, delay": "496, 0"
+      },
+      {
+        "id, delay": "2359, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11453,
+    "animation": 5866
+  },
+  {
+    "server-tick": 11454,
+    "animation": 5866
+  },
+  {
+    "server-tick": 11455,
+    "animation": 5865,
+    "interacting": {
+      "npc": "Jungle horror (1042)",
+      "animation": 4232
+    },
+    "sounds": [
+      {
+        "id, delay": "3454, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11456,
+    "animation": 5866,
+    "interacting": {
+      "npc": "Jungle horror (1042)",
+      "animation": 4235
+    },
+    "sounds": [
+      {
+        "id, delay": "481, 0"
+      },
+      {
+        "id, delay": "498, 0"
+      },
+      {
+        "id, delay": "2364, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11457,
+    "animation": 5866,
+    "interacting": {
+      "npc": "Jungle horror (1042)",
+      "animation": 4235
+    }
+  },
+  {
+    "server-tick": 11458,
+    "animation": 5866,
+    "interacting": {
+      "npc": "Jungle horror (1042)"
+    }
+  },
+  {
+    "server-tick": 11459,
+    "interacting": {
+      "npc": "Jungle horror (1042)"
+    }
+  },
+  {
+    "server-tick": 11460,
+    "animation": 5866,
+    "interacting": {
+      "npc": "Jungle horror (1042)",
+      "animation": 4234
+    },
+    "sounds": [
+      {
+        "id, delay": "496, 0"
+      },
+      {
+        "id, delay": "2365, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11461,
+    "animation": 5870,
+    "gfx": 1027,
+    "interacting": {
+      "npc": "Jungle horror (1042)",
+      "animation": 4232
+    }
+  },
+  {
+    "server-tick": 11462,
+    "animation": 5870,
+    "gfx": 1027,
+    "interacting": {
+      "npc": "Jungle horror (1042)",
+      "animation": 4232
+    },
+    "sounds": [
+      {
+        "id, delay": "481, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11463,
+    "animation": 5870,
+    "gfx": 1027,
+    "interacting": {
+      "npc": "Jungle horror (1042)",
+      "animation": 4232
+    }
+  },
+  {
+    "server-tick": 11464,
+    "animation": 5866,
+    "gfx": 1027,
+    "interacting": {
+      "npc": "Jungle horror (1042)",
+      "animation": 4234
+    },
+    "sounds": [
+      {
+        "id, delay": "496, 0"
+      },
+      {
+        "id, delay": "2360, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11465,
+    "animation": 5866,
+    "interacting": {
+      "npc": "Jungle horror (1042)",
+      "animation": 4234
+    }
+  },
+  {
+    "server-tick": 11466,
+    "animation": 5866,
+    "interacting": {
+      "npc": "Jungle horror (1042)",
+      "animation": 4234
+    }
+  },
+  {
+    "server-tick": 11467,
+    "animation": 5865,
+    "interacting": {
+      "npc": "Jungle horror (1042)",
+      "animation": 4232
+    },
+    "sounds": [
+      {
+        "id, delay": "3454, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11468,
+    "animation": 5866,
+    "interacting": {
+      "npc": "Jungle horror (1042)",
+      "animation": 4235
+    },
+    "sounds": [
+      {
+        "id, delay": "481, 0"
+      },
+      {
+        "id, delay": "498, 0"
+      },
+      {
+        "id, delay": "2358, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11469,
+    "animation": 5866,
+    "interacting": {
+      "npc": "Jungle horror (1042)",
+      "animation": 4235
+    }
+  },
+  {
+    "server-tick": 11470,
+    "animation": 5866,
+    "interacting": {
+      "npc": "Jungle horror (1042)"
+    }
+  },
+  {
+    "server-tick": 11471,
+    "interacting": {
+      "npc": "Jungle horror (1042)"
+    }
+  },
+  {
+    "server-tick": 11472,
+    "animation": 5866,
+    "interacting": {
+      "npc": "Jungle horror (1042)",
+      "animation": 4234
+    },
+    "sounds": [
+      {
+        "id, delay": "496, 0"
+      },
+      {
+        "id, delay": "2358, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11473,
+    "animation": 5870,
+    "gfx": 1027,
+    "interacting": {
+      "npc": "Jungle horror (1042)",
+      "animation": 4232
+    }
+  },
+  {
+    "server-tick": 11474,
+    "animation": 5870,
+    "gfx": 1027,
+    "interacting": {
+      "npc": "Jungle horror (1042)",
+      "animation": 4232
+    },
+    "sounds": [
+      {
+        "id, delay": "481, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11475,
+    "animation": 5870,
+    "gfx": 1027,
+    "sounds": [
+      {
+        "id, delay": "480, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11476,
+    "animation": 5870,
+    "gfx": 1027
+  }
+]

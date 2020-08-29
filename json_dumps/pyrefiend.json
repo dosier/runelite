@@ -1,0 +1,116 @@
+[
+  {
+    "server-tick": 6142,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Pyrefiend (433)"
+    },
+    "sounds": [
+      {
+        "id, delay": "698, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6143,
+    "interacting": {
+      "npc": "Pyrefiend (433)"
+    }
+  },
+  {
+    "server-tick": 6144,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Pyrefiend (433)",
+      "animation": 1582
+    },
+    "sounds": [
+      {
+        "id, delay": "696, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6145,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Pyrefiend (433)",
+      "animation": 1582
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6146,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Pyrefiend (433)"
+    },
+    "sounds": [
+      {
+        "id, delay": "698, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6147,
+    "interacting": {
+      "npc": "Pyrefiend (433)"
+    }
+  },
+  {
+    "server-tick": 6148,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Pyrefiend (433)",
+      "animation": 1582
+    },
+    "sounds": [
+      {
+        "id, delay": "696, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6149,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Pyrefiend (433)",
+      "animation": 1582
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6150,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Pyrefiend (433)"
+    },
+    "sounds": [
+      {
+        "id, delay": "698, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6151,
+    "sounds": [
+      {
+        "id, delay": "697, 0"
+      }
+    ]
+  }
+]

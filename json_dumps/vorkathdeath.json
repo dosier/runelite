@@ -1,0 +1,3641 @@
+[
+  {
+    "server-tick": 23918,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 38"
+      }
+    ]
+  },
+  {
+    "server-tick": 23919,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23920,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23921,
+    "animation": 1156,
+    "gfx": 1478,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "408, 10"
+      },
+      {
+        "id, delay": "1965, 20"
+      },
+      {
+        "id, delay": "3403, 95"
+      }
+    ]
+  },
+  {
+    "server-tick": 23922,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23923,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 36"
+      }
+    ]
+  },
+  {
+    "server-tick": 23924,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23925,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23926,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23927,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23928,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 38"
+      }
+    ]
+  },
+  {
+    "server-tick": 23929,
+    "animation": 7552,
+    "pos": "6688, 10458, 0"
+  },
+  {
+    "server-tick": 23930,
+    "pos": "6689, 10458, 0",
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23931,
+    "animation": 1156,
+    "gfx": 1478,
+    "pos": "6690, 10458, 0",
+    "sounds": [
+      {
+        "id, delay": "408, 10"
+      },
+      {
+        "id, delay": "1965, 20"
+      },
+      {
+        "id, delay": "3403, 95"
+      }
+    ]
+  },
+  {
+    "server-tick": 23932,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23933,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 38"
+      }
+    ]
+  },
+  {
+    "server-tick": 23934,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23935,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23936,
+    "animation": 1156,
+    "gfx": 1480,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "408, 10"
+      },
+      {
+        "id, delay": "222, 20"
+      },
+      {
+        "id, delay": "223, 95"
+      }
+    ]
+  },
+  {
+    "server-tick": 23937,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23938,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 38"
+      }
+    ]
+  },
+  {
+    "server-tick": 23939,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23940,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23941,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "736, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23942,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23943,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 36"
+      }
+    ]
+  },
+  {
+    "server-tick": 23944,
+    "animation": 7552,
+    "pos": "6689, 10458, 0",
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23945,
+    "pos": "6688, 10458, 0",
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23946,
+    "pos": "6687, 10458, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23947,
+    "pos": "6686, 10458, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23948,
+    "pos": "6685, 10458, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23949,
+    "pos": "6684, 10458, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23950,
+    "pos": "6683, 10459, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23951,
+    "pos": "6682, 10459, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23952,
+    "pos": "6682, 10460, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23953,
+    "pos": "6682, 10461, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23954,
+    "pos": "6682, 10462, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23955,
+    "pos": "6682, 10463, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23956,
+    "pos": "6682, 10464, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23957,
+    "pos": "6682, 10465, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23958,
+    "pos": "6682, 10466, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23959,
+    "pos": "6681, 10467, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23960,
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23961,
+    "animation": 1156,
+    "pos": "6681, 10466, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23962,
+    "animation": 1156,
+    "pos": "6681, 10465, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23963,
+    "animation": 1156,
+    "pos": "6681, 10464, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23964,
+    "animation": 829,
+    "pos": "6681, 10463, 0",
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23965,
+    "animation": 829,
+    "pos": "6681, 10462, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23966,
+    "animation": 829,
+    "pos": "6681, 10461, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23967,
+    "pos": "6681, 10460, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23968,
+    "pos": "6681, 10459, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23969,
+    "animation": 829,
+    "pos": "6681, 10458, 0",
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 23970,
+    "animation": 829,
+    "pos": "6681, 10457, 0"
+  },
+  {
+    "server-tick": 23971,
+    "animation": 829,
+    "pos": "6681, 10456, 0"
+  },
+  {
+    "server-tick": 23972,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23973,
+    "animation": 829
+  },
+  {
+    "server-tick": 23974,
+    "animation": 1156,
+    "gfx": 1472,
+    "pos": "6682, 10456, 0",
+    "sounds": [
+      {
+        "id, delay": "587, 0"
+      },
+      {
+        "id, delay": "3750, 15"
+      },
+      {
+        "id, delay": "129, 105"
+      }
+    ]
+  },
+  {
+    "server-tick": 23975,
+    "animation": 829,
+    "gfx": 1472,
+    "pos": "6683, 10456, 0",
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23976,
+    "animation": 829,
+    "gfx": 1472,
+    "pos": "6684, 10456, 0"
+  },
+  {
+    "server-tick": 23977,
+    "animation": 829,
+    "gfx": 1472,
+    "pos": "6685, 10456, 0",
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23978,
+    "animation": 829,
+    "gfx": 1472,
+    "pos": "6686, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23979,
+    "animation": 1156,
+    "gfx": 1480,
+    "sounds": [
+      {
+        "id, delay": "408, 10"
+      },
+      {
+        "id, delay": "222, 20"
+      },
+      {
+        "id, delay": "223, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 23980,
+    "animation": 1156,
+    "gfx": 1480
+  },
+  {
+    "server-tick": 23981,
+    "animation": 1156,
+    "gfx": 1480
+  },
+  {
+    "server-tick": 23982,
+    "animation": 829,
+    "gfx": 1480,
+    "pos": "6687, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23983,
+    "animation": 829,
+    "gfx": 1480,
+    "pos": "6688, 10457, 0"
+  },
+  {
+    "server-tick": 23984,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "408, 10"
+      },
+      {
+        "id, delay": "1965, 20"
+      },
+      {
+        "id, delay": "3403, 100"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23985,
+    "animation": 7552,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 23986,
+    "animation": 7552
+  },
+  {
+    "server-tick": 23987,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23988,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 23989,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "284, 0"
+      },
+      {
+        "id, delay": "3750, 15"
+      },
+      {
+        "id, delay": "135, 100"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23990,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 23991,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 23992,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23993,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2266, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23994,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1982, 0"
+      },
+      {
+        "id, delay": "2675, 0"
+      },
+      {
+        "id, delay": "2685, 0"
+      },
+      {
+        "id, delay": "1519, 20"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23995,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 40"
+      }
+    ]
+  },
+  {
+    "server-tick": 23996,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 23997,
+    "pos": "6687, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23998,
+    "pos": "6686, 10457, 0"
+  },
+  {
+    "server-tick": 23999,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "408, 10"
+      },
+      {
+        "id, delay": "1965, 20"
+      },
+      {
+        "id, delay": "3403, 100"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24000,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "projectiles": [
+      {
+        "id": 1477,
+        "heights": "128, 124",
+        "slope, duration": "14, 71"
+      },
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 42"
+      }
+    ]
+  },
+  {
+    "server-tick": 24001,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24002,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24003,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24004,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "586, 0"
+      },
+      {
+        "id, delay": "3750, 15"
+      },
+      {
+        "id, delay": "168, 100"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24005,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 40"
+      }
+    ]
+  },
+  {
+    "server-tick": 24006,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24007,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "1784, 28"
+      },
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24008,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24009,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24010,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 43"
+      }
+    ]
+  },
+  {
+    "server-tick": 24011,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24012,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24013,
+    "interacting": {
+      "npc": "Zombified Spawn (8063)"
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24014,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Zombified Spawn (8063)",
+      "animation": 7889
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24015,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Zombified Spawn (8063)",
+      "animation": 7889
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 43"
+      }
+    ]
+  },
+  {
+    "server-tick": 24016,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Zombified Spawn (8063)",
+      "animation": 7889
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24017,
+    "interacting": {
+      "npc": "Zombified Spawn (8063)"
+    },
+    "sounds": [
+      {
+        "id, delay": "231, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24018,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Zombified Spawn (8063)",
+      "animation": 7890
+    },
+    "sounds": [
+      {
+        "id, delay": "232, 0"
+      },
+      {
+        "id, delay": "208, 22"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 1460,
+        "level": 0,
+        "start": 1222129
+      }
+    ]
+  },
+  {
+    "server-tick": 24019,
+    "animation": 1156,
+    "gfx": 1480,
+    "sounds": [
+      {
+        "id, delay": "408, 10"
+      },
+      {
+        "id, delay": "222, 20"
+      },
+      {
+        "id, delay": "223, 100"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24020,
+    "animation": 1156,
+    "gfx": 1480
+  },
+  {
+    "server-tick": 24021,
+    "gfx": 1480
+  },
+  {
+    "server-tick": 24022,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948
+    },
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24023,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 24024,
+    "animation": 7552,
+    "gfx": 1473,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "284, 0"
+      },
+      {
+        "id, delay": "3750, 15"
+      },
+      {
+        "id, delay": "135, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 24025,
+    "gfx": 1473,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24026,
+    "gfx": 1473,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24027,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948
+    },
+    "sounds": [
+      {
+        "id, delay": "2959, 20"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24028,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948
+    },
+    "sounds": [
+      {
+        "id, delay": "2266, 0"
+      },
+      {
+        "id, delay": "1982, 0"
+      },
+      {
+        "id, delay": "2675, 0"
+      },
+      {
+        "id, delay": "2685, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 24029,
+    "animation": 7552,
+    "gfx": 1472,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "587, 0"
+      },
+      {
+        "id, delay": "3750, 15"
+      },
+      {
+        "id, delay": "129, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 24030,
+    "gfx": 1472,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24031,
+    "gfx": 1472,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24032,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948
+    },
+    "sounds": [
+      {
+        "id, delay": "2959, 20"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24033,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 24034,
+    "animation": 7552,
+    "gfx": 1480,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "408, 10"
+      },
+      {
+        "id, delay": "222, 20"
+      },
+      {
+        "id, delay": "223, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 24035,
+    "gfx": 1480,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24036,
+    "gfx": 1480,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24037,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948,
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "2959, 20"
+      },
+      {
+        "id, delay": "2695, 0"
+      },
+      {
+        "id, delay": "2913, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24038,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948,
+      "gfx": 758
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 42"
+      }
+    ]
+  },
+  {
+    "server-tick": 24039,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "1519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24040,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24041,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "gfx": 758
+    }
+  },
+  {
+    "server-tick": 24042,
+    "pos": "6687, 10457, 0"
+  },
+  {
+    "server-tick": 24043,
+    "pos": "6688, 10457, 0"
+  },
+  {
+    "server-tick": 24044,
+    "animation": 1156,
+    "gfx": 1472,
+    "pos": "6689, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "587, 0"
+      },
+      {
+        "id, delay": "3750, 15"
+      },
+      {
+        "id, delay": "129, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 24045,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1470,
+        "heights": "128, 124",
+        "slope, duration": "14, 71"
+      }
+    ]
+  },
+  {
+    "server-tick": 24046,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 24047,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24048,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24049,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "736, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24050,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24051,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 24052,
+    "animation": 7552,
+    "pos": "6688, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24053,
+    "pos": "6687, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24054,
+    "pos": "6686, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24055,
+    "pos": "6685, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24056,
+    "pos": "6684, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24057,
+    "pos": "6683, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24058,
+    "pos": "6682, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24059,
+    "pos": "6683, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24060,
+    "pos": "6684, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24061,
+    "pos": "6685, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24062,
+    "pos": "6686, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24063,
+    "pos": "6685, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24064,
+    "pos": "6684, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24065,
+    "pos": "6683, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24066,
+    "pos": "6682, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24067,
+    "animation": 829,
+    "pos": "6681, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24068,
+    "animation": 829,
+    "pos": "6680, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24069,
+    "animation": 829,
+    "pos": "6681, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24070,
+    "pos": "6682, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24071,
+    "pos": "6683, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24072,
+    "pos": "6684, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24073,
+    "pos": "6685, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24074,
+    "pos": "6686, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24075,
+    "pos": "6685, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24076,
+    "pos": "6684, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24077,
+    "pos": "6683, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24078,
+    "pos": "6682, 10457, 0"
+  },
+  {
+    "server-tick": 24079,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24080,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 24081,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24082,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "1519, 20"
+      },
+      {
+        "id, delay": "4195, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24083,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24084,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24085,
+    "animation": 7552,
+    "pos": "6683, 10457, 0",
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 24086,
+    "animation": 7552,
+    "pos": "6684, 10457, 0"
+  },
+  {
+    "server-tick": 24087,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "1519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24088,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24089,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24090,
+    "animation": 7552,
+    "pos": "6685, 10457, 0",
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 42"
+      }
+    ]
+  },
+  {
+    "server-tick": 24091,
+    "animation": 7552,
+    "pos": "6686, 10457, 0"
+  },
+  {
+    "server-tick": 24092,
+    "animation": 1156,
+    "gfx": 1478,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "408, 10"
+      },
+      {
+        "id, delay": "1965, 20"
+      },
+      {
+        "id, delay": "3403, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 24093,
+    "animation": 1156,
+    "gfx": 1478,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "projectiles": [
+      {
+        "id": 1477,
+        "heights": "128, 124",
+        "slope, duration": "14, 72"
+      }
+    ]
+  },
+  {
+    "server-tick": 24094,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24095,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 24096,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24097,
+    "animation": 1156,
+    "gfx": 1478,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "408, 10"
+      },
+      {
+        "id, delay": "1965, 20"
+      },
+      {
+        "id, delay": "3403, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 24098,
+    "animation": 1156,
+    "gfx": 1478,
+    "projectiles": [
+      {
+        "id": 1477,
+        "heights": "128, 124",
+        "slope, duration": "14, 72"
+      }
+    ]
+  },
+  {
+    "server-tick": 24099,
+    "animation": 1156,
+    "gfx": 1478,
+    "pos": "6687, 10457, 0"
+  },
+  {
+    "server-tick": 24100,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948
+    },
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24101,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 24102,
+    "animation": 7552,
+    "gfx": 1478,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "408, 10"
+      },
+      {
+        "id, delay": "1965, 20"
+      },
+      {
+        "id, delay": "3403, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 24103,
+    "gfx": 1478,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24104,
+    "gfx": 1478,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24105,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948
+    },
+    "sounds": [
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24106,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 42"
+      }
+    ]
+  },
+  {
+    "server-tick": 24107,
+    "animation": 7552,
+    "gfx": 1478,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "408, 10"
+      },
+      {
+        "id, delay": "1965, 20"
+      },
+      {
+        "id, delay": "3403, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 24108,
+    "gfx": 1478,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24109,
+    "gfx": 1478,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24110,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948
+    },
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24111,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 40"
+      }
+    ]
+  },
+  {
+    "server-tick": 24112,
+    "animation": 7552,
+    "gfx": 369,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "586, 0"
+      },
+      {
+        "id, delay": "3750, 15"
+      },
+      {
+        "id, delay": "168, 100"
+      },
+      {
+        "id, delay": "2607, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24113,
+    "gfx": 369,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24114,
+    "gfx": 369,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24115,
+    "animation": 4230,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "gfx": 157
+    },
+    "sounds": [
+      {
+        "id, delay": "1784, 28"
+      },
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "1080, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24116,
+    "animation": 4230,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "gfx": 157
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 698,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 24117,
+    "animation": 4230,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "gfx": 157
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24118,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "gfx": 157
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24119,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24120,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24121,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Zombified Spawn (8063)"
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 24122,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Zombified Spawn (8063)"
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24123,
+    "interacting": {
+      "npc": "Zombified Spawn (8063)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24124,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24125,
+    "animation": 829
+  },
+  {
+    "server-tick": 24126,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Zombified Spawn (8063)",
+      "animation": 7890
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "232, 0"
+      },
+      {
+        "id, delay": "208, 22"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 1460,
+        "level": 0,
+        "start": 1225370
+      }
+    ]
+  },
+  {
+    "server-tick": 24127,
+    "animation": 1156,
+    "gfx": 1472,
+    "sounds": [
+      {
+        "id, delay": "587, 0"
+      },
+      {
+        "id, delay": "3750, 15"
+      },
+      {
+        "id, delay": "129, 100"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24128,
+    "animation": 1156,
+    "gfx": 1472,
+    "projectiles": [
+      {
+        "id": 1470,
+        "heights": "128, 124",
+        "slope, duration": "14, 72"
+      }
+    ]
+  },
+  {
+    "server-tick": 24129,
+    "animation": 829,
+    "gfx": 1472,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24130,
+    "animation": 829,
+    "gfx": 1472,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24131,
+    "animation": 829,
+    "gfx": 1472
+  },
+  {
+    "server-tick": 24132,
+    "animation": 1156,
+    "gfx": 1478,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "408, 10"
+      },
+      {
+        "id, delay": "1965, 20"
+      },
+      {
+        "id, delay": "3403, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 24133,
+    "animation": 1156,
+    "gfx": 1478,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24134,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24135,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 24136,
+    "animation": 7552,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24137,
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "1519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24139,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24140,
+    "animation": 829,
+    "pos": "6686, 10457, 0"
+  },
+  {
+    "server-tick": 24141,
+    "animation": 829,
+    "pos": "6685, 10457, 0"
+  },
+  {
+    "server-tick": 24142,
+    "animation": 1156,
+    "gfx": 1478,
+    "pos": "6684, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "408, 10"
+      },
+      {
+        "id, delay": "1965, 20"
+      },
+      {
+        "id, delay": "3403, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 24143,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24144,
+    "animation": 7552,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 24145,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24146,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24147,
+    "animation": 1156,
+    "gfx": 1472,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "587, 0"
+      },
+      {
+        "id, delay": "3750, 15"
+      },
+      {
+        "id, delay": "129, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 24148,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1470,
+        "heights": "128, 124",
+        "slope, duration": "14, 72"
+      }
+    ]
+  },
+  {
+    "server-tick": 24149,
+    "animation": 7552,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 24150,
+    "animation": 7552,
+    "pos": "6685, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24151,
+    "pos": "6686, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24152,
+    "animation": 1156,
+    "gfx": 1473,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "284, 0"
+      },
+      {
+        "id, delay": "3750, 15"
+      },
+      {
+        "id, delay": "135, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 24153,
+    "animation": 1156,
+    "gfx": 1473,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24154,
+    "animation": 1156,
+    "gfx": 1473,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24155,
+    "animation": 1156,
+    "gfx": 1473,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24156,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948
+    },
+    "sounds": [
+      {
+        "id, delay": "2266, 0"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24157,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1982, 0"
+      },
+      {
+        "id, delay": "2675, 0"
+      },
+      {
+        "id, delay": "2685, 0"
+      },
+      {
+        "id, delay": "736, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 37"
+      }
+    ]
+  },
+  {
+    "server-tick": 24158,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24159,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24160,
+    "pos": "6687, 10457, 0"
+  },
+  {
+    "server-tick": 24161,
+    "pos": "6688, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24162,
+    "pos": "6689, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24163,
+    "pos": "6690, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24164,
+    "pos": "6691, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24165,
+    "pos": "6692, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24166,
+    "pos": "6693, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24167,
+    "pos": "6694, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24168,
+    "pos": "6693, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24169,
+    "pos": "6692, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24170,
+    "pos": "6691, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24171,
+    "pos": "6690, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24172,
+    "pos": "6689, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24173,
+    "pos": "6688, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24174,
+    "pos": "6687, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24175,
+    "pos": "6688, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24176,
+    "pos": "6689, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24177,
+    "pos": "6690, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24178,
+    "pos": "6691, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24179,
+    "pos": "6692, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24180,
+    "pos": "6693, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24181,
+    "pos": "6692, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24182,
+    "pos": "6691, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24183,
+    "pos": "6690, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24184,
+    "pos": "6689, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24185,
+    "pos": "6688, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24186,
+    "pos": "6687, 10457, 0",
+    "sounds": [
+      {
+        "id, delay": "3749, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24187,
+    "pos": "6688, 10457, 0"
+  },
+  {
+    "server-tick": 24188,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24189,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948
+    },
+    "sounds": [
+      {
+        "id, delay": "3120, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 42"
+      }
+    ]
+  },
+  {
+    "server-tick": 24190,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948
+    }
+  },
+  {
+    "server-tick": 24191,
+    "animation": 1156,
+    "gfx": 1480,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "408, 10"
+      },
+      {
+        "id, delay": "222, 20"
+      },
+      {
+        "id, delay": "223, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 24192,
+    "animation": 1156,
+    "gfx": 1480,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24193,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24194,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2959, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 24195,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24196,
+    "animation": 1156,
+    "gfx": 1478,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "408, 10"
+      },
+      {
+        "id, delay": "1965, 20"
+      },
+      {
+        "id, delay": "3403, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 24197,
+    "animation": 1156,
+    "gfx": 1478,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24198,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948,
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      },
+      {
+        "id, delay": "2913, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 24199,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948,
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 24200,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "animation": 7948,
+      "gfx": 758
+    }
+  },
+  {
+    "server-tick": 24201,
+    "animation": 1156,
+    "gfx": 1478,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "408, 10"
+      },
+      {
+        "id, delay": "1965, 20"
+      },
+      {
+        "id, delay": "3403, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 24202,
+    "animation": 1156,
+    "gfx": 1478,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "gfx": 758
+    }
+  },
+  {
+    "server-tick": 24203,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)",
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24204,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 42"
+      }
+    ]
+  },
+  {
+    "server-tick": 24205,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24206,
+    "animation": 1156,
+    "gfx": 1480,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "408, 10"
+      },
+      {
+        "id, delay": "222, 20"
+      },
+      {
+        "id, delay": "223, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 24207,
+    "animation": 1156,
+    "gfx": 1480,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24208,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24209,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2607, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 40"
+      }
+    ]
+  },
+  {
+    "server-tick": 24210,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24211,
+    "animation": 1156,
+    "gfx": 1480,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "408, 10"
+      },
+      {
+        "id, delay": "222, 20"
+      },
+      {
+        "id, delay": "223, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 24212,
+    "animation": 1156,
+    "gfx": 1480,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24213,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24214,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      }
+    ]
+  },
+  {
+    "server-tick": 24215,
+    "animation": 7552,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    }
+  },
+  {
+    "server-tick": 24216,
+    "animation": 1156,
+    "gfx": 1478,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      },
+      {
+        "id, delay": "408, 10"
+      },
+      {
+        "id, delay": "1965, 20"
+      },
+      {
+        "id, delay": "3403, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 24217,
+    "animation": 1156,
+    "gfx": 1478,
+    "sounds": [
+      {
+        "id, delay": "1523, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24218,
+    "animation": 1156,
+    "gfx": 1478
+  },
+  {
+    "server-tick": 24219,
+    "animation": 1156,
+    "gfx": 1478,
+    "interacting": {
+      "npc": "Vorkath (8061)"
+    },
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24220,
+    "animation": 1156,
+    "gfx": 1478
+  },
+  {
+    "server-tick": 24221,
+    "animation": 1156
+  },
+  {
+    "server-tick": 24227,
+    "pos": "6688, 10458, 0"
+  },
+  {
+    "server-tick": 24228,
+    "pos": "6688, 10459, 0"
+  },
+  {
+    "server-tick": 24229,
+    "pos": "6687, 10460, 0"
+  }
+]

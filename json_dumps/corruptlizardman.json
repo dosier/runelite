@@ -1,0 +1,384 @@
+[
+  {
+    "server-tick": 1738,
+    "pos": "11892, 12186, 1"
+  },
+  {
+    "server-tick": 1739,
+    "pos": "11892, 12188, 1"
+  },
+  {
+    "server-tick": 1740,
+    "pos": "11892, 12190, 1"
+  },
+  {
+    "server-tick": 1741,
+    "pos": "11892, 12192, 1"
+  },
+  {
+    "server-tick": 1742,
+    "pos": "11892, 12194, 1"
+  },
+  {
+    "server-tick": 1743,
+    "pos": "11890, 12196, 1"
+  },
+  {
+    "server-tick": 1744,
+    "pos": "11888, 12198, 1"
+  },
+  {
+    "server-tick": 1752,
+    "animation": 1156
+  },
+  {
+    "server-tick": 1753,
+    "animation": 1156
+  },
+  {
+    "server-tick": 1754,
+    "animation": 1156,
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 31"
+      }
+    ]
+  },
+  {
+    "server-tick": 1755,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 1756,
+    "animation": 1156
+  },
+  {
+    "server-tick": 1757,
+    "animation": 1156
+  },
+  {
+    "server-tick": 1758,
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 31"
+      }
+    ]
+  },
+  {
+    "server-tick": 1759,
+    "sounds": [
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 1760,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2548, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1761,
+    "animation": 1156
+  },
+  {
+    "server-tick": 1762,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 1763,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)",
+      "animation": 7194
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1764,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)",
+      "animation": 7194
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1765,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)",
+      "animation": 7193
+    }
+  },
+  {
+    "server-tick": 1766,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)",
+      "animation": 7193
+    }
+  },
+  {
+    "server-tick": 1767,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 1768,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)"
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1769,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)"
+    }
+  },
+  {
+    "server-tick": 1770,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)",
+      "animation": 7193
+    }
+  },
+  {
+    "server-tick": 1771,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1772,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 1773,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)"
+    }
+  },
+  {
+    "server-tick": 1774,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)"
+    }
+  },
+  {
+    "server-tick": 1775,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1776,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1777,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 13"
+      }
+    ]
+  },
+  {
+    "server-tick": 1778,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)"
+    }
+  },
+  {
+    "server-tick": 1779,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1780,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1781,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "2962, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 1782,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)"
+    }
+  },
+  {
+    "server-tick": 1783,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1784,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Corrupt Lizardman (7997)",
+      "animation": 7193
+    },
+    "sounds": [
+      {
+        "id, delay": "388, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1785,
+    "sounds": [
+      {
+        "id, delay": "387, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  }
+]

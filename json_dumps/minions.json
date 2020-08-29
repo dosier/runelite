@@ -1,0 +1,856 @@
+[
+  {
+    "server-tick": 677,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Ak (7693)",
+      "animation": 7581
+    },
+    "sounds": [
+      {
+        "id, delay": "595, 0"
+      },
+      {
+        "id, delay": "3528, 68"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 24"
+      }
+    ]
+  },
+  {
+    "server-tick": 678,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Ak (7693)",
+      "animation": 7585
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 679,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Ak (7693)",
+      "animation": 7585
+    },
+    "sounds": [
+      {
+        "id, delay": "2845, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 680,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Ak (7693)",
+      "animation": 7585
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 681,
+    "sounds": [
+      {
+        "id, delay": "596, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 685,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Mej (7694)",
+      "animation": 7585
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 686,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Mej (7694)",
+      "animation": 7581
+    },
+    "sounds": [
+      {
+        "id, delay": "3403, 72"
+      },
+      {
+        "id, delay": "595, 0"
+      },
+      {
+        "id, delay": "3528, 60"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      },
+      {
+        "id": 1379,
+        "heights": "32, 124",
+        "slope, duration": "16, 72"
+      }
+    ]
+  },
+  {
+    "server-tick": 687,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Mej (7694)",
+      "animation": 7585
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 688,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Mej (7694)",
+      "animation": 7585
+    },
+    "sounds": [
+      {
+        "id, delay": "595, 0"
+      },
+      {
+        "id, delay": "2841, 20"
+      },
+      {
+        "id, delay": "2845, 20"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 689,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Mej (7694)",
+      "animation": 7585
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 690,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "3403, 72"
+      },
+      {
+        "id, delay": "596, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1379,
+        "heights": "32, 124",
+        "slope, duration": "16, 72"
+      }
+    ]
+  },
+  {
+    "server-tick": 691,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Ket (7696)",
+      "animation": 7585
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 692,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Ket (7696)",
+      "animation": 7582
+    },
+    "sounds": [
+      {
+        "id, delay": "595, 0"
+      },
+      {
+        "id, delay": "2845, 20"
+      },
+      {
+        "id, delay": "2845, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 693,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Ket (7696)",
+      "animation": 7585
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 694,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Ket (7696)",
+      "animation": 7585
+    },
+    "sounds": [
+      {
+        "id, delay": "3403, 72"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      },
+      {
+        "id": 1379,
+        "heights": "32, 124",
+        "slope, duration": "16, 72"
+      }
+    ]
+  },
+  {
+    "server-tick": 695,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Ket (7696)",
+      "animation": 7585
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 696,
+    "animation": 5061,
+    "pos": "6680, 10662, 0",
+    "sounds": [
+      {
+        "id, delay": "595, 0"
+      },
+      {
+        "id, delay": "2842, 20"
+      },
+      {
+        "id, delay": "2845, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 697,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Ket (7696)",
+      "animation": 7585
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 698,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Ket (7696)",
+      "animation": 7585
+    },
+    "sounds": [
+      {
+        "id, delay": "3403, 56"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      },
+      {
+        "id": 1379,
+        "heights": "32, 124",
+        "slope, duration": "16, 56"
+      }
+    ]
+  },
+  {
+    "server-tick": 699,
+    "animation": 5061,
+    "pos": "6682, 10662, 0",
+    "interacting": {
+      "npc": "Jal-Nib (7691)",
+      "animation": 7574
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      },
+      {
+        "id, delay": "2845, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 700,
+    "animation": 5061,
+    "pos": "6684, 10662, 0",
+    "interacting": {
+      "npc": "Jal-Nib (7691)",
+      "animation": 7575
+    },
+    "sounds": [
+      {
+        "id, delay": "595, 0"
+      },
+      {
+        "id, delay": "2841, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 701,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Nib (7691)",
+      "animation": 7575
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 27"
+      }
+    ]
+  },
+  {
+    "server-tick": 702,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Nib (7691)",
+      "animation": 7575
+    },
+    "sounds": [
+      {
+        "id, delay": "3403, 88"
+      },
+      {
+        "id, delay": "597, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1379,
+        "heights": "32, 124",
+        "slope, duration": "16, 88"
+      }
+    ]
+  },
+  {
+    "server-tick": 703,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Nib (7691)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 30"
+      }
+    ]
+  },
+  {
+    "server-tick": 704,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-Nib (7691)"
+    },
+    "sounds": [
+      {
+        "id, delay": "595, 0"
+      },
+      {
+        "id, delay": "597, 0"
+      },
+      {
+        "id, delay": "2845, 20"
+      },
+      {
+        "id, delay": "2844, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 705,
+    "sounds": [
+      {
+        "id, delay": "596, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 706,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Ket (7696)",
+      "animation": 7585
+    },
+    "sounds": [
+      {
+        "id, delay": "3403, 88"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1379,
+        "heights": "32, 124",
+        "slope, duration": "16, 88"
+      }
+    ]
+  },
+  {
+    "server-tick": 707,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Ket (7696)",
+      "animation": 7585
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 708,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Ket (7696)",
+      "animation": 7582
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      },
+      {
+        "id, delay": "595, 0"
+      },
+      {
+        "id, delay": "2843, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 709,
+    "sounds": [
+      {
+        "id, delay": "596, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 710,
+    "animation": 430,
+    "pos": "6682, 10661, 0",
+    "sounds": [
+      {
+        "id, delay": "3403, 88"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1379,
+        "heights": "32, 124",
+        "slope, duration": "16, 88"
+      }
+    ]
+  },
+  {
+    "server-tick": 711,
+    "animation": 430,
+    "pos": "6681, 10660, 0"
+  },
+  {
+    "server-tick": 712,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "2845, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 713,
+    "animation": 430
+  },
+  {
+    "server-tick": 714,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "3403, 64"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1379,
+        "heights": "32, 124",
+        "slope, duration": "16, 64"
+      }
+    ]
+  },
+  {
+    "server-tick": 715,
+    "animation": 430
+  },
+  {
+    "server-tick": 716,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "2841, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 717,
+    "pos": "6679, 10660, 0"
+  },
+  {
+    "server-tick": 718,
+    "animation": 430,
+    "pos": "6678, 10660, 0",
+    "sounds": [
+      {
+        "id, delay": "3403, 48"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1379,
+        "heights": "32, 124",
+        "slope, duration": "16, 48"
+      }
+    ]
+  },
+  {
+    "server-tick": 719,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "2841, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 720,
+    "animation": 430
+  },
+  {
+    "server-tick": 721,
+    "animation": 430
+  },
+  {
+    "server-tick": 722,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "3403, 40"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1379,
+        "heights": "32, 124",
+        "slope, duration": "16, 40"
+      }
+    ]
+  },
+  {
+    "server-tick": 723,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "2845, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 726,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "3403, 40"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1379,
+        "heights": "32, 124",
+        "slope, duration": "16, 40"
+      }
+    ]
+  },
+  {
+    "server-tick": 727,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "2841, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 728,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Xil (7695)",
+      "animation": 7585
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 729,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Xil (7695)",
+      "animation": 7585
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 730,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Xil (7695)",
+      "animation": 7585
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      },
+      {
+        "id, delay": "3403, 40"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1379,
+        "heights": "32, 124",
+        "slope, duration": "16, 40"
+      }
+    ]
+  },
+  {
+    "server-tick": 731,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Xil (7695)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2844, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 732,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Xil (7695)",
+      "animation": 7585
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 733,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Xil (7695)",
+      "animation": 7585
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 10"
+      }
+    ]
+  },
+  {
+    "server-tick": 734,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Xil (7695)",
+      "animation": 7585
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      },
+      {
+        "id, delay": "3403, 40"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1379,
+        "heights": "32, 124",
+        "slope, duration": "16, 40"
+      }
+    ]
+  },
+  {
+    "server-tick": 735,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Xil (7695)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2845, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 736,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Jal-AkRek-Xil (7695)"
+    },
+    "sounds": [
+      {
+        "id, delay": "597, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 737,
+    "sounds": [
+      {
+        "id, delay": "596, 0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,347 @@
+[
+  {
+    "server-tick": 6765,
+    "pos": "3426, 3551, 1"
+  },
+  {
+    "server-tick": 6767,
+    "animation": 1658,
+    "pos": "3425, 3551, 1",
+    "interacting": {
+      "npc": "Aberrant spectre (5)",
+      "animation": 1509
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6768,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Aberrant spectre (5)",
+      "animation": 1509
+    },
+    "sounds": [
+      {
+        "id, delay": "275, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6769,
+    "interacting": {
+      "npc": "Aberrant spectre (5)"
+    }
+  },
+  {
+    "server-tick": 6770,
+    "animation": 425,
+    "gfx": 336,
+    "interacting": {
+      "npc": "Aberrant spectre (5)",
+      "animation": 1507,
+      "gfx": 334
+    },
+    "sounds": [
+      {
+        "id, delay": "272, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6771,
+    "animation": 1658,
+    "gfx": 336,
+    "interacting": {
+      "npc": "Aberrant spectre (5)",
+      "animation": 1507
+    },
+    "sounds": [
+      {
+        "id, delay": "273, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 335,
+        "heights": "0, 160",
+        "slope, duration": "5, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 6772,
+    "animation": 1658,
+    "gfx": 336,
+    "interacting": {
+      "npc": "Aberrant spectre (5)",
+      "animation": 1507
+    },
+    "sounds": [
+      {
+        "id, delay": "275, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6773,
+    "interacting": {
+      "npc": "Aberrant spectre (5)"
+    }
+  },
+  {
+    "server-tick": 6774,
+    "animation": 425,
+    "gfx": 336,
+    "interacting": {
+      "npc": "Aberrant spectre (5)",
+      "animation": 1507,
+      "gfx": 334
+    },
+    "sounds": [
+      {
+        "id, delay": "272, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6775,
+    "animation": 1658,
+    "gfx": 336,
+    "interacting": {
+      "npc": "Aberrant spectre (5)",
+      "animation": 1507
+    },
+    "sounds": [
+      {
+        "id, delay": "273, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 335,
+        "heights": "0, 160",
+        "slope, duration": "5, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 6776,
+    "animation": 1658,
+    "gfx": 336,
+    "interacting": {
+      "npc": "Aberrant spectre (5)",
+      "animation": 1507
+    },
+    "sounds": [
+      {
+        "id, delay": "275, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6777,
+    "interacting": {
+      "npc": "Aberrant spectre (5)"
+    }
+  },
+  {
+    "server-tick": 6778,
+    "animation": 425,
+    "gfx": 336,
+    "interacting": {
+      "npc": "Aberrant spectre (5)",
+      "animation": 1507,
+      "gfx": 334
+    },
+    "sounds": [
+      {
+        "id, delay": "272, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6779,
+    "animation": 1658,
+    "gfx": 336,
+    "interacting": {
+      "npc": "Aberrant spectre (5)",
+      "animation": 1507
+    },
+    "sounds": [
+      {
+        "id, delay": "273, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6780,
+    "animation": 1658,
+    "gfx": 336,
+    "interacting": {
+      "npc": "Aberrant spectre (5)",
+      "animation": 1507
+    },
+    "sounds": [
+      {
+        "id, delay": "275, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6781,
+    "interacting": {
+      "npc": "Aberrant spectre (5)"
+    }
+  },
+  {
+    "server-tick": 6782,
+    "animation": 425,
+    "gfx": 336,
+    "interacting": {
+      "npc": "Aberrant spectre (5)",
+      "animation": 1507,
+      "gfx": 334
+    },
+    "sounds": [
+      {
+        "id, delay": "272, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6783,
+    "animation": 1658,
+    "gfx": 336,
+    "interacting": {
+      "npc": "Aberrant spectre (5)",
+      "animation": 1507
+    },
+    "sounds": [
+      {
+        "id, delay": "273, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 335,
+        "heights": "0, 160",
+        "slope, duration": "5, 25"
+      }
+    ]
+  },
+  {
+    "server-tick": 6784,
+    "animation": 1658,
+    "gfx": 336,
+    "pos": "3423, 3551, 1",
+    "sounds": [
+      {
+        "id, delay": "275, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6785,
+    "pos": "3421, 3551, 1"
+  },
+  {
+    "server-tick": 6786,
+    "animation": 425,
+    "gfx": 336,
+    "pos": "3419, 3552, 1",
+    "sounds": [
+      {
+        "id, delay": "272, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6787,
+    "animation": 425,
+    "gfx": 336,
+    "pos": "3419, 3550, 1",
+    "projectiles": [
+      {
+        "id": 335,
+        "heights": "0, 160",
+        "slope, duration": "5, 66"
+      }
+    ]
+  },
+  {
+    "server-tick": 6788,
+    "animation": 425,
+    "gfx": 336,
+    "pos": "3419, 3548, 1"
+  },
+  {
+    "server-tick": 6789,
+    "gfx": 336,
+    "pos": "3419, 3546, 1",
+    "sounds": [
+      {
+        "id, delay": "273, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6790,
+    "pos": "3419, 3544, 1"
+  },
+  {
+    "server-tick": 6791,
+    "pos": "3418, 3542, 1"
+  },
+  {
+    "server-tick": 6792,
+    "pos": "3417, 3541, 1"
+  },
+  {
+    "server-tick": 6795,
+    "pos": "3417, 3539, 1"
+  },
+  {
+    "server-tick": 6796,
+    "pos": "3416, 3538, 1"
+  },
+  {
+    "server-tick": 6797,
+    "pos": "3414, 3538, 1"
+  },
+  {
+    "server-tick": 6798,
+    "pos": "3412, 3538, 1"
+  },
+  {
+    "server-tick": 6799,
+    "pos": "3410, 3538, 1"
+  },
+  {
+    "server-tick": 6800,
+    "pos": "3409, 3539, 1"
+  },
+  {
+    "server-tick": 6801,
+    "pos": "3411, 3540, 1"
+  },
+  {
+    "server-tick": 6802,
+    "pos": "3412, 3540, 1"
+  }
+]

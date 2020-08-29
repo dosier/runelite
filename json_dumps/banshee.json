@@ -1,0 +1,175 @@
+[
+  {
+    "server-tick": 6655,
+    "animation": 1658,
+    "pos": "3435, 3550, 0",
+    "interacting": {
+      "npc": "Banshee (414)",
+      "animation": 1525
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6656,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Banshee (414)",
+      "animation": 1525
+    },
+    "sounds": [
+      {
+        "id, delay": "286, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6658,
+    "sounds": [
+      {
+        "id, delay": "285, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6661,
+    "pos": "3435, 3552, 0",
+    "interacting": {
+      "npc": "Banshee (414)"
+    }
+  },
+  {
+    "server-tick": 6662,
+    "animation": 1658,
+    "pos": "3435, 3553, 0",
+    "interacting": {
+      "npc": "Banshee (414)",
+      "animation": 1523
+    },
+    "sounds": [
+      {
+        "id, delay": "284, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6663,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Banshee (414)",
+      "animation": 1523
+    },
+    "sounds": [
+      {
+        "id, delay": "286, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6664,
+    "interacting": {
+      "npc": "Banshee (414)",
+      "animation": 1523
+    }
+  },
+  {
+    "server-tick": 6665,
+    "interacting": {
+      "npc": "Banshee (414)"
+    }
+  },
+  {
+    "server-tick": 6666,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Banshee (414)",
+      "animation": 1523
+    },
+    "sounds": [
+      {
+        "id, delay": "284, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6667,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Banshee (414)",
+      "animation": 1523
+    },
+    "sounds": [
+      {
+        "id, delay": "286, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6668,
+    "interacting": {
+      "npc": "Banshee (414)",
+      "animation": 1523
+    }
+  },
+  {
+    "server-tick": 6669,
+    "interacting": {
+      "npc": "Banshee (414)"
+    }
+  },
+  {
+    "server-tick": 6670,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Banshee (414)",
+      "animation": 1523
+    },
+    "sounds": [
+      {
+        "id, delay": "284, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6671,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Banshee (414)",
+      "animation": 1523
+    },
+    "sounds": [
+      {
+        "id, delay": "286, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6672,
+    "sounds": [
+      {
+        "id, delay": "285, 0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "server-tick": 3633,
+    "interacting": {
+      "npc": "Arianwyn (9248)"
+    }
+  },
+  {
+    "server-tick": 3634,
+    "interacting": {
+      "npc": "Arianwyn (9248)"
+    }
+  },
+  {
+    "server-tick": 3635,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Arianwyn (9248)",
+      "animation": 426
+    },
+    "sounds": [
+      {
+        "id, delay": "1352, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3636,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Arianwyn (9248)",
+      "animation": 426
+    },
+    "sounds": [
+      {
+        "id, delay": "1345, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 249,
+        "heights": "11, 160",
+        "slope, duration": "15, 29"
+      }
+    ]
+  },
+  {
+    "server-tick": 3637,
+    "interacting": {
+      "npc": "Arianwyn (9248)"
+    },
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3640,
+    "animation": 836
+  },
+  {
+    "server-tick": 3641,
+    "animation": 836
+  },
+  {
+    "server-tick": 3642,
+    "animation": 836
+  },
+  {
+    "server-tick": 3643,
+    "animation": 836
+  }
+]

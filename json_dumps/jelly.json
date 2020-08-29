@@ -1,0 +1,117 @@
+[
+  {
+    "server-tick": 6245,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Jelly (439)",
+      "animation": 1585
+    },
+    "sounds": [
+      {
+        "id, delay": "550, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6246,
+    "interacting": {
+      "npc": "Jelly (439)"
+    }
+  },
+  {
+    "server-tick": 6247,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Jelly (439)",
+      "animation": 1586
+    },
+    "sounds": [
+      {
+        "id, delay": "547, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6248,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Jelly (439)",
+      "animation": 1585
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6249,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Jelly (439)",
+      "animation": 1585
+    },
+    "sounds": [
+      {
+        "id, delay": "550, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6250,
+    "interacting": {
+      "npc": "Jelly (439)"
+    }
+  },
+  {
+    "server-tick": 6251,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Jelly (439)",
+      "animation": 1586
+    },
+    "sounds": [
+      {
+        "id, delay": "547, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6252,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Jelly (439)",
+      "animation": 1585
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6253,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Jelly (439)",
+      "animation": 1585
+    },
+    "sounds": [
+      {
+        "id, delay": "550, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6254,
+    "interacting": {
+      "npc": "Jelly (439)"
+    }
+  }
+]

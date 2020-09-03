@@ -604,8 +604,20 @@ public class DevToolsPlugin extends Plugin
 		save(details);
 	}
 
+	GameState gameState = GameState.UNKNOWN;
+	@Subscribe
+	public void onGameStateChanged(final GameStateChanged event)
+	{
+		if (event.getGameState() == GameState.LOADING)
+		{
+			save("---------| LOADING |----------");
+		}
+		gameState = event.getGameState();
+	}
+
 	@Subscribe
 	public void onGameTick(GameTick gameTick) {
+
 
 		final int tick = client.getTickCount();
 		final Player local = Objects.requireNonNull(client.getLocalPlayer());
@@ -616,6 +628,7 @@ public class DevToolsPlugin extends Plugin
 		final WorldPoint wp = local.getWorldLocation();
 
 		object.addProperty("server-tick", tick);
+		object.addProperty("game-state", gameState.name()+" ("+gameState.getState()+")");
 
 		String details = "";
 

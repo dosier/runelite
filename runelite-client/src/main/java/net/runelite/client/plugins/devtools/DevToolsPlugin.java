@@ -33,28 +33,6 @@ import com.google.gson.GsonBuilder;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import com.google.inject.Provides;
-
-import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.awt.image.BufferedImage;
-import static java.lang.Math.min;
-import static net.runelite.api.ProjectileID.CANNONBALL;
-import static net.runelite.api.ProjectileID.GRANITE_CANNONBALL;
-
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
-import java.util.*;
-import java.util.List;
-import javax.inject.Inject;
-import javax.swing.*;
-
 import lombok.Getter;
 import net.runelite.api.*;
 import net.runelite.api.coords.LocalPoint;
@@ -76,8 +54,22 @@ import net.runelite.client.ui.overlay.Overlay;
 import net.runelite.client.ui.overlay.OverlayManager;
 import net.runelite.client.util.ColorUtil;
 import net.runelite.client.util.ImageUtil;
-import net.runelite.http.api.worlds.World;
 import org.slf4j.LoggerFactory;
+
+import javax.inject.Inject;
+import javax.swing.*;
+import java.awt.*;
+import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.nio.file.Paths;
+import java.text.SimpleDateFormat;
+import java.util.List;
+import java.util.*;
+
+import static java.lang.Math.min;
 
 @PluginDescriptor(
 		name = "Developer Tools",
@@ -566,6 +558,17 @@ public class DevToolsPlugin extends Plugin
 	JsonArray playerSounds = new JsonArray();
 	JsonArray npcSounds = new JsonArray();
 	JsonArray areaSounds = new JsonArray();
+	JsonArray groundItemArray = new JsonArray();
+
+	@Subscribe
+	public void onItemSpawned(ItemSpawned itemSpawned)
+	{
+		final TileItem tileItem = itemSpawned.getItem();
+		final JsonObject groundItem = new JsonObject();
+		groundItem.addProperty("id, quantity, spawnTime", tileItem.getId()+", "+tileItem.getQuantity()+", "+tileItem.getSpawnTime());
+		groundItemArray.add(groundItem);
+		save("GROUND_ITEM "+tileItem.getId()+"\t quantity "+tileItem.getQuantity()+"\t spawnTime "+tileItem.getSpawnTime());
+	}
 
 	@Subscribe
 	public void onSoundEffectPlayed(SoundEffectPlayed soundEffectPlayed){
@@ -638,9 +641,11 @@ public class DevToolsPlugin extends Plugin
 			saveInteractingActor(interacting, object);
 
 		saveSounds(object);
+		saveGroundItems(object);
 
 		playerSounds = new JsonArray();
 		areaSounds = new JsonArray();
+		groundItemArray = new JsonArray();
 
 		saveAddedProjectiles(object);
 
@@ -693,6 +698,11 @@ public class DevToolsPlugin extends Plugin
 
 		if (playerSounds.size() > 0)
 			object.add("sounds", playerSounds);
+	}
+
+	private void saveGroundItems(JsonObject object) {
+		if(groundItemArray.size() > 0)
+			object.add("ground-items", groundItemArray);
 	}
 
 	private void saveAddedProjectiles(JsonObject object) {

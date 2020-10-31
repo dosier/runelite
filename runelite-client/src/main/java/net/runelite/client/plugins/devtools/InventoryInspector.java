@@ -94,7 +94,7 @@ class InventoryInspector extends JFrame
 
 		setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
 		// Reset highlight on close
-		/*addWindowListener(new WindowAdapter()
+		addWindowListener(new WindowAdapter()
 		{
 			@Override
 			public void windowClosing(WindowEvent e)
@@ -102,7 +102,7 @@ class InventoryInspector extends JFrame
 				close();
 				plugin.getInventoryInspector().setActive(false);
 			}
-		});*/
+		});
 
 		tree.setBorder(new EmptyBorder(2, 2, 2, 2));
 		tree.setRootVisible(false);

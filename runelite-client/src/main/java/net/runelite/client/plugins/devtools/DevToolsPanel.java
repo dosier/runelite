@@ -51,6 +51,7 @@ class DevToolsPanel extends PluginPanel
 	private final WidgetInspector widgetInspector;
 	private final VarInspector varInspector;
 	private final ScriptInspector scriptInspector;
+	private final InventoryInspector inventoryInspector;
 	private final InfoBoxManager infoBoxManager;
 	private final ScheduledExecutorService scheduledExecutorService;
 
@@ -61,7 +62,7 @@ class DevToolsPanel extends PluginPanel
 			WidgetInspector widgetInspector,
 			VarInspector varInspector,
 			ScriptInspector scriptInspector,
-			Notifier notifier,
+			InventoryInspector inventoryInspector,Notifier notifier,
 			InfoBoxManager infoBoxManager,
 			ScheduledExecutorService scheduledExecutorService)
 	{
@@ -70,6 +71,7 @@ class DevToolsPanel extends PluginPanel
 		this.plugin = plugin;
 		this.widgetInspector = widgetInspector;
 		this.varInspector = varInspector;
+		this.inventoryInspector = inventoryInspector;
 		this.scriptInspector = scriptInspector;
 		this.notifier = notifier;
 		this.infoBoxManager = infoBoxManager;
@@ -114,6 +116,7 @@ class DevToolsPanel extends PluginPanel
 
 		container.add(plugin.getLineOfSight());
 		container.add(plugin.getValidMovement());
+		container.add(plugin.getMovementFlags());
 		container.add(plugin.getInteracting());
 		container.add(plugin.getExamine());
 
@@ -184,6 +187,19 @@ class DevToolsPanel extends PluginPanel
 		final JButton clearInfoboxBtn = new JButton("Clear Infobox");
 		clearInfoboxBtn.addActionListener(e -> infoBoxManager.removeIf(i -> true));
 		container.add(clearInfoboxBtn);
+
+		container.add(plugin.getInventoryInspector());
+		plugin.getInventoryInspector().addActionListener((ev) ->
+		{
+			if (plugin.getInventoryInspector().isActive())
+			{
+				inventoryInspector.close();
+			}
+			else
+			{
+				inventoryInspector.open();
+			}
+		});
 
 		return container;
 	}

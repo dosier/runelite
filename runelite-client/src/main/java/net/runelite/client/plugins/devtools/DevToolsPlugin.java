@@ -143,6 +143,7 @@ public class DevToolsPlugin extends Plugin
 	private DevToolsButton chunkBorders;
 	private DevToolsButton mapSquares;
 	private DevToolsButton validMovement;
+	private DevToolsButton movementFlags;
 	private DevToolsButton lineOfSight;
 	private DevToolsButton cameraPosition;
 	private DevToolsButton worldMapLocation;
@@ -154,6 +155,7 @@ public class DevToolsPlugin extends Plugin
 	private DevToolsButton varInspector;
 	private DevToolsButton soundEffects;
 	private DevToolsButton scriptInspector;
+	private DevToolsButton inventoryInspector;
 	private NavigationButton navButton;
 	private boolean switchedOn;
 
@@ -191,6 +193,7 @@ public class DevToolsPlugin extends Plugin
 
 		lineOfSight = new DevToolsButton("Line Of Sight");
 		validMovement = new DevToolsButton("Valid Movement");
+		movementFlags = new DevToolsButton("Movement Flags");
 		interacting = new DevToolsButton("Interacting");
 		examine = new DevToolsButton("Examine");
 
@@ -199,6 +202,7 @@ public class DevToolsPlugin extends Plugin
 		varInspector = new DevToolsButton("Var Inspector");
 		soundEffects = new DevToolsButton("Sound Effects");
 		scriptInspector = new DevToolsButton("Script Inspector");
+		inventoryInspector = new DevToolsButton("Inventory Inspector");
 
 		toggleTracking = new DevToolsButton("Toggle Tracking");
 		saveTrackedData = new DevToolsButton("Save Tracked Data");

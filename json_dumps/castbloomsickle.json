@@ -1,0 +1,63 @@
+[
+  {
+    "server-tick": 20135,
+    "animation": 1100,
+    "gfx": 264,
+    "sounds": [
+      {
+        "id, delay": "1493, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 20136,
+    "animation": 1100,
+    "gfx": 264,
+    "graphics": [
+      {
+        "id": 263,
+        "level": 0,
+        "start": 3755289
+      },
+      {
+        "id": 263,
+        "level": 0,
+        "start": 3755289
+      },
+      {
+        "id": 263,
+        "level": 0,
+        "start": 3755289
+      },
+      {
+        "id": 263,
+        "level": 0,
+        "start": 3755289
+      },
+      {
+        "id": 263,
+        "level": 0,
+        "start": 3755289
+      },
+      {
+        "id": 263,
+        "level": 0,
+        "start": 3755289
+      },
+      {
+        "id": 263,
+        "level": 0,
+        "start": 3755289
+      },
+      {
+        "id": 263,
+        "level": 0,
+        "start": 3755289
+      }
+    ]
+  },
+  {
+    "server-tick": 20137,
+    "animation": 1100
+  }
+]

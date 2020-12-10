@@ -1,0 +1,144 @@
+[
+  {
+    "server-tick": 40507,
+    "area-sounds": [
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 67,
+        "sceneY": 18,
+        "source": "Smyle4Me"
+      }
+    ]
+  },
+  {
+    "server-tick": 40509,
+    "pos": "3175, 3427, 0",
+    "interacting": {
+      "npc": "Guard (3011)"
+    }
+  },
+  {
+    "server-tick": 40510,
+    "animation": 1378,
+    "gfx": 1292,
+    "pos": "3177, 3425, 0",
+    "interacting": {
+      "npc": "Guard (3011)",
+      "animation": 6488
+    },
+    "area-sounds": [
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 67,
+        "sceneY": 18,
+        "source": "Smyle4Me"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 67,
+        "sceneY": 18,
+        "source": "Smyle4Me"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2520, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 40511,
+    "animation": 1378,
+    "gfx": 1292,
+    "interacting": {
+      "npc": "Guard (3011)",
+      "animation": 6488
+    },
+    "area-sounds": [
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 67,
+        "sceneY": 18,
+        "source": "Smyle4Me"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 40512,
+    "area-sounds": [
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 67,
+        "sceneY": 18,
+        "source": "Smyle4Me"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 40515,
+    "area-sounds": [
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 67,
+        "sceneY": 18,
+        "source": "Smyle4Me"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 67,
+        "sceneY": 18,
+        "source": "Smyle4Me"
+      }
+    ]
+  },
+  {
+    "server-tick": 40516,
+    "area-sounds": [
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 67,
+        "sceneY": 18,
+        "source": "Smyle4Me"
+      }
+    ]
+  },
+  {
+    "server-tick": 40517,
+    "area-sounds": [
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 67,
+        "sceneY": 18,
+        "source": "Smyle4Me"
+      }
+    ]
+  }
+]

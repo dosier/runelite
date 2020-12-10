@@ -1,0 +1,437 @@
+[
+  {
+    "server-tick": 2943,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3175, 3427, 0",
+    "interacting": {
+      "npc": "Guard (3010)"
+    }
+  },
+  {
+    "server-tick": 2944,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7541,
+    "pos": "3177, 3427, 0",
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "2257, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2945,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7541,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2946,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Guard (3010)"
+    },
+    "area-sounds": [
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      }
+    ]
+  },
+  {
+    "server-tick": 2947,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1834,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6489
+    },
+    "area-sounds": [
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2948,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7541,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "area-sounds": [
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2257, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2949,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7541,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2950,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Guard (3010)"
+    }
+  },
+  {
+    "server-tick": 2951,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1834,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6489
+    },
+    "area-sounds": [
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2952,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7541,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "area-sounds": [
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2257, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2953,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7541,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "area-sounds": [
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2954,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Guard (3010)"
+    }
+  },
+  {
+    "server-tick": 2955,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1834,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6489
+    },
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2956,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7541,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "area-sounds": [
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2257, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2957,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7541,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "area-sounds": [
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2958,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Guard (3010)"
+    },
+    "area-sounds": [
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      }
+    ]
+  },
+  {
+    "server-tick": 2959,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1834,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6489
+    },
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2960,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7541,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "2257, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2961,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7541,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "area-sounds": [
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2962,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Guard (3010)"
+    },
+    "area-sounds": [
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      }
+    ]
+  },
+  {
+    "server-tick": 2963,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1834,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6489
+    },
+    "area-sounds": [
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2964,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7541,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "2257, 0"
+      }
+    ]
+  }
+]

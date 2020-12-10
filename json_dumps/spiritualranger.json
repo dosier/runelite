@@ -1,0 +1,758 @@
+[
+  {
+    "server-tick": 36950,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36951,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36952,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "2368, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36953,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "650, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36954,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36955,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36956,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "2370, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36957,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "650, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36958,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36959,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36960,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "2367, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36961,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "650, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36962,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36963,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36964,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "2366, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36965,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "650, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36966,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36967,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36968,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "2368, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36969,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "650, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36970,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36971,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36972,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "2368, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36973,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "650, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36974,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36975,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36976,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "2367, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36977,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "650, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36978,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36979,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36980,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "2370, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36981,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "650, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36982,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36983,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36984,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "2369, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36985,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "650, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36986,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36987,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36988,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "2368, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36989,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "650, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36990,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36991,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36992,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "2367, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36993,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "650, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36994,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36995,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36996,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "2367, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36997,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "650, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36998,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 36999,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 37000,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "2367, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37001,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "650, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37002,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 37003,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 37004,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "2367, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37005,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "650, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37006,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 37007,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 37008,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "2366, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37009,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "650, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37010,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 37011,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 37012,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "2369, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37013,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "650, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37014,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 37015,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    }
+  },
+  {
+    "server-tick": 37016,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "2367, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37017,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Spiritual ranger (2242)",
+      "animation": 6972
+    },
+    "sounds": [
+      {
+        "id, delay": "650, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37018,
+    "sounds": [
+      {
+        "id, delay": "649, 0"
+      }
+    ]
+  }
+]

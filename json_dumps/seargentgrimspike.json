@@ -1,0 +1,265 @@
+[
+  {
+    "server-tick": 37085,
+    "animation": 1659
+  },
+  {
+    "server-tick": 37086,
+    "animation": 1659,
+    "pos": "2864, 5354, 2"
+  },
+  {
+    "server-tick": 37087,
+    "animation": 1659
+  },
+  {
+    "server-tick": 37092,
+    "pos": "2866, 5355, 2"
+  },
+  {
+    "server-tick": 37093,
+    "pos": "2868, 5357, 2"
+  },
+  {
+    "server-tick": 37095,
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37097,
+    "pos": "2868, 5359, 2",
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)",
+      "animation": 7073,
+      "gfx": 1219
+    }
+  },
+  {
+    "server-tick": 37098,
+    "animation": 1658,
+    "pos": "2868, 5361, 2",
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)",
+      "animation": 7073
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37099,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)"
+    },
+    "sounds": [
+      {
+        "id, delay": "472, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37100,
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)"
+    }
+  },
+  {
+    "server-tick": 37101,
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)"
+    }
+  },
+  {
+    "server-tick": 37102,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)",
+      "animation": 7073
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37103,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)",
+      "animation": 7073
+    },
+    "sounds": [
+      {
+        "id, delay": "472, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37104,
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)"
+    }
+  },
+  {
+    "server-tick": 37105,
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)"
+    }
+  },
+  {
+    "server-tick": 37106,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)",
+      "animation": 6155
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37107,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)",
+      "animation": 7073,
+      "gfx": 1219
+    },
+    "sounds": [
+      {
+        "id, delay": "472, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37108,
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)",
+      "animation": 7073
+    }
+  },
+  {
+    "server-tick": 37109,
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)"
+    }
+  },
+  {
+    "server-tick": 37110,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)",
+      "animation": 6155
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37111,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)",
+      "animation": 6155
+    },
+    "sounds": [
+      {
+        "id, delay": "472, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37112,
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)",
+      "animation": 7073,
+      "gfx": 1219
+    }
+  },
+  {
+    "server-tick": 37113,
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)",
+      "animation": 7073
+    },
+    "projectiles": [
+      {
+        "id": 1220,
+        "heights": "11, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 37114,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)",
+      "animation": 6155
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37115,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)",
+      "animation": 6155
+    },
+    "sounds": [
+      {
+        "id, delay": "472, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 37116,
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)",
+      "animation": 6155
+    }
+  },
+  {
+    "server-tick": 37117,
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)",
+      "animation": 7073,
+      "gfx": 1219
+    }
+  },
+  {
+    "server-tick": 37118,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Sergeant Grimspike (2218)",
+      "animation": 7073
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1220,
+        "heights": "11, 144",
+        "slope, duration": "15, 23"
+      }
+    ]
+  }
+]

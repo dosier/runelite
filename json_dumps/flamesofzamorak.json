@@ -1,0 +1,86 @@
+[
+  {
+    "server-tick": 7470,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7471,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7472,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7473,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 811,
+    "interacting": {
+      "npc": "Skeleton (72)",
+      "animation": 5489,
+      "gfx": 78
+    }
+  },
+  {
+    "server-tick": 7474,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 811
+  },
+  {
+    "server-tick": 7475,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 811
+  },
+  {
+    "server-tick": 7476,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 811,
+    "sounds": [
+      {
+        "id, delay": "779, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7477,
+    "game-state": "LOGGED_IN (30)",
+    "sounds": [
+      {
+        "id, delay": "777, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7478,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7479,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7480,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7481,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7482,
+    "game-state": "LOGGED_IN (30)",
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "526, 1, 7482"
+      }
+    ]
+  },
+  {
+    "server-tick": 7483,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7484,
+    "game-state": "LOGGED_IN (30)"
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "server-tick": 6712,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3212, 3457, 0"
+  },
+  {
+    "server-tick": 6713,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "pos": "3212, 3459, 0",
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6714,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6715,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Guard (3010)"
+    }
+  },
+  {
+    "server-tick": 6716,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6489
+    },
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6717,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6489
+    }
+  },
+  {
+    "server-tick": 6718,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6719,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6720,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6489
+    },
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6721,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6489
+    }
+  },
+  {
+    "server-tick": 6722,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Guard (3010)"
+    }
+  },
+  {
+    "server-tick": 6723,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 2890,
+    "gfx": 483,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "225, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6724,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 483,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6489
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      },
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 6725,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "gfx": 483,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6489
+    }
+  },
+  {
+    "server-tick": 6726,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 483,
+    "interacting": {
+      "npc": "Guard (3010)"
+    }
+  },
+  {
+    "server-tick": 6727,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Guard (3010)"
+    }
+  },
+  {
+    "server-tick": 6728,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6729,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Guard (3010)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6730,
+    "game-state": "LOGGED_IN (30)",
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6731,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 6732,
+    "game-state": "LOGGED_IN (30)",
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "526, 1, 6732"
+      },
+      {
+        "id, quantity, spawnTime": "995, 1, 6732"
+      }
+    ]
+  }
+]

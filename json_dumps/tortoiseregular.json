@@ -1,0 +1,525 @@
+[
+  {
+    "server-tick": 7036,
+    "animation": 390,
+    "pos": "2425, 3523, 0",
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3961
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7037,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)"
+    },
+    "sounds": [
+      {
+        "id, delay": "459, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7038,
+    "interacting": {
+      "npc": "Tortoise (6075)"
+    }
+  },
+  {
+    "server-tick": 7039,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3960
+    },
+    "sounds": [
+      {
+        "id, delay": "457, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7040,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3961
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7041,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3961
+    },
+    "sounds": [
+      {
+        "id, delay": "459, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7042,
+    "interacting": {
+      "npc": "Tortoise (6075)"
+    }
+  },
+  {
+    "server-tick": 7043,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3960
+    },
+    "sounds": [
+      {
+        "id, delay": "457, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7044,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3961
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7045,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)"
+    },
+    "sounds": [
+      {
+        "id, delay": "459, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7046,
+    "interacting": {
+      "npc": "Tortoise (6075)"
+    }
+  },
+  {
+    "server-tick": 7047,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3960
+    },
+    "sounds": [
+      {
+        "id, delay": "457, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7048,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3961
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7049,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3961
+    },
+    "sounds": [
+      {
+        "id, delay": "459, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7050,
+    "interacting": {
+      "npc": "Tortoise (6075)"
+    }
+  },
+  {
+    "server-tick": 7051,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3960
+    },
+    "sounds": [
+      {
+        "id, delay": "457, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7052,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3961
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7053,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)"
+    },
+    "sounds": [
+      {
+        "id, delay": "459, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7054,
+    "interacting": {
+      "npc": "Tortoise (6075)"
+    }
+  },
+  {
+    "server-tick": 7055,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3960
+    },
+    "sounds": [
+      {
+        "id, delay": "457, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7056,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3961
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7057,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)"
+    },
+    "sounds": [
+      {
+        "id, delay": "459, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7058,
+    "interacting": {
+      "npc": "Tortoise (6075)"
+    }
+  },
+  {
+    "server-tick": 7059,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3960
+    },
+    "sounds": [
+      {
+        "id, delay": "457, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7060,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3961
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7061,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)"
+    },
+    "sounds": [
+      {
+        "id, delay": "459, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7062,
+    "interacting": {
+      "npc": "Tortoise (6075)"
+    }
+  },
+  {
+    "server-tick": 7063,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3960
+    },
+    "sounds": [
+      {
+        "id, delay": "457, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7064,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3961
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7065,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)"
+    },
+    "sounds": [
+      {
+        "id, delay": "459, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7066,
+    "interacting": {
+      "npc": "Tortoise (6075)"
+    }
+  },
+  {
+    "server-tick": 7067,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3960
+    },
+    "sounds": [
+      {
+        "id, delay": "457, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7068,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3961
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7069,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3961
+    },
+    "sounds": [
+      {
+        "id, delay": "459, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7070,
+    "interacting": {
+      "npc": "Tortoise (6075)"
+    }
+  },
+  {
+    "server-tick": 7071,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3960
+    },
+    "sounds": [
+      {
+        "id, delay": "457, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7072,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3961
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7073,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)"
+    },
+    "sounds": [
+      {
+        "id, delay": "459, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7074,
+    "interacting": {
+      "npc": "Tortoise (6075)"
+    }
+  },
+  {
+    "server-tick": 7075,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3960
+    },
+    "sounds": [
+      {
+        "id, delay": "457, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7076,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)",
+      "animation": 3961
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7077,
+    "animation": 390,
+    "interacting": {
+      "npc": "Tortoise (6075)"
+    },
+    "sounds": [
+      {
+        "id, delay": "459, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7078,
+    "sounds": [
+      {
+        "id, delay": "458, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7080,
+    "pos": "2423, 3523, 0"
+  },
+  {
+    "server-tick": 7081,
+    "pos": "2421, 3523, 0"
+  },
+  {
+    "server-tick": 7082,
+    "pos": "2419, 3525, 0"
+  },
+  {
+    "server-tick": 7083,
+    "pos": "2418, 3526, 0"
+  }
+]

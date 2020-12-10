@@ -1,0 +1,105 @@
+[
+  {
+    "server-tick": 1990,
+    "animation": 4177
+  },
+  {
+    "server-tick": 1991,
+    "sounds": [
+      {
+        "id, delay": "860, 0"
+      },
+      {
+        "id, delay": "2843, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 1992,
+    "animation": 4177
+  },
+  {
+    "server-tick": 1993,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "860, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 276,
+        "heights": "128, 144",
+        "slope, duration": "8, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 1994,
+    "animation": 4177
+  },
+  {
+    "server-tick": 1995,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "860, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 276,
+        "heights": "128, 144",
+        "slope, duration": "8, 24"
+      }
+    ]
+  },
+  {
+    "server-tick": 1997,
+    "animation": 4177
+  },
+  {
+    "server-tick": 1998,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "860, 0"
+      },
+      {
+        "id, delay": "2843, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 1999,
+    "animation": 4177
+  },
+  {
+    "server-tick": 2000,
+    "sounds": [
+      {
+        "id, delay": "860, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2001,
+    "animation": 4177
+  },
+  {
+    "server-tick": 2002,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "860, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 276,
+        "heights": "128, 144",
+        "slope, duration": "8, 24"
+      }
+    ]
+  }
+]

@@ -1,0 +1,430 @@
+[
+  {
+    "server-tick": 18776,
+    "animation": 1658,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)",
+      "animation": 3726
+    },
+    "sounds": [
+      {
+        "id, delay": "1184, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 628,
+        "heights": "75, 64",
+        "slope, duration": "12, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 18777,
+    "animation": 1658,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)"
+    },
+    "sounds": [
+      {
+        "id, delay": "789, 0"
+      },
+      {
+        "id, delay": "1184, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 18778,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)"
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 18779,
+    "animation": 4177,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)"
+    }
+  },
+  {
+    "server-tick": 18780,
+    "animation": 1658,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)",
+      "animation": 3726
+    },
+    "sounds": [
+      {
+        "id, delay": "1184, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 18781,
+    "animation": 1658,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)"
+    },
+    "sounds": [
+      {
+        "id, delay": "789, 0"
+      },
+      {
+        "id, delay": "1184, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 18782,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)"
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 18783,
+    "animation": 4177,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)"
+    }
+  },
+  {
+    "server-tick": 18784,
+    "animation": 1658,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)",
+      "animation": 3726
+    },
+    "sounds": [
+      {
+        "id, delay": "1184, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 18785,
+    "animation": 1658,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)"
+    },
+    "sounds": [
+      {
+        "id, delay": "789, 0"
+      },
+      {
+        "id, delay": "1184, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 18786,
+    "gfx": 629,
+    "pos": "10891, 11021, 0",
+    "interacting": {
+      "npc": "Giant snail (5629)",
+      "animation": 3724
+    },
+    "sounds": [
+      {
+        "id, delay": "787, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 628,
+        "heights": "75, 64",
+        "slope, duration": "12, 16"
+      }
+    ]
+  },
+  {
+    "server-tick": 18787,
+    "animation": 4177,
+    "gfx": 629,
+    "pos": "10890, 11021, 0",
+    "interacting": {
+      "npc": "Giant snail (5629)",
+      "animation": 3724
+    }
+  },
+  {
+    "server-tick": 18788,
+    "animation": 1658,
+    "gfx": 629,
+    "pos": "10889, 11021, 0",
+    "interacting": {
+      "npc": "Giant snail (5629)",
+      "animation": 3726
+    },
+    "sounds": [
+      {
+        "id, delay": "1184, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 18789,
+    "animation": 1658,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)"
+    },
+    "sounds": [
+      {
+        "id, delay": "789, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 18790,
+    "gfx": 629,
+    "pos": "10888, 11020, 0",
+    "interacting": {
+      "npc": "Giant snail (5629)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1184, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 18791,
+    "animation": 4177,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)",
+      "animation": 3724
+    }
+  },
+  {
+    "server-tick": 18792,
+    "animation": 1658,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)",
+      "animation": 3726
+    },
+    "sounds": [
+      {
+        "id, delay": "1184, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 18793,
+    "animation": 1658,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)"
+    },
+    "sounds": [
+      {
+        "id, delay": "789, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 18794,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1184, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 628,
+        "heights": "75, 64",
+        "slope, duration": "12, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 18795,
+    "animation": 4177,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)"
+    }
+  },
+  {
+    "server-tick": 18796,
+    "animation": 1658,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)",
+      "animation": 3726
+    },
+    "sounds": [
+      {
+        "id, delay": "1184, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 628,
+        "heights": "75, 64",
+        "slope, duration": "12, 1"
+      },
+      {
+        "id": 628,
+        "heights": "75, 64",
+        "slope, duration": "12, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 18797,
+    "animation": 1658,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)"
+    },
+    "sounds": [
+      {
+        "id, delay": "789, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 18798,
+    "gfx": 629,
+    "pos": "10889, 11020, 0",
+    "interacting": {
+      "npc": "Giant snail (5629)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1184, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 18799,
+    "animation": 4177,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)",
+      "animation": 3724
+    }
+  },
+  {
+    "server-tick": 18800,
+    "animation": 1658,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)",
+      "animation": 3726
+    },
+    "sounds": [
+      {
+        "id, delay": "1184, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 628,
+        "heights": "75, 64",
+        "slope, duration": "12, 8"
+      },
+      {
+        "id": 628,
+        "heights": "75, 64",
+        "slope, duration": "12, 23"
+      },
+      {
+        "id": 628,
+        "heights": "75, 64",
+        "slope, duration": "12, 3"
+      }
+    ]
+  },
+  {
+    "server-tick": 18801,
+    "animation": 1658,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)"
+    },
+    "sounds": [
+      {
+        "id, delay": "789, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 18802,
+    "gfx": 629,
+    "interacting": {
+      "npc": "Giant snail (5629)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1184, 0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "server-tick": 335,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3200, 3428, 0"
+  },
+  {
+    "server-tick": 336,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3198, 3428, 0"
+  },
+  {
+    "server-tick": 337,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3196, 3428, 0"
+  },
+  {
+    "server-tick": 338,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3194, 3429, 0"
+  },
+  {
+    "server-tick": 339,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3193, 3430, 0"
+  },
+  {
+    "server-tick": 340,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 341,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 179,
+    "pos": "3191, 3430, 0"
+  },
+  {
+    "server-tick": 342,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 179
+  },
+  {
+    "server-tick": 343,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 179
+  },
+  {
+    "server-tick": 344,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 179,
+    "interacting": {
+      "player": "R4ng3rn0ob88"
+    },
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      },
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 345,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 179,
+    "interacting": {
+      "player": "R4ng3rn0ob88"
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 346,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1819,
+    "gfx": 345,
+    "interacting": {
+      "player": "R4ng3rn0ob88",
+      "animation": 1820,
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 347,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1819,
+    "gfx": 345,
+    "interacting": {
+      "player": "R4ng3rn0ob88",
+      "animation": 1820,
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 348,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1819,
+    "gfx": 345,
+    "interacting": {
+      "player": "R4ng3rn0ob88",
+      "animation": 1820,
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 349,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 345,
+    "interacting": {
+      "player": "R4ng3rn0ob88",
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 350,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "player": "R4ng3rn0ob88"
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 351,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 4230,
+    "gfx": 85,
+    "interacting": {
+      "player": "R4ng3rn0ob88",
+      "animation": 7855,
+      "gfx": 1464
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 352,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 4230,
+    "gfx": 85,
+    "interacting": {
+      "player": "R4ng3rn0ob88",
+      "animation": 7855,
+      "gfx": 1464
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "2766, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 353,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 4230,
+    "gfx": 85,
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      }
+    ],
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "21948, 1, 353"
+      }
+    ]
+  },
+  {
+    "server-tick": 354,
+    "game-state": "LOGGED_IN (30)",
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 355,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 356,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 1466,
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 357,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 1466,
+    "interacting": {
+      "player": "R4ng3rn0ob88",
+      "animation": 7855,
+      "gfx": 1464
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      },
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 358,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 1466,
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 359,
+    "game-state": "LOGGED_IN (30)",
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 360,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 361,
+    "game-state": "LOGGED_IN (30)",
+    "sounds": [
+      {
+        "id, delay": "3825, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 362,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 363,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "interacting": {
+      "player": "R4ng3rn0ob88",
+      "animation": 4230
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      },
+      {
+        "id, delay": "154, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 364,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 365,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 366,
+    "game-state": "LOGGED_IN (30)",
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 15"
+      }
+    ]
+  },
+  {
+    "server-tick": 367,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "pos": "3189, 3430, 0"
+  },
+  {
+    "server-tick": 368,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "pos": "3187, 3430, 0",
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 369,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "pos": "3185, 3430, 0"
+  },
+  {
+    "server-tick": 370,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "pos": "3183, 3432, 0"
+  },
+  {
+    "server-tick": 371,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3183, 3434, 0",
+    "sounds": [
+      {
+        "id, delay": "2677, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 372,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3183, 3436, 0",
+    "sounds": [
+      {
+        "id, delay": "3720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 697,
+        "heights": "11, 144",
+        "slope, duration": "15, 18"
+      },
+      {
+        "id": 697,
+        "heights": "11, 144",
+        "slope, duration": "15, 18"
+      }
+    ]
+  },
+  {
+    "server-tick": 373,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3183, 3438, 0"
+  },
+  {
+    "server-tick": 374,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "pos": "3184, 3438, 0",
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      },
+      {
+        "id, delay": "3720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 697,
+        "heights": "11, 144",
+        "slope, duration": "15, 17"
+      },
+      {
+        "id": 697,
+        "heights": "11, 144",
+        "slope, duration": "15, 17"
+      }
+    ]
+  },
+  {
+    "server-tick": 375,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "pos": "3183, 3440, 0",
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 46"
+      }
+    ]
+  },
+  {
+    "server-tick": 376,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "pos": "3183, 3442, 0",
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      },
+      {
+        "id, delay": "3720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 377,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "pos": "3184, 3442, 0",
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 40"
+      }
+    ]
+  },
+  {
+    "server-tick": 378,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "sounds": [
+      {
+        "id, delay": "3720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 379,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "sounds": [
+      {
+        "id, delay": "2680, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 380,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "sounds": [
+      {
+        "id, delay": "3720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 40"
+      },
+      {
+        "id": 1301,
+        "heights": "120, 144",
+        "slope, duration": "1, 25"
+      },
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 45"
+      }
+    ]
+  },
+  {
+    "server-tick": 381,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "gfx": 436,
+    "interacting": {
+      "player": "R4ng3rn0ob88",
+      "animation": 4230
+    },
+    "sounds": [
+      {
+        "id, delay": "2681, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 382,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "gfx": 436,
+    "interacting": {
+      "player": "R4ng3rn0ob88"
+    }
+  },
+  {
+    "server-tick": 383,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "gfx": 436,
+    "pos": "3183, 3443, 0",
+    "sounds": [
+      {
+        "id, delay": "2672, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 384,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 436
+  },
+  {
+    "server-tick": 385,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3183, 3444, 0"
+  },
+  {
+    "server-tick": 386,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3183, 3442, 0",
+    "projectiles": [
+      {
+        "id": 1301,
+        "heights": "120, 144",
+        "slope, duration": "1, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 387,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3183, 3441, 0"
+  },
+  {
+    "server-tick": 388,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 389,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 390,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 391,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 392,
+    "game-state": "LOGGED_IN (30)",
+    "projectiles": [
+      {
+        "id": 697,
+        "heights": "11, 144",
+        "slope, duration": "15, 17"
+      }
+    ]
+  }
+]

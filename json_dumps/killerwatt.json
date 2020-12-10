@@ -1,0 +1,272 @@
+[
+  {
+    "server-tick": 23150,
+    "pos": "2675, 5214, 2"
+  },
+  {
+    "server-tick": 23151,
+    "pos": "2674, 5214, 2"
+  },
+  {
+    "server-tick": 23154,
+    "pos": "2674, 5216, 2",
+    "interacting": {
+      "npc": "Killerwatt (469)"
+    }
+  },
+  {
+    "server-tick": 23155,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Killerwatt (469)",
+      "animation": 3165
+    },
+    "sounds": [
+      {
+        "id, delay": "576, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23156,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Killerwatt (469)"
+    },
+    "sounds": [
+      {
+        "id, delay": "583, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23157,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Killerwatt (469)",
+      "animation": 3163
+    },
+    "sounds": [
+      {
+        "id, delay": "576, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23158,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Killerwatt (469)"
+    }
+  },
+  {
+    "server-tick": 23159,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Killerwatt (469)",
+      "animation": 3165
+    },
+    "sounds": [
+      {
+        "id, delay": "576, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23160,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Killerwatt (469)"
+    },
+    "sounds": [
+      {
+        "id, delay": "583, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23161,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Killerwatt (469)",
+      "animation": 3163
+    },
+    "sounds": [
+      {
+        "id, delay": "576, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23162,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Killerwatt (469)"
+    }
+  },
+  {
+    "server-tick": 23163,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Killerwatt (469)",
+      "animation": 3165
+    },
+    "sounds": [
+      {
+        "id, delay": "576, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23164,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Killerwatt (469)"
+    },
+    "sounds": [
+      {
+        "id, delay": "583, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23165,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Killerwatt (469)",
+      "animation": 3163
+    },
+    "sounds": [
+      {
+        "id, delay": "576, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23166,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Killerwatt (469)"
+    }
+  },
+  {
+    "server-tick": 23167,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Killerwatt (469)",
+      "animation": 3165
+    },
+    "sounds": [
+      {
+        "id, delay": "576, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23168,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Killerwatt (469)"
+    },
+    "sounds": [
+      {
+        "id, delay": "583, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23169,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Killerwatt (469)",
+      "animation": 3163
+    },
+    "sounds": [
+      {
+        "id, delay": "576, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 23170,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Killerwatt (469)"
+    }
+  },
+  {
+    "server-tick": 23171,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Killerwatt (469)",
+      "animation": 3165
+    },
+    "sounds": [
+      {
+        "id, delay": "576, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23172,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Killerwatt (469)"
+    },
+    "sounds": [
+      {
+        "id, delay": "583, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 23173,
+    "sounds": [
+      {
+        "id, delay": "580, 0"
+      }
+    ]
+  }
+]

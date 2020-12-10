@@ -1,0 +1,68 @@
+[
+  {
+    "server-tick": 472,
+    "animation": 390,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 2309
+    },
+    "sounds": [
+      {
+        "id, delay": "278, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 473,
+    "interacting": {
+      "npc": "Abyssal demon (415)",
+      "animation": 1535,
+      "gfx": 409
+    },
+    "sounds": [
+      {
+        "id, delay": "2398, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 475,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "276, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 476,
+    "animation": 1156
+  },
+  {
+    "server-tick": 477,
+    "animation": 1156
+  },
+  {
+    "server-tick": 479,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "276, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 480,
+    "animation": 1156
+  },
+  {
+    "server-tick": 481,
+    "animation": 1156
+  }
+]

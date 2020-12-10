@@ -1,0 +1,823 @@
+[
+  {
+    "server-tick": 25713,
+    "pos": "1266, 10185, 0"
+  },
+  {
+    "server-tick": 25715,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Wyrm (8610)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25716,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Wyrm (8611)",
+      "animation": 8268
+    },
+    "sounds": [
+      {
+        "id, delay": "4084, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 46"
+      }
+    ]
+  },
+  {
+    "server-tick": 25717,
+    "area-sounds": [
+      {
+        "id": 4114,
+        "delay": 0,
+        "range": 7,
+        "sceneX": 48,
+        "sceneY": 50,
+        "source": "Wyrm (8611)"
+      }
+    ]
+  },
+  {
+    "server-tick": 25718,
+    "animation": 1659,
+    "area-sounds": [
+      {
+        "id": 4121,
+        "delay": 0,
+        "range": 6,
+        "sceneX": 48,
+        "sceneY": 50,
+        "source": "Wyrm (8611)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "4085, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25719,
+    "animation": 1659,
+    "projectiles": [
+      {
+        "id": 1634,
+        "heights": "150, 64",
+        "slope, duration": "0, 20"
+      },
+      {
+        "id": 1634,
+        "heights": "150, 64",
+        "slope, duration": "0, 35"
+      }
+    ]
+  },
+  {
+    "server-tick": 25721,
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 45"
+      }
+    ]
+  },
+  {
+    "server-tick": 25722,
+    "animation": 1659,
+    "area-sounds": [
+      {
+        "id": 4121,
+        "delay": 0,
+        "range": 6,
+        "sceneX": 49,
+        "sceneY": 51,
+        "source": "Wyrm (8611)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "4085, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25723,
+    "animation": 1659,
+    "projectiles": [
+      {
+        "id": 1634,
+        "heights": "150, 64",
+        "slope, duration": "0, 35"
+      }
+    ]
+  },
+  {
+    "server-tick": 25725,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Wyrm (8611)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25726,
+    "animation": 1658,
+    "gfx": 1635,
+    "interacting": {
+      "npc": "Wyrm (8611)",
+      "animation": 8271
+    },
+    "area-sounds": [
+      {
+        "id": 4121,
+        "delay": 0,
+        "range": 6,
+        "sceneX": 49,
+        "sceneY": 51,
+        "source": "Wyrm (8611)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "4084, 0"
+      },
+      {
+        "id, delay": "4085, 5"
+      },
+      {
+        "id, delay": "1965, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 47"
+      },
+      {
+        "id": 1634,
+        "heights": "150, 64",
+        "slope, duration": "0, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 25727,
+    "gfx": 1635,
+    "interacting": {
+      "npc": "Wyrm (8611)",
+      "animation": 8271
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25728,
+    "gfx": 1635,
+    "pos": "1265, 10183, 0"
+  },
+  {
+    "server-tick": 25729,
+    "area-sounds": [
+      {
+        "id": 4121,
+        "delay": 0,
+        "range": 6,
+        "sceneX": 49,
+        "sceneY": 51,
+        "source": "Wyrm (8611)"
+      }
+    ]
+  },
+  {
+    "server-tick": 25730,
+    "animation": 1659,
+    "gfx": 1635,
+    "sounds": [
+      {
+        "id, delay": "4085, 5"
+      },
+      {
+        "id, delay": "1965, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1634,
+        "heights": "150, 64",
+        "slope, duration": "0, 20"
+      },
+      {
+        "id": 1634,
+        "heights": "150, 64",
+        "slope, duration": "0, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 25731,
+    "animation": 1659,
+    "gfx": 1635,
+    "sounds": [
+      {
+        "id, delay": "2238, 0"
+      },
+      {
+        "id, delay": "2247, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 44"
+      }
+    ]
+  },
+  {
+    "server-tick": 25732,
+    "animation": 1659,
+    "gfx": 1635,
+    "sounds": [
+      {
+        "id, delay": "3284, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25733,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Wyrm (8611)"
+    },
+    "area-sounds": [
+      {
+        "id": 4121,
+        "delay": 0,
+        "range": 6,
+        "sceneX": 49,
+        "sceneY": 51,
+        "source": "Wyrm (8611)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 43"
+      }
+    ]
+  },
+  {
+    "server-tick": 25734,
+    "animation": 5061,
+    "gfx": 1635,
+    "interacting": {
+      "npc": "Wyrm (8611)",
+      "animation": 8271
+    },
+    "sounds": [
+      {
+        "id, delay": "4085, 5"
+      },
+      {
+        "id, delay": "1965, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 17"
+      }
+    ]
+  },
+  {
+    "server-tick": 25735,
+    "animation": 5061,
+    "gfx": 1635,
+    "interacting": {
+      "npc": "Wyrm (8611)",
+      "animation": 8271
+    },
+    "sounds": [
+      {
+        "id, delay": "4084, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1634,
+        "heights": "150, 64",
+        "slope, duration": "0, 38"
+      },
+      {
+        "id": 1634,
+        "heights": "150, 64",
+        "slope, duration": "0, 26"
+      },
+      {
+        "id": 1634,
+        "heights": "150, 64",
+        "slope, duration": "0, 20"
+      },
+      {
+        "id": 1634,
+        "heights": "150, 64",
+        "slope, duration": "0, 35"
+      }
+    ]
+  },
+  {
+    "server-tick": 25736,
+    "animation": 5061,
+    "gfx": 1635,
+    "interacting": {
+      "npc": "Wyrm (8611)",
+      "animation": 8271
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 17"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 46"
+      }
+    ]
+  },
+  {
+    "server-tick": 25737,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Wyrm (8611)"
+    },
+    "area-sounds": [
+      {
+        "id": 4121,
+        "delay": 0,
+        "range": 6,
+        "sceneX": 49,
+        "sceneY": 51,
+        "source": "Wyrm (8611)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "4084, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25738,
+    "animation": 5061,
+    "gfx": 1635,
+    "interacting": {
+      "npc": "Wyrm (8611)",
+      "animation": 8271
+    },
+    "sounds": [
+      {
+        "id, delay": "4085, 5"
+      },
+      {
+        "id, delay": "1965, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 41"
+      },
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 17"
+      }
+    ]
+  },
+  {
+    "server-tick": 25739,
+    "animation": 5061,
+    "gfx": 1635,
+    "interacting": {
+      "npc": "Wyrm (8611)",
+      "animation": 8271
+    },
+    "sounds": [
+      {
+        "id, delay": "4084, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25740,
+    "animation": 5061,
+    "gfx": 1635,
+    "interacting": {
+      "npc": "Wyrm (8611)",
+      "animation": 8271
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 18"
+      }
+    ]
+  },
+  {
+    "server-tick": 25741,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Wyrm (8611)"
+    },
+    "area-sounds": [
+      {
+        "id": 4121,
+        "delay": 0,
+        "range": 6,
+        "sceneX": 49,
+        "sceneY": 51,
+        "source": "Wyrm (8611)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "4084, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 44"
+      }
+    ]
+  },
+  {
+    "server-tick": 25742,
+    "animation": 5061,
+    "gfx": 1635,
+    "interacting": {
+      "npc": "Wyrm (8611)",
+      "animation": 8271
+    },
+    "sounds": [
+      {
+        "id, delay": "4085, 5"
+      },
+      {
+        "id, delay": "1965, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25743,
+    "animation": 5061,
+    "gfx": 1635,
+    "interacting": {
+      "npc": "Wyrm (8611)",
+      "animation": 8271
+    },
+    "sounds": [
+      {
+        "id, delay": "4084, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25744,
+    "animation": 5061,
+    "gfx": 1635,
+    "interacting": {
+      "npc": "Wyrm (8611)",
+      "animation": 8271
+    },
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 35"
+      }
+    ]
+  },
+  {
+    "server-tick": 25745,
+    "animation": 5061,
+    "gfx": 1635,
+    "interacting": {
+      "npc": "Wyrm (8611)"
+    },
+    "area-sounds": [
+      {
+        "id": 4121,
+        "delay": 0,
+        "range": 6,
+        "sceneX": 49,
+        "sceneY": 51,
+        "source": "Wyrm (8611)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "4084, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25746,
+    "animation": 5061,
+    "gfx": 1635,
+    "interacting": {
+      "npc": "Wyrm (8611)",
+      "animation": 8271
+    },
+    "sounds": [
+      {
+        "id, delay": "4085, 5"
+      },
+      {
+        "id, delay": "1965, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 17"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 46"
+      }
+    ]
+  },
+  {
+    "server-tick": 25747,
+    "animation": 5061,
+    "gfx": 1635,
+    "interacting": {
+      "npc": "Wyrm (8611)",
+      "animation": 8271
+    },
+    "sounds": [
+      {
+        "id, delay": "4084, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1634,
+        "heights": "150, 64",
+        "slope, duration": "0, 38"
+      },
+      {
+        "id": 1634,
+        "heights": "150, 64",
+        "slope, duration": "0, 26"
+      },
+      {
+        "id": 1634,
+        "heights": "150, 64",
+        "slope, duration": "0, 35"
+      }
+    ]
+  },
+  {
+    "server-tick": 25748,
+    "animation": 5061,
+    "gfx": 1635,
+    "interacting": {
+      "npc": "Wyrm (8611)",
+      "animation": 8271
+    },
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 42"
+      },
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 18"
+      }
+    ]
+  },
+  {
+    "server-tick": 25749,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Wyrm (8611)"
+    },
+    "area-sounds": [
+      {
+        "id": 4121,
+        "delay": 0,
+        "range": 6,
+        "sceneX": 49,
+        "sceneY": 51,
+        "source": "Wyrm (8611)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "4084, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25750,
+    "animation": 5061,
+    "gfx": 1635,
+    "interacting": {
+      "npc": "Wyrm (8611)",
+      "animation": 8271
+    },
+    "sounds": [
+      {
+        "id, delay": "4085, 5"
+      },
+      {
+        "id, delay": "1965, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25751,
+    "animation": 5061,
+    "gfx": 1635,
+    "interacting": {
+      "npc": "Wyrm (8611)",
+      "animation": 8271
+    },
+    "sounds": [
+      {
+        "id, delay": "4084, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1634,
+        "heights": "150, 64",
+        "slope, duration": "0, 38"
+      },
+      {
+        "id": 1634,
+        "heights": "150, 64",
+        "slope, duration": "0, 26"
+      },
+      {
+        "id": 1634,
+        "heights": "150, 64",
+        "slope, duration": "0, 35"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 47"
+      }
+    ]
+  },
+  {
+    "server-tick": 25752,
+    "animation": 5061,
+    "gfx": 1635,
+    "interacting": {
+      "npc": "Wyrm (8611)"
+    }
+  },
+  {
+    "server-tick": 25753,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Wyrm (8611)"
+    },
+    "area-sounds": [
+      {
+        "id": 4121,
+        "delay": 0,
+        "range": 6,
+        "sceneX": 49,
+        "sceneY": 51,
+        "source": "Wyrm (8611)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "4084, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1634,
+        "heights": "150, 64",
+        "slope, duration": "0, 27"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 43"
+      }
+    ]
+  },
+  {
+    "server-tick": 25754,
+    "sounds": [
+      {
+        "id, delay": "4105, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25760,
+    "projectiles": [
+      {
+        "id": 1634,
+        "heights": "150, 64",
+        "slope, duration": "0, 26"
+      }
+    ]
+  }
+]

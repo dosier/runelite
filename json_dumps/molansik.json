@@ -1,0 +1,492 @@
+[
+  {
+    "server-tick": 24346,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "3492, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24347,
+    "animation": 4177
+  },
+  {
+    "server-tick": 24348,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24349,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Molanisk (1)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3494, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24350,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    },
+    "sounds": [
+      {
+        "id, delay": "3492, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24351,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    }
+  },
+  {
+    "server-tick": 24352,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24353,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Molanisk (1)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3494, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24354,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    },
+    "sounds": [
+      {
+        "id, delay": "3492, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24355,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    }
+  },
+  {
+    "server-tick": 24356,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24357,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Molanisk (1)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3494, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24358,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    },
+    "sounds": [
+      {
+        "id, delay": "3492, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24359,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    }
+  },
+  {
+    "server-tick": 24360,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24361,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Molanisk (1)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3494, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24362,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    },
+    "sounds": [
+      {
+        "id, delay": "3492, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24363,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    }
+  },
+  {
+    "server-tick": 24364,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24365,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Molanisk (1)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3494, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24366,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    },
+    "sounds": [
+      {
+        "id, delay": "3492, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24367,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    }
+  },
+  {
+    "server-tick": 24368,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24369,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Molanisk (1)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3494, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24370,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    },
+    "sounds": [
+      {
+        "id, delay": "3492, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24371,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    }
+  },
+  {
+    "server-tick": 24372,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24373,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Molanisk (1)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3494, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24374,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    },
+    "sounds": [
+      {
+        "id, delay": "3492, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24375,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    }
+  },
+  {
+    "server-tick": 24376,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24377,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Molanisk (1)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3494, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24378,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    },
+    "sounds": [
+      {
+        "id, delay": "3492, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24379,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    }
+  },
+  {
+    "server-tick": 24380,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24381,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Molanisk (1)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3494, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24382,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    },
+    "sounds": [
+      {
+        "id, delay": "3492, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24383,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    }
+  },
+  {
+    "server-tick": 24384,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Molanisk (1)",
+      "animation": 6012
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24385,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Molanisk (1)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3494, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24386,
+    "sounds": [
+      {
+        "id, delay": "3493, 0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "server-tick": 26903,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "442, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26904,
+    "animation": 1156
+  },
+  {
+    "server-tick": 26905,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Angry barbarian spirit (5563)",
+      "animation": 6726
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26906,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Angry barbarian spirit (5563)"
+    },
+    "sounds": [
+      {
+        "id, delay": "444, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26907,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Angry barbarian spirit (5563)",
+      "animation": 6726
+    },
+    "sounds": [
+      {
+        "id, delay": "442, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26908,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Angry barbarian spirit (5563)",
+      "animation": 6726
+    }
+  },
+  {
+    "server-tick": 26909,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Angry barbarian spirit (5563)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26910,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Angry barbarian spirit (5563)"
+    },
+    "sounds": [
+      {
+        "id, delay": "444, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26911,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Angry barbarian spirit (5563)",
+      "animation": 6726
+    },
+    "sounds": [
+      {
+        "id, delay": "442, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26912,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Angry barbarian spirit (5563)",
+      "animation": 6726
+    }
+  },
+  {
+    "server-tick": 26913,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Angry barbarian spirit (5563)",
+      "animation": 6728
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26914,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Angry barbarian spirit (5563)",
+      "animation": 6728
+    },
+    "sounds": [
+      {
+        "id, delay": "444, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26915,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Angry barbarian spirit (5563)",
+      "animation": 6726
+    },
+    "sounds": [
+      {
+        "id, delay": "442, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26916,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Angry barbarian spirit (5563)",
+      "animation": 6726
+    }
+  },
+  {
+    "server-tick": 26917,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Angry barbarian spirit (5563)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26918,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Angry barbarian spirit (5563)"
+    },
+    "sounds": [
+      {
+        "id, delay": "444, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26919,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Angry barbarian spirit (5563)",
+      "animation": 6726
+    },
+    "sounds": [
+      {
+        "id, delay": "442, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26920,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Angry barbarian spirit (5563)",
+      "animation": 6726
+    }
+  },
+  {
+    "server-tick": 26921,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Angry barbarian spirit (5563)",
+      "animation": 6726
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26922,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Angry barbarian spirit (5563)"
+    },
+    "sounds": [
+      {
+        "id, delay": "444, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26923,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Angry barbarian spirit (5563)",
+      "animation": 6726
+    },
+    "sounds": [
+      {
+        "id, delay": "442, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26924,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Angry barbarian spirit (5563)",
+      "animation": 6726
+    }
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "server-tick": 7260,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "2508, 4689, 0"
+  },
+  {
+    "server-tick": 7261,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7262,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7263,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "2509, 4689, 0"
+  },
+  {
+    "server-tick": 7264,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7265,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 741,
+    "pos": "2509, 4687, 0"
+  },
+  {
+    "server-tick": 7266,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 741
+  },
+  {
+    "server-tick": 7267,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 804,
+    "gfx": 68,
+    "sounds": [
+      {
+        "id, delay": "1658, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7268,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 804,
+    "gfx": 68
+  },
+  {
+    "server-tick": 7269,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "2542, 4718, 0"
+  },
+  {
+    "server-tick": 7270,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7271,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7272,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7273,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7274,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7275,
+    "game-state": "LOGGED_IN (30)"
+  }
+]

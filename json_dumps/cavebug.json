@@ -1,0 +1,639 @@
+[
+  {
+    "server-tick": 24260,
+    "pos": "2737, 5206, 0"
+  },
+  {
+    "server-tick": 24261,
+    "animation": 393,
+    "pos": "2738, 5206, 0",
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6080
+    },
+    "sounds": [
+      {
+        "id, delay": "2555, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24262,
+    "animation": 393,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6080
+    },
+    "sounds": [
+      {
+        "id, delay": "3491, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24263,
+    "interacting": {
+      "npc": "Cave bug (483)"
+    }
+  },
+  {
+    "server-tick": 24264,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    },
+    "sounds": [
+      {
+        "id, delay": "3489, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24265,
+    "animation": 393,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    },
+    "sounds": [
+      {
+        "id, delay": "2555, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24266,
+    "animation": 393,
+    "interacting": {
+      "npc": "Cave bug (483)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3491, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24267,
+    "interacting": {
+      "npc": "Cave bug (483)"
+    }
+  },
+  {
+    "server-tick": 24268,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    },
+    "sounds": [
+      {
+        "id, delay": "3489, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24269,
+    "animation": 393,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    },
+    "sounds": [
+      {
+        "id, delay": "2555, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24270,
+    "animation": 393,
+    "interacting": {
+      "npc": "Cave bug (483)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3491, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24271,
+    "interacting": {
+      "npc": "Cave bug (483)"
+    }
+  },
+  {
+    "server-tick": 24272,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    },
+    "sounds": [
+      {
+        "id, delay": "3489, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24273,
+    "animation": 393,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    },
+    "sounds": [
+      {
+        "id, delay": "2555, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24274,
+    "animation": 393,
+    "interacting": {
+      "npc": "Cave bug (483)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3491, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24275,
+    "interacting": {
+      "npc": "Cave bug (483)"
+    }
+  },
+  {
+    "server-tick": 24276,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    },
+    "sounds": [
+      {
+        "id, delay": "3489, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24277,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "2249, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24278,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6080
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24279,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6080
+    },
+    "sounds": [
+      {
+        "id, delay": "3491, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24280,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    },
+    "sounds": [
+      {
+        "id, delay": "3489, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24281,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    }
+  },
+  {
+    "server-tick": 24282,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6080
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24283,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6080
+    },
+    "sounds": [
+      {
+        "id, delay": "3491, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24284,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    },
+    "sounds": [
+      {
+        "id, delay": "3489, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24285,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    }
+  },
+  {
+    "server-tick": 24286,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6080
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24287,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6080
+    },
+    "sounds": [
+      {
+        "id, delay": "3491, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24288,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    },
+    "sounds": [
+      {
+        "id, delay": "3489, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24289,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    }
+  },
+  {
+    "server-tick": 24290,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6080
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24291,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6080
+    },
+    "sounds": [
+      {
+        "id, delay": "3491, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24292,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    },
+    "sounds": [
+      {
+        "id, delay": "3489, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24293,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    }
+  },
+  {
+    "server-tick": 24294,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6080
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24295,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6080
+    },
+    "sounds": [
+      {
+        "id, delay": "3491, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24296,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    },
+    "sounds": [
+      {
+        "id, delay": "3489, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24297,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    }
+  },
+  {
+    "server-tick": 24298,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6080
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24299,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6080
+    },
+    "sounds": [
+      {
+        "id, delay": "3491, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24300,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    },
+    "sounds": [
+      {
+        "id, delay": "3489, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24301,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    }
+  },
+  {
+    "server-tick": 24302,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6080
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24303,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6080
+    },
+    "sounds": [
+      {
+        "id, delay": "3491, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24304,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    },
+    "sounds": [
+      {
+        "id, delay": "3489, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24305,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    }
+  },
+  {
+    "server-tick": 24306,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6080
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24307,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6080
+    },
+    "sounds": [
+      {
+        "id, delay": "3491, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24308,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    },
+    "sounds": [
+      {
+        "id, delay": "3489, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 24309,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6079
+    }
+  },
+  {
+    "server-tick": 24310,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6080
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24311,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Cave bug (483)",
+      "animation": 6080
+    },
+    "sounds": [
+      {
+        "id, delay": "3491, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 24312,
+    "sounds": [
+      {
+        "id, delay": "3490, 0"
+      }
+    ]
+  }
+]

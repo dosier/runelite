@@ -1,0 +1,311 @@
+[
+  {
+    "server-tick": 95,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2732,
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 96,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2732,
+      "gfx": 85
+    }
+  },
+  {
+    "server-tick": 97,
+    "gfx": 131,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2731,
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "155, 0"
+      },
+      {
+        "id, delay": "156, 66"
+      }
+    ]
+  },
+  {
+    "server-tick": 98,
+    "gfx": 131,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2731
+    }
+  },
+  {
+    "server-tick": 99,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2732,
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      },
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 100,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2732,
+      "gfx": 85
+    }
+  },
+  {
+    "server-tick": 101,
+    "gfx": 85,
+    "pos": "2021, 4664, 0",
+    "sounds": [
+      {
+        "id, delay": "155, 0"
+      },
+      {
+        "id, delay": "227, 66"
+      }
+    ]
+  },
+  {
+    "server-tick": 102,
+    "gfx": 85
+  },
+  {
+    "server-tick": 103,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2732,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 104,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2732,
+      "gfx": 1042
+    }
+  },
+  {
+    "server-tick": 105,
+    "gfx": 131,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2731,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "155, 0"
+      },
+      {
+        "id, delay": "156, 76"
+      }
+    ]
+  },
+  {
+    "server-tick": 106,
+    "gfx": 131,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2731,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "391, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 107,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2732,
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      },
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 108,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2732,
+      "gfx": 85
+    }
+  },
+  {
+    "server-tick": 109,
+    "gfx": 131,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2731,
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "155, 0"
+      },
+      {
+        "id, delay": "156, 76"
+      }
+    ]
+  },
+  {
+    "server-tick": 110,
+    "gfx": 131,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2731,
+      "gfx": 85
+    }
+  },
+  {
+    "server-tick": 111,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2732,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      },
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 112,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2732,
+      "gfx": 1042
+    }
+  },
+  {
+    "server-tick": 113,
+    "gfx": 131,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2731,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "155, 0"
+      },
+      {
+        "id, delay": "156, 76"
+      }
+    ]
+  },
+  {
+    "server-tick": 114,
+    "gfx": 131,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2731,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "391, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 115,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2732,
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      },
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 116,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2732,
+      "gfx": 85
+    }
+  },
+  {
+    "server-tick": 117,
+    "gfx": 131,
+    "interacting": {
+      "npc": "Dark beast (4005)",
+      "animation": 2731,
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "155, 0"
+      },
+      {
+        "id, delay": "156, 76"
+      }
+    ]
+  }
+]

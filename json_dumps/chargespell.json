@@ -1,0 +1,99 @@
+[
+  {
+    "server-tick": 3242,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 3243,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      }
+    ]
+  },
+  {
+    "server-tick": 3244,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 811,
+    "gfx": 111,
+    "sounds": [
+      {
+        "id, delay": "1651, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3245,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 811,
+    "gfx": 111
+  },
+  {
+    "server-tick": 3246,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 811,
+    "gfx": 111,
+    "area-sounds": [
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      }
+    ]
+  },
+  {
+    "server-tick": 3247,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 811,
+    "gfx": 111,
+    "area-sounds": [
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      }
+    ]
+  },
+  {
+    "server-tick": 3248,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 35,
+        "source": "Fe Hvy Hmmr"
+      }
+    ]
+  },
+  {
+    "server-tick": 3249,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 3250,
+    "game-state": "LOGGED_IN (30)"
+  }
+]

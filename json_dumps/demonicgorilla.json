@@ -1,0 +1,4336 @@
+[
+  {
+    "server-tick": 7785,
+    "gfx": 1303,
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7786,
+    "gfx": 1303,
+    "sounds": [
+      {
+        "id, delay": "3191, 51"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7787,
+    "animation": 390,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7227
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7788,
+    "animation": 390,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7789,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 20"
+      },
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 10"
+      }
+    ]
+  },
+  {
+    "server-tick": 7790,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    }
+  },
+  {
+    "server-tick": 7791,
+    "animation": 390,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7227
+    },
+    "sounds": [
+      {
+        "id, delay": "3191, 51"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 16"
+      },
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 7792,
+    "animation": 390,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7227
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7793,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7227
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 17"
+      },
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7794,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    }
+  },
+  {
+    "server-tick": 7795,
+    "animation": 390,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1304,
+        "heights": "64, 68",
+        "slope, duration": "5, 18"
+      }
+    ]
+  },
+  {
+    "server-tick": 7796,
+    "animation": 390,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "3529, 0"
+      },
+      {
+        "id, delay": "3528, 50"
+      }
+    ]
+  },
+  {
+    "server-tick": 7797,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 7798,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    }
+  },
+  {
+    "server-tick": 7799,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 7800,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7801,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7228
+    },
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 7802,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7228
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7803,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7804,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7805,
+    "sounds": [
+      {
+        "id, delay": "2247, 0"
+      },
+      {
+        "id, delay": "3284, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 7806,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7228
+    },
+    "sounds": [
+      {
+        "id, delay": "2238, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7807,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7228
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7808,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    }
+  },
+  {
+    "server-tick": 7809,
+    "animation": 5061,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "3352, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7810,
+    "pos": "2108, 5661, 0",
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 14"
+      }
+    ]
+  },
+  {
+    "server-tick": 7811,
+    "gfx": 1305,
+    "sounds": [
+      {
+        "id, delay": "3529, 0"
+      },
+      {
+        "id, delay": "3528, 50"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7812,
+    "gfx": 1305,
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7813,
+    "gfx": 1305
+  },
+  {
+    "server-tick": 7814,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7815,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7224
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7816,
+    "animation": 5061,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "3529, 0"
+      },
+      {
+        "id, delay": "3528, 50"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7817,
+    "animation": 5061,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7818,
+    "animation": 5061,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7819,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7224
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 9"
+      }
+    ]
+  },
+  {
+    "server-tick": 7820,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7148)",
+      "animation": 7228
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7821,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7148)",
+      "animation": 7228
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 7822,
+    "animation": 5061,
+    "sounds": [
+      {
+        "id, delay": "2677, 0"
+      },
+      {
+        "id, delay": "3352, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7826,
+    "sounds": [
+      {
+        "id, delay": "2238, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7827,
+    "sounds": [
+      {
+        "id, delay": "2238, 0"
+      },
+      {
+        "id, delay": "2238, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7828,
+    "animation": 4177,
+    "pos": "2109, 5661, 0",
+    "interacting": {
+      "npc": "Demonic gorilla (7148)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2238, 0"
+      },
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1302,
+        "heights": "64, 0",
+        "slope, duration": "5, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 7829,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Demonic gorilla (7148)"
+    }
+  },
+  {
+    "server-tick": 7833,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7834,
+    "animation": 4177
+  },
+  {
+    "server-tick": 7835,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7836,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7837,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)"
+    }
+  },
+  {
+    "server-tick": 7838,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7226
+    },
+    "sounds": [
+      {
+        "id, delay": "2676, 0"
+      },
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7839,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7228
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 7840,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7228
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7841,
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 7843,
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      },
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7844,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7845,
+    "animation": 4177,
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7847,
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7849,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 10"
+      }
+    ]
+  },
+  {
+    "server-tick": 7850,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7851,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7852,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 9"
+      },
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 9"
+      }
+    ]
+  },
+  {
+    "server-tick": 7853,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)"
+    }
+  },
+  {
+    "server-tick": 7854,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7227
+    },
+    "sounds": [
+      {
+        "id, delay": "3191, 51"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7855,
+    "animation": 390,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7227
+    },
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7856,
+    "animation": 390,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 7857,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)"
+    }
+  },
+  {
+    "server-tick": 7858,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)"
+    }
+  },
+  {
+    "server-tick": 7859,
+    "animation": 390,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7227
+    },
+    "sounds": [
+      {
+        "id, delay": "2677, 0"
+      },
+      {
+        "id, delay": "3191, 51"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7860,
+    "animation": 390,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7227
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7861,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)"
+    }
+  },
+  {
+    "server-tick": 7862,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)"
+    }
+  },
+  {
+    "server-tick": 7863,
+    "animation": 390,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7864,
+    "animation": 390,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7227
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "3191, 51"
+      }
+    ]
+  },
+  {
+    "server-tick": 7865,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7227
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1302,
+        "heights": "64, 0",
+        "slope, duration": "5, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 7866,
+    "gfx": 1303,
+    "sounds": [
+      {
+        "id, delay": "2247, 0"
+      },
+      {
+        "id, delay": "3284, 0"
+      },
+      {
+        "id, delay": "2238, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7867,
+    "animation": 5061,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7868,
+    "animation": 5061,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    }
+  },
+  {
+    "server-tick": 7869,
+    "animation": 5061,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7227
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "3191, 51"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7870,
+    "animation": 5061,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7227
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 7871,
+    "animation": 5061,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7872,
+    "animation": 5061,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7873,
+    "animation": 5061,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 7874,
+    "animation": 5061,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "2676, 0"
+      },
+      {
+        "id, delay": "3529, 0"
+      },
+      {
+        "id, delay": "3528, 50"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7875,
+    "animation": 5061,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7876,
+    "animation": 5061,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7877,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      },
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7878,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    }
+  },
+  {
+    "server-tick": 7879,
+    "animation": 5061,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "3529, 0"
+      },
+      {
+        "id, delay": "3528, 50"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 9"
+      }
+    ]
+  },
+  {
+    "server-tick": 7880,
+    "animation": 5061,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      },
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 7881,
+    "animation": 5061,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7228
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 9"
+      }
+    ]
+  },
+  {
+    "server-tick": 7882,
+    "animation": 5061,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      },
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 7883,
+    "animation": 5061,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "3352, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7884,
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 7885,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)"
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 9"
+      }
+    ]
+  },
+  {
+    "server-tick": 7886,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "3529, 0"
+      },
+      {
+        "id, delay": "3528, 50"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 7887,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7888,
+    "gfx": 1305,
+    "sounds": [
+      {
+        "id, delay": "2238, 0"
+      },
+      {
+        "id, delay": "2238, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7889,
+    "sounds": [
+      {
+        "id, delay": "2238, 0"
+      },
+      {
+        "id, delay": "2238, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7890,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7891,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7226
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7892,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7226
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7893,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)"
+    }
+  },
+  {
+    "server-tick": 7894,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7895,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7896,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7226
+    },
+    "sounds": [
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7897,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7226
+    }
+  },
+  {
+    "server-tick": 7898,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7228
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7899,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7228
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7901,
+    "sounds": [
+      {
+        "id, delay": "2247, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7902,
+    "sounds": [
+      {
+        "id, delay": "3284, 0"
+      },
+      {
+        "id, delay": "2238, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7903,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7226
+    },
+    "sounds": [
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7904,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7226
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 7905,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7906,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)"
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      },
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7907,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7908,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7226
+    },
+    "sounds": [
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7909,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7226
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7910,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7226
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      },
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 7911,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7912,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      },
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 7913,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7226
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7914,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7226
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      },
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7915,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7916,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      },
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7917,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7918,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7226
+    },
+    "sounds": [
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7919,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7228
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7920,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7228
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      },
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7921,
+    "animation": 5061,
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7922,
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7924,
+    "animation": 388,
+    "sounds": [
+      {
+        "id, delay": "2238, 0"
+      },
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      },
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 7925,
+    "animation": 388,
+    "sounds": [
+      {
+        "id, delay": "2238, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7926,
+    "sounds": [
+      {
+        "id, delay": "2238, 0"
+      },
+      {
+        "id, delay": "2238, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7927,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7928,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1304,
+        "heights": "64, 68",
+        "slope, duration": "5, 18"
+      }
+    ]
+  },
+  {
+    "server-tick": 7929,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7226
+    },
+    "sounds": [
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 10"
+      }
+    ]
+  },
+  {
+    "server-tick": 7930,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7226
+    }
+  },
+  {
+    "server-tick": 7931,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7932,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7933,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)"
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7934,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7226
+    },
+    "sounds": [
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7935,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7226
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7936,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7937,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2676, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7938,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)"
+    },
+    "projectiles": [
+      {
+        "id": 1304,
+        "heights": "64, 68",
+        "slope, duration": "5, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 7939,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7226
+    },
+    "sounds": [
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7940,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7226
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7941,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)"
+    }
+  },
+  {
+    "server-tick": 7942,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)"
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7943,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7228
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7944,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7228
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7946,
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7948,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7949,
+    "animation": 4177,
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 9"
+      }
+    ]
+  },
+  {
+    "server-tick": 7951,
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 7953,
+    "animation": 390,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "3529, 0"
+      },
+      {
+        "id, delay": "3528, 50"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7954,
+    "animation": 390,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7955,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)"
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7956,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)"
+    }
+  },
+  {
+    "server-tick": 7957,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7958,
+    "animation": 390,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "3529, 0"
+      },
+      {
+        "id, delay": "3528, 50"
+      }
+    ]
+  },
+  {
+    "server-tick": 7959,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7960,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7225
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7961,
+    "animation": 390,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7962,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "3825, 0"
+      },
+      {
+        "id, delay": "3352, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 7963,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "3529, 0"
+      },
+      {
+        "id, delay": "3528, 50"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 7964,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7965,
+    "animation": 390,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      },
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 7966,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7967,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)"
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      },
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7968,
+    "gfx": 1305,
+    "sounds": [
+      {
+        "id, delay": "2247, 0"
+      },
+      {
+        "id, delay": "3529, 0"
+      },
+      {
+        "id, delay": "3528, 50"
+      }
+    ]
+  },
+  {
+    "server-tick": 7969,
+    "gfx": 1305,
+    "sounds": [
+      {
+        "id, delay": "3284, 0"
+      },
+      {
+        "id, delay": "2238, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 9"
+      }
+    ]
+  },
+  {
+    "server-tick": 7970,
+    "animation": 5061,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7971,
+    "animation": 5061,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)"
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      },
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      },
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7972,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7973,
+    "animation": 5061,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7227
+    },
+    "sounds": [
+      {
+        "id, delay": "3191, 51"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      },
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      },
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7974,
+    "animation": 5061,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7227
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7975,
+    "animation": 5061,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      },
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 7976,
+    "animation": 5061,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7977,
+    "animation": 5061,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7224
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 7978,
+    "animation": 5061,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7227
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "3191, 51"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7979,
+    "animation": 5061,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7227
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 7980,
+    "animation": 5061,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)",
+      "animation": 7227
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7981,
+    "animation": 5061,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7144)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7982,
+    "animation": 5061,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7228
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7983,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7145)",
+      "animation": 7228
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 7984,
+    "animation": 5061,
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7985,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "3351, 0"
+      },
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7986,
+    "animation": 430
+  },
+  {
+    "server-tick": 7987,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "2238, 0"
+      },
+      {
+        "id, delay": "2238, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7988,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "2238, 0"
+      },
+      {
+        "id, delay": "2238, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1304,
+        "heights": "64, 68",
+        "slope, duration": "5, 18"
+      },
+      {
+        "id": 1302,
+        "heights": "64, 0",
+        "slope, duration": "5, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 7990,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7991,
+    "animation": 4177
+  },
+  {
+    "server-tick": 7993,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7994,
+    "animation": 829
+  },
+  {
+    "server-tick": 7995,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 7996,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7997,
+    "animation": 829,
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 7998,
+    "animation": 829
+  },
+  {
+    "server-tick": 7999,
+    "sounds": [
+      {
+        "id, delay": "2676, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 9"
+      },
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 9"
+      }
+    ]
+  },
+  {
+    "server-tick": 8000,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8001,
+    "animation": 4177,
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 8003,
+    "pos": "2107, 5661, 0",
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 12"
+      },
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8004,
+    "sounds": [
+      {
+        "id, delay": "2582, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8005,
+    "gfx": 1303,
+    "sounds": [
+      {
+        "id, delay": "3191, 56"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 12"
+      },
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8006,
+    "gfx": 1303,
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8007,
+    "gfx": 1303
+  },
+  {
+    "server-tick": 8008,
+    "gfx": 1303,
+    "sounds": [
+      {
+        "id, delay": "2677, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8009,
+    "gfx": 1303,
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 14"
+      }
+    ]
+  },
+  {
+    "server-tick": 8010,
+    "gfx": 1303,
+    "sounds": [
+      {
+        "id, delay": "2247, 0"
+      },
+      {
+        "id, delay": "3191, 56"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8011,
+    "gfx": 1303,
+    "sounds": [
+      {
+        "id, delay": "3284, 0"
+      },
+      {
+        "id, delay": "2238, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 8012,
+    "gfx": 1303
+  },
+  {
+    "server-tick": 8013,
+    "gfx": 1303,
+    "sounds": [
+      {
+        "id, delay": "2238, 0"
+      },
+      {
+        "id, delay": "2238, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 8014,
+    "gfx": 1303,
+    "sounds": [
+      {
+        "id, delay": "2238, 0"
+      },
+      {
+        "id, delay": "2238, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8015,
+    "animation": 390,
+    "gfx": 1303,
+    "pos": "2108, 5662, 0",
+    "interacting": {
+      "npc": "Demonic gorilla (7148)",
+      "animation": 7227
+    },
+    "sounds": [
+      {
+        "id, delay": "3191, 56"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 8016,
+    "animation": 390,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7148)",
+      "animation": 7227
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8017,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7148)"
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 8018,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7148)"
+    }
+  },
+  {
+    "server-tick": 8019,
+    "animation": 390,
+    "gfx": 1303,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7228
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8020,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7228
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8022,
+    "projectiles": [
+      {
+        "id": 1302,
+        "heights": "64, 0",
+        "slope, duration": "5, 24"
+      }
+    ]
+  },
+  {
+    "server-tick": 8024,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8025,
+    "animation": 4177
+  },
+  {
+    "server-tick": 8028,
+    "pos": "2109, 5663, 0"
+  },
+  {
+    "server-tick": 8029,
+    "animation": 390,
+    "pos": "2111, 5663, 0",
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8030,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7226
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8031,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7226
+    }
+  },
+  {
+    "server-tick": 8032,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    }
+  },
+  {
+    "server-tick": 8033,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8034,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 231,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8035,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7226
+    },
+    "sounds": [
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 8036,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7226
+    }
+  },
+  {
+    "server-tick": 8037,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8038,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8039,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 10"
+      }
+    ]
+  },
+  {
+    "server-tick": 8040,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7226
+    },
+    "sounds": [
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 231,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8041,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7226
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8042,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 231,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8043,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8044,
+    "animation": 829,
+    "projectiles": [
+      {
+        "id": 231,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8045,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8046,
+    "animation": 4177,
+    "projectiles": [
+      {
+        "id": 231,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8048,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 8049,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8050,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7226
+    },
+    "sounds": [
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      },
+      {
+        "id": 231,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 8051,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7226
+    }
+  },
+  {
+    "server-tick": 8052,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 9"
+      }
+    ]
+  },
+  {
+    "server-tick": 8053,
+    "animation": 390,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8054,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    },
+    "projectiles": [
+      {
+        "id": 231,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8055,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "3529, 0"
+      },
+      {
+        "id, delay": "3528, 50"
+      }
+    ]
+  },
+  {
+    "server-tick": 8056,
+    "animation": 390,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 231,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8057,
+    "animation": 390,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 8058,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    }
+  },
+  {
+    "server-tick": 8059,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 29"
+      }
+    ]
+  },
+  {
+    "server-tick": 8060,
+    "animation": 390,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "3529, 0"
+      },
+      {
+        "id, delay": "3528, 50"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8061,
+    "animation": 390,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1043,
+        "heights": "105, 144",
+        "slope, duration": "15, 38"
+      }
+    ]
+  },
+  {
+    "server-tick": 8062,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    }
+  },
+  {
+    "server-tick": 8063,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 28"
+      }
+    ]
+  },
+  {
+    "server-tick": 8064,
+    "animation": 829
+  },
+  {
+    "server-tick": 8065,
+    "animation": 829,
+    "gfx": 1305,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "3529, 0"
+      },
+      {
+        "id, delay": "3528, 50"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 27"
+      }
+    ]
+  },
+  {
+    "server-tick": 8066,
+    "gfx": 1305,
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8067,
+    "gfx": 1305,
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 27"
+      }
+    ]
+  },
+  {
+    "server-tick": 8069,
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 30"
+      }
+    ]
+  },
+  {
+    "server-tick": 8070,
+    "gfx": 1305,
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      },
+      {
+        "id, delay": "3529, 0"
+      },
+      {
+        "id, delay": "3528, 50"
+      }
+    ]
+  },
+  {
+    "server-tick": 8071,
+    "gfx": 1305,
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8072,
+    "gfx": 1305
+  },
+  {
+    "server-tick": 8073,
+    "pos": "2110, 5663, 0"
+  },
+  {
+    "server-tick": 8074,
+    "animation": 390,
+    "pos": "2111, 5663, 0",
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8075,
+    "animation": 390,
+    "gfx": 1305,
+    "sounds": [
+      {
+        "id, delay": "2247, 0"
+      },
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "3529, 0"
+      },
+      {
+        "id, delay": "3528, 50"
+      }
+    ]
+  },
+  {
+    "server-tick": 8076,
+    "gfx": 1305,
+    "sounds": [
+      {
+        "id, delay": "3284, 0"
+      },
+      {
+        "id, delay": "2238, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8077,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)"
+    }
+  },
+  {
+    "server-tick": 8078,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7224
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8079,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7224
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 9"
+      }
+    ]
+  },
+  {
+    "server-tick": 8080,
+    "animation": 5061,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      },
+      {
+        "id, delay": "3529, 0"
+      },
+      {
+        "id, delay": "3528, 50"
+      },
+      {
+        "id, delay": "2672, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8081,
+    "animation": 5061,
+    "gfx": 1305,
+    "interacting": {
+      "npc": "Demonic gorilla (7147)",
+      "animation": 7225
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 8082,
+    "animation": 5061,
+    "gfx": 1305,
+    "pos": "2111, 5661, 0",
+    "sounds": [
+      {
+        "id, delay": "3352, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8083,
+    "gfx": 1305
+  },
+  {
+    "server-tick": 8084,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 8085,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "3350, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 8086,
+    "animation": 430,
+    "pos": "2109, 5661, 0",
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 8087,
+    "animation": 430,
+    "pos": "2108, 5661, 0"
+  },
+  {
+    "server-tick": 8088,
+    "animation": 430,
+    "pos": "2106, 5661, 0"
+  },
+  {
+    "server-tick": 8089,
+    "animation": 829,
+    "pos": "2104, 5660, 0",
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 8090,
+    "animation": 829,
+    "pos": "2102, 5660, 0",
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 8091,
+    "animation": 829,
+    "pos": "2100, 5660, 0"
+  },
+  {
+    "server-tick": 8092,
+    "animation": 829,
+    "pos": "2098, 5660, 0",
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      },
+      {
+        "id": 231,
+        "heights": "105, 144",
+        "slope, duration": "15, 12"
+      }
+    ]
+  },
+  {
+    "server-tick": 8093,
+    "animation": 829,
+    "pos": "2096, 5660, 0"
+  },
+  {
+    "server-tick": 8094,
+    "animation": 829,
+    "pos": "2094, 5660, 0"
+  },
+  {
+    "server-tick": 8095,
+    "animation": 829
+  },
+  {
+    "server-tick": 8096,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1302,
+        "heights": "64, 0",
+        "slope, duration": "5, 21"
+      },
+      {
+        "id": 231,
+        "heights": "105, 144",
+        "slope, duration": "15, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 8097,
+    "animation": 829
+  },
+  {
+    "server-tick": 8098,
+    "animation": 829
+  },
+  {
+    "server-tick": 8100,
+    "projectiles": [
+      {
+        "id": 231,
+        "heights": "105, 144",
+        "slope, duration": "15, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 8102,
+    "projectiles": [
+      {
+        "id": 231,
+        "heights": "105, 144",
+        "slope, duration": "15, 11"
+      }
+    ]
+  }
+]

@@ -1,0 +1,353 @@
+[
+  {
+    "server-tick": 36726,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    }
+  },
+  {
+    "server-tick": 36727,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4300
+    },
+    "sounds": [
+      {
+        "id, delay": "2867, 0"
+      },
+      {
+        "id, delay": "2368, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 36728,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36729,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    },
+    "sounds": [
+      {
+        "id, delay": "2869, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36730,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    }
+  },
+  {
+    "server-tick": 36731,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4300
+    },
+    "sounds": [
+      {
+        "id, delay": "2867, 0"
+      },
+      {
+        "id, delay": "2370, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 36732,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36733,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    },
+    "sounds": [
+      {
+        "id, delay": "2869, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36734,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    }
+  },
+  {
+    "server-tick": 36735,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4300
+    },
+    "sounds": [
+      {
+        "id, delay": "2867, 0"
+      },
+      {
+        "id, delay": "2366, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 36736,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36737,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    },
+    "sounds": [
+      {
+        "id, delay": "2869, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36738,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    }
+  },
+  {
+    "server-tick": 36739,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4300
+    },
+    "sounds": [
+      {
+        "id, delay": "2867, 0"
+      },
+      {
+        "id, delay": "2370, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 36740,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36741,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    },
+    "sounds": [
+      {
+        "id, delay": "2869, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36742,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    }
+  },
+  {
+    "server-tick": 36743,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4300
+    },
+    "sounds": [
+      {
+        "id, delay": "2867, 0"
+      },
+      {
+        "id, delay": "2370, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 36744,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36745,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    },
+    "sounds": [
+      {
+        "id, delay": "2869, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36746,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    }
+  },
+  {
+    "server-tick": 36747,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4300
+    },
+    "sounds": [
+      {
+        "id, delay": "2867, 0"
+      },
+      {
+        "id, delay": "2370, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 36748,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36749,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    },
+    "sounds": [
+      {
+        "id, delay": "2869, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36750,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    }
+  },
+  {
+    "server-tick": 36751,
+    "animation": 1659,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4300
+    },
+    "sounds": [
+      {
+        "id, delay": "2867, 0"
+      },
+      {
+        "id, delay": "2370, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 36752,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36753,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Gorak (3141)",
+      "animation": 4301
+    },
+    "sounds": [
+      {
+        "id, delay": "2869, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 36754,
+    "sounds": [
+      {
+        "id, delay": "2868, 0"
+      }
+    ]
+  }
+]

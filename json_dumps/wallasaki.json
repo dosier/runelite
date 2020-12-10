@@ -1,0 +1,240 @@
+[
+  {
+    "server-tick": 31689,
+    "animation": 1156,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Wallasalki (5939)",
+      "animation": 2365
+    },
+    "projectiles": [
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "40, 61"
+      },
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "40, 51"
+      }
+    ]
+  },
+  {
+    "server-tick": 31690,
+    "animation": 1156,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Wallasalki (5939)",
+      "animation": 2365
+    },
+    "sounds": [
+      {
+        "id, delay": "2369, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 31691,
+    "animation": 1658,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Wallasalki (5939)",
+      "animation": 2366
+    },
+    "sounds": [
+      {
+        "id, delay": "2369, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 31692,
+    "animation": 1658,
+    "gfx": 85,
+    "pos": "1803, 4406, 3",
+    "interacting": {
+      "npc": "Wallasalki (5939)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1079, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "40, 51"
+      }
+    ]
+  },
+  {
+    "server-tick": 31693,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Wallasalki (5939)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2367, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 31694,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Wallasalki (5939)"
+    }
+  },
+  {
+    "server-tick": 31695,
+    "animation": 1658,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Wallasalki (5939)",
+      "animation": 2366
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "40, 51"
+      },
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "40, 56"
+      }
+    ]
+  },
+  {
+    "server-tick": 31696,
+    "animation": 1658,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Wallasalki (5939)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1079, 0"
+      },
+      {
+        "id, delay": "2367, 20"
+      },
+      {
+        "id, delay": "2367, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 31697,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Wallasalki (5939)"
+    }
+  },
+  {
+    "server-tick": 31698,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Wallasalki (5939)"
+    },
+    "projectiles": [
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "40, 56"
+      }
+    ]
+  },
+  {
+    "server-tick": 31699,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Wallasalki (5939)",
+      "animation": 2366
+    },
+    "sounds": [
+      {
+        "id, delay": "2370, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 31700,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Wallasalki (5939)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1079, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 31701,
+    "animation": 1156,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Wallasalki (5939)",
+      "animation": 2365
+    },
+    "projectiles": [
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "40, 51"
+      },
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "40, 56"
+      }
+    ]
+  },
+  {
+    "server-tick": 31702,
+    "animation": 1156,
+    "gfx": 85,
+    "pos": "1805, 4406, 3",
+    "sounds": [
+      {
+        "id, delay": "2368, 20"
+      },
+      {
+        "id, delay": "2369, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 31703,
+    "animation": 1156,
+    "gfx": 85,
+    "pos": "1807, 4405, 3"
+  },
+  {
+    "server-tick": 31704,
+    "animation": 1156,
+    "projectiles": [
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "40, 66"
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "server-tick": 36897,
+    "animation": 7214
+  },
+  {
+    "server-tick": 36898,
+    "animation": 7214
+  },
+  {
+    "server-tick": 36899,
+    "pos": "2850, 5333, 2",
+    "area-sounds": [
+      {
+        "id": 3879,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 27,
+        "sceneY": 61,
+        "source": "IInsomniatik"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "71, 0"
+      }
+    ]
+  }
+]

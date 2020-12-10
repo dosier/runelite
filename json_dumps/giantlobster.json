@@ -1,0 +1,243 @@
+[
+  {
+    "server-tick": 31887,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Rock lobster (5944)",
+      "animation": 2859
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "2369, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 31888,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Rock lobster (5944)",
+      "animation": 2860
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "2368, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 31889,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Rock lobster (5944)"
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "728, 0"
+      },
+      {
+        "id, delay": "2366, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 31890,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Rock lobster (5944)",
+      "animation": 2859
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "2368, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 31891,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Rock lobster (5944)",
+      "animation": 2859
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "2367, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 31892,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Rock lobster (5944)",
+      "animation": 2860
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "2370, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 31893,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Rock lobster (5944)"
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "728, 0"
+      },
+      {
+        "id, delay": "2370, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 31894,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Rock lobster (5944)",
+      "animation": 2859
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "2370, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 31895,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Rock lobster (5944)",
+      "animation": 2859
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "2368, 20"
+      },
+      {
+        "id, delay": "2370, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 31896,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Rock lobster (5944)",
+      "animation": 2860
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "2368, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 31897,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Rock lobster (5944)"
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "728, 0"
+      },
+      {
+        "id, delay": "2370, 20"
+      },
+      {
+        "id, delay": "2368, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 31898,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Rock lobster (5944)",
+      "animation": 2859
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "2366, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 31899,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Rock lobster (5944)",
+      "animation": 2859
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "2368, 20"
+      },
+      {
+        "id, delay": "2366, 20"
+      }
+    ]
+  }
+]

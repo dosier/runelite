@@ -1,0 +1,511 @@
+[
+  {
+    "server-tick": 736,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3145, 3498, 0",
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "1973, 1, 697"
+      },
+      {
+        "id, quantity, spawnTime": "21326, 21, 727"
+      },
+      {
+        "id, quantity, spawnTime": "21326, 1, 702"
+      },
+      {
+        "id, quantity, spawnTime": "229, 1, 689"
+      },
+      {
+        "id, quantity, spawnTime": "21326, 1, 733"
+      },
+      {
+        "id, quantity, spawnTime": "21326, 1, 733"
+      },
+      {
+        "id, quantity, spawnTime": "21326, 2, 725"
+      },
+      {
+        "id, quantity, spawnTime": "229, 1, 695"
+      },
+      {
+        "id, quantity, spawnTime": "229, 1, 689"
+      },
+      {
+        "id, quantity, spawnTime": "229, 1, 689"
+      },
+      {
+        "id, quantity, spawnTime": "21326, 1, 709"
+      },
+      {
+        "id, quantity, spawnTime": "1129, 1, 701"
+      },
+      {
+        "id, quantity, spawnTime": "526, 1, 701"
+      },
+      {
+        "id, quantity, spawnTime": "229, 1, 689"
+      },
+      {
+        "id, quantity, spawnTime": "526, 1, 689"
+      },
+      {
+        "id, quantity, spawnTime": "559, 2, 695"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 697,
+        "heights": "11, 144",
+        "slope, duration": "15, 27"
+      }
+    ]
+  },
+  {
+    "server-tick": 737,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3145, 3499, 0",
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      },
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 31"
+      }
+    ]
+  },
+  {
+    "server-tick": 738,
+    "game-state": "LOGGED_IN (30)",
+    "projectiles": [
+      {
+        "id": 697,
+        "heights": "11, 144",
+        "slope, duration": "15, 17"
+      }
+    ]
+  },
+  {
+    "server-tick": 739,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 740,
+    "game-state": "LOGGED_IN (30)",
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 20"
+      },
+      {
+        "id": 697,
+        "heights": "11, 144",
+        "slope, duration": "15, 16"
+      }
+    ]
+  },
+  {
+    "server-tick": 741,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "player": "KING 0F PKE"
+    },
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 742,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "projectiles": [
+      {
+        "id": 697,
+        "heights": "11, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 743,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "interacting": {
+      "player": "pay4box",
+      "animation": 6600,
+      "gfx": 234
+    },
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 228,
+        "heights": "11, 144",
+        "slope, duration": "15, 17"
+      }
+    ]
+  },
+  {
+    "server-tick": 744,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "interacting": {
+      "player": "pay4box",
+      "gfx": 234
+    },
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 36"
+      }
+    ]
+  },
+  {
+    "server-tick": 745,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 4230,
+    "interacting": {
+      "player": "pay4box",
+      "animation": 424,
+      "gfx": 234
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      },
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 31"
+      },
+      {
+        "id": 228,
+        "heights": "11, 144",
+        "slope, duration": "15, 17"
+      }
+    ]
+  },
+  {
+    "server-tick": 746,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 4230,
+    "interacting": {
+      "player": "pay4box",
+      "animation": 6600,
+      "gfx": 234
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 31"
+      }
+    ]
+  },
+  {
+    "server-tick": 747,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 4230,
+    "interacting": {
+      "player": "pay4box",
+      "animation": 6600,
+      "gfx": 234
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 228,
+        "heights": "11, 144",
+        "slope, duration": "15, 17"
+      }
+    ]
+  },
+  {
+    "server-tick": 748,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "interacting": {
+      "player": "pay4box",
+      "animation": 6600,
+      "gfx": 234
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 749,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "interacting": {
+      "player": "pay4box",
+      "animation": 6600,
+      "gfx": 234
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 228,
+        "heights": "11, 144",
+        "slope, duration": "15, 16"
+      }
+    ]
+  },
+  {
+    "server-tick": 750,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1819,
+    "interacting": {
+      "player": "pay4box",
+      "animation": 423,
+      "gfx": 345
+    },
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 20"
+      },
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 30"
+      }
+    ]
+  },
+  {
+    "server-tick": 751,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1819,
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "21326, 7, 751"
+      }
+    ]
+  },
+  {
+    "server-tick": 752,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1819,
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 753,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 754,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "pos": "3146, 3499, 0",
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 755,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424
+  },
+  {
+    "server-tick": 756,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 31"
+      }
+    ]
+  },
+  {
+    "server-tick": 757,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7855,
+    "gfx": 1464,
+    "interacting": {
+      "player": "pay4box",
+      "gfx": 85
+    },
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 758,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7855,
+    "gfx": 1464,
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "229, 1, 758"
+      },
+      {
+        "id, quantity, spawnTime": "229, 1, 758"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      },
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 759,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "player": "pay4box",
+      "animation": 423,
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 760,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "player": "pay4box"
+    },
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 20"
+      },
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 761,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3145, 3499, 0",
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      },
+      {
+        "id": 697,
+        "heights": "11, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 762,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "projectiles": [
+      {
+        "id": 27,
+        "heights": "11, 144",
+        "slope, duration": "5, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 763,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "interacting": {
+      "player": "pay4box",
+      "animation": 423
+    },
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 697,
+        "heights": "11, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 764,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "interacting": {
+      "player": "pay4box"
+    },
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "9244, 1, 764"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1384,
+        "heights": "11, 144",
+        "slope, duration": "15, 21"
+      }
+    ]
+  }
+]

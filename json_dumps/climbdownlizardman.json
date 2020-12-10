@@ -1,0 +1,147 @@
+[
+  {
+    "server-tick": 734,
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 11"
+      },
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 736,
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 21"
+      },
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 737,
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 738,
+    "pos": "1462, 3689, 0"
+  },
+  {
+    "server-tick": 739,
+    "pos": "1460, 3689, 0"
+  },
+  {
+    "server-tick": 740,
+    "pos": "1460, 3690, 0"
+  },
+  {
+    "server-tick": 742,
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 14"
+      }
+    ]
+  },
+  {
+    "server-tick": 743,
+    "animation": 1148,
+    "pos": "1454, 3690, 0",
+    "sounds": [
+      {
+        "id, delay": "2454, 12"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 744,
+    "animation": 1148,
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 11"
+      },
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 11"
+      },
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 16"
+      },
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 11"
+      }
+    ]
+  },
+  {
+    "server-tick": 745,
+    "animation": 1148
+  },
+  {
+    "server-tick": 746,
+    "animation": 1148,
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 26"
+      }
+    ]
+  },
+  {
+    "server-tick": 750,
+    "projectiles": [
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 29"
+      },
+      {
+        "id": 1291,
+        "heights": "20, 144",
+        "slope, duration": "5, 14"
+      }
+    ]
+  },
+  {
+    "server-tick": 751,
+    "projectiles": [
+      {
+        "id": 214,
+        "heights": "11, 144",
+        "slope, duration": "15, 11"
+      }
+    ]
+  }
+]

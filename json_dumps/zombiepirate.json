@@ -1,0 +1,437 @@
+[
+  {
+    "server-tick": 2304,
+    "pos": "3824, 2830, 0"
+  },
+  {
+    "server-tick": 2306,
+    "pos": "3826, 2830, 0",
+    "interacting": {
+      "npc": "Zombie pirate (565)"
+    }
+  },
+  {
+    "server-tick": 2307,
+    "pos": "3826, 2832, 0",
+    "interacting": {
+      "npc": "Zombie pirate (565)"
+    }
+  },
+  {
+    "server-tick": 2308,
+    "animation": 390,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5648
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2309,
+    "animation": 390,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5648
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2310,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5647
+    },
+    "sounds": [
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2311,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5647
+    }
+  },
+  {
+    "server-tick": 2312,
+    "animation": 390,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5648
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2313,
+    "animation": 390,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5647
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      },
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2314,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5647
+    }
+  },
+  {
+    "server-tick": 2315,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5647
+    }
+  },
+  {
+    "server-tick": 2316,
+    "animation": 390,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5648
+    },
+    "sounds": [
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2317,
+    "animation": 390,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5648
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2318,
+    "interacting": {
+      "npc": "Zombie pirate (565)"
+    }
+  },
+  {
+    "server-tick": 2319,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5647
+    },
+    "sounds": [
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2320,
+    "animation": 390,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5648
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2321,
+    "animation": 390,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5648
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2322,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5647
+    },
+    "sounds": [
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2323,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5647
+    }
+  },
+  {
+    "server-tick": 2324,
+    "animation": 390,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5648
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2325,
+    "animation": 390,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5647
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      },
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2326,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5647
+    }
+  },
+  {
+    "server-tick": 2327,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5647
+    }
+  },
+  {
+    "server-tick": 2328,
+    "animation": 390,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5648
+    },
+    "sounds": [
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      },
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2329,
+    "animation": 390,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5648
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2330,
+    "interacting": {
+      "npc": "Zombie pirate (565)"
+    }
+  },
+  {
+    "server-tick": 2331,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5647
+    },
+    "sounds": [
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2332,
+    "animation": 390,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5648
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2333,
+    "animation": 390,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5648
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2334,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5647
+    },
+    "sounds": [
+      {
+        "id, delay": "924, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2335,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5647
+    }
+  },
+  {
+    "server-tick": 2336,
+    "animation": 390,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5648
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2337,
+    "animation": 390,
+    "interacting": {
+      "npc": "Zombie pirate (565)",
+      "animation": 5647
+    },
+    "sounds": [
+      {
+        "id, delay": "926, 0"
+      },
+      {
+        "id, delay": "924, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2338,
+    "sounds": [
+      {
+        "id, delay": "925, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2339,
+    "pos": "3826, 2834, 0",
+    "interacting": {
+      "npc": "Sorebones (562)"
+    }
+  },
+  {
+    "server-tick": 2340,
+    "pos": "3826, 2836, 0",
+    "interacting": {
+      "npc": "Sorebones (562)"
+    }
+  },
+  {
+    "server-tick": 2341,
+    "pos": "3825, 2837, 0",
+    "interacting": {
+      "npc": "Sorebones (562)"
+    }
+  },
+  {
+    "server-tick": 2342,
+    "interacting": {
+      "npc": "Sorebones (562)"
+    }
+  }
+]

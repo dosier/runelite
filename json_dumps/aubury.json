@@ -1,0 +1,28 @@
+[
+  {
+    "server-tick": 919,
+    "gfx": 110,
+    "pos": "3253, 3402, 0",
+    "interacting": {
+      "npc": "Aubury (2886)",
+      "gfx": 108
+    }
+  },
+  {
+    "server-tick": 920,
+    "gfx": 110
+  },
+  {
+    "server-tick": 921,
+    "gfx": 110
+  },
+  {
+    "server-tick": 922,
+    "gfx": 110
+  },
+  {
+    "server-tick": 923,
+    "gfx": 110,
+    "pos": "9201, 9706, 0"
+  }
+]

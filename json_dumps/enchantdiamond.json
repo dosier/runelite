@@ -1,0 +1,66 @@
+[
+  {
+    "server-tick": 6089,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 6090,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 6091,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 6092,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 6093,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 931,
+    "gfx": 238,
+    "sounds": [
+      {
+        "id, delay": "138, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 6094,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 931,
+    "gfx": 238
+  },
+  {
+    "server-tick": 6095,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 931,
+    "gfx": 238,
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "229, 1, 6095"
+      }
+    ]
+  },
+  {
+    "server-tick": 6096,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 6097,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 6098,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 6099,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 6100,
+    "game-state": "LOGGED_IN (30)"
+  }
+]

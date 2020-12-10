@@ -1,0 +1,189 @@
+[
+  {
+    "server-tick": 4738,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 603,
+    "pos": "3824, 10251, 1"
+  },
+  {
+    "server-tick": 4739,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 603,
+    "interacting": {
+      "npc": "Lobstrosity (7796)",
+      "animation": 6266
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2566, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4740,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 603,
+    "interacting": {
+      "npc": "Lobstrosity (7796)",
+      "animation": 6266
+    },
+    "sounds": [
+      {
+        "id, delay": "728, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4741,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 603,
+    "interacting": {
+      "npc": "Lobstrosity (7796)"
+    }
+  },
+  {
+    "server-tick": 4742,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 603,
+    "interacting": {
+      "npc": "Lobstrosity (7796)"
+    }
+  },
+  {
+    "server-tick": 4743,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Lobstrosity (7796)",
+      "animation": 6266
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2566, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4744,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Lobstrosity (7796)",
+      "animation": 6266
+    },
+    "sounds": [
+      {
+        "id, delay": "728, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4745,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Lobstrosity (7796)"
+    }
+  },
+  {
+    "server-tick": 4746,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Lobstrosity (7796)"
+    }
+  },
+  {
+    "server-tick": 4747,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Lobstrosity (7796)",
+      "animation": 6266
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2566, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4748,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Lobstrosity (7796)",
+      "animation": 6266
+    },
+    "sounds": [
+      {
+        "id, delay": "728, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4749,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Lobstrosity (7796)"
+    }
+  },
+  {
+    "server-tick": 4750,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Lobstrosity (7796)"
+    }
+  },
+  {
+    "server-tick": 4751,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Lobstrosity (7796)",
+      "animation": 6266
+    },
+    "sounds": [
+      {
+        "id, delay": "726, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      },
+      {
+        "id, delay": "2566, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4752,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Lobstrosity (7796)",
+      "animation": 6266
+    },
+    "sounds": [
+      {
+        "id, delay": "728, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4753,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Lobstrosity (7796)"
+    }
+  }
+]

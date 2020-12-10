@@ -1,0 +1,4210 @@
+[
+  {
+    "server-tick": 11050,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11051,
+    "animation": 4177
+  },
+  {
+    "server-tick": 11052,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1444,
+        "heights": "0, 124",
+        "slope, duration": "0, 56"
+      }
+    ]
+  },
+  {
+    "server-tick": 11053,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11054,
+    "animation": 4177
+  },
+  {
+    "server-tick": 11055,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11056,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11057,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "2677, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11058,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "3825, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11059,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11060,
+    "animation": 4177
+  },
+  {
+    "server-tick": 11061,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11062,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11063,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    }
+  },
+  {
+    "server-tick": 11064,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11065,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11066,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11067,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11068,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 160,
+        "level": 0,
+        "start": 3483428
+      }
+    ]
+  },
+  {
+    "server-tick": 11069,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1445,
+        "heights": "0, 124",
+        "slope, duration": "0, 108"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 160,
+        "level": 0,
+        "start": 3483428
+      }
+    ]
+  },
+  {
+    "server-tick": 11070,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 160,
+        "level": 0,
+        "start": 3483428
+      }
+    ]
+  },
+  {
+    "server-tick": 11071,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "graphics": [
+      {
+        "id": 160,
+        "level": 0,
+        "start": 3483428
+      }
+    ]
+  },
+  {
+    "server-tick": 11072,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "graphics": [
+      {
+        "id": 160,
+        "level": 0,
+        "start": 3483428
+      }
+    ]
+  },
+  {
+    "server-tick": 11073,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11074,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11075,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    }
+  },
+  {
+    "server-tick": 11076,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11077,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11078,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11079,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11080,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 160,
+        "level": 0,
+        "start": 3483785
+      }
+    ]
+  },
+  {
+    "server-tick": 11081,
+    "animation": 4177,
+    "graphics": [
+      {
+        "id": 160,
+        "level": 0,
+        "start": 3483785
+      }
+    ]
+  },
+  {
+    "server-tick": 11082,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2238, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 160,
+        "level": 0,
+        "start": 3483785
+      }
+    ]
+  },
+  {
+    "server-tick": 11083,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 160,
+        "level": 0,
+        "start": 3483785
+      }
+    ]
+  },
+  {
+    "server-tick": 11084,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "graphics": [
+      {
+        "id": 160,
+        "level": 0,
+        "start": 3483785
+      }
+    ]
+  },
+  {
+    "server-tick": 11085,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11086,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11087,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "projectiles": [
+      {
+        "id": 1444,
+        "heights": "0, 124",
+        "slope, duration": "0, 56"
+      }
+    ]
+  },
+  {
+    "server-tick": 11088,
+    "pos": "10914, 3750, 0",
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11089,
+    "pos": "10916, 3749, 0",
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11090,
+    "pos": "10918, 3747, 0"
+  },
+  {
+    "server-tick": 11091,
+    "pos": "10918, 3745, 0"
+  },
+  {
+    "server-tick": 11092,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7769
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11093,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11094,
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11096,
+    "interacting": {
+      "npc": "Dawn (7852)"
+    }
+  },
+  {
+    "server-tick": 11098,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11099,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7769
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11100,
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11102,
+    "sounds": [
+      {
+        "id, delay": "2266, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11104,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7771
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 160,
+        "level": 0,
+        "start": 3484456
+      }
+    ]
+  },
+  {
+    "server-tick": 11105,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 160,
+        "level": 0,
+        "start": 3484456
+      }
+    ]
+  },
+  {
+    "server-tick": 11106,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 160,
+        "level": 0,
+        "start": 3484456
+      }
+    ]
+  },
+  {
+    "server-tick": 11107,
+    "animation": 4177,
+    "gfx": 1312,
+    "sounds": [
+      {
+        "id, delay": "168, 10"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11108,
+    "gfx": 1312,
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11109,
+    "gfx": 1312,
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11110,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11111,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11112,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11113,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11114,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11116,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7769
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11117,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11118,
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11122,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7770
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11123,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11124,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11125,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11126,
+    "animation": 4177
+  },
+  {
+    "server-tick": 11128,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11129,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11130,
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11134,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11135,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11136,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11137,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11138,
+    "animation": 4177
+  },
+  {
+    "server-tick": 11140,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11141,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11142,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11143,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dawn (7852)"
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11144,
+    "animation": 4177
+  },
+  {
+    "server-tick": 11145,
+    "pos": "10916, 3745, 0"
+  },
+  {
+    "server-tick": 11146,
+    "animation": 4177,
+    "pos": "10914, 3745, 0",
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11147,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11148,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11149,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11150,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    }
+  },
+  {
+    "server-tick": 11151,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11152,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11153,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11154,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11155,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11156,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11157,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    }
+  },
+  {
+    "server-tick": 11158,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 160,
+        "level": 0,
+        "start": 3486078
+      }
+    ]
+  },
+  {
+    "server-tick": 11159,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1445,
+        "heights": "0, 124",
+        "slope, duration": "0, 57"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 160,
+        "level": 0,
+        "start": 3486078
+      }
+    ]
+  },
+  {
+    "server-tick": 11160,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 160,
+        "level": 0,
+        "start": 3486078
+      }
+    ]
+  },
+  {
+    "server-tick": 11161,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    }
+  },
+  {
+    "server-tick": 11162,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    }
+  },
+  {
+    "server-tick": 11163,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11164,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11165,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11166,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "520, 20"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11167,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11168,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11169,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    }
+  },
+  {
+    "server-tick": 11170,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11171,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1444,
+        "heights": "0, 124",
+        "slope, duration": "0, 33"
+      }
+    ]
+  },
+  {
+    "server-tick": 11172,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1444,
+        "heights": "0, 124",
+        "slope, duration": "0, 31"
+      }
+    ]
+  },
+  {
+    "server-tick": 11173,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11174,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    }
+  },
+  {
+    "server-tick": 11175,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11176,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11177,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1444,
+        "heights": "0, 124",
+        "slope, duration": "0, 31"
+      }
+    ]
+  },
+  {
+    "server-tick": 11178,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11179,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11180,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11181,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    }
+  },
+  {
+    "server-tick": 11182,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11183,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11184,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11185,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11186,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    }
+  },
+  {
+    "server-tick": 11187,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11188,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11189,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1444,
+        "heights": "0, 124",
+        "slope, duration": "0, 32"
+      }
+    ]
+  },
+  {
+    "server-tick": 11190,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "521, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1444,
+        "heights": "0, 124",
+        "slope, duration": "0, 33"
+      }
+    ]
+  },
+  {
+    "server-tick": 11191,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11192,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11193,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    }
+  },
+  {
+    "server-tick": 11194,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11195,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11196,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11197,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11198,
+    "animation": 4177,
+    "pos": "10914, 3747, 0"
+  },
+  {
+    "server-tick": 11199,
+    "animation": 1658,
+    "pos": "10913, 3747, 0",
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11200,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11201,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11202,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11203,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11204,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11205,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    }
+  },
+  {
+    "server-tick": 11206,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11207,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11208,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11209,
+    "interacting": {
+      "npc": "Dusk (7851)",
+      "animation": 7785
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11210,
+    "interacting": {
+      "npc": "Dusk (7851)"
+    }
+  },
+  {
+    "server-tick": 11211,
+    "pos": "10914, 3745, 0"
+  },
+  {
+    "server-tick": 11212,
+    "animation": 430,
+    "pos": "10916, 3743, 0",
+    "sounds": [
+      {
+        "id, delay": "2247, 0"
+      },
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11213,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "2238, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11214,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 11215,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11216,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 11217,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "2685, 0"
+      },
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11218,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7769
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11219,
+    "animation": 5061,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11220,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11221,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11222,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11223,
+    "animation": 829
+  },
+  {
+    "server-tick": 11224,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11225,
+    "animation": 430
+  },
+  {
+    "server-tick": 11226,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11227,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11230,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11231,
+    "animation": 430
+  },
+  {
+    "server-tick": 11232,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11233,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11236,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11237,
+    "animation": 430
+  },
+  {
+    "server-tick": 11238,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11239,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11240,
+    "animation": 829
+  },
+  {
+    "server-tick": 11241,
+    "animation": 829
+  },
+  {
+    "server-tick": 11242,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11243,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11244,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 11245,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11246,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 11247,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11248,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7770
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 11249,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1444,
+        "heights": "0, 124",
+        "slope, duration": "0, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 11250,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11251,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "521, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11252,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 11253,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11254,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7771
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 160,
+        "level": 0,
+        "start": 3488936
+      }
+    ]
+  },
+  {
+    "server-tick": 11255,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 160,
+        "level": 0,
+        "start": 3488936
+      }
+    ]
+  },
+  {
+    "server-tick": 11256,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 160,
+        "level": 0,
+        "start": 3488936
+      }
+    ]
+  },
+  {
+    "server-tick": 11257,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11258,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)"
+    }
+  },
+  {
+    "server-tick": 11259,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11260,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7770
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 11261,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11262,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 11263,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11264,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 11265,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11266,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7769
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 11267,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11268,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11269,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11270,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 11271,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11272,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7769
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 11273,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11274,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 11275,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7852)",
+      "animation": 7775
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11276,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dawn (7853)"
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 11277,
+    "animation": 5061,
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11280,
+    "animation": 430,
+    "pos": "10916, 3745, 0",
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11281,
+    "animation": 430,
+    "pos": "10917, 3747, 0",
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11282,
+    "animation": 430,
+    "pos": "10919, 3749, 0"
+  },
+  {
+    "server-tick": 11283,
+    "animation": 430,
+    "pos": "10920, 3750, 0"
+  },
+  {
+    "server-tick": 11284,
+    "animation": 430
+  },
+  {
+    "server-tick": 11285,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7794
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11286,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7788
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 11287,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7788
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11288,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dusk (7882)"
+    }
+  },
+  {
+    "server-tick": 11289,
+    "animation": 5061,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      },
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11291,
+    "interacting": {
+      "npc": "Dusk (7882)"
+    }
+  },
+  {
+    "server-tick": 11292,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7802
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 155"
+      },
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 95"
+      },
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 155"
+      },
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 95"
+      },
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 155"
+      },
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 95"
+      },
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 155"
+      },
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 95"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 1448,
+        "level": 0,
+        "start": 3490019
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490151
+      },
+      {
+        "id": 1446,
+        "level": 0,
+        "start": 3490013
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490091
+      },
+      {
+        "id": 1448,
+        "level": 0,
+        "start": 3490023
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490151
+      },
+      {
+        "id": 1446,
+        "level": 0,
+        "start": 3490014
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490091
+      },
+      {
+        "id": 1448,
+        "level": 0,
+        "start": 3490016
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490151
+      },
+      {
+        "id": 1446,
+        "level": 0,
+        "start": 3490016
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490091
+      },
+      {
+        "id": 1448,
+        "level": 0,
+        "start": 3490015
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490151
+      },
+      {
+        "id": 1446,
+        "level": 0,
+        "start": 3490019
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490091
+      }
+    ]
+  },
+  {
+    "server-tick": 11293,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7802
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490151
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490091
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490151
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490091
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490151
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490091
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490151
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490091
+      }
+    ]
+  },
+  {
+    "server-tick": 11294,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7802
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490151
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490091
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490151
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490091
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490151
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490091
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490151
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490091
+      }
+    ]
+  },
+  {
+    "server-tick": 11295,
+    "animation": 7208,
+    "sounds": [
+      {
+        "id, delay": "1472, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490151
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490151
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490151
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490151
+      }
+    ]
+  },
+  {
+    "server-tick": 11296,
+    "animation": 368,
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "1629, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490151
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490151
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490151
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490151
+      }
+    ]
+  },
+  {
+    "server-tick": 11297,
+    "animation": 368
+  },
+  {
+    "server-tick": 11298,
+    "animation": 785,
+    "sounds": [
+      {
+        "id, delay": "2455, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11299,
+    "animation": 785
+  },
+  {
+    "server-tick": 11300,
+    "animation": 785,
+    "sounds": [
+      {
+        "id, delay": "521, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11301,
+    "animation": 785,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11302,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11303,
+    "animation": 430,
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 11304,
+    "animation": 829,
+    "sounds": [
+      {
+        "id, delay": "2393, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11305,
+    "animation": 829
+  },
+  {
+    "server-tick": 11306,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7794
+    },
+    "sounds": [
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11307,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7794
+    },
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 11308,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7786
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2696, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11309,
+    "animation": 5061,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7786
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1122,
+        "heights": "105, 144",
+        "slope, duration": "15, 10"
+      }
+    ]
+  },
+  {
+    "server-tick": 11310,
+    "animation": 5061,
+    "pos": "10918, 3750, 0",
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11311,
+    "pos": "10916, 3750, 0"
+  },
+  {
+    "server-tick": 11312,
+    "pos": "10915, 3749, 0"
+  },
+  {
+    "server-tick": 11313,
+    "sounds": [
+      {
+        "id, delay": "2249, 0"
+      },
+      {
+        "id, delay": "2238, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11314,
+    "animation": 4177,
+    "sounds": [
+      {
+        "id, delay": "2238, 0"
+      },
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11315,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7786
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11316,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7882)"
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11317,
+    "interacting": {
+      "npc": "Dusk (7882)"
+    }
+  },
+  {
+    "server-tick": 11318,
+    "interacting": {
+      "npc": "Dusk (7882)"
+    }
+  },
+  {
+    "server-tick": 11319,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7794
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11320,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7786
+    },
+    "sounds": [
+      {
+        "id, delay": "3825, 0"
+      },
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "428, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 185"
+      },
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 125"
+      },
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 185"
+      },
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 95"
+      },
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 125"
+      },
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 185"
+      },
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 125"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 1449,
+        "level": 0,
+        "start": 3490869
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1447,
+        "level": 0,
+        "start": 3490859
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490967
+      },
+      {
+        "id": 1449,
+        "level": 0,
+        "start": 3490867
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1447,
+        "level": 0,
+        "start": 3490869
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490967
+      },
+      {
+        "id": 1449,
+        "level": 0,
+        "start": 3490871
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1446,
+        "level": 0,
+        "start": 3490860
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490937
+      },
+      {
+        "id": 1447,
+        "level": 0,
+        "start": 3490871
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490967
+      }
+    ]
+  },
+  {
+    "server-tick": 11321,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7786
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490967
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490967
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490937
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490967
+      }
+    ]
+  },
+  {
+    "server-tick": 11322,
+    "interacting": {
+      "npc": "Dusk (7882)"
+    },
+    "graphics": [
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490967
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490967
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490937
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490967
+      }
+    ]
+  },
+  {
+    "server-tick": 11323,
+    "pos": "10915, 3747, 0",
+    "graphics": [
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490967
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490967
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3490967
+      }
+    ]
+  },
+  {
+    "server-tick": 11324,
+    "animation": 4177,
+    "gfx": 245,
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      },
+      {
+        "id, delay": "2727, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      }
+    ]
+  },
+  {
+    "server-tick": 11325,
+    "animation": 4177,
+    "gfx": 245,
+    "graphics": [
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491027
+      }
+    ]
+  },
+  {
+    "server-tick": 11326,
+    "animation": 4177,
+    "gfx": 245,
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11327,
+    "animation": 4177,
+    "gfx": 245,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7788
+    },
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      },
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11328,
+    "animation": 4177,
+    "gfx": 245,
+    "interacting": {
+      "npc": "Dusk (7882)"
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11329,
+    "gfx": 245,
+    "interacting": {
+      "npc": "Dusk (7882)"
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11330,
+    "gfx": 245,
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11331,
+    "gfx": 245
+  },
+  {
+    "server-tick": 11332,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7788
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11333,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7788
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "154, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11334,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7788
+    },
+    "sounds": [
+      {
+        "id, delay": "154, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11335,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7882)"
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 11336,
+    "interacting": {
+      "npc": "Dusk (7882)"
+    }
+  },
+  {
+    "server-tick": 11337,
+    "interacting": {
+      "npc": "Dusk (7882)"
+    },
+    "projectiles": [
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 185"
+      },
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 95"
+      },
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 155"
+      },
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 185"
+      },
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 95"
+      },
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 125"
+      },
+      {
+        "id": 1435,
+        "heights": "0, 8",
+        "slope, duration": "0, 95"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 1449,
+        "level": 0,
+        "start": 3491381
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491538
+      },
+      {
+        "id": 1446,
+        "level": 0,
+        "start": 3491378
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491448
+      },
+      {
+        "id": 1448,
+        "level": 0,
+        "start": 3491371
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491508
+      },
+      {
+        "id": 1446,
+        "level": 0,
+        "start": 3491380
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491448
+      },
+      {
+        "id": 1449,
+        "level": 0,
+        "start": 3491374
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491538
+      },
+      {
+        "id": 1447,
+        "level": 0,
+        "start": 3491377
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491478
+      },
+      {
+        "id": 1446,
+        "level": 0,
+        "start": 3491383
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491448
+      },
+      {
+        "id": 1446,
+        "level": 0,
+        "start": 3491375
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491448
+      }
+    ]
+  },
+  {
+    "server-tick": 11338,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7786
+    },
+    "sounds": [
+      {
+        "id, delay": "428, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491538
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491448
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491508
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491448
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491538
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491478
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491448
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491448
+      }
+    ]
+  },
+  {
+    "server-tick": 11339,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7786
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491538
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491448
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491508
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491448
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491538
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491478
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491448
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491448
+      }
+    ]
+  },
+  {
+    "server-tick": 11340,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7786
+    },
+    "graphics": [
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491538
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491508
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491538
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491478
+      }
+    ]
+  },
+  {
+    "server-tick": 11341,
+    "interacting": {
+      "npc": "Dusk (7882)"
+    },
+    "graphics": [
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491538
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491508
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491538
+      }
+    ]
+  },
+  {
+    "server-tick": 11342,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dusk (7882)",
+      "animation": 7794
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491538
+      },
+      {
+        "id": 1436,
+        "level": 0,
+        "start": 3491538
+      }
+    ]
+  }
+]

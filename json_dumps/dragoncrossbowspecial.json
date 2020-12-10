@@ -1,0 +1,172 @@
+[
+  {
+    "server-tick": 277,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 278,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "interacting": {
+      "npc": "Skeleton (73)",
+      "animation": 5485
+    },
+    "sounds": [
+      {
+        "id, delay": "776, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 279,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "interacting": {
+      "npc": "Skeleton (73)",
+      "animation": 5485
+    }
+  },
+  {
+    "server-tick": 280,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 4230,
+    "interacting": {
+      "npc": "Skeleton (73)",
+      "animation": 5489,
+      "gfx": 157
+    },
+    "sounds": [
+      {
+        "id, delay": "1080, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 281,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 4230,
+    "interacting": {
+      "npc": "Skeleton (73)",
+      "animation": 5489,
+      "gfx": 157
+    },
+    "projectiles": [
+      {
+        "id": 698,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 282,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 4230,
+    "interacting": {
+      "npc": "Skeleton (73)",
+      "animation": 5485,
+      "gfx": 157
+    },
+    "sounds": [
+      {
+        "id, delay": "774, 0"
+      },
+      {
+        "id, delay": "776, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 283,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Skeleton (73)",
+      "animation": 5485
+    }
+  },
+  {
+    "server-tick": 284,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Skeleton (73)"
+    }
+  },
+  {
+    "server-tick": 285,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7552,
+    "interacting": {
+      "npc": "Skeleton (73)",
+      "animation": 5489,
+      "gfx": 756
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      },
+      {
+        "id, delay": "2915, 1"
+      }
+    ]
+  },
+  {
+    "server-tick": 286,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7552,
+    "interacting": {
+      "npc": "Skeleton (73)",
+      "animation": 5485,
+      "gfx": 756
+    },
+    "sounds": [
+      {
+        "id, delay": "776, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 287,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7552,
+    "interacting": {
+      "npc": "Skeleton (73)",
+      "animation": 5485,
+      "gfx": 756
+    },
+    "sounds": [
+      {
+        "id, delay": "774, 0"
+      }
+    ],
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "21948, 1, 287"
+      }
+    ]
+  },
+  {
+    "server-tick": 288,
+    "game-state": "LOGGED_IN (30)",
+    "sounds": [
+      {
+        "id, delay": "777, 0"
+      }
+    ]
+  }
+]

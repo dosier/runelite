@@ -1,0 +1,48 @@
+[
+  {
+    "server-tick": 1441,
+    "animation": 390,
+    "interacting": {
+      "npc": "Gargoyle (1543)",
+      "animation": 1519
+    },
+    "sounds": [
+      {
+        "id, delay": "2500, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1442,
+    "animation": 390,
+    "interacting": {
+      "npc": "Gargoyle (1543)",
+      "animation": 1517
+    },
+    "sounds": [
+      {
+        "id, delay": "430, 0"
+      },
+      {
+        "id, delay": "428, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1443,
+    "animation": 401,
+    "interacting": {
+      "npc": "Gargoyle (1543)",
+      "animation": 1517
+    },
+    "sounds": [
+      {
+        "id, delay": "2567, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1444,
+    "animation": 401
+  }
+]

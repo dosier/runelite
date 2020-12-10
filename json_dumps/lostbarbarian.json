@@ -1,0 +1,455 @@
+[
+  {
+    "server-tick": 27023,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "3383, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27024,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 425
+    }
+  },
+  {
+    "server-tick": 27025,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "3381, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27026,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27027,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lost barbarian (2921)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3383, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27028,
+    "interacting": {
+      "npc": "Lost barbarian (2921)"
+    }
+  },
+  {
+    "server-tick": 27029,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "3381, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27030,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27031,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lost barbarian (2921)"
+    },
+    "sounds": [
+      {
+        "id, delay": "3383, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27032,
+    "interacting": {
+      "npc": "Lost barbarian (2921)"
+    }
+  },
+  {
+    "server-tick": 27033,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "3381, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27034,
+    "animation": 1156,
+    "pos": "1762, 5323, 0"
+  },
+  {
+    "server-tick": 27035,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27036,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "3383, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27037,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "3381, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27038,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 422
+    }
+  },
+  {
+    "server-tick": 27039,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27040,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "3383, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27041,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "3381, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27042,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 422
+    }
+  },
+  {
+    "server-tick": 27043,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27044,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "3383, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27045,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "3381, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27046,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 422
+    }
+  },
+  {
+    "server-tick": 27047,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27048,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "3383, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27049,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "3381, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27050,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 422
+    }
+  },
+  {
+    "server-tick": 27051,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27052,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "3383, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27053,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "3381, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27054,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 422
+    }
+  },
+  {
+    "server-tick": 27055,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27056,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lost barbarian (2921)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "3383, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27057,
+    "sounds": [
+      {
+        "id, delay": "3382, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27058,
+    "sounds": [
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27059,
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 69,
+        "sceneY": 53,
+        "source": "Brutal green dragon (2918)"
+      }
+    ]
+  },
+  {
+    "server-tick": 27061,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "408, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27062,
+    "animation": 1156
+  }
+]

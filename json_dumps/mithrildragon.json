@@ -1,0 +1,606 @@
+[
+  {
+    "server-tick": 27142,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 80
+    },
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 44,
+        "sceneY": 61,
+        "source": "Mithril dragon (2919)"
+      }
+    ]
+  },
+  {
+    "server-tick": 27143,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27144,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27145,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 80
+    },
+    "sounds": [
+      {
+        "id, delay": "408, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27146,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 80
+    },
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 44,
+        "sceneY": 61,
+        "source": "Mithril dragon (2919)"
+      }
+    ]
+  },
+  {
+    "server-tick": 27147,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27148,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27149,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 80
+    },
+    "sounds": [
+      {
+        "id, delay": "408, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27150,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 80
+    },
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 44,
+        "sceneY": 61,
+        "source": "Mithril dragon (2919)"
+      }
+    ]
+  },
+  {
+    "server-tick": 27151,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27152,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27153,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 80
+    },
+    "sounds": [
+      {
+        "id, delay": "408, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27154,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 80
+    },
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 44,
+        "sceneY": 61,
+        "source": "Mithril dragon (2919)"
+      }
+    ]
+  },
+  {
+    "server-tick": 27155,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27156,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27157,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 6722
+    },
+    "sounds": [
+      {
+        "id, delay": "408, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27158,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 6722
+    }
+  },
+  {
+    "server-tick": 27159,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 6722
+    },
+    "sounds": [
+      {
+        "id, delay": "2959, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27160,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 6722
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27161,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 80
+    },
+    "sounds": [
+      {
+        "id, delay": "408, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27162,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 80
+    },
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 44,
+        "sceneY": 61,
+        "source": "Mithril dragon (2919)"
+      }
+    ]
+  },
+  {
+    "server-tick": 27163,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27164,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27165,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 80
+    },
+    "sounds": [
+      {
+        "id, delay": "408, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27166,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 80
+    },
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 44,
+        "sceneY": 61,
+        "source": "Mithril dragon (2919)"
+      }
+    ]
+  },
+  {
+    "server-tick": 27167,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27168,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Mithril dragon (2919)",
+      "animation": 89
+    },
+    "sounds": [
+      {
+        "id, delay": "410, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27169,
+    "animation": 1156,
+    "pos": "1782, 5344, 1",
+    "sounds": [
+      {
+        "id, delay": "408, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27170,
+    "animation": 1156,
+    "pos": "1782, 5346, 1",
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 44,
+        "sceneY": 61,
+        "source": "Mithril dragon (2919)"
+      }
+    ]
+  },
+  {
+    "server-tick": 27171,
+    "animation": 1156
+  },
+  {
+    "server-tick": 27173,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "408, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27174,
+    "animation": 1156
+  },
+  {
+    "server-tick": 27175,
+    "animation": 1156
+  },
+  {
+    "server-tick": 27176,
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27178,
+    "sounds": [
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27179,
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 44,
+        "sceneY": 61,
+        "source": "Mithril dragon (2919)"
+      }
+    ]
+  },
+  {
+    "server-tick": 27182,
+    "pos": "1781, 5347, 1",
+    "sounds": [
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27183,
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 44,
+        "sceneY": 61,
+        "source": "Mithril dragon (2919)"
+      }
+    ]
+  },
+  {
+    "server-tick": 27186,
+    "sounds": [
+      {
+        "id, delay": "2962, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27187,
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 44,
+        "sceneY": 61,
+        "source": "Mithril dragon (2919)"
+      }
+    ]
+  },
+  {
+    "server-tick": 27189,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "408, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27190,
+    "animation": 1156
+  },
+  {
+    "server-tick": 27191,
+    "animation": 1156
+  },
+  {
+    "server-tick": 27192,
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27194,
+    "sounds": [
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27195,
+    "area-sounds": [
+      {
+        "id": 3752,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 44,
+        "sceneY": 61,
+        "source": "Mithril dragon (2919)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "3120, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27197,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "408, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27198,
+    "animation": 1156
+  },
+  {
+    "server-tick": 27199,
+    "animation": 1156
+  },
+  {
+    "server-tick": 27200,
+    "sounds": [
+      {
+        "id, delay": "2958, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 27201,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "408, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 27202,
+    "animation": 1156
+  }
+]

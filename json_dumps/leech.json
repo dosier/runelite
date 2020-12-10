@@ -1,0 +1,82 @@
+[
+  {
+    "server-tick": 14957,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Leech (3233)",
+      "animation": 1273
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14958,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Leech (3233)"
+    },
+    "sounds": [
+      {
+        "id, delay": "603, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14959,
+    "interacting": {
+      "npc": "Leech (3233)"
+    }
+  },
+  {
+    "server-tick": 14960,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Leech (3233)",
+      "animation": 1273
+    },
+    "sounds": [
+      {
+        "id, delay": "604, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 14961,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Leech (3233)",
+      "animation": 1273
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14962,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Leech (3233)"
+    },
+    "sounds": [
+      {
+        "id, delay": "603, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 14963,
+    "sounds": [
+      {
+        "id, delay": "602, 0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,243 @@
+[
+  {
+    "server-tick": 1164,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 65,
+        "sceneY": 58,
+        "source": "BioHazardd"
+      }
+    ]
+  },
+  {
+    "server-tick": 1165,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 65,
+        "sceneY": 58,
+        "source": "BioHazardd"
+      }
+    ]
+  },
+  {
+    "server-tick": 1167,
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 65,
+        "sceneY": 58,
+        "source": "BioHazardd"
+      }
+    ]
+  },
+  {
+    "server-tick": 1168,
+    "animation": 7558,
+    "interacting": {
+      "npc": "Guard (3011)",
+      "animation": 6488
+    },
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 65,
+        "sceneY": 58,
+        "source": "BioHazardd"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2706, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1169,
+    "animation": 7558,
+    "interacting": {
+      "npc": "Guard (3011)",
+      "animation": 6488
+    },
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 65,
+        "sceneY": 58,
+        "source": "BioHazardd"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 442,
+        "heights": "11, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 1170,
+    "interacting": {
+      "npc": "Guard (3011)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1171,
+    "animation": 7558,
+    "interacting": {
+      "npc": "Guard (3011)",
+      "animation": 6488
+    },
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 65,
+        "sceneY": 58,
+        "source": "BioHazardd"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2706, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1172,
+    "animation": 7558,
+    "interacting": {
+      "npc": "Guard (3011)"
+    },
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 65,
+        "sceneY": 58,
+        "source": "BioHazardd"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 65,
+        "sceneY": 58,
+        "source": "BioHazardd"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 442,
+        "heights": "11, 144",
+        "slope, duration": "15, 14"
+      }
+    ]
+  },
+  {
+    "server-tick": 1173,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Guard (3011)",
+      "animation": 6489
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      },
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 1174,
+    "animation": 7558,
+    "interacting": {
+      "npc": "Guard (3011)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "2706, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1175,
+    "animation": 7558,
+    "interacting": {
+      "npc": "Guard (3011)",
+      "animation": 6488
+    },
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 65,
+        "sceneY": 58,
+        "source": "BioHazardd"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 65,
+        "sceneY": 58,
+        "source": "BioHazardd"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 442,
+        "heights": "11, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 1176,
+    "interacting": {
+      "npc": "Guard (3011)",
+      "animation": 6488
+    },
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 65,
+        "sceneY": 58,
+        "source": "BioHazardd"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  }
+]

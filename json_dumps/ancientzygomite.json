@@ -1,0 +1,273 @@
+[
+  {
+    "server-tick": 4055,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)",
+      "animation": 3326
+    },
+    "sounds": [
+      {
+        "id, delay": "2566, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4056,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)",
+      "animation": 3326
+    }
+  },
+  {
+    "server-tick": 4057,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)",
+      "animation": 3325
+    },
+    "sounds": [
+      {
+        "id, delay": "3551, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4058,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)",
+      "animation": 3325
+    },
+    "sounds": [
+      {
+        "id, delay": "1970, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4059,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)",
+      "animation": 3326
+    },
+    "sounds": [
+      {
+        "id, delay": "2566, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4060,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 388,
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)",
+      "animation": 3326
+    }
+  },
+  {
+    "server-tick": 4061,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)",
+      "animation": 3325
+    },
+    "sounds": [
+      {
+        "id, delay": "3551, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4062,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)",
+      "animation": 3325
+    },
+    "sounds": [
+      {
+        "id, delay": "1970, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4063,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1965, 0"
+      },
+      {
+        "id, delay": "1966, 19"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 576,
+        "heights": "64, 124",
+        "slope, duration": "0, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 4064,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)"
+    }
+  },
+  {
+    "server-tick": 4065,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)",
+      "animation": 3325
+    },
+    "sounds": [
+      {
+        "id, delay": "3551, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4066,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)",
+      "animation": 3325
+    },
+    "sounds": [
+      {
+        "id, delay": "1970, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4067,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1965, 0"
+      },
+      {
+        "id, delay": "1966, 19"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 576,
+        "heights": "64, 124",
+        "slope, duration": "0, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 4068,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)"
+    }
+  },
+  {
+    "server-tick": 4069,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)",
+      "animation": 3325
+    },
+    "sounds": [
+      {
+        "id, delay": "3551, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4070,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 390,
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)",
+      "animation": 3325
+    },
+    "sounds": [
+      {
+        "id, delay": "1970, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4071,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1965, 0"
+      },
+      {
+        "id, delay": "1966, 19"
+      },
+      {
+        "id, delay": "518, 20"
+      }
+    ],
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "21555, 9, 4071"
+      },
+      {
+        "id, quantity, spawnTime": "407, 1, 4071"
+      },
+      {
+        "id, quantity, spawnTime": "407, 1, 4071"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 576,
+        "heights": "64, 124",
+        "slope, duration": "0, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 4072,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)"
+    }
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "server-tick": 2565,
+    "pos": "3127, 3422, 0"
+  },
+  {
+    "server-tick": 2568,
+    "pos": "3126, 3424, 0",
+    "interacting": {
+      "npc": "Goblin (3075)"
+    }
+  },
+  {
+    "server-tick": 2569,
+    "pos": "3126, 3426, 0",
+    "interacting": {
+      "npc": "Goblin (3075)"
+    }
+  },
+  {
+    "server-tick": 2570,
+    "pos": "3124, 3428, 0",
+    "interacting": {
+      "npc": "Goblin (3075)"
+    }
+  },
+  {
+    "server-tick": 2571,
+    "pos": "3123, 3430, 0",
+    "interacting": {
+      "npc": "Goblin (3075)"
+    }
+  },
+  {
+    "server-tick": 2572,
+    "animation": 7617,
+    "gfx": 43,
+    "pos": "3122, 3431, 0",
+    "interacting": {
+      "npc": "Goblin (3075)",
+      "animation": 6189
+    },
+    "sounds": [
+      {
+        "id, delay": "2706, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2573,
+    "animation": 7617,
+    "gfx": 43,
+    "pos": "3120, 3431, 0",
+    "interacting": {
+      "npc": "Goblin (3075)",
+      "animation": 6189
+    },
+    "projectiles": [
+      {
+        "id": 36,
+        "heights": "11, 144",
+        "slope, duration": "15, 24"
+      }
+    ]
+  },
+  {
+    "server-tick": 2574,
+    "interacting": {
+      "npc": "Goblin (3075)",
+      "animation": 6189
+    },
+    "sounds": [
+      {
+        "id, delay": "472, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2575,
+    "interacting": {
+      "npc": "Goblin (3075)",
+      "animation": 6189
+    }
+  },
+  {
+    "server-tick": 2576,
+    "animation": 7617,
+    "gfx": 43,
+    "interacting": {
+      "npc": "Goblin (3075)",
+      "animation": 6189
+    },
+    "sounds": [
+      {
+        "id, delay": "2706, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2577,
+    "animation": 7617,
+    "gfx": 43,
+    "interacting": {
+      "npc": "Goblin (3075)",
+      "animation": 6188
+    },
+    "sounds": [
+      {
+        "id, delay": "3520, 0"
+      },
+      {
+        "id, delay": "2961, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 36,
+        "heights": "11, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 2578,
+    "interacting": {
+      "npc": "Goblin (3075)",
+      "animation": 6188
+    },
+    "sounds": [
+      {
+        "id, delay": "472, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2579,
+    "interacting": {
+      "npc": "Goblin (3075)",
+      "animation": 6188
+    }
+  },
+  {
+    "server-tick": 2580,
+    "animation": 7617,
+    "gfx": 43,
+    "interacting": {
+      "npc": "Goblin (3075)",
+      "animation": 6189
+    },
+    "sounds": [
+      {
+        "id, delay": "2706, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2581,
+    "animation": 7617,
+    "gfx": 43,
+    "interacting": {
+      "npc": "Goblin (3075)",
+      "animation": 6189
+    }
+  },
+  {
+    "server-tick": 2582,
+    "interacting": {
+      "npc": "Goblin (3075)",
+      "animation": 6189
+    },
+    "sounds": [
+      {
+        "id, delay": "472, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2583,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Goblin (3075)",
+      "animation": 6188
+    },
+    "sounds": [
+      {
+        "id, delay": "3520, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2584,
+    "animation": 7617,
+    "gfx": 43,
+    "interacting": {
+      "npc": "Goblin (3075)",
+      "animation": 6188
+    },
+    "sounds": [
+      {
+        "id, delay": "2706, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2585,
+    "animation": 7617,
+    "gfx": 43,
+    "interacting": {
+      "npc": "Goblin (3075)",
+      "animation": 6188
+    },
+    "projectiles": [
+      {
+        "id": 36,
+        "heights": "11, 144",
+        "slope, duration": "15, 6"
+      }
+    ]
+  },
+  {
+    "server-tick": 2586,
+    "interacting": {
+      "npc": "Goblin (3075)"
+    },
+    "sounds": [
+      {
+        "id, delay": "472, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2587,
+    "sounds": [
+      {
+        "id, delay": "471, 0"
+      }
+    ]
+  }
+]

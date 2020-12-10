@@ -1,0 +1,94 @@
+[
+  {
+    "server-tick": 857,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 858,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 859,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3102, 3552, 0",
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "995, 4, 859"
+      }
+    ]
+  },
+  {
+    "server-tick": 860,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3103, 3553, 0"
+  },
+  {
+    "server-tick": 861,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 862,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 863,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 864,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 865,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 866,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 867,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3103, 3551, 0"
+  },
+  {
+    "server-tick": 868,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3103, 3550, 0"
+  },
+  {
+    "server-tick": 869,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3103, 3552, 0",
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "995, 4, 869"
+      }
+    ]
+  },
+  {
+    "server-tick": 870,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3102, 3553, 0"
+  },
+  {
+    "server-tick": 871,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 872,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 873,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 874,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 875,
+    "game-state": "LOGGED_IN (30)"
+  }
+]

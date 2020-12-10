@@ -1,0 +1,101 @@
+[
+  {
+    "server-tick": 249,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Banshee (414)",
+      "animation": 1525,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 250,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Banshee (414)",
+      "animation": 1523,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "284, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 251,
+    "gfx": 665,
+    "pos": "3443, 3542, 0"
+  },
+  {
+    "server-tick": 252,
+    "gfx": 665,
+    "sounds": [
+      {
+        "id, delay": "286, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 254,
+    "animation": 1572,
+    "sounds": [
+      {
+        "id, delay": "284, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 255,
+    "animation": 1572
+  },
+  {
+    "server-tick": 256,
+    "animation": 1572
+  },
+  {
+    "server-tick": 257,
+    "animation": 1572
+  },
+  {
+    "server-tick": 258,
+    "animation": 1572,
+    "sounds": [
+      {
+        "id, delay": "284, 0"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 262,
+    "animation": 1572,
+    "sounds": [
+      {
+        "id, delay": "284, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 263,
+    "animation": 1572
+  }
+]

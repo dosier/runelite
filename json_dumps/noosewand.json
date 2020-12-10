@@ -1,0 +1,126 @@
+[
+  {
+    "server-tick": 2920,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Guard (3011)"
+    }
+  },
+  {
+    "server-tick": 2921,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 430,
+    "interacting": {
+      "npc": "Guard (3011)",
+      "animation": 6489
+    },
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2922,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 428,
+    "interacting": {
+      "npc": "Guard (3011)",
+      "animation": 6488
+    }
+  },
+  {
+    "server-tick": 2923,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 428,
+    "interacting": {
+      "npc": "Guard (3011)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2924,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Guard (3011)"
+    }
+  },
+  {
+    "server-tick": 2925,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 430,
+    "interacting": {
+      "npc": "Guard (3011)",
+      "animation": 6489
+    },
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2926,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 440,
+    "interacting": {
+      "npc": "Guard (3011)",
+      "animation": 6488
+    }
+  },
+  {
+    "server-tick": 2927,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 440,
+    "interacting": {
+      "npc": "Guard (3011)",
+      "animation": 6488
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2928,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 440,
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2929,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 2930,
+    "game-state": "LOGGED_IN (30)",
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "526, 1, 2930"
+      },
+      {
+        "id, quantity, spawnTime": "1446, 1, 2930"
+      }
+    ]
+  },
+  {
+    "server-tick": 2931,
+    "game-state": "LOGGED_IN (30)"
+  }
+]

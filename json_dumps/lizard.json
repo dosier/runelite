@@ -1,0 +1,338 @@
+[
+  {
+    "server-tick": 22809,
+    "pos": "3399, 3079, 0"
+  },
+  {
+    "server-tick": 22810,
+    "pos": "3397, 3078, 0"
+  },
+  {
+    "server-tick": 22811,
+    "animation": 1658,
+    "pos": "3397, 3077, 0",
+    "interacting": {
+      "npc": "Lizard (458)",
+      "animation": 2777
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22812,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizard (458)"
+    },
+    "sounds": [
+      {
+        "id, delay": "607, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22813,
+    "interacting": {
+      "npc": "Lizard (458)"
+    }
+  },
+  {
+    "server-tick": 22814,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Lizard (458)",
+      "animation": 2776
+    },
+    "sounds": [
+      {
+        "id, delay": "605, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 22815,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizard (458)",
+      "animation": 2777
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22816,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizard (458)"
+    },
+    "sounds": [
+      {
+        "id, delay": "607, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22817,
+    "animation": 829,
+    "interacting": {
+      "npc": "Lizard (458)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22818,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Lizard (458)",
+      "animation": 2776
+    },
+    "sounds": [
+      {
+        "id, delay": "605, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 22819,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizard (458)",
+      "animation": 2777
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22820,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizard (458)"
+    },
+    "sounds": [
+      {
+        "id, delay": "607, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22822,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Lizard (458)",
+      "animation": 2776
+    },
+    "sounds": [
+      {
+        "id, delay": "605, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 22823,
+    "animation": 4177,
+    "pos": "3395, 3077, 0"
+  },
+  {
+    "server-tick": 22824,
+    "pos": "3393, 3075, 0"
+  },
+  {
+    "server-tick": 22825,
+    "pos": "3391, 3073, 0"
+  },
+  {
+    "server-tick": 22827,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Lizard (458)",
+      "animation": 2776
+    },
+    "sounds": [
+      {
+        "id, delay": "605, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 22828,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Lizard (458)"
+    }
+  },
+  {
+    "server-tick": 22829,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizard (458)",
+      "animation": 2777
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22830,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizard (458)"
+    },
+    "sounds": [
+      {
+        "id, delay": "607, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22831,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Lizard (458)",
+      "animation": 2776
+    },
+    "sounds": [
+      {
+        "id, delay": "605, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 22832,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Lizard (458)"
+    }
+  },
+  {
+    "server-tick": 22833,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizard (458)",
+      "animation": 2777
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22834,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizard (458)"
+    },
+    "sounds": [
+      {
+        "id, delay": "607, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22835,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Lizard (458)",
+      "animation": 2776
+    },
+    "sounds": [
+      {
+        "id, delay": "605, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 22836,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Lizard (458)"
+    }
+  },
+  {
+    "server-tick": 22837,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizard (458)",
+      "animation": 2777
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22838,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Lizard (458)"
+    },
+    "sounds": [
+      {
+        "id, delay": "607, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22839,
+    "animation": 2779,
+    "interacting": {
+      "npc": "Lizard (458)",
+      "animation": 2776,
+      "gfx": 456
+    },
+    "sounds": [
+      {
+        "id, delay": "605, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2716, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 22840,
+    "animation": 2779,
+    "sounds": [
+      {
+        "id, delay": "606, 0"
+      }
+    ]
+  }
+]

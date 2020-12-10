@@ -1,0 +1,214 @@
+[
+  {
+    "server-tick": 15190,
+    "pos": "3461, 3405, 0",
+    "interacting": {
+      "npc": "Myre Blamish Snail (2634)"
+    }
+  },
+  {
+    "server-tick": 15191,
+    "pos": "3463, 3405, 0",
+    "interacting": {
+      "npc": "Myre Blamish Snail (2634)"
+    }
+  },
+  {
+    "server-tick": 15192,
+    "pos": "3465, 3404, 0",
+    "interacting": {
+      "npc": "Myre Blamish Snail (2634)"
+    }
+  },
+  {
+    "server-tick": 15193,
+    "pos": "3465, 3406, 0",
+    "interacting": {
+      "npc": "Myre Blamish Snail (2634)"
+    }
+  },
+  {
+    "server-tick": 15194,
+    "animation": 1658,
+    "pos": "3465, 3408, 0",
+    "interacting": {
+      "npc": "Myre Blamish Snail (2634)",
+      "animation": 1278
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15195,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Myre Blamish Snail (2634)"
+    },
+    "sounds": [
+      {
+        "id, delay": "789, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15196,
+    "pos": "3464, 3408, 0",
+    "interacting": {
+      "npc": "Myre Blamish Snail (2634)"
+    }
+  },
+  {
+    "server-tick": 15197,
+    "pos": "3463, 3408, 0",
+    "interacting": {
+      "npc": "Myre Blamish Snail (2634)"
+    }
+  },
+  {
+    "server-tick": 15198,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Myre Blamish Snail (2634)",
+      "animation": 1278
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15199,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Myre Blamish Snail (2634)"
+    },
+    "sounds": [
+      {
+        "id, delay": "789, 0"
+      },
+      {
+        "id, delay": "1184, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15200,
+    "animation": 1659,
+    "sounds": [
+      {
+        "id, delay": "787, 0"
+      },
+      {
+        "id, delay": "433, 0"
+      },
+      {
+        "id, delay": "1494, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15201,
+    "animation": 1659
+  },
+  {
+    "server-tick": 15203,
+    "pos": "3464, 3409, 0",
+    "interacting": {
+      "npc": "Myre Blamish Snail (2649)"
+    }
+  },
+  {
+    "server-tick": 15204,
+    "pos": "3463, 3409, 0",
+    "interacting": {
+      "npc": "Myre Blamish Snail (2649)"
+    }
+  },
+  {
+    "server-tick": 15207,
+    "pos": "3461, 3410, 0",
+    "interacting": {
+      "npc": "Myre Blamish Snail (2649)"
+    }
+  },
+  {
+    "server-tick": 15208,
+    "animation": 1658,
+    "pos": "3459, 3411, 0",
+    "interacting": {
+      "npc": "Myre Blamish Snail (2649)",
+      "animation": 1278
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15209,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Myre Blamish Snail (2649)"
+    },
+    "sounds": [
+      {
+        "id, delay": "789, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15210,
+    "pos": "3458, 3412, 0",
+    "interacting": {
+      "npc": "Myre Blamish Snail (2649)"
+    }
+  },
+  {
+    "server-tick": 15211,
+    "pos": "3457, 3413, 0",
+    "interacting": {
+      "npc": "Myre Blamish Snail (2649)"
+    }
+  },
+  {
+    "server-tick": 15212,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Myre Blamish Snail (2649)",
+      "animation": 1278
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15213,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Myre Blamish Snail (2649)"
+    },
+    "sounds": [
+      {
+        "id, delay": "789, 0"
+      },
+      {
+        "id, delay": "1184, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 15214,
+    "sounds": [
+      {
+        "id, delay": "787, 0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,251 @@
+[
+  {
+    "server-tick": 31717,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2367, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 31718,
+    "animation": 1156,
+    "pos": "1826, 4404, 3"
+  },
+  {
+    "server-tick": 31719,
+    "animation": 1156
+  },
+  {
+    "server-tick": 31720,
+    "animation": 1156
+  },
+  {
+    "server-tick": 31721,
+    "animation": 1156,
+    "pos": "1828, 4404, 3"
+  },
+  {
+    "server-tick": 31722,
+    "animation": 1156,
+    "pos": "1830, 4404, 3"
+  },
+  {
+    "server-tick": 31723,
+    "pos": "1832, 4404, 3"
+  },
+  {
+    "server-tick": 31724,
+    "pos": "1834, 4404, 3"
+  },
+  {
+    "server-tick": 31725,
+    "pos": "1835, 4402, 3"
+  },
+  {
+    "server-tick": 31726,
+    "pos": "1835, 4400, 3"
+  },
+  {
+    "server-tick": 31727,
+    "pos": "1835, 4398, 3"
+  },
+  {
+    "server-tick": 31728,
+    "pos": "1835, 4396, 3"
+  },
+  {
+    "server-tick": 31729,
+    "pos": "1835, 4394, 3"
+  },
+  {
+    "server-tick": 31730,
+    "pos": "1836, 4392, 3"
+  },
+  {
+    "server-tick": 31733,
+    "pos": "1834, 4392, 3"
+  },
+  {
+    "server-tick": 31734,
+    "pos": "1834, 4390, 3"
+  },
+  {
+    "server-tick": 31736,
+    "pos": "1834, 4387, 2"
+  },
+  {
+    "server-tick": 31739,
+    "animation": 1156,
+    "pos": "1832, 4387, 2",
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 100",
+        "slope, duration": "40, 66"
+      }
+    ]
+  },
+  {
+    "server-tick": 31740,
+    "animation": 1156,
+    "pos": "1830, 4387, 2"
+  },
+  {
+    "server-tick": 31741,
+    "animation": 1156,
+    "pos": "1828, 4387, 2",
+    "sounds": [
+      {
+        "id, delay": "2370, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 31742,
+    "animation": 1156,
+    "pos": "1826, 4387, 2",
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 100",
+        "slope, duration": "40, 61"
+      }
+    ]
+  },
+  {
+    "server-tick": 31743,
+    "animation": 1156,
+    "pos": "1824, 4387, 2",
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 100",
+        "slope, duration": "40, 61"
+      },
+      {
+        "id": 294,
+        "heights": "50, 100",
+        "slope, duration": "40, 56"
+      }
+    ]
+  },
+  {
+    "server-tick": 31744,
+    "pos": "1822, 4387, 2",
+    "sounds": [
+      {
+        "id, delay": "2366, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 31745,
+    "pos": "1820, 4389, 2"
+  },
+  {
+    "server-tick": 31746,
+    "pos": "1818, 4390, 2"
+  },
+  {
+    "server-tick": 31747,
+    "pos": "1816, 4392, 2"
+  },
+  {
+    "server-tick": 31748,
+    "pos": "1814, 4392, 2"
+  },
+  {
+    "server-tick": 31749,
+    "animation": 1156,
+    "pos": "1812, 4392, 2",
+    "sounds": [
+      {
+        "id, delay": "1615, 0"
+      },
+      {
+        "id, delay": "2366, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 100",
+        "slope, duration": "40, 61"
+      },
+      {
+        "id": 294,
+        "heights": "50, 100",
+        "slope, duration": "40, 56"
+      }
+    ]
+  },
+  {
+    "server-tick": 31750,
+    "animation": 1156,
+    "pos": "1810, 4392, 2",
+    "sounds": [
+      {
+        "id, delay": "2368, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 31751,
+    "animation": 1156,
+    "pos": "1809, 4394, 2",
+    "sounds": [
+      {
+        "id, delay": "2369, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 31752,
+    "animation": 1156
+  },
+  {
+    "server-tick": 31754,
+    "animation": 1156,
+    "pos": "1810, 4393, 2",
+    "sounds": [
+      {
+        "id, delay": "1615, 0"
+      },
+      {
+        "id, delay": "2369, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 31755,
+    "animation": 1156,
+    "pos": "1811, 4393, 2",
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 100",
+        "slope, duration": "40, 56"
+      },
+      {
+        "id": 294,
+        "heights": "50, 100",
+        "slope, duration": "40, 61"
+      }
+    ]
+  },
+  {
+    "server-tick": 31756,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2368, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 31757,
+    "pos": "1810, 4393, 1"
+  }
+]

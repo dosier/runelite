@@ -1,0 +1,229 @@
+[
+  {
+    "server-tick": 26944,
+    "interacting": {
+      "npc": "Skeleton brute (1538)"
+    }
+  },
+  {
+    "server-tick": 26945,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Skeleton brute (1538)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "776, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      },
+      {
+        "id, delay": "3424, 0"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26946,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Skeleton brute (1538)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "779, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26947,
+    "interacting": {
+      "npc": "Skeleton brute (1538)"
+    }
+  },
+  {
+    "server-tick": 26948,
+    "interacting": {
+      "npc": "Skeleton brute (1538)"
+    }
+  },
+  {
+    "server-tick": 26949,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Skeleton brute (1538)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "776, 0"
+      },
+      {
+        "id, delay": "2962, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26950,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Skeleton brute (1538)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "779, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26951,
+    "interacting": {
+      "npc": "Skeleton brute (1538)"
+    }
+  },
+  {
+    "server-tick": 26952,
+    "interacting": {
+      "npc": "Skeleton brute (1538)"
+    }
+  },
+  {
+    "server-tick": 26953,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Skeleton brute (1538)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "776, 0"
+      },
+      {
+        "id, delay": "2958, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26954,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Skeleton brute (1538)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "779, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26955,
+    "interacting": {
+      "npc": "Skeleton brute (1538)"
+    }
+  },
+  {
+    "server-tick": 26957,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "776, 0"
+      },
+      {
+        "id, delay": "2960, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26958,
+    "animation": 1156
+  },
+  {
+    "server-tick": 26959,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Skeleton brute (1538)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26960,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Skeleton brute (1538)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "779, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26961,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Skeleton brute (1538)",
+      "animation": 422
+    },
+    "sounds": [
+      {
+        "id, delay": "776, 0"
+      },
+      {
+        "id, delay": "2959, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 26962,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Skeleton brute (1538)",
+      "animation": 422
+    }
+  },
+  {
+    "server-tick": 26963,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Skeleton brute (1538)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 26964,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Skeleton brute (1538)",
+      "animation": 425
+    },
+    "sounds": [
+      {
+        "id, delay": "779, 0"
+      }
+    ]
+  }
+]

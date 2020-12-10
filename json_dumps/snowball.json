@@ -1,0 +1,170 @@
+[
+  {
+    "server-tick": 2274,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3162, 3486, 0"
+  },
+  {
+    "server-tick": 2275,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3162, 3485, 0"
+  },
+  {
+    "server-tick": 2276,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3161, 3484, 0"
+  },
+  {
+    "server-tick": 2277,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 5063,
+    "gfx": 860,
+    "interacting": {
+      "player": "wrathful8008",
+      "animation": 424,
+      "gfx": 862
+    },
+    "sounds": [
+      {
+        "id, delay": "3292, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 2278,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 5063,
+    "gfx": 860,
+    "interacting": {
+      "player": "wrathful8008",
+      "animation": 424,
+      "gfx": 862
+    }
+  },
+  {
+    "server-tick": 2279,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 5063,
+    "gfx": 860,
+    "interacting": {
+      "player": "wrathful8008",
+      "animation": 424,
+      "gfx": 862
+    },
+    "projectiles": [
+      {
+        "id": 861,
+        "heights": "11, 44",
+        "slope, duration": "15, 40"
+      }
+    ]
+  },
+  {
+    "server-tick": 2280,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 5063,
+    "gfx": 860,
+    "interacting": {
+      "player": "wrathful8008",
+      "animation": 424,
+      "gfx": 862
+    }
+  },
+  {
+    "server-tick": 2281,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "player": "wrathful8008",
+      "animation": 424,
+      "gfx": 862
+    }
+  },
+  {
+    "server-tick": 2282,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 5063,
+    "gfx": 860,
+    "interacting": {
+      "player": "wrathful8008",
+      "animation": 424,
+      "gfx": 862
+    },
+    "sounds": [
+      {
+        "id, delay": "3292, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 2283,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 5063,
+    "gfx": 860,
+    "interacting": {
+      "player": "wrathful8008",
+      "gfx": 862
+    }
+  },
+  {
+    "server-tick": 2284,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 5063,
+    "gfx": 860,
+    "interacting": {
+      "player": "wrathful8008",
+      "gfx": 862
+    },
+    "projectiles": [
+      {
+        "id": 861,
+        "heights": "11, 44",
+        "slope, duration": "15, 40"
+      }
+    ]
+  },
+  {
+    "server-tick": 2285,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 5063,
+    "gfx": 860,
+    "interacting": {
+      "player": "wrathful8008",
+      "gfx": 862
+    }
+  },
+  {
+    "server-tick": 2286,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "player": "wrathful8008",
+      "gfx": 862
+    }
+  },
+  {
+    "server-tick": 2287,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 5063,
+    "gfx": 860,
+    "interacting": {
+      "player": "wrathful8008",
+      "animation": 424,
+      "gfx": 862
+    },
+    "sounds": [
+      {
+        "id, delay": "3292, 100"
+      }
+    ]
+  },
+  {
+    "server-tick": 2288,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 5063,
+    "gfx": 860,
+    "interacting": {
+      "player": "wrathful8008",
+      "animation": 424,
+      "gfx": 862
+    }
+  }
+]

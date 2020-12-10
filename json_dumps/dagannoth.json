@@ -1,0 +1,520 @@
+[
+  {
+    "server-tick": 30765,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth spawn (3184)"
+    }
+  },
+  {
+    "server-tick": 30766,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth spawn (3184)",
+      "animation": 1340,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 30767,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth spawn (3184)",
+      "animation": 1341,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1616, 0"
+      },
+      {
+        "id, delay": "2369, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 30768,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth spawn (3184)",
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1620, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 30769,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth spawn (3184)"
+    }
+  },
+  {
+    "server-tick": 30770,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth spawn (3184)",
+      "animation": 1340,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 30771,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth spawn (3184)",
+      "animation": 1341,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1616, 0"
+      },
+      {
+        "id, delay": "2370, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 30772,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth spawn (3184)",
+      "animation": 1341,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1620, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 30773,
+    "gfx": 665,
+    "sounds": [
+      {
+        "id, delay": "1619, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 30774,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "animation": 1340,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 30775,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "animation": 1340,
+      "gfx": 1042
+    }
+  },
+  {
+    "server-tick": 30776,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "animation": 1340,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1622, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 30777,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)"
+    }
+  },
+  {
+    "server-tick": 30778,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "animation": 1341,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1615, 0"
+      },
+      {
+        "id, delay": "2370, 20"
+      },
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 30779,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "gfx": 1042
+    }
+  },
+  {
+    "server-tick": 30780,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1622, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 30781,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)"
+    }
+  },
+  {
+    "server-tick": 30782,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "animation": 1341,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1615, 0"
+      },
+      {
+        "id, delay": "2369, 20"
+      },
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 30783,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "animation": 1341,
+      "gfx": 1042
+    }
+  },
+  {
+    "server-tick": 30784,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1622, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 30785,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)"
+    }
+  },
+  {
+    "server-tick": 30786,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "animation": 1341,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1615, 0"
+      },
+      {
+        "id, delay": "2369, 20"
+      },
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 30787,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "gfx": 1042
+    }
+  },
+  {
+    "server-tick": 30788,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1622, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 30789,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)"
+    }
+  },
+  {
+    "server-tick": 30790,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "animation": 1341,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1615, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      },
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 30791,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "animation": 1341,
+      "gfx": 1042
+    }
+  },
+  {
+    "server-tick": 30792,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1622, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 30793,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "gfx": 1042
+    }
+  },
+  {
+    "server-tick": 30794,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "animation": 1341,
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "1615, 0"
+      },
+      {
+        "id, delay": "2368, 20"
+      },
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 30795,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "animation": 1341,
+      "gfx": 85
+    }
+  },
+  {
+    "server-tick": 30796,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "gfx": 85
+    }
+  },
+  {
+    "server-tick": 30797,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)"
+    }
+  },
+  {
+    "server-tick": 30798,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "animation": 1341,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1615, 0"
+      },
+      {
+        "id, delay": "2370, 20"
+      },
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 30799,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "animation": 1341,
+      "gfx": 1042
+    }
+  },
+  {
+    "server-tick": 30800,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1622, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 30801,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)"
+    }
+  },
+  {
+    "server-tick": 30802,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "animation": 1341,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1615, 0"
+      },
+      {
+        "id, delay": "2367, 20"
+      },
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 30803,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "animation": 1341,
+      "gfx": 1042
+    }
+  },
+  {
+    "server-tick": 30804,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth (3185)",
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1622, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 30805,
+    "gfx": 665,
+    "sounds": [
+      {
+        "id, delay": "2249, 0"
+      },
+      {
+        "id, delay": "1621, 0"
+      }
+    ]
+  }
+]

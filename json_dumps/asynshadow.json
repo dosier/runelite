@@ -1,0 +1,129 @@
+[
+  {
+    "server-tick": 18332,
+    "interacting": {
+      "npc": "Asyn shadow (5632)"
+    }
+  },
+  {
+    "server-tick": 18333,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Asyn shadow (5632)",
+      "animation": 1283
+    },
+    "sounds": [
+      {
+        "id, delay": "745, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 18334,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Asyn shadow (5632)",
+      "animation": 1283
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 18335,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Asyn shadow (5632)"
+    },
+    "sounds": [
+      {
+        "id, delay": "745, 0"
+      },
+      {
+        "id, delay": "747, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 18336,
+    "sounds": [
+      {
+        "id, delay": "746, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 18339,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Asyn shadow (5632)",
+      "animation": 1283
+    },
+    "sounds": [
+      {
+        "id, delay": "745, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 18340,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Asyn shadow (5632)",
+      "animation": 1283
+    }
+  },
+  {
+    "server-tick": 18341,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Asyn shadow (5632)",
+      "animation": 1286
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 18342,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Asyn shadow (5632)",
+      "animation": 1286
+    },
+    "sounds": [
+      {
+        "id, delay": "747, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 18343,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Asyn shadow (5632)",
+      "animation": 1283
+    },
+    "sounds": [
+      {
+        "id, delay": "745, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  }
+]

@@ -1,0 +1,418 @@
+[
+  {
+    "server-tick": 25098,
+    "animation": 4177,
+    "pos": "1312, 10228, 0",
+    "interacting": {
+      "npc": "Hydra (8609)",
+      "animation": 8261
+    }
+  },
+  {
+    "server-tick": 25099,
+    "animation": 4177,
+    "pos": "1311, 10230, 0",
+    "interacting": {
+      "npc": "Hydra (8609)",
+      "animation": 8261
+    },
+    "area-sounds": [
+      {
+        "id": 4089,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 52,
+        "sceneY": 56,
+        "source": "Hydra (8609)"
+      }
+    ]
+  },
+  {
+    "server-tick": 25100,
+    "animation": 1658,
+    "pos": "1310, 10231, 0",
+    "interacting": {
+      "npc": "Hydra (8609)"
+    },
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25101,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Hydra (8609)"
+    },
+    "sounds": [
+      {
+        "id, delay": "4068, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25102,
+    "interacting": {
+      "npc": "Hydra (8609)"
+    }
+  },
+  {
+    "server-tick": 25103,
+    "interacting": {
+      "npc": "Hydra (8609)"
+    }
+  },
+  {
+    "server-tick": 25104,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Hydra (8609)",
+      "animation": 8261
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25105,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Hydra (8609)",
+      "animation": 8261
+    },
+    "area-sounds": [
+      {
+        "id": 4089,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 52,
+        "sceneY": 56,
+        "source": "Hydra (8609)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "4068, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25106,
+    "interacting": {
+      "npc": "Hydra (8609)"
+    }
+  },
+  {
+    "server-tick": 25107,
+    "interacting": {
+      "npc": "Hydra (8609)"
+    }
+  },
+  {
+    "server-tick": 25108,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Hydra (8609)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25109,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Hydra (8609)"
+    },
+    "sounds": [
+      {
+        "id, delay": "4068, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25110,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Hydra (8609)",
+      "animation": 8261
+    }
+  },
+  {
+    "server-tick": 25111,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Hydra (8609)",
+      "animation": 8261
+    },
+    "area-sounds": [
+      {
+        "id": 4089,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 52,
+        "sceneY": 56,
+        "source": "Hydra (8609)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25112,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Hydra (8609)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25113,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Hydra (8609)"
+    },
+    "sounds": [
+      {
+        "id, delay": "4068, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25114,
+    "interacting": {
+      "npc": "Hydra (8609)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2675, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25115,
+    "interacting": {
+      "npc": "Hydra (8609)"
+    }
+  },
+  {
+    "server-tick": 25116,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Hydra (8609)",
+      "animation": 8262
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25117,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Hydra (8609)",
+      "animation": 8262
+    },
+    "area-sounds": [
+      {
+        "id": 4103,
+        "delay": 0,
+        "range": 15,
+        "sceneX": 52,
+        "sceneY": 56,
+        "source": "Hydra (8609)"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "4068, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 25118,
+    "interacting": {
+      "npc": "Hydra (8609)"
+    }
+  },
+  {
+    "server-tick": 25119,
+    "interacting": {
+      "npc": "Hydra (8609)"
+    }
+  },
+  {
+    "server-tick": 25120,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Hydra (8609)"
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25121,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Hydra (8609)"
+    },
+    "sounds": [
+      {
+        "id, delay": "4068, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 25122,
+    "interacting": {
+      "npc": "Hydra (8609)",
+      "animation": 8263
+    },
+    "graphics": [
+      {
+        "id": 1645,
+        "level": 0,
+        "start": 3982122
+      },
+      {
+        "id": 1645,
+        "level": 0,
+        "start": 3982132
+      },
+      {
+        "id": 1645,
+        "level": 0,
+        "start": 3982122
+      }
+    ]
+  },
+  {
+    "server-tick": 25123,
+    "interacting": {
+      "npc": "Hydra (8609)",
+      "animation": 8263
+    },
+    "projectiles": [
+      {
+        "id": 1644,
+        "heights": "64, 64",
+        "slope, duration": "0, 52"
+      },
+      {
+        "id": 1644,
+        "heights": "64, 64",
+        "slope, duration": "0, 52"
+      },
+      {
+        "id": 1644,
+        "heights": "64, 64",
+        "slope, duration": "0, 62"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 1645,
+        "level": 0,
+        "start": 3982122
+      },
+      {
+        "id": 1645,
+        "level": 0,
+        "start": 3982132
+      },
+      {
+        "id": 1645,
+        "level": 0,
+        "start": 3982122
+      }
+    ]
+  },
+  {
+    "server-tick": 25124,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Hydra (8609)",
+      "animation": 8263
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 1645,
+        "level": 0,
+        "start": 3982122
+      },
+      {
+        "id": 1645,
+        "level": 0,
+        "start": 3982132
+      },
+      {
+        "id": 1645,
+        "level": 0,
+        "start": 3982122
+      }
+    ]
+  },
+  {
+    "server-tick": 25125,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Hydra (8609)"
+    },
+    "sounds": [
+      {
+        "id, delay": "4068, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 1645,
+        "level": 0,
+        "start": 3982132
+      }
+    ]
+  },
+  {
+    "server-tick": 25126,
+    "interacting": {
+      "npc": "Hydra (8609)"
+    }
+  },
+  {
+    "server-tick": 25127,
+    "interacting": {
+      "npc": "Hydra (8609)"
+    }
+  }
+]

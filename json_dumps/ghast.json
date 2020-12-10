@@ -1,0 +1,188 @@
+[
+  {
+    "server-tick": 19727,
+    "interacting": {
+      "npc": "Ghast (5626)",
+      "animation": 1088
+    }
+  },
+  {
+    "server-tick": 19728,
+    "interacting": {
+      "npc": "Ghast (5626)"
+    }
+  },
+  {
+    "server-tick": 19729,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ghast (5626)",
+      "animation": 1088
+    },
+    "sounds": [
+      {
+        "id, delay": "433, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 19730,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ghast (5626)",
+      "animation": 1088
+    },
+    "sounds": [
+      {
+        "id, delay": "435, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 19731,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Ghast (5626)",
+      "animation": 1087
+    },
+    "sounds": [
+      {
+        "id, delay": "433, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 19732,
+    "animation": 4177,
+    "interacting": {
+      "npc": "Ghast (5626)",
+      "animation": 1087
+    }
+  },
+  {
+    "server-tick": 19733,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ghast (5626)",
+      "animation": 1088
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 19734,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ghast (5626)",
+      "animation": 1088
+    },
+    "sounds": [
+      {
+        "id, delay": "435, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 19736,
+    "sounds": [
+      {
+        "id, delay": "434, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 19737,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ghast (5626)",
+      "animation": 1087
+    },
+    "sounds": [
+      {
+        "id, delay": "433, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 19738,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ghast (5626)",
+      "animation": 1087
+    },
+    "sounds": [
+      {
+        "id, delay": "435, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 19739,
+    "interacting": {
+      "npc": "Ghast (5626)"
+    }
+  },
+  {
+    "server-tick": 19740,
+    "interacting": {
+      "npc": "Ghast (5626)"
+    }
+  },
+  {
+    "server-tick": 19741,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ghast (5626)",
+      "animation": 1088
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 19742,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Ghast (5626)",
+      "animation": 1088
+    },
+    "sounds": [
+      {
+        "id, delay": "435, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 19743,
+    "interacting": {
+      "npc": "Ghast (5626)",
+      "animation": 1088
+    }
+  },
+  {
+    "server-tick": 19744,
+    "interacting": {
+      "npc": "Ghast (5626)"
+    }
+  }
+]

@@ -1,0 +1,2418 @@
+[
+  {
+    "server-tick": 32051,
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ]
+  },
+  {
+    "server-tick": 32052,
+    "pos": "2902, 4449, 0"
+  },
+  {
+    "server-tick": 32053,
+    "pos": "2904, 4449, 0",
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4573659
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4573659
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4573659
+      }
+    ]
+  },
+  {
+    "server-tick": 32054,
+    "pos": "2906, 4449, 0",
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4573688
+      }
+    ]
+  },
+  {
+    "server-tick": 32055,
+    "animation": 1156,
+    "gfx": 85,
+    "pos": "2908, 4449, 0",
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ]
+  },
+  {
+    "server-tick": 32056,
+    "animation": 1156,
+    "gfx": 85,
+    "pos": "2910, 4449, 0"
+  },
+  {
+    "server-tick": 32057,
+    "animation": 1156,
+    "gfx": 85,
+    "pos": "2912, 4449, 0"
+  },
+  {
+    "server-tick": 32058,
+    "animation": 1156,
+    "gfx": 85,
+    "pos": "2914, 4449, 0",
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ]
+  },
+  {
+    "server-tick": 32059,
+    "animation": 1156,
+    "gfx": 85,
+    "pos": "2916, 4449, 0",
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4573838
+      }
+    ]
+  },
+  {
+    "server-tick": 32060,
+    "gfx": 85,
+    "pos": "2918, 4450, 0"
+  },
+  {
+    "server-tick": 32061,
+    "gfx": 85
+  },
+  {
+    "server-tick": 32062,
+    "animation": 1156,
+    "gfx": 85,
+    "pos": "2916, 4450, 0",
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 86"
+      }
+    ]
+  },
+  {
+    "server-tick": 32063,
+    "animation": 1156,
+    "gfx": 85,
+    "pos": "2914, 4450, 0",
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4573959
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4573959
+      }
+    ]
+  },
+  {
+    "server-tick": 32064,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "519, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 116"
+      }
+    ]
+  },
+  {
+    "server-tick": 32065,
+    "animation": 1156
+  },
+  {
+    "server-tick": 32066,
+    "animation": 1156
+  },
+  {
+    "server-tick": 32067,
+    "animation": 1156,
+    "gfx": 477,
+    "sounds": [
+      {
+        "id, delay": "2369, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      },
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "20, 61"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4574078
+      }
+    ]
+  },
+  {
+    "server-tick": 32068,
+    "animation": 1156,
+    "gfx": 477,
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 116"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4574108
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4574108
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4574108
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4574108
+      }
+    ]
+  },
+  {
+    "server-tick": 32069,
+    "animation": 1156,
+    "gfx": 477,
+    "sounds": [
+      {
+        "id, delay": "2369, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 32070,
+    "animation": 1156,
+    "gfx": 477,
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4574168
+      }
+    ]
+  },
+  {
+    "server-tick": 32071,
+    "animation": 1658,
+    "gfx": 477,
+    "pos": "2913, 4450, 0",
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2854
+    },
+    "sounds": [
+      {
+        "id, delay": "2367, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      },
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "20, 61"
+      }
+    ]
+  },
+  {
+    "server-tick": 32072,
+    "animation": 1658,
+    "gfx": 477,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2854
+    },
+    "sounds": [
+      {
+        "id, delay": "1074, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 18"
+      },
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 111"
+      }
+    ]
+  },
+  {
+    "server-tick": 32073,
+    "gfx": 477,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2852
+    },
+    "sounds": [
+      {
+        "id, delay": "2369, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 32074,
+    "gfx": 477,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2852
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 32075,
+    "animation": 1658,
+    "gfx": 477,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2854
+    },
+    "sounds": [
+      {
+        "id, delay": "2366, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      },
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "20, 56"
+      }
+    ]
+  },
+  {
+    "server-tick": 32076,
+    "animation": 1658,
+    "gfx": 477,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2854
+    },
+    "sounds": [
+      {
+        "id, delay": "1074, 0"
+      },
+      {
+        "id, delay": "2367, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 17"
+      },
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 111"
+      }
+    ]
+  },
+  {
+    "server-tick": 32077,
+    "gfx": 477,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2852
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 32078,
+    "gfx": 477,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2852
+    },
+    "projectiles": [
+      {
+        "id": 1043,
+        "heights": "105, 144",
+        "slope, duration": "15, 22"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4574408
+      }
+    ]
+  },
+  {
+    "server-tick": 32079,
+    "animation": 1658,
+    "gfx": 477,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2854
+    },
+    "sounds": [
+      {
+        "id, delay": "2368, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 6"
+      },
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "20, 56"
+      },
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ]
+  },
+  {
+    "server-tick": 32080,
+    "animation": 1658,
+    "gfx": 477,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2854
+    },
+    "sounds": [
+      {
+        "id, delay": "1074, 0"
+      },
+      {
+        "id, delay": "2370, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 18"
+      },
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 111"
+      }
+    ]
+  },
+  {
+    "server-tick": 32081,
+    "gfx": 477,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2852
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 32082,
+    "gfx": 477,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2852
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 17"
+      }
+    ]
+  },
+  {
+    "server-tick": 32083,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2854
+    },
+    "sounds": [
+      {
+        "id, delay": "2369, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "20, 61"
+      },
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ]
+  },
+  {
+    "server-tick": 32084,
+    "animation": 1658,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2854
+    },
+    "sounds": [
+      {
+        "id, delay": "1074, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 19"
+      }
+    ]
+  },
+  {
+    "server-tick": 32085,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2852
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 32086,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2852
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 16"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4574648
+      }
+    ]
+  },
+  {
+    "server-tick": 32087,
+    "animation": 1658,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2854
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      },
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "20, 61"
+      },
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ]
+  },
+  {
+    "server-tick": 32088,
+    "animation": 1658,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2854
+    },
+    "sounds": [
+      {
+        "id, delay": "1074, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 17"
+      }
+    ]
+  },
+  {
+    "server-tick": 32089,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2852
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 32090,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2852
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 16"
+      }
+    ]
+  },
+  {
+    "server-tick": 32091,
+    "animation": 1658,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2854
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      },
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "20, 61"
+      },
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ]
+  },
+  {
+    "server-tick": 32092,
+    "animation": 1658,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2854
+    },
+    "sounds": [
+      {
+        "id, delay": "1074, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 16"
+      }
+    ]
+  },
+  {
+    "server-tick": 32093,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2852
+    }
+  },
+  {
+    "server-tick": 32094,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2852
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 16"
+      }
+    ]
+  },
+  {
+    "server-tick": 32095,
+    "animation": 1658,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2854
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 10"
+      },
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "20, 61"
+      },
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ]
+  },
+  {
+    "server-tick": 32096,
+    "animation": 1658,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2854
+    },
+    "sounds": [
+      {
+        "id, delay": "1074, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 17"
+      },
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 111"
+      }
+    ]
+  },
+  {
+    "server-tick": 32097,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2852
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 7"
+      }
+    ]
+  },
+  {
+    "server-tick": 32098,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2852
+    },
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 17"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4575008
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4575008
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4575008
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4575008
+      }
+    ]
+  },
+  {
+    "server-tick": 32099,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dagannoth Prime (2266)",
+      "animation": 2854
+    },
+    "sounds": [
+      {
+        "id, delay": "2366, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      },
+      {
+        "id": 162,
+        "heights": "50, 100",
+        "slope, duration": "20, 61"
+      }
+    ]
+  },
+  {
+    "server-tick": 32100,
+    "animation": 1658,
+    "gfx": 85,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "1074, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 16"
+      }
+    ]
+  },
+  {
+    "server-tick": 32101,
+    "gfx": 85,
+    "projectiles": [
+      {
+        "id": 230,
+        "heights": "105, 144",
+        "slope, duration": "15, 8"
+      }
+    ]
+  },
+  {
+    "server-tick": 32102,
+    "gfx": 85
+  },
+  {
+    "server-tick": 32103,
+    "gfx": 85,
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4575159
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4575159
+      }
+    ]
+  },
+  {
+    "server-tick": 32104,
+    "gfx": 85,
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4575189
+      }
+    ]
+  },
+  {
+    "server-tick": 32107,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      },
+      {
+        "id, delay": "1075, 0"
+      },
+      {
+        "id, delay": "2366, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 32108,
+    "animation": 1156,
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 76"
+      },
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 86"
+      },
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 86"
+      }
+    ]
+  },
+  {
+    "server-tick": 32109,
+    "animation": 1156,
+    "pos": "2913, 4448, 0",
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4575339
+      }
+    ]
+  },
+  {
+    "server-tick": 32110,
+    "pos": "2912, 4447, 0"
+  },
+  {
+    "server-tick": 32111,
+    "sounds": [
+      {
+        "id, delay": "2676, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 32112,
+    "animation": 1658,
+    "pos": "2913, 4448, 0",
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 86"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4575427
+      }
+    ]
+  },
+  {
+    "server-tick": 32113,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853
+    },
+    "sounds": [
+      {
+        "id, delay": "1074, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4575459
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4575459
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4575459
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4575459
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4575459
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4575459
+      }
+    ]
+  },
+  {
+    "server-tick": 32114,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)"
+    }
+  },
+  {
+    "server-tick": 32115,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1075, 0"
+      },
+      {
+        "id, delay": "2369, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 32116,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 86"
+      }
+    ]
+  },
+  {
+    "server-tick": 32117,
+    "animation": 1658,
+    "sounds": [
+      {
+        "id, delay": "2247, 0"
+      },
+      {
+        "id, delay": "1074, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ]
+  },
+  {
+    "server-tick": 32118,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)"
+    },
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4575607
+      }
+    ]
+  },
+  {
+    "server-tick": 32119,
+    "animation": 1156,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853,
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "1075, 0"
+      },
+      {
+        "id, delay": "2369, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 32120,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 32121,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853,
+      "gfx": 1042
+    },
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ]
+  },
+  {
+    "server-tick": 32122,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1074, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 32123,
+    "animation": 1156,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1075, 0"
+      },
+      {
+        "id, delay": "2369, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 32124,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 32125,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853,
+      "gfx": 1042
+    },
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ]
+  },
+  {
+    "server-tick": 32126,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1074, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 32127,
+    "animation": 1156,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1075, 0"
+      },
+      {
+        "id, delay": "2370, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 32128,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 32129,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853,
+      "gfx": 1042
+    },
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ]
+  },
+  {
+    "server-tick": 32130,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "gfx": 1042
+    },
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4575969
+      }
+    ]
+  },
+  {
+    "server-tick": 32131,
+    "animation": 1156,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1075, 0"
+      },
+      {
+        "id, delay": "2368, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 32132,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "178, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 86"
+      }
+    ]
+  },
+  {
+    "server-tick": 32133,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "gfx": 1042
+    },
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4576059
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4576059
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4576059
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4576059
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4576059
+      }
+    ]
+  },
+  {
+    "server-tick": 32134,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1074, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 32135,
+    "animation": 1156,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1075, 0"
+      },
+      {
+        "id, delay": "2369, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 32136,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 32137,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853,
+      "gfx": 1042
+    },
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ]
+  },
+  {
+    "server-tick": 32138,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1074, 0"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4576212
+      }
+    ]
+  },
+  {
+    "server-tick": 32139,
+    "animation": 1156,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "1075, 0"
+      },
+      {
+        "id, delay": "2368, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 32140,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853,
+      "gfx": 1042
+    },
+    "sounds": [
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 32141,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2853,
+      "gfx": 1042
+    }
+  },
+  {
+    "server-tick": 32142,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Rex (2267)",
+      "animation": 2856
+    },
+    "sounds": [
+      {
+        "id, delay": "1074, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 32143,
+    "gfx": 665,
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4576360
+      }
+    ]
+  },
+  {
+    "server-tick": 32144,
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 86"
+      }
+    ]
+  },
+  {
+    "server-tick": 32146,
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4576448
+      }
+    ]
+  },
+  {
+    "server-tick": 32148,
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 106"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4576509
+      }
+    ]
+  },
+  {
+    "server-tick": 32149,
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4576539
+      }
+    ]
+  },
+  {
+    "server-tick": 32150,
+    "pos": "2912, 4450, 0"
+  },
+  {
+    "server-tick": 32154,
+    "animation": 1156,
+    "gfx": 85,
+    "sounds": [
+      {
+        "id, delay": "2401, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 475,
+        "heights": "50, 100",
+        "slope, duration": "40, 76"
+      },
+      {
+        "id": 475,
+        "heights": "50, 100",
+        "slope, duration": "40, 81"
+      },
+      {
+        "id": 475,
+        "heights": "50, 100",
+        "slope, duration": "40, 96"
+      }
+    ]
+  },
+  {
+    "server-tick": 32155,
+    "animation": 1156,
+    "gfx": 85
+  },
+  {
+    "server-tick": 32156,
+    "animation": 1156,
+    "gfx": 85,
+    "sounds": [
+      {
+        "id, delay": "2369, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 32157,
+    "animation": 1156,
+    "gfx": 85,
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4576778
+      }
+    ]
+  },
+  {
+    "server-tick": 32158,
+    "animation": 1156,
+    "gfx": 85,
+    "projectiles": [
+      {
+        "id": 475,
+        "heights": "50, 100",
+        "slope, duration": "40, 76"
+      },
+      {
+        "id": 475,
+        "heights": "50, 100",
+        "slope, duration": "40, 76"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4576809
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4576809
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4576809
+      }
+    ]
+  },
+  {
+    "server-tick": 32159,
+    "gfx": 85
+  },
+  {
+    "server-tick": 32160,
+    "gfx": 85,
+    "sounds": [
+      {
+        "id, delay": "2368, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 32161,
+    "gfx": 85
+  },
+  {
+    "server-tick": 32162,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2677, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 475,
+        "heights": "50, 100",
+        "slope, duration": "40, 76"
+      },
+      {
+        "id": 475,
+        "heights": "50, 100",
+        "slope, duration": "40, 76"
+      }
+    ]
+  },
+  {
+    "server-tick": 32163,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Supreme (2265)",
+      "animation": 2855,
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "178, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 32164,
+    "animation": 1167,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Supreme (2265)",
+      "animation": 2852,
+      "gfx": 85
+    },
+    "sounds": [
+      {
+        "id, delay": "2369, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 32165,
+    "gfx": 665,
+    "interacting": {
+      "npc": "Dagannoth Supreme (2265)"
+    }
+  },
+  {
+    "server-tick": 32166,
+    "animation": 1156,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Supreme (2265)",
+      "animation": 2855
+    },
+    "projectiles": [
+      {
+        "id": 475,
+        "heights": "50, 100",
+        "slope, duration": "40, 76"
+      },
+      {
+        "id": 475,
+        "heights": "50, 100",
+        "slope, duration": "40, 61"
+      },
+      {
+        "id": 475,
+        "heights": "50, 100",
+        "slope, duration": "40, 61"
+      }
+    ]
+  },
+  {
+    "server-tick": 32167,
+    "animation": 1156,
+    "gfx": 85,
+    "sounds": [
+      {
+        "id, delay": "2249, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 32168,
+    "animation": 1156,
+    "gfx": 85,
+    "pos": "2910, 4450, 0",
+    "interacting": {
+      "npc": "Dagannoth Supreme (2265)",
+      "animation": 2852
+    },
+    "sounds": [
+      {
+        "id, delay": "2368, 20"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4577108
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4577108
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4577108
+      }
+    ]
+  },
+  {
+    "server-tick": 32169,
+    "animation": 1156,
+    "gfx": 85,
+    "pos": "2908, 4452, 0",
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4577138
+      }
+    ]
+  },
+  {
+    "server-tick": 32170,
+    "animation": 1156,
+    "projectiles": [
+      {
+        "id": 475,
+        "heights": "50, 100",
+        "slope, duration": "40, 61"
+      },
+      {
+        "id": 475,
+        "heights": "50, 100",
+        "slope, duration": "40, 61"
+      }
+    ]
+  },
+  {
+    "server-tick": 32171,
+    "animation": 1658,
+    "pos": "2908, 4451, 0",
+    "interacting": {
+      "npc": "Dagannoth Supreme (2265)",
+      "animation": 2855
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 32172,
+    "animation": 1658,
+    "interacting": {
+      "npc": "Dagannoth Supreme (2265)",
+      "animation": 2852
+    },
+    "sounds": [
+      {
+        "id, delay": "1074, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 32173,
+    "interacting": {
+      "npc": "Dagannoth Supreme (2265)"
+    },
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4577261
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4577261
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4577261
+      },
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4577261
+      }
+    ]
+  },
+  {
+    "server-tick": 32174,
+    "animation": 1156,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Supreme (2265)",
+      "animation": 2855
+    },
+    "projectiles": [
+      {
+        "id": 475,
+        "heights": "50, 100",
+        "slope, duration": "40, 61"
+      },
+      {
+        "id": 475,
+        "heights": "50, 100",
+        "slope, duration": "40, 61"
+      },
+      {
+        "id": 475,
+        "heights": "50, 100",
+        "slope, duration": "40, 61"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4577289
+      }
+    ]
+  },
+  {
+    "server-tick": 32175,
+    "animation": 1658,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Supreme (2265)",
+      "animation": 2855
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 32176,
+    "animation": 1658,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Supreme (2265)",
+      "animation": 2852
+    },
+    "sounds": [
+      {
+        "id, delay": "1074, 0"
+      },
+      {
+        "id, delay": "2369, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ]
+  },
+  {
+    "server-tick": 32177,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Supreme (2265)",
+      "animation": 2852
+    }
+  },
+  {
+    "server-tick": 32178,
+    "animation": 1156,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Supreme (2265)",
+      "animation": 2855
+    },
+    "projectiles": [
+      {
+        "id": 475,
+        "heights": "50, 100",
+        "slope, duration": "40, 61"
+      },
+      {
+        "id": 475,
+        "heights": "50, 100",
+        "slope, duration": "40, 61"
+      },
+      {
+        "id": 475,
+        "heights": "50, 100",
+        "slope, duration": "40, 61"
+      }
+    ]
+  },
+  {
+    "server-tick": 32179,
+    "animation": 1658,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Supreme (2265)",
+      "animation": 2855
+    },
+    "sounds": [
+      {
+        "id, delay": "2369, 20"
+      },
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 32180,
+    "animation": 1658,
+    "gfx": 85,
+    "interacting": {
+      "npc": "Dagannoth Supreme (2265)",
+      "animation": 2852
+    },
+    "sounds": [
+      {
+        "id, delay": "1074, 0"
+      },
+      {
+        "id, delay": "2367, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      },
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ]
+  },
+  {
+    "server-tick": 32181,
+    "interacting": {
+      "npc": "Dagannoth Supreme (2265)",
+      "animation": 2852
+    }
+  },
+  {
+    "server-tick": 32182,
+    "animation": 1156,
+    "gfx": 95
+  },
+  {
+    "server-tick": 32183,
+    "animation": 1156,
+    "gfx": 95,
+    "sounds": [
+      {
+        "id, delay": "2367, 20"
+      },
+      {
+        "id, delay": "2367, 20"
+      }
+    ],
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4577562
+      }
+    ]
+  },
+  {
+    "server-tick": 32184,
+    "animation": 1156,
+    "gfx": 95,
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      },
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ]
+  },
+  {
+    "server-tick": 32185,
+    "animation": 1156,
+    "gfx": 95,
+    "sounds": [
+      {
+        "id, delay": "518, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 32186,
+    "animation": 1156,
+    "gfx": 85,
+    "pos": "2910, 4451, 0"
+  },
+  {
+    "server-tick": 32187,
+    "animation": 1156,
+    "gfx": 85,
+    "pos": "2912, 4450, 0",
+    "sounds": [
+      {
+        "id, delay": "2367, 20"
+      },
+      {
+        "id, delay": "2368, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 32188,
+    "animation": 1156,
+    "gfx": 85,
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      },
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 101"
+      }
+    ]
+  },
+  {
+    "server-tick": 32189,
+    "animation": 1156,
+    "gfx": 85
+  },
+  {
+    "server-tick": 32190,
+    "animation": 1156
+  },
+  {
+    "server-tick": 32191,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2367, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 32192,
+    "animation": 1156,
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 101"
+      }
+    ]
+  },
+  {
+    "server-tick": 32193,
+    "animation": 1156
+  },
+  {
+    "server-tick": 32194,
+    "graphics": [
+      {
+        "id": 68,
+        "level": 0,
+        "start": 4577889
+      }
+    ]
+  },
+  {
+    "server-tick": 32195,
+    "pos": "2910, 4450, 0",
+    "sounds": [
+      {
+        "id, delay": "2366, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 32196,
+    "animation": 1156,
+    "pos": "2908, 4450, 0",
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 101"
+      }
+    ]
+  },
+  {
+    "server-tick": 32197,
+    "animation": 1156,
+    "pos": "2906, 4450, 0"
+  },
+  {
+    "server-tick": 32198,
+    "animation": 1156,
+    "pos": "2904, 4450, 0"
+  },
+  {
+    "server-tick": 32199,
+    "animation": 1156,
+    "pos": "2902, 4451, 0",
+    "sounds": [
+      {
+        "id, delay": "2366, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ]
+  },
+  {
+    "server-tick": 32200,
+    "animation": 1156,
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 108",
+        "slope, duration": "25, 96"
+      }
+    ]
+  },
+  {
+    "server-tick": 32201,
+    "animation": 1156,
+    "pos": "2900, 4449, 0"
+  },
+  {
+    "server-tick": 32203,
+    "pos": "1912, 4367, 0"
+  },
+  {
+    "server-tick": 32204,
+    "animation": 1156,
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 100",
+        "slope, duration": "40, 56"
+      }
+    ]
+  },
+  {
+    "server-tick": 32205,
+    "animation": 1156,
+    "sounds": [
+      {
+        "id, delay": "2366, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 32206,
+    "animation": 1156,
+    "pos": "1914, 4367, 0",
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 100",
+        "slope, duration": "40, 56"
+      }
+    ]
+  },
+  {
+    "server-tick": 32207,
+    "animation": 1156,
+    "pos": "1916, 4367, 0",
+    "sounds": [
+      {
+        "id, delay": "2366, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 100",
+        "slope, duration": "40, 51"
+      }
+    ]
+  },
+  {
+    "server-tick": 32208,
+    "pos": "1918, 4367, 0",
+    "sounds": [
+      {
+        "id, delay": "2368, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 32210,
+    "animation": 1603,
+    "pos": "1918, 4365, 0",
+    "sounds": [
+      {
+        "id, delay": "2461, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 294,
+        "heights": "50, 100",
+        "slope, duration": "40, 66"
+      }
+    ]
+  }
+]

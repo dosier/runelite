@@ -1,0 +1,88 @@
+[
+  {
+    "server-tick": 7646,
+    "game-state": "LOGGED_IN (30)",
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7647,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7648,
+    "game-state": "LOGGED_IN (30)",
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "526, 1, 7648"
+      },
+      {
+        "id, quantity, spawnTime": "995, 3, 7648"
+      }
+    ]
+  },
+  {
+    "server-tick": 7649,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7650,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7855,
+    "gfx": 1464,
+    "pos": "3105, 3511, 0",
+    "interacting": {
+      "npc": "Man (3108)",
+      "animation": 425,
+      "gfx": 1466
+    },
+    "sounds": [
+      {
+        "id, delay": "4032, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7651,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7855,
+    "gfx": 1464
+  },
+  {
+    "server-tick": 7652,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7653,
+    "game-state": "LOGGED_IN (30)",
+    "sounds": [
+      {
+        "id, delay": "513, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7654,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7655,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7656,
+    "game-state": "LOGGED_IN (30)",
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7657,
+    "game-state": "LOGGED_IN (30)"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "server-tick": 117,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 118,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 119,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3141, 3629, 0",
+    "interacting": {
+      "npc": "Rat (2854)"
+    }
+  },
+  {
+    "server-tick": 120,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 923,
+    "gfx": 274,
+    "pos": "3143, 3628, 0",
+    "interacting": {
+      "npc": "Rat (2854)",
+      "animation": 2706
+    },
+    "sounds": [
+      {
+        "id, delay": "2534, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 121,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 923,
+    "gfx": 274,
+    "interacting": {
+      "npc": "Rat (2854)"
+    },
+    "sounds": [
+      {
+        "id, delay": "713, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 122,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 123,
+    "game-state": "LOGGED_IN (30)",
+    "sounds": [
+      {
+        "id, delay": "711, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 124,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 125,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 126,
+    "game-state": "LOGGED_IN (30)"
+  }
+]

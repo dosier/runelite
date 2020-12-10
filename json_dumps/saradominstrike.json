@@ -1,0 +1,94 @@
+[
+  {
+    "server-tick": 7522,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7523,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7524,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7525,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 811,
+    "interacting": {
+      "npc": "Skeleton (73)",
+      "animation": 5489,
+      "gfx": 76
+    }
+  },
+  {
+    "server-tick": 7526,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 811
+  },
+  {
+    "server-tick": 7527,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 811
+  },
+  {
+    "server-tick": 7528,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 811,
+    "sounds": [
+      {
+        "id, delay": "774, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7529,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7530,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7531,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 811,
+    "interacting": {
+      "npc": "Skeleton (73)",
+      "animation": 5489,
+      "gfx": 76
+    }
+  },
+  {
+    "server-tick": 7532,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 811
+  },
+  {
+    "server-tick": 7533,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 811
+  },
+  {
+    "server-tick": 7534,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 811,
+    "sounds": [
+      {
+        "id, delay": "774, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 7535,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7536,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 7537,
+    "game-state": "LOGGED_IN (30)"
+  }
+]

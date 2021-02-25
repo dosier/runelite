@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2019, Dava96 <https://github.com/Dava96>
+ * Copyright (c) 2021, Adam <Adam@sigterm.info>
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -23,17 +23,9 @@
  * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-package net.runelite.client.plugins.worldmap;
+package net.runelite.client.plugins.banktags;
 
-import net.runelite.client.ui.overlay.worldmap.WorldMapPoint;
-import net.runelite.client.util.ImageUtil;
-
-class RunecraftingAltarPoint extends WorldMapPoint
+public interface BankTag
 {
-	RunecraftingAltarPoint(RunecraftingAltarLocation point)
-	{
-		super(point.getLocation(), WorldMapPlugin.BLANK_ICON);
-		setImage(ImageUtil.getResourceStreamFromClass(WorldMapPlugin.class, point.getIconPath()));
-		setTooltip(point.getTooltip());
-	}
+	boolean contains(int itemId);
 }

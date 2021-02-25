@@ -38,8 +38,24 @@ import java.util.List;
 import java.util.Set;
 import javax.inject.Inject;
 import javax.inject.Singleton;
-
 import net.runelite.api.*;
+import net.runelite.api.Client;
+import net.runelite.api.Constants;
+import net.runelite.api.DecorativeObject;
+import net.runelite.api.GameObject;
+import net.runelite.api.GraphicsObject;
+import net.runelite.api.ItemLayer;
+import net.runelite.api.NPC;
+import net.runelite.api.NPCComposition;
+import net.runelite.api.Node;
+import net.runelite.api.Perspective;
+import net.runelite.api.Player;
+import net.runelite.api.Point;
+import net.runelite.api.Projectile;
+import net.runelite.api.Scene;
+import net.runelite.api.Tile;
+import net.runelite.api.TileItem;
+import net.runelite.api.TileObject;
 import net.runelite.api.coords.LocalPoint;
 import net.runelite.api.widgets.Widget;
 import net.runelite.api.widgets.WidgetInfo;
@@ -54,8 +70,7 @@ import net.runelite.client.ui.overlay.tooltip.Tooltip;
 import net.runelite.client.ui.overlay.tooltip.TooltipManager;
 
 @Singleton
-class DevToolsOverlay extends Overlay
-{
+class DevToolsOverlay extends Overlay {
 	private static final Font FONT = FontManager.getRunescapeFont().deriveFont(Font.BOLD, 16);
 	private static final Color RED = new Color(221, 44, 0);
 	private static final Color GREEN = new Color(0, 200, 83);
@@ -74,8 +89,7 @@ class DevToolsOverlay extends Overlay
 	private final TooltipManager toolTipManager;
 
 	@Inject
-	private DevToolsOverlay(Client client, DevToolsPlugin plugin, TooltipManager toolTipManager)
-	{
+	private DevToolsOverlay(Client client, DevToolsPlugin plugin, TooltipManager toolTipManager) {
 		setPosition(OverlayPosition.DYNAMIC);
 		setLayer(OverlayLayer.ABOVE_WIDGETS);
 		setPriority(OverlayPriority.HIGHEST);
@@ -85,56 +99,46 @@ class DevToolsOverlay extends Overlay
 	}
 
 	@Override
-	public Dimension render(Graphics2D graphics)
-	{
+	public Dimension render(Graphics2D graphics) {
 		graphics.setFont(FONT);
 
-		if (plugin.getPlayers().isActive())
-		{
+		if (plugin.getPlayers().isActive()) {
 			renderPlayers(graphics);
 		}
 
-		if (plugin.getNpcs().isActive())
-		{
+		if (plugin.getNpcs().isActive()) {
 			renderNpcs(graphics);
 		}
 
-		if (plugin.getGroundItems().isActive() || plugin.getGroundObjects().isActive() || plugin.getGameObjects().isActive() || plugin.getWalls().isActive() || plugin.getDecorations().isActive() || plugin.getTileLocation().isActive() || plugin.getMovementFlags().isActive())
-		{
+		if (plugin.getGroundItems().isActive() || plugin.getGroundObjects().isActive() || plugin.getGameObjects().isActive() || plugin.getWalls().isActive() || plugin.getDecorations().isActive() || plugin.getTileLocation().isActive() || plugin.getMovementFlags().isActive()) {
 			renderTileObjects(graphics);
 		}
 
-		if (plugin.getInventory().isActive())
-		{
+		if (plugin.getInventory().isActive()) {
 			renderInventory(graphics);
 		}
 
-		if (plugin.getProjectiles().isActive())
-		{
+		if (plugin.getProjectiles().isActive()) {
 			renderProjectiles(graphics);
 		}
 
-		if (plugin.getGraphicsObjects().isActive())
-		{
+		if (plugin.getGraphicsObjects().isActive()) {
 			renderGraphicsObjects(graphics);
 		}
 
-		if(plugin.getActorAnimationsAndGraphics().isActive()){
+		if (plugin.getActorAnimationsAndGraphics().isActive()) {
 			renderAnimations(graphics);
 		}
 
 		return null;
 	}
 
-	private void renderPlayers(Graphics2D graphics)
-	{
+	private void renderPlayers(Graphics2D graphics) {
 		List<Player> players = client.getPlayers();
 		Player local = client.getLocalPlayer();
 
-		for (Player p : players)
-		{
-			if (p != local)
-			{
+		for (Player p : players) {
+			if (p != local) {
 				String text = p.getName() + " (A: " + p.getAnimation() + ") (P: " + p.getPoseAnimation() + ") (G: " + p.getGraphic() + ")";
 				OverlayUtil.renderActorOverlay(graphics, p, text, BLUE);
 			}
@@ -142,25 +146,18 @@ class DevToolsOverlay extends Overlay
 
 		String text = local.getName() + " (A: " + local.getAnimation() + ") (P: " + local.getPoseAnimation() + ") (G: " + local.getGraphic() + ")";
 		OverlayUtil.renderActorOverlay(graphics, local, text, CYAN);
-		renderPlayerWireframe(graphics, local, CYAN);
 	}
 
-	private void renderNpcs(Graphics2D graphics)
-	{
+	private void renderNpcs(Graphics2D graphics) {
 		List<NPC> npcs = client.getNpcs();
-		for (NPC npc : npcs)
-		{
+		for (NPC npc : npcs) {
 			NPCComposition composition = npc.getComposition();
 			Color color = composition.getCombatLevel() > 1 ? YELLOW : ORANGE;
-			if (composition.getConfigs() != null)
-			{
+			if (composition.getConfigs() != null) {
 				NPCComposition transformedComposition = composition.transform();
-				if (transformedComposition == null)
-				{
+				if (transformedComposition == null) {
 					color = GRAY;
-				}
-				else
-				{
+				} else {
 					composition = transformedComposition;
 				}
 			}
@@ -171,100 +168,80 @@ class DevToolsOverlay extends Overlay
 		}
 	}
 
-	private void renderTileObjects(Graphics2D graphics)
-	{
+	private void renderTileObjects(Graphics2D graphics) {
 		Scene scene = client.getScene();
 		Tile[][][] tiles = scene.getTiles();
 
 		int z = client.getPlane();
 
-		for (int x = 0; x < Constants.SCENE_SIZE; ++x)
-		{
-			for (int y = 0; y < Constants.SCENE_SIZE; ++y)
-			{
+		for (int x = 0; x < Constants.SCENE_SIZE; ++x) {
+			for (int y = 0; y < Constants.SCENE_SIZE; ++y) {
 				Tile tile = tiles[z][x][y];
 
-				if (tile == null)
-				{
+				if (tile == null) {
 					continue;
 				}
 
 				Player player = client.getLocalPlayer();
-				if (player == null)
-				{
+				if (player == null) {
 					continue;
 				}
 
-				if (plugin.getGroundItems().isActive())
-				{
+				if (plugin.getGroundItems().isActive()) {
 					renderGroundItems(graphics, tile, player);
 				}
 
-				if (plugin.getGroundObjects().isActive())
-				{
-					renderGroundObject(graphics, tile, player);
+				if (plugin.getGroundObjects().isActive()) {
+					renderTileObject(graphics, tile.getGroundObject(), player, PURPLE);
 				}
 
-				if (plugin.getGameObjects().isActive())
-				{
+				if (plugin.getGameObjects().isActive()) {
 					renderGameObjects(graphics, tile, player);
 				}
 
-				if (plugin.getWalls().isActive())
-				{
-					renderWallObject(graphics, tile, player);
+				if (plugin.getWalls().isActive()) {
+					renderTileObject(graphics, tile.getWallObject(), player, GRAY);
 				}
 
-				if (plugin.getDecorations().isActive())
-				{
+				if (plugin.getDecorations().isActive()) {
 					renderDecorObject(graphics, tile, player);
 				}
 
-				if (plugin.getTileLocation().isActive())
-				{
+				if (plugin.getTileLocation().isActive()) {
 					renderTileTooltip(graphics, tile);
 				}
 
-				if (plugin.getMovementFlags().isActive())
-				{
+				if (plugin.getMovementFlags().isActive()) {
 					renderMovementInfo(graphics, tile);
 				}
 			}
 		}
 	}
 
-	private void renderTileTooltip(Graphics2D graphics, Tile tile)
-	{
+	private void renderTileTooltip(Graphics2D graphics, Tile tile) {
 		Polygon poly = Perspective.getCanvasTilePoly(client, tile.getLocalLocation());
-		if (poly != null && poly.contains(client.getMouseCanvasPosition().getX(), client.getMouseCanvasPosition().getY()))
-		{
+		if (poly != null && poly.contains(client.getMouseCanvasPosition().getX(), client.getMouseCanvasPosition().getY())) {
 			toolTipManager.add(new Tooltip("World Location: " + tile.getWorldLocation().getX() + ", " + tile.getWorldLocation().getY() + ", " + client.getPlane()));
 			OverlayUtil.renderPolygon(graphics, poly, GREEN);
 		}
 	}
 
-	private void renderMovementInfo(Graphics2D graphics, Tile tile)
-	{
+	private void renderMovementInfo(Graphics2D graphics, Tile tile) {
 		Polygon poly = Perspective.getCanvasTilePoly(client, tile.getLocalLocation());
 
-		if (poly == null || !poly.contains(client.getMouseCanvasPosition().getX(), client.getMouseCanvasPosition().getY()))
-		{
+		if (poly == null || !poly.contains(client.getMouseCanvasPosition().getX(), client.getMouseCanvasPosition().getY())) {
 			return;
 		}
 
-		if (client.getCollisionMaps() != null)
-		{
+		if (client.getCollisionMaps() != null) {
 			int[][] flags = client.getCollisionMaps()[client.getPlane()].getFlags();
 			int data = flags[tile.getSceneLocation().getX()][tile.getSceneLocation().getY()];
 
 			Set<MovementFlag> movementFlags = MovementFlag.getSetFlags(data);
 
-			if (movementFlags.isEmpty())
-			{
+			if (movementFlags.isEmpty()) {
 				toolTipManager.add(new Tooltip("No movement flags"));
-			}
-			else
-			{
+			} else {
 				movementFlags.forEach(flag -> toolTipManager.add(new Tooltip(flag.toString())));
 			}
 
@@ -272,16 +249,12 @@ class DevToolsOverlay extends Overlay
 		}
 	}
 
-	private void renderGroundItems(Graphics2D graphics, Tile tile, Player player)
-	{
+	private void renderGroundItems(Graphics2D graphics, Tile tile, Player player) {
 		ItemLayer itemLayer = tile.getItemLayer();
-		if (itemLayer != null)
-		{
-			if (player.getLocalLocation().distanceTo(itemLayer.getLocalLocation()) <= MAX_DISTANCE)
-			{
+		if (itemLayer != null) {
+			if (player.getLocalLocation().distanceTo(itemLayer.getLocalLocation()) <= MAX_DISTANCE) {
 				Node current = itemLayer.getBottom();
-				while (current instanceof TileItem)
-				{
+				while (current instanceof TileItem) {
 					TileItem item = (TileItem) current;
 					OverlayUtil.renderTileOverlay(graphics, itemLayer, "ID: " + item.getId() + " Qty:" + item.getQuantity(), RED);
 					current = current.getNext();
@@ -290,90 +263,51 @@ class DevToolsOverlay extends Overlay
 		}
 	}
 
-	private void renderGameObjects(Graphics2D graphics, Tile tile, Player player)
-	{
+	private void renderGameObjects(Graphics2D graphics, Tile tile, Player player) {
 		GameObject[] gameObjects = tile.getGameObjects();
-		if (gameObjects != null)
-		{
-			for (GameObject gameObject : gameObjects)
-			{
-				if (gameObject != null)
-				{
-					if (player.getLocalLocation().distanceTo(gameObject.getLocalLocation()) <= MAX_DISTANCE)
-					{
-						OverlayUtil.renderTileOverlay(graphics, gameObject, "ID: " + gameObject.getId(), GREEN);
-					}
-
-					// Draw a polygon around the convex hull
-					// of the model vertices
-					Shape p = gameObject.getConvexHull();
-					if (p != null)
-					{
-						graphics.draw(p);
-					}
+		if (gameObjects != null) {
+			for (GameObject gameObject : gameObjects) {
+				if (gameObject != null && gameObject.getSceneMinLocation().equals(tile.getSceneLocation())) {
+					renderTileObject(graphics, gameObject, player, GREEN);
 				}
 			}
 		}
 	}
 
-	private void renderGroundObject(Graphics2D graphics, Tile tile, Player player)
-	{
-		GroundObject groundObject = tile.getGroundObject();
-		if (groundObject != null)
-		{
-			if (player.getLocalLocation().distanceTo(groundObject.getLocalLocation()) <= MAX_DISTANCE)
-			{
-				OverlayUtil.renderTileOverlay(graphics, groundObject, "ID: " + groundObject.getId(), PURPLE);
+	private void renderTileObject(Graphics2D graphics, TileObject tileObject, Player player, Color color) {
+		if (tileObject != null) {
+			if (player.getLocalLocation().distanceTo(tileObject.getLocalLocation()) <= MAX_DISTANCE) {
+				OverlayUtil.renderTileOverlay(graphics, tileObject, "ID: " + tileObject.getId(), color);
 			}
 		}
 	}
 
-	private void renderWallObject(Graphics2D graphics, Tile tile, Player player)
-	{
-		WallObject wallObject = tile.getWallObject();
-		if (wallObject != null)
-		{
-			if (player.getLocalLocation().distanceTo(wallObject.getLocalLocation()) <= MAX_DISTANCE)
-			{
-				OverlayUtil.renderTileOverlay(graphics, wallObject, "ID: " + wallObject.getId(), GRAY);
-			}
-		}
-	}
-
-	private void renderDecorObject(Graphics2D graphics, Tile tile, Player player)
-	{
+	private void renderDecorObject(Graphics2D graphics, Tile tile, Player player) {
 		DecorativeObject decorObject = tile.getDecorativeObject();
-		if (decorObject != null)
-		{
-			if (player.getLocalLocation().distanceTo(decorObject.getLocalLocation()) <= MAX_DISTANCE)
-			{
+		if (decorObject != null) {
+			if (player.getLocalLocation().distanceTo(decorObject.getLocalLocation()) <= MAX_DISTANCE) {
 				OverlayUtil.renderTileOverlay(graphics, decorObject, "ID: " + decorObject.getId(), DEEP_PURPLE);
 			}
 
 			Shape p = decorObject.getConvexHull();
-			if (p != null)
-			{
+			if (p != null) {
 				graphics.draw(p);
 			}
 
 			p = decorObject.getConvexHull2();
-			if (p != null)
-			{
+			if (p != null) {
 				graphics.draw(p);
 			}
 		}
 	}
 
-	private void renderInventory(Graphics2D graphics)
-	{
+	private void renderInventory(Graphics2D graphics) {
 		Widget inventoryWidget = client.getWidget(WidgetInfo.INVENTORY);
-		if (inventoryWidget == null || inventoryWidget.isHidden())
-		{
+		if (inventoryWidget == null || inventoryWidget.isHidden()) {
 			return;
 		}
 
-		for (WidgetItem item : inventoryWidget.getWidgetItems())
-		{
+		for (WidgetItem item : inventoryWidget.getWidgetItems()) {
 			Rectangle slotBounds = item.getCanvasBounds();
 
 			String idText = "" + item.getId();
@@ -393,12 +327,10 @@ class DevToolsOverlay extends Overlay
 		}
 	}
 
-	private void renderProjectiles(Graphics2D graphics)
-	{
+	private void renderProjectiles(Graphics2D graphics) {
 		List<Projectile> projectiles = client.getProjectiles();
 
-		for (Projectile projectile : projectiles)
-		{
+		for (Projectile projectile : projectiles) {
 			int projectileId = projectile.getId();
 
 			int x = (int) projectile.getX();
@@ -414,33 +346,28 @@ class DevToolsOverlay extends Overlay
 			{
 				String text = "(S: " + projectile.getSlope() + " | H: " + projectile.getStartHeight() + ", " + projectile.getEndHeight() + ")";
 				Point textLocation = Perspective.getCanvasTextLocation(client, graphics, projectilePoint, text, 290);
-				if (textLocation != null)
-				{
+				if (textLocation != null) {
 					OverlayUtil.renderTextLocation(graphics, textLocation, text, Color.ORANGE);
 				}
 			}
 		}
 	}
 
-	private void renderGraphicsObjects(Graphics2D graphics)
-	{
+	private void renderGraphicsObjects(Graphics2D graphics) {
 		List<GraphicsObject> graphicsObjects = client.getGraphicsObjects();
 
-		for (GraphicsObject graphicsObject : graphicsObjects)
-		{
+		for (GraphicsObject graphicsObject : graphicsObjects) {
 			LocalPoint lp = graphicsObject.getLocation();
 			Polygon poly = Perspective.getCanvasTilePoly(client, lp);
 
-			if (poly != null)
-			{
+			if (poly != null) {
 				OverlayUtil.renderPolygon(graphics, poly, Color.MAGENTA);
 			}
 
 			String infoString = "(ID: " + graphicsObject.getId() + ")";
 			Point textLocation = Perspective.getCanvasTextLocation(
 					client, graphics, lp, infoString, 0);
-			if (textLocation != null)
-			{
+			if (textLocation != null) {
 				OverlayUtil.renderTextLocation(graphics, textLocation, infoString, Color.WHITE);
 			}
 		}
@@ -448,23 +375,20 @@ class DevToolsOverlay extends Overlay
 
 	}
 
-	private void renderAnimations(Graphics2D graphics)
-	{
-		for (Player player : client.getPlayers())
-		{
+	private void renderAnimations(Graphics2D graphics) {
+		for (Player player : client.getPlayers()) {
 			renderAnimation(graphics, player);
 		}
 
-		for (NPC npc : client.getNpcs())
-		{
+		for (NPC npc : client.getNpcs()) {
 			renderAnimation(graphics, npc);
 		}
 	}
 
-	private void renderAnimation(Graphics2D graphics, Actor actor){
+	private void renderAnimation(Graphics2D graphics, Actor actor) {
 		LocalPoint lp = actor.getLocalLocation();
 		{
-			if(actor.getAnimation() != -1) {
+			if (actor.getAnimation() != -1) {
 				String infoString = "(Anim: " + actor.getAnimation() + ")";
 				Point textLocation = Perspective.getCanvasTextLocation(
 						client, graphics, lp, infoString, 200);
@@ -474,7 +398,7 @@ class DevToolsOverlay extends Overlay
 			}
 		}
 		{
-			if(actor.getGraphic() != -1) {
+			if (actor.getGraphic() != -1) {
 				String infoString = "(Graphic: " + actor.getGraphic() + ")";
 				Point textLocation = Perspective.getCanvasTextLocation(
 						client, graphics, lp, infoString, 230);
@@ -485,22 +409,4 @@ class DevToolsOverlay extends Overlay
 		}
 
 	}
-
-	private void renderPlayerWireframe(Graphics2D graphics, Player player, Color color)
-	{
-		Polygon[] polys = player.getPolygons();
-
-		if (polys == null)
-		{
-			return;
-		}
-
-		graphics.setColor(color);
-
-		for (Polygon p : polys)
-		{
-			graphics.drawPolygon(p);
-		}
-	}
-
 }

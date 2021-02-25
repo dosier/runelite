@@ -466,6 +466,7 @@ public class MusicPlugin extends Plugin
 
 		public void update()
 		{
+			handle.setNoClickThrough(false);
 			handle.setOnDragListener((JavaScriptCallback) this::drag);
 			handle.setOnDragCompleteListener((JavaScriptCallback) this::drag);
 			handle.setHasListener(true);
@@ -511,6 +512,9 @@ public class MusicPlugin extends Plugin
 			int level = (x * channel.max) / getWidth();
 			level = Ints.constrainToRange(level, 0, channel.max);
 			channel.setLevel(level);
+
+			int percent = (int) Math.round((level * 100.0 / channel.getMax()));
+			sliderTooltip = new Tooltip(channel.getName() + ": " + percent + "%");
 		}
 
 		protected int getWidth()
@@ -573,7 +577,7 @@ public class MusicPlugin extends Plugin
 			// emulate [proc,settings_update_icon]
 			boolean unmuted = val != 0;
 			icon.getChild(1).setHidden(unmuted);
-			icon.setAction(0, unmuted ? "Unmute" : "Mute");
+			icon.setAction(0, unmuted ? "Mute" : "Unmute");
 			// Set name + no tooltip; we have our own for ops
 			icon.setName(channel.getName());
 			icon.setOnMouseRepeatListener((Object[]) null);
@@ -701,7 +705,7 @@ public class MusicPlugin extends Plugin
 				return;
 			}
 
-			int arg = client.getIntStackSize() - 7;
+			int arg = client.getIntStackSize() - 8;
 			int[] is = client.getIntStack();
 			Channel channel;
 			switch (is[arg])

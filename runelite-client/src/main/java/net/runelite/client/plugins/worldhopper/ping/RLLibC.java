@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2016-2017, Adam <Adam@sigterm.info>
+ * Copyright (c) 2021, Adam <Adam@sigterm.info>
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -22,23 +22,29 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-package net.runelite.api.events;
+package net.runelite.client.plugins.worldhopper.ping;
 
-import lombok.Data;
+import com.sun.jna.Native;
+import com.sun.jna.Pointer;
+import com.sun.jna.platform.unix.LibC;
 
-/**
- * An event where a player menu option that was added by RuneLite has
- * been clicked (ie. HiScore Lookup).
- */
-@Data
-public class PlayerMenuOptionClicked
+interface RLLibC extends LibC
 {
-	/**
-	 * The menu option clicked.
-	 */
-	private String menuOption;
-	/**
-	 * The target player.
-	 */
-	private String menuTarget;
+	RLLibC INSTANCE = Native.loadLibrary(NAME, RLLibC.class);
+
+	int AF_INET = 2;
+	int SOCK_DGRAM = 2;
+	int SOL_SOCKET = 1;
+	int IPPROTO_ICMP = 1;
+	int SO_RCVTIMEO = 20;
+
+	int socket(int domain, int type, int protocol);
+
+	void close(int socket);
+
+	int sendto(int sockfd, byte[] buf, int len, int flags, byte[] dest_addr, int addrlen);
+
+	int recvfrom(int sockfd, Pointer buf, int len, int flags, Pointer src_addr, Pointer addrlen);
+
+	int setsockopt(int sockfd, int level, int optname, Pointer optval, int optlen);
 }

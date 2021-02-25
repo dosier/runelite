@@ -55,6 +55,7 @@ import net.runelite.api.SpritePixels;
 import net.runelite.api.events.GameStateChanged;
 import net.runelite.api.events.PostItemComposition;
 import net.runelite.client.callback.ClientThread;
+import net.runelite.client.eventbus.EventBus;
 import net.runelite.client.eventbus.Subscribe;
 import net.runelite.client.util.AsyncBufferedImage;
 import net.runelite.http.api.item.ItemClient;
@@ -151,6 +152,12 @@ public class ItemManager
 		put(GRACEFUL_LEGS_24754, GRACEFUL_LEGS_24752).
 		put(GRACEFUL_GLOVES_24757, GRACEFUL_GLOVES_24755).
 		put(GRACEFUL_BOOTS_24760, GRACEFUL_BOOTS_24758).
+		put(GRACEFUL_HOOD_25071, GRACEFUL_HOOD_25069).
+		put(GRACEFUL_CAPE_25074, GRACEFUL_CAPE_25072).
+		put(GRACEFUL_TOP_25077, GRACEFUL_TOP_25075).
+		put(GRACEFUL_LEGS_25080, GRACEFUL_LEGS_25078).
+		put(GRACEFUL_GLOVES_25083, GRACEFUL_GLOVES_25081).
+		put(GRACEFUL_BOOTS_25086, GRACEFUL_BOOTS_25084).
 
 		put(MAX_CAPE_13342, MAX_CAPE).
 
@@ -163,7 +170,7 @@ public class ItemManager
 
 	@Inject
 	public ItemManager(Client client, ScheduledExecutorService scheduledExecutorService, ClientThread clientThread,
-		OkHttpClient okHttpClient)
+		OkHttpClient okHttpClient, EventBus eventBus)
 	{
 		this.client = client;
 		this.clientThread = clientThread;
@@ -207,6 +214,8 @@ public class ItemManager
 					return loadItemOutline(key.itemId, key.itemQuantity, key.outlineColor);
 				}
 			});
+
+		eventBus.register(this);
 	}
 
 	private void loadPrices()

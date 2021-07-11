@@ -156,6 +156,7 @@ public class DevToolsPlugin extends Plugin
 	private DevToolsButton soundEffects;
 	private DevToolsButton scriptInspector;
 	private DevToolsButton inventoryInspector;
+	private DevToolsButton roofs;
 	private DevToolsButton shell;
 	private NavigationButton navButton;
 	private boolean switchedOn;
@@ -204,6 +205,7 @@ public class DevToolsPlugin extends Plugin
 		soundEffects = new DevToolsButton("Sound Effects");
 		scriptInspector = new DevToolsButton("Script Inspector");
 		inventoryInspector = new DevToolsButton("Inventory Inspector");
+		roofs = new DevToolsButton("Roofs");
 		shell = new DevToolsButton("Shell");
 
 		toggleTracking = new DevToolsButton("Toggle Tracking");
@@ -520,6 +522,25 @@ public class DevToolsPlugin extends Plugin
 						.type(ChatMessageType.GAMEMESSAGE)
 						.runeLiteFormattedMessage(new ChatMessageBuilder().append(message).build())
 						.build());
+				break;
+			}
+			case "modicons":
+			{
+				final ChatMessageBuilder builder = new ChatMessageBuilder();
+				final IndexedSprite[] modIcons = client.getModIcons();
+				for (int i = 0; i < modIcons.length; i++)
+				{
+					builder.append(i + "=").img(i);
+
+					if (i != modIcons.length - 1)
+					{
+						builder.append(", ");
+					}
+				}
+				chatMessageManager.queue(QueuedMessage.builder()
+					.type(ChatMessageType.GAMEMESSAGE)
+					.runeLiteFormattedMessage(builder.build())
+					.build());
 				break;
 			}
 		}

@@ -34,8 +34,16 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import com.google.inject.Provides;
 import lombok.Getter;
-import net.runelite.api.*;
-import net.runelite.api.coords.LocalPoint;
+import net.runelite.api.ChatMessageType;
+import net.runelite.api.Client;
+import net.runelite.api.Experience;
+import net.runelite.api.IndexedSprite;
+import net.runelite.api.MenuAction;
+import net.runelite.api.MenuEntry;
+import net.runelite.api.NPC;
+import net.runelite.api.Player;
+import net.runelite.api.Skill;
+import net.runelite.api.VarbitComposition;
 import net.runelite.api.coords.WorldPoint;
 import net.runelite.api.events.*;
 import net.runelite.api.kit.KitType;
@@ -156,6 +164,7 @@ public class DevToolsPlugin extends Plugin
 	private DevToolsButton soundEffects;
 	private DevToolsButton scriptInspector;
 	private DevToolsButton inventoryInspector;
+	private DevToolsButton roofs;
 	private DevToolsButton shell;
 	private NavigationButton navButton;
 	private boolean switchedOn;
@@ -204,6 +213,7 @@ public class DevToolsPlugin extends Plugin
 		soundEffects = new DevToolsButton("Sound Effects");
 		scriptInspector = new DevToolsButton("Script Inspector");
 		inventoryInspector = new DevToolsButton("Inventory Inspector");
+		roofs = new DevToolsButton("Roofs");
 		shell = new DevToolsButton("Shell");
 
 		toggleTracking = new DevToolsButton("Toggle Tracking");
@@ -520,6 +530,25 @@ public class DevToolsPlugin extends Plugin
 						.type(ChatMessageType.GAMEMESSAGE)
 						.runeLiteFormattedMessage(new ChatMessageBuilder().append(message).build())
 						.build());
+				break;
+			}
+			case "modicons":
+			{
+				final ChatMessageBuilder builder = new ChatMessageBuilder();
+				final IndexedSprite[] modIcons = client.getModIcons();
+				for (int i = 0; i < modIcons.length; i++)
+				{
+					builder.append(i + "=").img(i);
+
+					if (i != modIcons.length - 1)
+					{
+						builder.append(", ");
+					}
+				}
+				chatMessageManager.queue(QueuedMessage.builder()
+					.type(ChatMessageType.GAMEMESSAGE)
+					.runeLiteFormattedMessage(builder.build())
+					.build());
 				break;
 			}
 		}

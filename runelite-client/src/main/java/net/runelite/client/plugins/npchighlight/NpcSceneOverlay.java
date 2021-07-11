@@ -48,8 +48,6 @@ import net.runelite.client.ui.overlay.Overlay;
 import net.runelite.client.ui.overlay.OverlayLayer;
 import net.runelite.client.ui.overlay.OverlayPosition;
 import net.runelite.client.ui.overlay.OverlayUtil;
-import net.runelite.client.ui.overlay.outline.ModelOutlineRenderer;
-import net.runelite.client.util.ColorUtil;
 import net.runelite.client.util.Text;
 
 public class NpcSceneOverlay extends Overlay
@@ -68,16 +66,13 @@ public class NpcSceneOverlay extends Overlay
 	private final Client client;
 	private final NpcIndicatorsConfig config;
 	private final NpcIndicatorsPlugin plugin;
-	private final ModelOutlineRenderer modelOutlineRenderer;
 
 	@Inject
-	NpcSceneOverlay(Client client, NpcIndicatorsConfig config, NpcIndicatorsPlugin plugin,
-		ModelOutlineRenderer modelOutlineRenderer)
+	NpcSceneOverlay(Client client, NpcIndicatorsConfig config, NpcIndicatorsPlugin plugin)
 	{
 		this.client = client;
 		this.config = config;
 		this.plugin = plugin;
-		this.modelOutlineRenderer = modelOutlineRenderer;
 		setPosition(OverlayPosition.DYNAMIC);
 		setLayer(OverlayLayer.ABOVE_SCENE);
 	}
@@ -185,11 +180,6 @@ public class NpcSceneOverlay extends Overlay
 			renderPoly(graphics, color, southWestTilePoly);
 		}
 
-		if (config.highlightOutline())
-		{
-			modelOutlineRenderer.drawOutline(actor, (int)config.borderWidth(), color, config.outlineFeather());
-		}
-
 		if (config.drawNames() && actor.getName() != null)
 		{
 			String npcName = Text.removeTags(actor.getName());
@@ -207,9 +197,9 @@ public class NpcSceneOverlay extends Overlay
 		if (polygon != null)
 		{
 			graphics.setColor(color);
-			graphics.setStroke(new BasicStroke((float) config.borderWidth()));
+			graphics.setStroke(new BasicStroke(2));
 			graphics.draw(polygon);
-			graphics.setColor(ColorUtil.colorWithAlpha(color, 20));
+			graphics.setColor(new Color(color.getRed(), color.getGreen(), color.getBlue(), 20));
 			graphics.fill(polygon);
 		}
 	}

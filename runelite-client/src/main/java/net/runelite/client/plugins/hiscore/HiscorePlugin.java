@@ -158,15 +158,13 @@ public class HiscorePlugin extends Plugin
 			return;
 		}
 
-		final int componentId = event.getActionParam1();
-		int groupId = WidgetInfo.TO_GROUP(componentId);
+		int groupId = WidgetInfo.TO_GROUP(event.getActionParam1());
 		String option = event.getOption();
 
 		if (groupId == WidgetInfo.FRIENDS_LIST.getGroupId() || groupId == WidgetInfo.FRIENDS_CHAT.getGroupId() ||
 				groupId == WidgetInfo.CHATBOX.getGroupId() && !KICK_OPTION.equals(option) || //prevent from adding for Kick option (interferes with the raiding party one)
 				groupId == WidgetInfo.RAIDING_PARTY.getGroupId() || groupId == WidgetInfo.PRIVATE_CHAT_MESSAGE.getGroupId() ||
-				groupId == WidgetInfo.IGNORE_LIST.getGroupId() || componentId == WidgetInfo.CLAN_MEMBER_LIST.getId() ||
-				componentId == WidgetInfo.CLAN_GUEST_MEMBER_LIST.getId())
+				groupId == WidgetInfo.IGNORE_LIST.getGroupId())
 		{
 			if (!AFTER_OPTIONS.contains(option) || (option.equals("Delete") && groupId != WidgetInfo.IGNORE_LIST.getGroupId()))
 			{

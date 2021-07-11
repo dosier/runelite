@@ -1,6 +1,5 @@
 /*
  * Copyright (c) 2018, Tomas Slusny <slusnucky@gmail.com>
- * Copyright (c) 2021, Jonathan Rousseau <https://github.com/JoRouss>
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -32,6 +31,8 @@ import java.time.Instant;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
+import java.util.UUID;
+import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.stream.Collectors;
 import javax.inject.Inject;
 import javax.inject.Named;
@@ -54,6 +55,7 @@ class DiscordState
 		private Instant updated;
 	}
 
+	private final UUID partyId = UUID.randomUUID();
 	private final List<EventWithTime> events = new ArrayList<>();
 	private final DiscordService discordService;
 	private final DiscordConfig config;
@@ -104,10 +106,15 @@ class DiscordState
 			.largeImageText(lastPresence.getLargeImageText())
 			.startTimestamp(lastPresence.getStartTimestamp())
 			.smallImageKey(lastPresence.getSmallImageKey())
-			.partyMax(lastPresence.getPartyMax());
+			.partyMax(lastPresence.getPartyMax())
+			.partySize(party.getMembers().size());
 
-
-		setPresencePartyInfo(presenceBuilder);
+		if (!party.isInParty() || party.isPartyOwner())
+		{
+			// This is only used to identify the invites on Discord's side. Our party ids are the secret.
+			presenceBuilder.partyId(partyId.toString());
+			presenceBuilder.joinSecret(party.getLocalPartyId().toString());
+		}
 
 		discordService.updatePresence(presenceBuilder.build());
 	}
@@ -198,7 +205,8 @@ class DiscordState
 			.details(MoreObjects.firstNonNull(details, ""))
 			.largeImageText(runeliteTitle + " v" + versionShortHand)
 			.smallImageKey(imageKey)
-			.partyMax(PARTY_MAX);
+			.partyMax(PARTY_MAX)
+			.partySize(party.getMembers().size());
 
 		final Instant startTime;
 		switch (config.elapsedTimeType())
@@ -225,7 +233,11 @@ class DiscordState
 
 		presenceBuilder.startTimestamp(startTime);
 
-		setPresencePartyInfo(presenceBuilder);
+		if (!party.isInParty() || party.isPartyOwner())
+		{
+			presenceBuilder.partyId(partyId.toString());
+			presenceBuilder.joinSecret(party.getLocalPartyId().toString());
+		}
 
 		final DiscordPresence presence = presenceBuilder.build();
 
@@ -249,30 +261,29 @@ class DiscordState
 
 		final Duration actionTimeout = Duration.ofMinutes(config.actionTimeout());
 		final Instant now = Instant.now();
+		final AtomicBoolean updatedAny = new AtomicBoolean();
 
 		final boolean removedAny = events.removeAll(events.stream()
-			// Only include clearable events
-			.filter(event -> event.getType().isShouldBeCleared())
 			// Find only events that should time out
 			.filter(event -> event.getType().isShouldTimeout() && now.isAfter(event.getUpdated().plus(actionTimeout)))
+			// Reset start times on timed events that should restart
+			.peek(event ->
+			{
+				if (event.getType().isShouldRestart())
+				{
+					event.setStart(null);
+					updatedAny.set(true);
+				}
+			})
+			// Now filter out events that should restart as we do not want to remove them
+			.filter(event -> !event.getType().isShouldRestart())
+			.filter(event -> event.getType().isShouldBeCleared())
 			.collect(Collectors.toList())
 		);
 
-		if (removedAny)
+		if (removedAny || updatedAny.get())
 		{
 			updatePresenceWithLatestEvent();
-		}
-	}
-
-	private void setPresencePartyInfo(DiscordPresence.DiscordPresenceBuilder presenceBuilder)
-	{
-		if (party.isInParty())
-		{
-			presenceBuilder.partySize(party.getMembers().size());
-
-			// Set public party id and secret
-			presenceBuilder.partyId(party.getPublicPartyId().toString());
-			presenceBuilder.joinSecret(party.getPartyId().toString());
 		}
 	}
 }

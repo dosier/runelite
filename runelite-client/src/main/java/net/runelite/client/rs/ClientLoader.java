@@ -87,17 +87,15 @@ public class ClientLoader implements Supplier<Applet>
 	private final ClientConfigLoader clientConfigLoader;
 	private ClientUpdateCheckMode updateCheckMode;
 	private final WorldSupplier worldSupplier;
-	private final String javConfigUrl;
 
 	private Object client;
 
-	public ClientLoader(OkHttpClient okHttpClient, ClientUpdateCheckMode updateCheckMode, String javConfigUrl)
+	public ClientLoader(OkHttpClient okHttpClient, ClientUpdateCheckMode updateCheckMode)
 	{
 		this.okHttpClient = okHttpClient;
 		this.clientConfigLoader = new ClientConfigLoader(okHttpClient);
 		this.updateCheckMode = updateCheckMode;
 		this.worldSupplier = new WorldSupplier(okHttpClient);
-		this.javConfigUrl = javConfigUrl;
 	}
 
 	@Override
@@ -143,7 +141,7 @@ public class ClientLoader implements Supplier<Applet>
 				catch (IOException ex)
 				{
 					// try again with the fallback config and gamepack
-					if (javConfigUrl.equals(RuneLiteProperties.getJavConfig()) && !config.isFallback())
+					if (!config.isFallback())
 					{
 						log.warn("Unable to download game client, attempting to use fallback config", ex);
 						config = downloadFallbackConfig();
@@ -188,7 +186,7 @@ public class ClientLoader implements Supplier<Applet>
 
 	private RSConfig downloadConfig() throws IOException
 	{
-		HttpUrl url = HttpUrl.parse(javConfigUrl);
+		HttpUrl url = HttpUrl.parse(RuneLiteProperties.getJavConfig());
 		IOException err = null;
 		for (int attempt = 0; attempt < NUM_ATTEMPTS; attempt++)
 		{
@@ -206,12 +204,6 @@ public class ClientLoader implements Supplier<Applet>
 			catch (IOException e)
 			{
 				log.info("Failed to get jav_config from host \"{}\" ({})", url.host(), e.getMessage());
-
-				if (!javConfigUrl.equals(RuneLiteProperties.getJavConfig()))
-				{
-					throw e;
-				}
-
 				String host = worldSupplier.get().getAddress();
 				url = url.newBuilder().host(host).build();
 				err = e;
@@ -404,7 +396,7 @@ public class ClientLoader implements Supplier<Applet>
 					log.warn("Failed to download gamepack from \"{}\"", url, e);
 
 					// With fallback config do 1 attempt (there are no additional urls to try)
-					if (!javConfigUrl.equals(RuneLiteProperties.getJavConfig()) || config.isFallback() || attempt >= NUM_ATTEMPTS)
+					if (config.isFallback() || attempt >= NUM_ATTEMPTS)
 					{
 						throw e;
 					}
@@ -559,13 +551,13 @@ public class ClientLoader implements Supplier<Applet>
 
 	private static Certificate[] getJagexCertificateChain()
 	{
-		try (InputStream in = ClientLoader.class.getResourceAsStream("jagex.crt"))
+		try
 		{
 			CertificateFactory certificateFactory = CertificateFactory.getInstance("X.509");
-			Collection<? extends Certificate> certificates = certificateFactory.generateCertificates(in);
+			Collection<? extends Certificate> certificates = certificateFactory.generateCertificates(ClientLoader.class.getResourceAsStream("jagex.crt"));
 			return certificates.toArray(new Certificate[0]);
 		}
-		catch (CertificateException | IOException e)
+		catch (CertificateException e)
 		{
 			throw new RuntimeException("Unable to parse pinned certificates", e);
 		}

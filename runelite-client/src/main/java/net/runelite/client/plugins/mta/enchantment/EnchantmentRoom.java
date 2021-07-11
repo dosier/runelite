@@ -50,7 +50,6 @@ public class EnchantmentRoom extends MTARoom
 
 	private final Client client;
 	private final List<WorldPoint> dragonstones = new ArrayList<>();
-	private boolean hintSet;
 
 	@Inject
 	private EnchantmentRoom(MTAConfig config, Client client)
@@ -65,11 +64,6 @@ public class EnchantmentRoom extends MTARoom
 		if (gameStateChanged.getGameState() == GameState.LOADING)
 		{
 			dragonstones.clear();
-			if (hintSet)
-			{
-				client.clearHintArrow();
-				hintSet = false;
-			}
 		}
 	}
 
@@ -85,12 +79,10 @@ public class EnchantmentRoom extends MTARoom
 		if (nearest != null)
 		{
 			client.setHintArrow(nearest);
-			hintSet = true;
 		}
 		else
 		{
 			client.clearHintArrow();
-			hintSet = false;
 		}
 	}
 

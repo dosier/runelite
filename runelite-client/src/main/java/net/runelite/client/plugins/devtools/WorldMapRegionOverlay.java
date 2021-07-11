@@ -79,7 +79,7 @@ class WorldMapRegionOverlay extends Overlay
 	{
 		RenderOverview ro = client.getRenderOverview();
 		Widget map = client.getWidget(WidgetInfo.WORLD_MAP_VIEW);
-		float pixelsPerTile = ro.getWorldMapZoom();
+		Float pixelsPerTile = ro.getWorldMapZoom();
 
 		if (map == null)
 		{

@@ -33,7 +33,6 @@ public class ItemDefinition
 	public final int id;
 
 	public String name = "null";
-	public String unknown1;
 
 	public int resizeX = 128;
 	public int resizeY = 128;
@@ -87,8 +86,6 @@ public class ItemDefinition
 	public int femaleOffset;
 	public int femaleHeadModel = -1;
 	public int femaleHeadModel2 = -1;
-	
-	public int category;
 
 	public int notedID = -1;
 	public int notedTemplate = -1;

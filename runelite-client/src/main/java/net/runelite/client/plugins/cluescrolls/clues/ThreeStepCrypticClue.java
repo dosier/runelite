@@ -30,7 +30,6 @@ import java.util.AbstractMap;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
-import java.util.Objects;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import net.runelite.api.InventoryID;
@@ -168,7 +167,6 @@ public class ThreeStepCrypticClue extends ClueScroll implements TextClueScroll, 
 		return clueSteps.stream()
 			.filter(s -> !s.getValue())
 			.map(s -> s.getKey().getLocation())
-			.filter(Objects::nonNull)
 			.toArray(WorldPoint[]::new);
 	}
 

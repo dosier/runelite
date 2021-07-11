@@ -42,6 +42,10 @@ import net.runelite.api.TileObject;
 import net.runelite.api.coords.LocalPoint;
 import net.runelite.client.util.ColorUtil;
 
+
+/**
+ * Created by Kyle Fricilone on Jun 09, 2017.
+ */
 public class OverlayUtil
 {
 	private static final int MINIMAP_DOT_RADIUS = 4;
@@ -49,14 +53,9 @@ public class OverlayUtil
 
 	public static void renderPolygon(Graphics2D graphics, Shape poly, Color color)
 	{
-		renderPolygon(graphics, poly, color, new BasicStroke(2));
-	}
-
-	public static void renderPolygon(Graphics2D graphics, Shape poly, Color color, Stroke borderStroke)
-	{
 		graphics.setColor(color);
 		final Stroke originalStroke = graphics.getStroke();
-		graphics.setStroke(borderStroke);
+		graphics.setStroke(new BasicStroke(2));
 		graphics.draw(poly);
 		graphics.setColor(new Color(0, 0, 0, 50));
 		graphics.fill(poly);

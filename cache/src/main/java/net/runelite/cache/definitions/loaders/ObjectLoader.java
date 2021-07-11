@@ -194,10 +194,6 @@ public class ObjectLoader
 			def.setRetextureToFind(retextureToFind);
 			def.setTextureToReplace(textureToReplace);
 		}
-		else if (opcode == 61)
-		{
-			def.setCategory(is.readUnsignedShort());
-		}
 		else if (opcode == 62)
 		{
 			def.setRotated(true);

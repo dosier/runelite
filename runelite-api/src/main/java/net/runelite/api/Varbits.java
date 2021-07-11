@@ -527,7 +527,6 @@ public enum Varbits
 	 * Spell cooldowns
 	 */
 	VENGEANCE_COOLDOWN(2451),
-	CORRUPTION_COOLDOWN(12288),
 
 	/**
 	 * Amount of items in each bank tab

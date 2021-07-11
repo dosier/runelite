@@ -110,13 +110,6 @@ public class IdleNotifierPlugin extends Plugin
 		return configManager.getConfig(IdleNotifierConfig.class);
 	}
 
-	@Override
-	protected void startUp() throws Exception
-	{
-		// can't tell when 6hr will be if enabled while already logged in
-		sixHourWarningTime = null;
-	}
-
 	@Subscribe
 	public void onAnimationChanged(AnimationChanged event)
 	{

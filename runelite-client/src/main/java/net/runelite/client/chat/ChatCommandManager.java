@@ -98,8 +98,6 @@ public class ChatCommandManager implements ChatboxInputListener
 			case PRIVATECHAT:
 			case MODPRIVATECHAT:
 			case PRIVATECHATOUT:
-			case CLAN_CHAT:
-			case CLAN_GUEST_CHAT:
 				break;
 			default:
 				return;

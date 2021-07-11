@@ -51,7 +51,6 @@ class ClueScrollWorldMapPoint extends WorldMapPoint
 		this.plugin = plugin;
 		this.setSnapToEdge(true);
 		this.setJumpOnClick(true);
-		this.setName("Clue Scroll");
 		this.setImage(clueScrollWorldImage);
 		this.setImagePoint(clueScrollWorldImagePoint);
 	}

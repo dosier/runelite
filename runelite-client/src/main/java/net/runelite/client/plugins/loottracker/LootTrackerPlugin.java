@@ -67,7 +67,6 @@ import net.runelite.api.InventoryID;
 import net.runelite.api.ItemComposition;
 import net.runelite.api.ItemContainer;
 import net.runelite.api.ItemID;
-import net.runelite.api.MenuAction;
 import net.runelite.api.MessageNode;
 import net.runelite.api.NPC;
 import net.runelite.api.ObjectID;
@@ -129,7 +128,6 @@ public class LootTrackerPlugin extends Plugin
 	// Activity/Event loot handling
 	private static final Pattern CLUE_SCROLL_PATTERN = Pattern.compile("You have completed [0-9]+ ([a-z]+) Treasure Trails?\\.");
 	private static final int THEATRE_OF_BLOOD_REGION = 12867;
-	private static final int THEATRE_OF_BLOOD_LOBBY = 14642;
 
 	// Herbiboar loot handling
 	@VisibleForTesting
@@ -237,8 +235,6 @@ public class LootTrackerPlugin extends Plugin
 	);
 
 	private static final String CASKET_EVENT = "Casket";
-
-	private static final String WINTERTODT_SUPPLY_CRATE_EVENT = "Supply crate (Wintertodt)";
 
 	// Soul Wars
 	private static final String SPOILS_OF_WAR_EVENT = "Spoils of war";
@@ -555,7 +551,7 @@ public class LootTrackerPlugin extends Plugin
 					return;
 				}
 				int region = WorldPoint.fromLocalInstance(client, client.getLocalPlayer().getLocalLocation()).getRegionID();
-				if (region != THEATRE_OF_BLOOD_REGION && region != THEATRE_OF_BLOOD_LOBBY)
+				if (region != THEATRE_OF_BLOOD_REGION)
 				{
 					return;
 				}
@@ -789,7 +785,6 @@ public class LootTrackerPlugin extends Plugin
 			|| HALLOWED_SEPULCHRE_COFFIN_EVENT.equals(eventType)
 			|| HERBIBOAR_EVENT.equals(eventType)
 			|| HESPORI_EVENT.equals(eventType)
-			|| WINTERTODT_SUPPLY_CRATE_EVENT.equals(eventType)
 			|| eventType.endsWith("Bird House")
 			|| eventType.startsWith("H.A.M. chest")
 			|| lootRecordType == LootRecordType.PICKPOCKET)
@@ -818,70 +813,46 @@ public class LootTrackerPlugin extends Plugin
 	{
 		// There are some pickpocket targets who show up in the chat box with a different name (e.g. H.A.M. members -> man/woman)
 		// We use the value selected from the right-click menu as a fallback for the event lookup in those cases.
-		if (isNPCOp(event.getMenuAction()) && event.getMenuOption().equals("Pickpocket"))
+		if (event.getMenuOption().equals("Pickpocket"))
 		{
 			lastPickpocketTarget = Text.removeTags(event.getMenuTarget());
 		}
-		else if (isObjectOp(event.getMenuAction()) && event.getMenuOption().equals("Open") && SHADE_CHEST_OBJECTS.containsKey(event.getId()))
+
+		if (event.getMenuOption().equals("Take") && event.getId() == ItemID.SEED_PACK)
+		{
+			setEvent(LootRecordType.EVENT, SEEDPACK_EVENT);
+			takeInventorySnapshot();
+		}
+
+		if (event.getMenuOption().equals("Open") && SHADE_CHEST_OBJECTS.containsKey(event.getId()))
 		{
 			setEvent(LootRecordType.EVENT, SHADE_CHEST_OBJECTS.get(event.getId()));
 			takeInventorySnapshot();
 		}
-		else if (isItemOp(event.getMenuAction()))
+
+		if (event.getMenuOption().equals("Search") && BIRDNEST_IDS.contains(event.getId()))
 		{
-			if (event.getMenuOption().equals("Take") && event.getId() == ItemID.SEED_PACK)
-			{
-				setEvent(LootRecordType.EVENT, SEEDPACK_EVENT);
-				takeInventorySnapshot();
-			}
-			else if (event.getMenuOption().equals("Search") && BIRDNEST_IDS.contains(event.getId()))
-			{
-				setEvent(LootRecordType.EVENT, BIRDNEST_EVENT, event.getId());
-				takeInventorySnapshot();
-			}
-			else if (event.getMenuOption().equals("Open"))
-			{
-				switch (event.getId())
-				{
-					case ItemID.CASKET:
-						setEvent(LootRecordType.EVENT, CASKET_EVENT);
-						takeInventorySnapshot();
-						break;
-					case ItemID.SUPPLY_CRATE:
-					case ItemID.EXTRA_SUPPLY_CRATE:
-						setEvent(LootRecordType.EVENT, WINTERTODT_SUPPLY_CRATE_EVENT);
-						takeInventorySnapshot();
-						break;
-					case ItemID.SPOILS_OF_WAR:
-						setEvent(LootRecordType.EVENT, SPOILS_OF_WAR_EVENT);
-						takeInventorySnapshot();
-						break;
-					case ItemID.CASKET_25590:
-						setEvent(LootRecordType.EVENT, TEMPOROSS_CASKET_EVENT);
-						takeInventorySnapshot();
-						break;
-				}
-			}
+			setEvent(LootRecordType.EVENT, BIRDNEST_EVENT, event.getId());
+			takeInventorySnapshot();
 		}
-	}
 
-	private static boolean isItemOp(MenuAction menuAction)
-	{
-		final int id = menuAction.getId();
-		return id >= MenuAction.ITEM_FIRST_OPTION.getId() && id <= MenuAction.ITEM_FIFTH_OPTION.getId();
-	}
+		if (event.getMenuOption().equals("Open") && event.getId() == ItemID.CASKET)
+		{
+			setEvent(LootRecordType.EVENT, CASKET_EVENT);
+			takeInventorySnapshot();
+		}
 
-	private static boolean isNPCOp(MenuAction menuAction)
-	{
-		final int id = menuAction.getId();
-		return id >= MenuAction.NPC_FIRST_OPTION.getId() && id <= MenuAction.NPC_FIFTH_OPTION.getId();
-	}
+		if (event.getMenuOption().equals("Open") && event.getId() == ItemID.SPOILS_OF_WAR)
+		{
+			setEvent(LootRecordType.EVENT, SPOILS_OF_WAR_EVENT);
+			takeInventorySnapshot();
+		}
 
-	private static boolean isObjectOp(MenuAction menuAction)
-	{
-		final int id = menuAction.getId();
-		return (id >= MenuAction.GAME_OBJECT_FIRST_OPTION.getId() && id <= MenuAction.GAME_OBJECT_FOURTH_OPTION.getId())
-			|| id == MenuAction.GAME_OBJECT_FIFTH_OPTION.getId();
+		if (event.getMenuOption().equals("Open") && event.getId() == ItemID.CASKET_25590)
+		{
+			setEvent(LootRecordType.EVENT, TEMPOROSS_CASKET_EVENT);
+			takeInventorySnapshot();
+		}
 	}
 
 	@Schedule(

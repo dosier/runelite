@@ -50,17 +50,15 @@ import static net.runelite.api.ChatMessageType.OBJECT_EXAMINE;
 import static net.runelite.api.ChatMessageType.PUBLICCHAT;
 import static net.runelite.api.ChatMessageType.SPAM;
 import net.runelite.api.Client;
-import net.runelite.api.FriendsChatManager;
 import net.runelite.api.MessageNode;
 import net.runelite.api.Player;
-import net.runelite.api.clan.ClanChannel;
 import net.runelite.api.events.ChatMessage;
-import net.runelite.api.events.GameStateChanged;
 import net.runelite.api.events.OverheadTextChanged;
 import net.runelite.api.events.ScriptCallbackEvent;
 import net.runelite.client.config.ConfigManager;
 import net.runelite.client.eventbus.Subscribe;
 import net.runelite.client.events.ConfigChanged;
+import net.runelite.client.game.FriendChatManager;
 import net.runelite.client.plugins.Plugin;
 import net.runelite.client.plugins.PluginDescriptor;
 import net.runelite.client.util.Text;
@@ -119,6 +117,9 @@ public class ChatFilterPlugin extends Plugin
 	@Inject
 	private ChatFilterConfig config;
 
+	@Inject
+	private FriendChatManager friendChatManager;
+
 	@Provides
 	ChatFilterConfig provideConfig(ConfigManager configManager)
 	{
@@ -138,19 +139,6 @@ public class ChatFilterPlugin extends Plugin
 		filteredPatterns.clear();
 		duplicateChatCache.clear();
 		client.refreshChat();
-	}
-
-	@Subscribe
-	public void onGameStateChanged(GameStateChanged gameStateChanged)
-	{
-		switch (gameStateChanged.getGameState())
-		{
-			// Login drops references to all messages and also resets the global message id counter.
-			// Invalidate the message id so it doesn't collide later when rebuilding the chatfilter.
-			case HOPPING:
-			case LOGGING_IN:
-				duplicateChatCache.values().forEach(d -> d.messageId = -1);
-		}
 	}
 
 	@Subscribe
@@ -185,8 +173,6 @@ public class ChatFilterPlugin extends Plugin
 			case PRIVATECHAT:
 			case MODPRIVATECHAT:
 			case FRIENDSCHAT:
-			case CLAN_CHAT:
-			case CLAN_GUEST_CHAT:
 				if (shouldFilterPlayerMessage(Text.removeTags(name)))
 				{
 					message = censorMessage(name, message);
@@ -205,6 +191,12 @@ public class ChatFilterPlugin extends Plugin
 					blockMessage = message == null;
 				}
 				break;
+			case LOGINLOGOUTNOTIFICATION:
+				if (config.filterLogin())
+				{
+					blockMessage = true;
+				}
+				break;
 		}
 
 		boolean shouldCollapse = chatMessageType == PUBLICCHAT || chatMessageType == MODCHAT
@@ -213,10 +205,7 @@ public class ChatFilterPlugin extends Plugin
 		if (!blockMessage && shouldCollapse)
 		{
 			Duplicate duplicateCacheEntry = duplicateChatCache.get(name + ":" + message);
-			// If messageId is -1 then this is a replayed message, which we can't easily collapse since we don't know
-			// the most recent message. This is only for public chat since it is the only thing both replayed and also
-			// collapsed. Just allow uncollapsed playback.
-			if (duplicateCacheEntry != null && duplicateCacheEntry.messageId != -1)
+			if (duplicateCacheEntry != null)
 			{
 				blockMessage = duplicateCacheEntry.messageId != messageId ||
 					((chatMessageType == PUBLICCHAT || chatMessageType == MODCHAT) &&
@@ -285,31 +274,7 @@ public class ChatFilterPlugin extends Plugin
 		boolean isMessageFromSelf = playerName.equals(client.getLocalPlayer().getName());
 		return !isMessageFromSelf &&
 			(config.filterFriends() || !client.isFriended(playerName, false)) &&
-			(config.filterFriendsChat() || !isFriendsChatMember(playerName)) &&
-			(config.filterClanChat() || !isClanChatMember(playerName));
-	}
-
-	private boolean isFriendsChatMember(String name)
-	{
-		FriendsChatManager friendsChatManager = client.getFriendsChatManager();
-		return friendsChatManager != null && friendsChatManager.findByName(name) != null;
-	}
-
-	private boolean isClanChatMember(String name)
-	{
-		ClanChannel clanChannel = client.getClanChannel();
-		if (clanChannel != null && clanChannel.findMember(name) != null)
-		{
-			return true;
-		}
-
-		clanChannel = client.getGuestClanChannel();
-		if (clanChannel != null && clanChannel.findMember(name) != null)
-		{
-			return true;
-		}
-
-		return false;
+			(config.filterFriendsChat() || !friendChatManager.isMember(playerName));
 	}
 
 	String censorMessage(final String username, final String message)

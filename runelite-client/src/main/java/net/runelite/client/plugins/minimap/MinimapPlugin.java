@@ -44,18 +44,12 @@ import net.runelite.client.plugins.PluginDescriptor;
 
 @PluginDescriptor(
 	name = "Minimap",
-	description = "Customize the color of minimap dots, and hide the minimap",
+	description = "Customize the color of minimap dots",
 	tags = {"items", "npcs", "players"}
 )
 public class MinimapPlugin extends Plugin
 {
-	private static final int DOT_ITEM = 0;
-	private static final int DOT_NPC = 1;
-	private static final int DOT_PLAYER = 2;
-	private static final int DOT_FRIEND = 3;
-	private static final int DOT_TEAM = 4;
-	private static final int DOT_FRIENDSCHAT = 5;
-	private static final int DOT_CLAN = 6;
+	private static final int NUM_MAPDOTS = 6;
 
 	@Inject
 	private Client client;
@@ -72,7 +66,7 @@ public class MinimapPlugin extends Plugin
 	}
 
 	@Override
-	protected void startUp()
+	protected void startUp() throws Exception
 	{
 		updateMinimapWidgetVisibility(config.hideMinimap());
 		storeOriginalDots();
@@ -80,7 +74,7 @@ public class MinimapPlugin extends Plugin
 	}
 
 	@Override
-	protected void shutDown()
+	protected void shutDown() throws Exception
 	{
 		updateMinimapWidgetVisibility(false);
 		restoreOriginalDots();
@@ -99,7 +93,7 @@ public class MinimapPlugin extends Plugin
 	@Subscribe
 	public void onConfigChanged(ConfigChanged event)
 	{
-		if (!event.getGroup().equals(MinimapConfig.GROUP))
+		if (!event.getGroup().equals("minimap"))
 		{
 			return;
 		}
@@ -155,21 +149,23 @@ public class MinimapPlugin extends Plugin
 			return;
 		}
 
-		applyDot(mapDots, DOT_ITEM, config.itemColor());
-		applyDot(mapDots, DOT_NPC, config.npcColor());
-		applyDot(mapDots, DOT_PLAYER, config.playerColor());
-		applyDot(mapDots, DOT_FRIEND, config.friendColor());
-		applyDot(mapDots, DOT_TEAM, config.teamColor());
-		applyDot(mapDots, DOT_FRIENDSCHAT, config.friendsChatColor());
-		applyDot(mapDots, DOT_CLAN, config.clanChatColor());
+		Color[] minimapDotColors = getColors();
+		for (int i = 0; i < mapDots.length && i < minimapDotColors.length; ++i)
+		{
+			mapDots[i] = MinimapDot.create(this.client, minimapDotColors[i]);
+		}
 	}
 
-	private void applyDot(SpritePixels[] mapDots, int id, Color color)
+	private Color[] getColors()
 	{
-		if (id < mapDots.length && color != null)
-		{
-			mapDots[id] = MinimapDot.create(client, color);
-		}
+		Color[] colors = new Color[NUM_MAPDOTS];
+		colors[0] = config.itemColor();
+		colors[1] = config.npcColor();
+		colors[2] = config.playerColor();
+		colors[3] = config.friendColor();
+		colors[4] = config.teamColor();
+		colors[5] = config.friendsChatColor();
+		return colors;
 	}
 
 	private void storeOriginalDots()

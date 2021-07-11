@@ -254,22 +254,10 @@ public interface ScreenshotConfig extends Config
 	}
 
 	@ConfigItem(
-		keyName = "collectionLogEntries",
-		name = "Screenshot collection log entries",
-		description = "Take a screenshot when completing an entry in the collection log",
-		position = 18,
-		section = whatSection
-	)
-	default boolean screenshotCollectionLogEntries()
-	{
-		return true;
-	}
-
-	@ConfigItem(
 		keyName = "hotkey",
 		name = "Screenshot hotkey",
 		description = "When you press this key a screenshot will be taken",
-		position = 19
+		position = 18
 	)
 	default Keybind hotkey()
 	{

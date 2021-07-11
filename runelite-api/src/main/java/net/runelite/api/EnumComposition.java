@@ -26,8 +26,6 @@ package net.runelite.api;
 
 public interface EnumComposition
 {
-	int size();
-
 	int[] getKeys();
 
 	int[] getIntVals();

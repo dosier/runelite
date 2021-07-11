@@ -25,9 +25,13 @@
 package net.runelite.client.plugins.examine;
 
 import com.google.common.annotations.VisibleForTesting;
+import com.google.common.cache.Cache;
+import com.google.common.cache.CacheBuilder;
+import com.google.inject.Provides;
 import java.time.Instant;
 import java.util.ArrayDeque;
 import java.util.Deque;
+import java.util.regex.Pattern;
 import javax.inject.Inject;
 import lombok.extern.slf4j.Slf4j;
 import net.runelite.api.ChatMessageType;
@@ -54,7 +58,14 @@ import net.runelite.client.plugins.Plugin;
 import net.runelite.client.plugins.PluginDescriptor;
 import net.runelite.client.util.QuantityFormatter;
 import net.runelite.client.util.Text;
+import net.runelite.http.api.examine.ExamineClient;
+import okhttp3.OkHttpClient;
 
+/**
+ * Submits examine info to the api
+ *
+ * @author Adam
+ */
 @PluginDescriptor(
 	name = "Examine",
 	description = "Shows additional examine information (eg. GE Average, HA Value)",
@@ -63,7 +74,15 @@ import net.runelite.client.util.Text;
 @Slf4j
 public class ExaminePlugin extends Plugin
 {
+	private static final Pattern X_PATTERN = Pattern.compile("^\\d+ x ");
+
 	private final Deque<PendingExamine> pending = new ArrayDeque<>();
+	private final Cache<CacheKey, Boolean> cache = CacheBuilder.newBuilder()
+		.maximumSize(128L)
+		.build();
+
+	@Inject
+	private ExamineClient examineClient;
 
 	@Inject
 	private Client client;
@@ -73,6 +92,12 @@ public class ExaminePlugin extends Plugin
 
 	@Inject
 	private ChatMessageManager chatMessageManager;
+
+	@Provides
+	ExamineClient provideExamineClient(OkHttpClient okHttpClient)
+	{
+		return new ExamineClient(okHttpClient);
+	}
 
 	@Subscribe
 	public void onGameStateChanged(GameStateChanged event)
@@ -197,6 +222,7 @@ public class ExaminePlugin extends Plugin
 		log.debug("Got examine for {} {}: {}", pendingExamine.getType(), pendingExamine.getId(), event.getMessage());
 
 		// If it is an item, show the price of it
+		final ItemComposition itemComposition;
 		if (pendingExamine.getType() == ExamineType.ITEM || pendingExamine.getType() == ExamineType.ITEM_BANK_EQ)
 		{
 			final int itemId = pendingExamine.getId();
@@ -207,9 +233,35 @@ public class ExaminePlugin extends Plugin
 				return;
 			}
 
-			final ItemComposition itemComposition = itemManager.getItemComposition(itemId);
+			itemComposition = itemManager.getItemComposition(itemId);
 			getItemPrice(itemComposition.getId(), itemComposition, itemQuantity);
 		}
+		else
+		{
+			itemComposition = null;
+		}
+
+		// Don't submit examine info for tradeable items, which we already have from the RS item api
+		if (itemComposition != null && itemComposition.isTradeable())
+		{
+			return;
+		}
+
+		// Large quantities of items show eg. 100000 x Coins
+		if (type == ExamineType.ITEM && X_PATTERN.matcher(event.getMessage()).lookingAt())
+		{
+			return;
+		}
+
+		CacheKey key = new CacheKey(type, pendingExamine.getId());
+		Boolean cached = cache.getIfPresent(key);
+		if (cached != null)
+		{
+			return;
+		}
+
+		cache.put(key, Boolean.TRUE);
+		submitExamine(pendingExamine, event.getMessage());
 	}
 
 	private int[] findItemFromWidget(int widgetId, int actionParam)
@@ -355,4 +407,23 @@ public class ExaminePlugin extends Plugin
 				.build());
 		}
 	}
+
+	private void submitExamine(PendingExamine examine, String text)
+	{
+		int id = examine.getId();
+
+		switch (examine.getType())
+		{
+			case ITEM:
+				examineClient.submitItem(id, text);
+				break;
+			case OBJECT:
+				examineClient.submitObject(id, text);
+				break;
+			case NPC:
+				examineClient.submitNpc(id, text);
+				break;
+		}
+	}
+
 }

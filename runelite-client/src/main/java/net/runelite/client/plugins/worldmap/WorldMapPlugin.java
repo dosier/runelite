@@ -48,7 +48,6 @@ import net.runelite.client.plugins.PluginDescriptor;
 import net.runelite.client.ui.overlay.worldmap.WorldMapPoint;
 import net.runelite.client.ui.overlay.worldmap.WorldMapPointManager;
 import net.runelite.client.util.ImageUtil;
-import net.runelite.client.util.Text;
 
 @PluginDescriptor(
 	name = "World Map",
@@ -328,7 +327,6 @@ public class WorldMapPlugin extends Plugin
 						.image(BLANK_ICON)
 						.target(l.getTarget())
 						.jumpOnClick(l.getTarget() != null)
-						.name(Text.titleCase(l))
 						.tooltip(l.getTooltip())
 						.build()
 				)

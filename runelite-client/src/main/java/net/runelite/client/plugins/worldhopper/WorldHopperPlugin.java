@@ -56,8 +56,6 @@ import net.runelite.api.MenuAction;
 import net.runelite.api.MenuEntry;
 import net.runelite.api.NameableContainer;
 import net.runelite.api.Varbits;
-import net.runelite.api.clan.ClanChannel;
-import net.runelite.api.clan.ClanChannelMember;
 import net.runelite.api.events.ChatMessage;
 import net.runelite.api.events.GameStateChanged;
 import net.runelite.api.events.GameTick;
@@ -355,12 +353,10 @@ public class WorldHopperPlugin extends Plugin
 			return;
 		}
 
-		final int componentId = event.getActionParam1();
-		int groupId = WidgetInfo.TO_GROUP(componentId);
+		int groupId = WidgetInfo.TO_GROUP(event.getActionParam1());
 		String option = event.getOption();
 
-		if (groupId == WidgetInfo.FRIENDS_LIST.getGroupId() || groupId == WidgetInfo.FRIENDS_CHAT.getGroupId()
-			|| componentId == WidgetInfo.CLAN_MEMBER_LIST.getId() || componentId == WidgetInfo.CLAN_GUEST_MEMBER_LIST.getId())
+		if (groupId == WidgetInfo.FRIENDS_LIST.getGroupId() || groupId == WidgetInfo.FRIENDS_CHAT.getGroupId())
 		{
 			boolean after;
 
@@ -742,26 +738,6 @@ public class WorldHopperPlugin extends Plugin
 		if (friendsChatManager != null)
 		{
 			FriendsChatMember member = friendsChatManager.findByName(cleanName);
-			if (member != null)
-			{
-				return member;
-			}
-		}
-
-		ClanChannel clanChannel = client.getClanChannel();
-		if (clanChannel != null)
-		{
-			ClanChannelMember member = clanChannel.findMember(cleanName);
-			if (member != null)
-			{
-				return member;
-			}
-		}
-
-		clanChannel = client.getGuestClanChannel();
-		if (clanChannel != null)
-		{
-			ClanChannelMember member = clanChannel.findMember(cleanName);
 			if (member != null)
 			{
 				return member;

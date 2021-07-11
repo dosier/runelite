@@ -3,10 +3,10 @@
 .string_stack_count 0
 .int_var_count      16
 .string_var_count   2
-; callback "friendsChatSetText"
+; callback "friend_cc_settext"
 ;   Fired just before the client pops the name off the stack
 ;     Modified by the friendnotes plugin to show the icon
-; callback "friendsChatSetPosition"
+; callback "friend_cc_setposition"
 ;   Fired just before the client sets the position of "friend changed their name" icon
 ;     Modified by the friendnotes plugin to offset the name changed icon
    iload                  1
@@ -300,7 +300,7 @@ LABEL234:
    add                   
    istore                 10
    sload                  0
-   sconst                 "friendsChatSetText"
+   sconst                 "friend_cc_settext"
    runelite_callback     
    cc_settext            
    iconst                 0
@@ -382,7 +382,7 @@ LABEL293:
    add                   
    iconst                 0
    iconst                 0
-   sconst                 "friendsChatSetPosition"
+   sconst                 "friend_cc_setposition"
    runelite_callback     
    cc_setposition         1
    iconst                 1093

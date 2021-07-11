@@ -30,7 +30,9 @@ import java.awt.Graphics2D;
 import java.awt.Point;
 import java.awt.Rectangle;
 import javax.inject.Inject;
+import net.runelite.api.ItemID;
 import net.runelite.api.widgets.WidgetItem;
+import static net.runelite.client.plugins.itemcharges.ItemChargeType.*;
 import net.runelite.client.ui.FontManager;
 import net.runelite.client.ui.overlay.WidgetItemOverlay;
 import net.runelite.client.ui.overlay.components.TextComponent;
@@ -52,16 +54,76 @@ class ItemChargeOverlay extends WidgetItemOverlay
 	@Override
 	public void renderItemOverlay(Graphics2D graphics, int itemId, WidgetItem widgetItem)
 	{
-		int charges;
-		ItemWithConfig itemWithConfig = ItemWithConfig.findItem(itemId);
-		if (itemWithConfig != null)
+		if (!displayOverlay())
 		{
-			if (!itemWithConfig.getType().getEnabled().test(config))
+			return;
+		}
+
+		graphics.setFont(FontManager.getRunescapeSmallFont());
+
+		int charges;
+		if (itemId == ItemID.DODGY_NECKLACE)
+		{
+			if (!config.showDodgyCount())
 			{
 				return;
 			}
 
-			charges = itemChargePlugin.getItemCharges(itemWithConfig.getConfigKey());
+			charges = itemChargePlugin.getItemCharges(ItemChargeConfig.KEY_DODGY_NECKLACE);
+		}
+		else if (itemId == ItemID.BINDING_NECKLACE)
+		{
+			if (!config.showBindingNecklaceCharges())
+			{
+				return;
+			}
+
+			charges = itemChargePlugin.getItemCharges(ItemChargeConfig.KEY_BINDING_NECKLACE);
+		}
+		else if (itemId >= ItemID.EXPLORERS_RING_1 && itemId <= ItemID.EXPLORERS_RING_4)
+		{
+			if (!config.showExplorerRingCharges())
+			{
+				return;
+			}
+
+			charges = itemChargePlugin.getItemCharges(ItemChargeConfig.KEY_EXPLORERS_RING);
+		}
+		else if (itemId == ItemID.RING_OF_FORGING)
+		{
+			if (!config.showRingOfForgingCount())
+			{
+				return;
+			}
+
+			charges = itemChargePlugin.getItemCharges(ItemChargeConfig.KEY_RING_OF_FORGING);
+		}
+		else if (itemId == ItemID.AMULET_OF_CHEMISTRY)
+		{
+			if (!config.showAmuletOfChemistryCharges())
+			{
+				return;
+			}
+
+			charges = itemChargePlugin.getItemCharges(ItemChargeConfig.KEY_AMULET_OF_CHEMISTRY);
+		}
+		else if (itemId == ItemID.AMULET_OF_BOUNTY)
+		{
+			if (!config.showAmuletOfBountyCharges())
+			{
+				return;
+			}
+
+			charges = itemChargePlugin.getItemCharges(ItemChargeConfig.KEY_AMULET_OF_BOUNTY);
+		}
+		else if (itemId == ItemID.CHRONICLE)
+		{
+			if (!config.showTeleportCharges())
+			{
+				return;
+			}
+
+			charges = itemChargePlugin.getItemCharges(ItemChargeConfig.KEY_CHRONICLE);
 		}
 		else
 		{
@@ -72,7 +134,18 @@ class ItemChargeOverlay extends WidgetItemOverlay
 			}
 
 			ItemChargeType type = chargeItem.getType();
-			if (!type.getEnabled().test(config))
+			if ((type == TELEPORT && !config.showTeleportCharges())
+				|| (type == FUNGICIDE_SPRAY && !config.showFungicideCharges())
+				|| (type == IMPBOX && !config.showImpCharges())
+				|| (type == WATERCAN && !config.showWateringCanCharges())
+				|| (type == WATERSKIN && !config.showWaterskinCharges())
+				|| (type == BELLOWS && !config.showBellowCharges())
+				|| (type == FRUIT_BASKET && !config.showBasketCharges())
+				|| (type == SACK && !config.showSackCharges())
+				|| (type == ABYSSAL_BRACELET && !config.showAbyssalBraceletCharges())
+				|| (type == AMULET_OF_CHEMISTRY && !config.showAmuletOfChemistryCharges())
+				|| (type == AMULET_OF_BOUNTY && !config.showAmuletOfBountyCharges())
+				|| (type == POTION && !config.showPotionDoseCount()))
 			{
 				return;
 			}
@@ -80,13 +153,21 @@ class ItemChargeOverlay extends WidgetItemOverlay
 			charges = chargeItem.getCharges();
 		}
 
-		graphics.setFont(FontManager.getRunescapeSmallFont());
-
 		final Rectangle bounds = widgetItem.getCanvasBounds();
 		final TextComponent textComponent = new TextComponent();
 		textComponent.setPosition(new Point(bounds.x - 1, bounds.y + 15));
 		textComponent.setText(charges < 0 ? "?" : String.valueOf(charges));
 		textComponent.setColor(itemChargePlugin.getColor(charges));
 		textComponent.render(graphics);
+	}
+
+	private boolean displayOverlay()
+	{
+		return config.showTeleportCharges() || config.showDodgyCount() || config.showFungicideCharges()
+			|| config.showImpCharges() || config.showWateringCanCharges() || config.showWaterskinCharges()
+			|| config.showBellowCharges() || config.showBasketCharges() || config.showSackCharges()
+			|| config.showAbyssalBraceletCharges() || config.showExplorerRingCharges() || config.showRingOfForgingCount()
+			|| config.showAmuletOfChemistryCharges() || config.showAmuletOfBountyCharges() || config.showPotionDoseCount();
+
 	}
 }

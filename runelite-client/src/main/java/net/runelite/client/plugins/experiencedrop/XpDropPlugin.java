@@ -25,7 +25,6 @@
 package net.runelite.client.plugins.experiencedrop;
 
 import com.google.inject.Provides;
-import java.awt.Color;
 import java.util.Arrays;
 import java.util.EnumMap;
 import java.util.Map;
@@ -152,19 +151,10 @@ public class XpDropPlugin extends Plugin
 
 	private void resetTextColor(Widget widget)
 	{
-		Color standardColor = config.standardColor();
-		if (standardColor != null)
-		{
-			int color = standardColor.getRGB();
-			widget.setTextColor(color);
-		}
-		else
-		{
-			EnumComposition colorEnum = client.getEnum(EnumID.XPDROP_COLORS);
-			int defaultColorId = client.getVar(Varbits.EXPERIENCE_DROP_COLOR);
-			int color = colorEnum.getIntValue(defaultColorId);
-			widget.setTextColor(color);
-		}
+		EnumComposition colorEnum = client.getEnum(EnumID.XPDROP_COLORS);
+		int defaultColorId = client.getVar(Varbits.EXPERIENCE_DROP_COLOR);
+		int color = colorEnum.getIntValue(defaultColorId);
+		widget.setTextColor(color);
 	}
 
 	private void hideSkillIcons(Widget xpdrop)

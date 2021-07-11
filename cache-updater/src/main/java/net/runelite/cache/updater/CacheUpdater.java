@@ -39,6 +39,7 @@ import net.runelite.cache.fs.Archive;
 import net.runelite.cache.fs.Store;
 import net.runelite.cache.updater.beans.CacheEntry;
 import net.runelite.cache.updater.beans.IndexEntry;
+import net.runelite.http.api.RuneLiteAPI;
 import net.runelite.protocol.api.login.HandshakeResponseType;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -62,9 +63,6 @@ public class CacheUpdater implements CommandLineRunner
 	@Value("${minio.bucket}")
 	private String minioBucket;
 
-	@Value("${rs.version}")
-	private int rsVersion;
-
 	@Autowired
 	public CacheUpdater(
 		@Qualifier("Runelite Cache SQL2O") Sql2o sql2o,
@@ -77,6 +75,8 @@ public class CacheUpdater implements CommandLineRunner
 
 	public void update() throws IOException, InvalidEndpointException, InvalidPortException, InterruptedException
 	{
+		int rsVersion = RuneLiteAPI.getRsVersion();
+
 		try (Connection con = sql2o.beginTransaction())
 		{
 			CacheDAO cacheDao = new CacheDAO();

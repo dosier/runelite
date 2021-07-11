@@ -30,7 +30,6 @@ import lombok.Data;
 class XpAction
 {
 	private int actions = 0;
-	private int actionsSinceReset = 0;
 	private boolean actionsHistoryInitialized = false;
 	private int[] actionExps = new int[10];
 	private int actionExpIndex = 0;

@@ -79,8 +79,8 @@ public class AlchemyRoom extends MTARoom
 
 	private static final int IMAGE_Z_OFFSET = 150;
 	private static final int NUM_CUPBOARDS = 8;
-	private static final int INFO_ITEM_START = 7;
-	private static final int INFO_POINT_START = 12;
+	private static final int INFO_ITEM_START = 8;
+	private static final int INFO_POINT_START = 13;
 	private static final int INFO_LENGTH = 5;
 	private static final int BEST_POINTS = 30;
 
@@ -96,7 +96,6 @@ public class AlchemyRoom extends MTARoom
 
 	private AlchemyItem best;
 	private Cupboard suggestion;
-	private boolean hintSet;
 
 	@Inject
 	private AlchemyRoom(Client client, MTAConfig config, MTAPlugin plugin, ItemManager itemManager, InfoBoxManager infoBoxManager)
@@ -222,11 +221,6 @@ public class AlchemyRoom extends MTARoom
 			if (!inside())
 			{
 				reset();
-				if (hintSet)
-				{
-					client.clearHintArrow();
-					hintSet = false;
-				}
 			}
 		}
 	}
@@ -387,7 +381,6 @@ public class AlchemyRoom extends MTARoom
 			{
 				client.setHintArrow(object.getWorldLocation());
 				found = true;
-				hintSet = true;
 			}
 
 			BufferedImage image = itemManager.getImage(alchemyItem.getId());
@@ -402,7 +395,6 @@ public class AlchemyRoom extends MTARoom
 		if (!found && suggestion != null)
 		{
 			client.setHintArrow(suggestion.gameObject.getWorldLocation());
-			hintSet = true;
 		}
 
 	}

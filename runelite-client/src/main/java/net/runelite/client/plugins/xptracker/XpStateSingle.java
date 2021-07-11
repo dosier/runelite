@@ -26,8 +26,7 @@
  */
 package net.runelite.client.plugins.xptracker;
 
-import java.util.Arrays;
-import java.util.EnumMap;
+import java.util.HashMap;
 import java.util.Map;
 import lombok.Getter;
 import lombok.Setter;
@@ -39,25 +38,19 @@ import net.runelite.api.Skill;
 class XpStateSingle
 {
 	private final Skill skill;
-	private final Map<XpActionType, XpAction> actions = new EnumMap<>(XpActionType.class);
+	private final Map<XpActionType, XpAction> actions = new HashMap<>();
 
 	@Getter
 	@Setter
 	private long startXp;
 
 	@Getter
-	private int xpGainedSinceReset = 0;
-
-	private int xpGainedBeforeReset = 0;
+	private int xpGained = 0;
 
 	@Setter
 	private XpActionType actionType = XpActionType.EXPERIENCE;
 
-	@Setter
 	private long skillTime = 0;
-	@Getter
-	private long lastChangeMillis;
-
 	private int startLevelExp = 0;
 	private int endLevelExp = 0;
 
@@ -69,28 +62,18 @@ class XpStateSingle
 
 	XpAction getXpAction(final XpActionType type)
 	{
-		return actions.computeIfAbsent(type, k -> new XpAction());
+		actions.putIfAbsent(type, new XpAction());
+		return actions.get(type);
 	}
 
 	long getCurrentXp()
 	{
-		return startXp + getTotalXpGained();
-	}
-
-	void setXpGainedSinceReset(int xpGainedSinceReset)
-	{
-		this.xpGainedSinceReset = xpGainedSinceReset;
-		lastChangeMillis = System.currentTimeMillis();
-	}
-
-	int getTotalXpGained()
-	{
-		return xpGainedBeforeReset + xpGainedSinceReset;
+		return startXp + xpGained;
 	}
 
 	private int getActionsHr()
 	{
-		return toHourly(getXpAction(actionType).getActionsSinceReset());
+		return toHourly(getXpAction(actionType).getActions());
 	}
 
 	private int toHourly(int value)
@@ -148,9 +131,12 @@ class XpStateSingle
 
 	private long getSecondsTillLevel()
 	{
+		// Java 8 doesn't have good duration / period objects to represent spans of time that can be formatted
+		// Rather than importing another dependency like joda time (which is practically built into java 10)
+		// below will be a custom formatter that handles spans larger than 1 day
 		long seconds = getTimeElapsedInSeconds();
 
-		if (seconds <= 0 || xpGainedSinceReset <= 0)
+		if (seconds <= 0 || xpGained <= 0)
 		{
 			return -1;
 		}
@@ -158,7 +144,7 @@ class XpStateSingle
 		// formula is xpRemaining / xpPerSecond
 		// xpPerSecond being xpGained / seconds
 		// This can be simplified so division is only done once and we can work in whole numbers!
-		return (getXpRemaining() * seconds) / xpGainedSinceReset;
+		return (getXpRemaining() * seconds) / xpGained;
 	}
 
 	private String getTimeTillLevel(XpGoalTimeType goalTimeType)
@@ -169,9 +155,6 @@ class XpStateSingle
 			return "\u221e";
 		}
 
-		// Java 8 doesn't have good duration / period objects to represent spans of time that can be formatted
-		// Rather than importing another dependency like joda time (which is practically built into java 10)
-		// below will be a custom formatter that handles spans larger than 1 day
 		long durationDays = remainingSeconds / (24 * 60 * 60);
 		long durationHours = (remainingSeconds % (24 * 60 * 60)) / (60 * 60);
 		long durationHoursTotal = remainingSeconds / (60 * 60);
@@ -214,33 +197,18 @@ class XpStateSingle
 
 	int getXpHr()
 	{
-		return toHourly(xpGainedSinceReset);
-	}
-
-	void resetPerHour()
-	{
-		//reset actions per hour
-		for (XpAction action : actions.values())
-		{
-			action.setActions(action.getActions() + action.getActionsSinceReset());
-			action.setActionsSinceReset(0);
-		}
-
-		//reset xp per hour
-		xpGainedBeforeReset += xpGainedSinceReset;
-		setXpGainedSinceReset(0);
-		setSkillTime(0);
+		return toHourly(xpGained);
 	}
 
 	boolean update(long currentXp, int goalStartXp, int goalEndXp)
 	{
 		if (startXp == -1)
 		{
-			log.warn("Attempted to update skill state {} but was not initialized with current xp", skill);
+			log.warn("Attempted to update skill state " + skill + " but was not initialized with current xp");
 			return false;
 		}
 
-		long originalXp = getTotalXpGained() + startXp;
+		long originalXp = xpGained + startXp;
 		int actionExp = (int) (currentXp - originalXp);
 
 		// No experience gained
@@ -260,16 +228,19 @@ class XpStateSingle
 		{
 			// populate all values in our action history array with this first value that we see
 			// so the average value of our action history starts out as this first value we see
-			Arrays.fill(action.getActionExps(), actionExp);
+			for (int i = 0; i < action.getActionExps().length; i++)
+			{
+				action.getActionExps()[i] = actionExp;
+			}
 
 			action.setActionsHistoryInitialized(true);
 		}
 
 		action.setActionExpIndex((action.getActionExpIndex() + 1) % action.getActionExps().length);
-		action.setActionsSinceReset(action.getActionsSinceReset() + 1);
+		action.setActions(action.getActions() + 1);
 
 		// Calculate experience gained
-		setXpGainedSinceReset((int) (currentXp - (startXp + xpGainedBeforeReset)));
+		xpGained = (int) (currentXp - startXp);
 
 		// Determine XP goals, overall has no goals
 		if (skill != Skill.OVERALL)
@@ -302,7 +273,7 @@ class XpStateSingle
 	public void tick(long delta)
 	{
 		// Don't tick skills that have not gained XP or have been reset.
-		if (xpGainedSinceReset <= 0)
+		if (xpGained <= 0)
 		{
 			return;
 		}
@@ -314,12 +285,12 @@ class XpStateSingle
 		return XpSnapshotSingle.builder()
 			.startLevel(Experience.getLevelForXp(startLevelExp))
 			.endLevel(Experience.getLevelForXp(endLevelExp))
-			.xpGainedInSession(getTotalXpGained())
+			.xpGainedInSession(xpGained)
 			.xpRemainingToGoal(getXpRemaining())
 			.xpPerHour(getXpHr())
 			.skillProgressToGoal(getSkillProgress())
 			.actionType(actionType)
-			.actionsInSession(getXpAction(actionType).getActions() + getXpAction(actionType).getActionsSinceReset())
+			.actionsInSession(getXpAction(actionType).getActions())
 			.actionsRemainingToGoal(getActionsRemaining())
 			.actionsPerHour(getActionsHr())
 			.timeTillGoal(getTimeTillLevel(XpGoalTimeType.DAYS))

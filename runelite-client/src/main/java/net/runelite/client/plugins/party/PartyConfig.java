@@ -1,6 +1,5 @@
 /*
  * Copyright (c) 2018, Tomas Slusny <slusnucky@gmail.com>
- * Copyright (c) 2021, Jonathan Rousseau <https://github.com/JoRouss>
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -29,16 +28,23 @@ import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;
 import net.runelite.client.config.ConfigItem;
 
-@ConfigGroup(PartyConfig.GROUP)
+@ConfigGroup("party")
 public interface PartyConfig extends Config
 {
-	String GROUP = "party";
+	@ConfigItem(
+		keyName = "stats",
+		name = "Stats",
+		description = "Enables party stats overlay showing HP, prayer and player name"
+	)
+	default boolean stats()
+	{
+		return true;
+	}
 
 	@ConfigItem(
 		keyName = "pings",
 		name = "Pings",
-		description = "Enables party pings (shift + left-click)",
-		position = 1
+		description = "Enables party pings (shift + left-click)"
 	)
 	default boolean pings()
 	{
@@ -48,8 +54,7 @@ public interface PartyConfig extends Config
 	@ConfigItem(
 		keyName = "sounds",
 		name = "Sound on ping",
-		description = "Enables sound notification on party ping",
-		position = 2
+		description = "Enables sound notification on party ping"
 	)
 	default boolean sounds()
 	{
@@ -59,8 +64,7 @@ public interface PartyConfig extends Config
 	@ConfigItem(
 		keyName = "messages",
 		name = "Join messages",
-		description = "Enables members join/leave game messages",
-		position = 3
+		description = "Enables join/leave game messages"
 	)
 	default boolean messages()
 	{
@@ -70,33 +74,10 @@ public interface PartyConfig extends Config
 	@ConfigItem(
 		keyName = "recolorNames",
 		name = "Recolor names",
-		description = "Recolor party members names based on unique color hash",
-		position = 4
+		description = "Recolor stats overlay names based on unique color hash"
 	)
 	default boolean recolorNames()
 	{
 		return true;
-	}
-
-	@ConfigItem(
-		keyName = "autoOverlay",
-		name = "Auto overlay",
-		description = "Automatically add an overlay with player data when a member joins",
-		position = 5
-	)
-	default boolean autoOverlay()
-	{
-		return true;
-	}
-
-	@ConfigItem(
-		keyName = "includeSelf",
-		name = "Include yourself",
-		description = "Shows yourself in the panel as part of the party",
-		position = 6
-	)
-	default boolean includeSelf()
-	{
-		return false;
 	}
 }

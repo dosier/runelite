@@ -27,6 +27,9 @@ package net.runelite.client.plugins.discord;
 import com.google.inject.Guice;
 import com.google.inject.testing.fieldbinder.Bind;
 import com.google.inject.testing.fieldbinder.BoundFieldModule;
+import java.nio.charset.StandardCharsets;
+import java.util.List;
+import java.util.UUID;
 import javax.inject.Inject;
 import javax.inject.Named;
 import net.runelite.api.Client;
@@ -34,6 +37,7 @@ import net.runelite.client.discord.DiscordPresence;
 import net.runelite.client.discord.DiscordService;
 import net.runelite.client.ws.PartyService;
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNull;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -42,7 +46,6 @@ import static org.mockito.ArgumentMatchers.any;
 import org.mockito.Mock;
 import static org.mockito.Mockito.times;
 import static org.mockito.Mockito.verify;
-import static org.mockito.Mockito.verifyNoMoreInteractions;
 import static org.mockito.Mockito.when;
 import org.mockito.junit.MockitoJUnitRunner;
 
@@ -80,6 +83,7 @@ public class DiscordStateTest
 	public void before()
 	{
 		Guice.createInjector(BoundFieldModule.of(this)).injectMembers(this);
+		when(partyService.getLocalPartyId()).thenReturn(UUID.nameUUIDFromBytes("test".getBytes(StandardCharsets.UTF_8)));
 	}
 
 	@Test
@@ -89,12 +93,13 @@ public class DiscordStateTest
 		when(discordConfig.elapsedTimeType()).thenReturn(DiscordConfig.ElapsedTimeType.ACTIVITY);
 
 		discordState.triggerEvent(DiscordGameEventType.IN_MENU);
-		verify(discordService).updatePresence(any(DiscordPresence.class)); // menu presence
+		verify(discordService).updatePresence(any(DiscordPresence.class));
 
 		discordState.checkForTimeout();
-
-		// menu is not clearable and so no changes will be made
-		verifyNoMoreInteractions(discordService);
+		ArgumentCaptor<DiscordPresence> captor = ArgumentCaptor.forClass(DiscordPresence.class);
+		verify(discordService, times(2)).updatePresence(captor.capture());
+		List<DiscordPresence> captured = captor.getAllValues();
+		assertNull(captured.get(captured.size() - 1).getEndTimestamp());
 	}
 
 	@Test

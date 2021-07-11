@@ -54,13 +54,10 @@ enum ChatboxTab
 		ChatMessageType.CONSOLE, ChatMessageType.SPAM, ChatMessageType.PLAYERRELATED, ChatMessageType.TENSECTIMEOUT,
 		ChatMessageType.WELCOME, ChatMessageType.UNKNOWN),
 
-	CHANNEL("Channel", null, WidgetInfo.CHATBOX_TAB_CHANNEL,
+	CLAN("Clan", "Clan: Off", WidgetInfo.CHATBOX_TAB_CLAN,
 		ChatMessageType.FRIENDSCHATNOTIFICATION, ChatMessageType.FRIENDSCHAT, ChatMessageType.CHALREQ_FRIENDSCHAT),
 
-	CLAN("Clan", null, WidgetInfo.CHATBOX_TAB_CLAN,
-		ChatMessageType.CLAN_CHAT, ChatMessageType.CLAN_MESSAGE, ChatMessageType.CLAN_GUEST_CHAT, ChatMessageType.CLAN_GUEST_MESSAGE),
-
-	TRADE("Trade", "Trade: Show none", WidgetInfo.CHATBOX_TAB_TRADE,
+	TRADE("Trade", "Trade: Off", WidgetInfo.CHATBOX_TAB_TRADE,
 		ChatMessageType.TRADE_SENT, ChatMessageType.TRADEREQ, ChatMessageType.TRADE, ChatMessageType.CHALREQ_TRADE),
 	;
 

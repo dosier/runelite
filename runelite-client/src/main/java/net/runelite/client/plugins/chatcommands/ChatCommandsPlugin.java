@@ -98,8 +98,8 @@ public class ChatCommandsPlugin extends Plugin
 	private static final String COX_TEAM_SIZES = "(?:\\d+(?:\\+|-\\d+)? players|Solo)";
 	private static final Pattern RAIDS_PB_PATTERN = Pattern.compile("<col=ef20ff>Congratulations - your raid is complete!</col><br>Team size: <col=ff0000>" + COX_TEAM_SIZES + "</col> Duration:</col> <col=ff0000>(?<pb>[0-9:]+(?:\\.[0-9]+)?)</col> \\(new personal best\\)</col>");
 	private static final Pattern RAIDS_DURATION_PATTERN = Pattern.compile("<col=ef20ff>Congratulations - your raid is complete!</col><br>Team size: <col=ff0000>" + COX_TEAM_SIZES + "</col> Duration:</col> <col=ff0000>[0-9:.]+</col> Personal best: </col><col=ff0000>(?<pb>[0-9:]+(?:\\.[0-9]+)?)</col>");
-	private static final Pattern TOB_WAVE_PB_PATTERN = Pattern.compile("Theatre of Blood wave completion time: <col=ff0000>(?<pb>[0-9:]+(?:\\.[0-9]+)?)</col> \\(new personal best\\)");
-	private static final Pattern TOB_WAVE_DURATION_PATTERN = Pattern.compile("Theatre of Blood wave completion time: <col=ff0000>[0-9:.]+</col>\\. Personal best: (?<pb>[0-9:]+(?:\\.[0-9]+)?)");
+	private static final Pattern TOB_WAVE_PB_PATTERN = Pattern.compile("^.*Theatre of Blood wave completion time: <col=ff0000>(?<pb>[0-9:]+(?:\\.[0-9]+)?)</col> \\(Personal best!\\)");
+	private static final Pattern TOB_WAVE_DURATION_PATTERN = Pattern.compile("^.*Theatre of Blood wave completion time: <col=ff0000>[0-9:.]+</col><br></col>Personal best: (?<pb>[0-9:]+(?:\\.[0-9]+)?)");
 	private static final Pattern KILL_DURATION_PATTERN = Pattern.compile("(?i)^(?:(?:Fight |Lap |Challenge |Corrupted challenge )?duration:|Subdued in) <col=[0-9a-f]{6}>[0-9:.]+</col>\\. Personal best: (?:<col=ff0000>)?(?<pb>[0-9:]+(?:\\.[0-9]+)?)");
 	private static final Pattern NEW_PB_PATTERN = Pattern.compile("(?i)^(?:(?:Fight |Lap |Challenge |Corrupted challenge )?duration:|Subdued in) <col=[0-9a-f]{6}>(?<pb>[0-9:]+(?:\\.[0-9]+)?)</col> \\(new personal best\\)");
 	private static final Pattern DUEL_ARENA_WINS_PATTERN = Pattern.compile("You (were defeated|won)! You have(?: now)? won (\\d+) duels?");
@@ -245,11 +245,6 @@ public class ChatCommandsPlugin extends Plugin
 		configManager.setRSProfileConfiguration("killcount", boss.toLowerCase(), killcount);
 	}
 
-	private void unsetKc(String boss)
-	{
-		configManager.unsetRSProfileConfiguration("killcount", boss.toLowerCase());
-	}
-
 	private int getKc(String boss)
 	{
 		Integer killCount = configManager.getRSProfileConfiguration("killcount", boss.toLowerCase(), int.class);
@@ -259,11 +254,6 @@ public class ChatCommandsPlugin extends Plugin
 	private void setPb(String boss, double seconds)
 	{
 		configManager.setRSProfileConfiguration("personalbest", boss.toLowerCase(), seconds);
-	}
-
-	private void unsetPb(String boss)
-	{
-		configManager.unsetRSProfileConfiguration("personalbest", boss.toLowerCase());
 	}
 
 	private double getPb(String boss)
@@ -290,30 +280,19 @@ public class ChatCommandsPlugin extends Plugin
 			String boss = matcher.group(1);
 			int kc = Integer.parseInt(matcher.group(2));
 
-			String renamedBoss = KILLCOUNT_RENAMES
-				.getOrDefault(boss, boss)
-				// The config service doesn't support keys with colons in them
-				.replace(":", "");
-			if (boss != renamedBoss)
-			{
-				// Unset old TOB kc
-				unsetKc(boss);
-				unsetPb(boss);
-				unsetKc(boss.replace(":", "."));
-				unsetPb(boss.replace(":", "."));
-			}
+			boss = KILLCOUNT_RENAMES.getOrDefault(boss, boss);
 
-			setKc(renamedBoss, kc);
+			setKc(boss, kc);
 			// We either already have the pb, or need to remember the boss for the upcoming pb
 			if (lastPb > -1)
 			{
-				log.debug("Got out-of-order personal best for {}: {}", renamedBoss, lastPb);
-				setPb(renamedBoss, lastPb);
+				log.debug("Got out-of-order personal best for {}: {}", boss, lastPb);
+				setPb(boss, lastPb);
 				lastPb = -1;
 			}
 			else
 			{
-				lastBossKill = renamedBoss;
+				lastBossKill = boss;
 				lastBossTime = client.getTickCount();
 			}
 			return;
@@ -1708,19 +1687,6 @@ public class ChatCommandsPlugin extends Plugin
 			case "raids 2":
 				return "Theatre of Blood";
 
-			case "Theatre of Blood: Story Mode":
-			case "tob sm":
-			case "tob story mode":
-			case "tob story":
-				return "Theatre of Blood Story Mode";
-
-			case "Theatre of Blood: Hard Mode":
-			case "tob cm":
-			case "tob hm":
-			case "tob hard mode":
-			case "tob hard":
-				return "Theatre of Blood Hard Mode";
-
 			// agility course
 			case "prif":
 			case "prifddinas":
@@ -1738,21 +1704,11 @@ public class ChatCommandsPlugin extends Plugin
 			case "the corrupted gauntlet":
 				return "Corrupted Gauntlet";
 
-			// The Nightmare
 			case "nm":
 			case "tnm":
 			case "nmare":
 			case "the nightmare":
 				return "Nightmare";
-
-			// Phosani's Nightmare
-			case "pnm":
-			case "phosani":
-			case "phosanis":
-			case "phosani nm":
-			case "phosani nightmare":
-			case "phosanis nightmare":
-				return "Phosani's Nightmare";
 
 			// Hallowed Sepulchre
 			case "hs":

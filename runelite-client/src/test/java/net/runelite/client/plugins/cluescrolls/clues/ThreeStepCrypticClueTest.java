@@ -24,10 +24,6 @@
  */
 package net.runelite.client.plugins.cluescrolls.clues;
 
-import com.google.common.base.Joiner;
-import net.runelite.api.coords.WorldPoint;
-import net.runelite.client.util.Text;
-import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNull;
 import org.junit.Test;
 
@@ -37,18 +33,5 @@ public class ThreeStepCrypticClueTest
 	public void forTextEmptyString()
 	{
 		assertNull(ThreeStepCrypticClue.forText("", ""));
-	}
-
-	@Test
-	public void nonNullLocations()
-	{
-		final String clueText = Joiner.on("<br><br>").join(CrypticClue.CLUES.stream().map(CrypticClue::getText).toArray());
-		final ThreeStepCrypticClue clue = ThreeStepCrypticClue.forText(Text.sanitizeMultilineText(clueText).toLowerCase(), clueText);
-
-		assertNotNull(clue);
-		for (final WorldPoint location : clue.getLocations())
-		{
-			assertNotNull(location);
-		}
 	}
 }

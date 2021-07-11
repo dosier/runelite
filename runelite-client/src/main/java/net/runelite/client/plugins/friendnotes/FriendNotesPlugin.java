@@ -342,7 +342,8 @@ public class FriendNotesPlugin extends Plugin
 
 		switch (event.getEventName())
 		{
-			case "friendsChatSetText":
+			case "friend_cc_settext":
+			case "ignore_cc_settext":
 				String[] stringStack = client.getStringStack();
 				int stringStackSize = client.getStringStackSize();
 				final String rsn = stringStack[stringStackSize - 1];
@@ -353,7 +354,8 @@ public class FriendNotesPlugin extends Plugin
 					stringStack[stringStackSize - 1] = rsn + " <img=" + iconIdx + ">";
 				}
 				break;
-			case "friendsChatSetPosition":
+			case "friend_cc_setposition":
+			case "ignore_cc_setposition":
 				if (currentlyLayouting == null || getFriendNote(currentlyLayouting) == null)
 				{
 					return;

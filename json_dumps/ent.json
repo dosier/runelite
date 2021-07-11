@@ -1,0 +1,336 @@
+[
+  {
+    "server-tick": 383,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3222, 3666, 0"
+  },
+  {
+    "server-tick": 384,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3220, 3666, 0"
+  },
+  {
+    "server-tick": 385,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3218, 3666, 0"
+  },
+  {
+    "server-tick": 386,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3217, 3667, 0"
+  },
+  {
+    "server-tick": 387,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7552,
+    "interacting": {
+      "npc": "Ent (6594)",
+      "animation": 7144
+    },
+    "sounds": [
+      {
+        "id, delay": "369, 0"
+      },
+      {
+        "id, delay": "2832, 20"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 388,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7552,
+    "interacting": {
+      "npc": "Ent (6594)",
+      "animation": 7144
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 46"
+      }
+    ]
+  },
+  {
+    "server-tick": 389,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7552,
+    "interacting": {
+      "npc": "Ent (6594)",
+      "animation": 7144
+    }
+  },
+  {
+    "server-tick": 390,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ent (6594)",
+      "animation": 7144
+    },
+    "sounds": [
+      {
+        "id, delay": "824, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 391,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "interacting": {
+      "npc": "Ent (6594)",
+      "animation": 7144
+    },
+    "sounds": [
+      {
+        "id, delay": "369, 0"
+      },
+      {
+        "id, delay": "2834, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 392,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7552,
+    "interacting": {
+      "npc": "Ent (6594)",
+      "animation": 7144,
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      },
+      {
+        "id, delay": "2913, 2"
+      }
+    ]
+  },
+  {
+    "server-tick": 393,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7552,
+    "interacting": {
+      "npc": "Ent (6594)",
+      "animation": 7144,
+      "gfx": 758
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 31"
+      }
+    ]
+  },
+  {
+    "server-tick": 394,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7552,
+    "interacting": {
+      "npc": "Ent (6594)",
+      "animation": 7145,
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "822, 0"
+      },
+      {
+        "id, delay": "2835, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 395,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "interacting": {
+      "npc": "Ent (6594)",
+      "animation": 7145,
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "369, 0"
+      },
+      {
+        "id, delay": "824, 0"
+      },
+      {
+        "id, delay": "2833, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 396,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "interacting": {
+      "npc": "Ent (6594)",
+      "gfx": 758
+    }
+  },
+  {
+    "server-tick": 397,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7552,
+    "interacting": {
+      "npc": "Ent (6594)",
+      "animation": 7144,
+      "gfx": 758
+    },
+    "sounds": [
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 398,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7552,
+    "interacting": {
+      "npc": "Ent (6594)",
+      "animation": 7145
+    },
+    "sounds": [
+      {
+        "id, delay": "822, 0"
+      },
+      {
+        "id, delay": "2834, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 21"
+      }
+    ]
+  },
+  {
+    "server-tick": 399,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7552,
+    "interacting": {
+      "npc": "Ent (6594)",
+      "animation": 7145
+    },
+    "sounds": [
+      {
+        "id, delay": "369, 0"
+      },
+      {
+        "id, delay": "824, 0"
+      },
+      {
+        "id, delay": "2833, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 400,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ent (6594)"
+    }
+  },
+  {
+    "server-tick": 401,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ent (6594)"
+    }
+  },
+  {
+    "server-tick": 402,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7552,
+    "interacting": {
+      "npc": "Ent (6594)",
+      "animation": 7144
+    },
+    "sounds": [
+      {
+        "id, delay": "822, 0"
+      },
+      {
+        "id, delay": "518, 20"
+      },
+      {
+        "id, delay": "2695, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 403,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7552,
+    "interacting": {
+      "npc": "Ent (6594)",
+      "animation": 7144
+    },
+    "sounds": [
+      {
+        "id, delay": "369, 0"
+      },
+      {
+        "id, delay": "2831, 20"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 404,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7552,
+    "interacting": {
+      "npc": "Ent (6594)",
+      "animation": 7144
+    },
+    "sounds": [
+      {
+        "id, delay": "824, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 405,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ent (6594)",
+      "animation": 7144
+    }
+  },
+  {
+    "server-tick": 406,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "interacting": {
+      "npc": "Ent (6594)",
+      "animation": 7145
+    },
+    "sounds": [
+      {
+        "id, delay": "822, 0"
+      },
+      {
+        "id, delay": "2833, 20"
+      }
+    ]
+  }
+]

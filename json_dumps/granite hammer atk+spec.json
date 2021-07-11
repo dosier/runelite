@@ -1,0 +1,139 @@
+[
+  {
+    "server-tick": 2486,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 401,
+    "interacting": {
+      "npc": "Rock Crab (100)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "2567, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2487,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 401,
+    "interacting": {
+      "npc": "Rock Crab (100)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2488,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 403,
+    "interacting": {
+      "npc": "Rock Crab (100)",
+      "animation": 1312
+    },
+    "sounds": [
+      {
+        "id, delay": "718, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 2489,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 403,
+    "interacting": {
+      "npc": "Rock Crab (100)",
+      "animation": 1312
+    }
+  },
+  {
+    "server-tick": 2490,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1378,
+    "gfx": 1450,
+    "interacting": {
+      "npc": "Rock Crab (100)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "2520, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2491,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1378,
+    "gfx": 1450,
+    "interacting": {
+      "npc": "Rock Crab (100)"
+    },
+    "sounds": [
+      {
+        "id, delay": "720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2492,
+    "game-state": "LOGGED_IN (30)",
+    "sounds": [
+      {
+        "id, delay": "719, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 2493,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 2494,
+    "game-state": "LOGGED_IN (30)",
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "995, 36, 2494"
+      }
+    ]
+  },
+  {
+    "server-tick": 2495,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 2496,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 2497,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 2498,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 2499,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 2500,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 2501,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 2502,
+    "game-state": "LOGGED_IN (30)"
+  }
+]

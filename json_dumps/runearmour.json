@@ -1,0 +1,50 @@
+[
+  {
+    "server-tick": 669,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1658,
+    "interacting": {
+      "npc": "Animated Rune Armour (2456)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 670,
+    "game-state": "LOGGED_IN (30)",
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 671,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 672,
+    "game-state": "LOGGED_IN (30)",
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "8851, 40, 672"
+      },
+      {
+        "id, quantity, spawnTime": "1127, 1, 672"
+      },
+      {
+        "id, quantity, spawnTime": "1079, 1, 672"
+      },
+      {
+        "id, quantity, spawnTime": "1163, 1, 672"
+      }
+    ]
+  },
+  {
+    "server-tick": 673,
+    "game-state": "LOGGED_IN (30)"
+  }
+]

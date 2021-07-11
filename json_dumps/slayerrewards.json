@@ -1,0 +1,107 @@
+[
+  {
+    "server-tick": 559,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 560,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 561,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 562,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 563,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 564,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 565,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 566,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 567,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 568,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 569,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 570,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 571,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 572,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3145, 9913, 0",
+    "interacting": {
+      "npc": "Vannaka (403)"
+    },
+    "sounds": [
+      {
+        "id, delay": "73, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 573,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 574,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 575,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 576,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 577,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 578,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 579,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 580,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 581,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 582,
+    "game-state": "LOGGED_IN (30)"
+  }
+]

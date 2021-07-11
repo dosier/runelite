@@ -1,0 +1,113 @@
+[
+  {
+    "server-tick": 279,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 280,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 281,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 282,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 283,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3154, 3617, 0"
+  },
+  {
+    "server-tick": 284,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 285,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 286,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3155, 3618, 0"
+  },
+  {
+    "server-tick": 287,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3157, 3620, 0"
+  },
+  {
+    "server-tick": 288,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 289,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 290,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 291,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 292,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 293,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 294,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 295,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 3945
+  },
+  {
+    "server-tick": 296,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 3945
+  },
+  {
+    "server-tick": 297,
+    "game-state": "LOADING (25)",
+    "pos": "3226, 3667, 0"
+  },
+  {
+    "server-tick": 298,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 299,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 300,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3226, 3665, 0"
+  },
+  {
+    "server-tick": 301,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 302,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 303,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 304,
+    "game-state": "LOGGED_IN (30)"
+  }
+]

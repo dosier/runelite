@@ -1,0 +1,215 @@
+[
+  {
+    "server-tick": 920,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 65,
+        "sceneY": 54,
+        "source": "Kanto133"
+      }
+    ]
+  },
+  {
+    "server-tick": 921,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1203,
+    "interacting": {
+      "npc": "Guard (3011)",
+      "animation": 6488
+    },
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 65,
+        "sceneY": 54,
+        "source": "Kanto133"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "2533, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 922,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1203,
+    "interacting": {
+      "npc": "Guard (3011)",
+      "animation": 6488
+    },
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 65,
+        "sceneY": 54,
+        "source": "Kanto133"
+      },
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 41,
+        "source": "jokumeez"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 41,
+        "source": "jokumeez"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 923,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 41,
+        "source": "jokumeez"
+      }
+    ]
+  },
+  {
+    "server-tick": 924,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 41,
+        "source": "jokumeez"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 65,
+        "sceneY": 54,
+        "source": "Kanto133"
+      }
+    ]
+  },
+  {
+    "server-tick": 925,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 65,
+        "sceneY": 54,
+        "source": "Kanto133"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 65,
+        "sceneY": 54,
+        "source": "Kanto133"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "512, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 926,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 927,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 41,
+        "source": "jokumeez"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 65,
+        "sceneY": 58,
+        "source": "3 N V"
+      },
+      {
+        "id": 3791,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 41,
+        "source": "jokumeez"
+      }
+    ],
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "526, 1, 927"
+      },
+      {
+        "id, quantity, spawnTime": "995, 7, 927"
+      }
+    ]
+  },
+  {
+    "server-tick": 928,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 65,
+        "sceneY": 58,
+        "source": "3 N V"
+      },
+      {
+        "id": 3790,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 68,
+        "sceneY": 41,
+        "source": "jokumeez"
+      },
+      {
+        "id": 2605,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 65,
+        "sceneY": 58,
+        "source": "3 N V"
+      }
+    ]
+  }
+]

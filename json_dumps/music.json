@@ -1,0 +1,320 @@
+[
+  {
+    "server-tick": 249,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 250,
+    "game-state": "LOADING (25)",
+    "pos": "7085, 3388, 0"
+  },
+  {
+    "server-tick": 251,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "7083, 3386, 0"
+  },
+  {
+    "server-tick": 252,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "7081, 3384, 0"
+  },
+  {
+    "server-tick": 253,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "7079, 3382, 0"
+  },
+  {
+    "server-tick": 254,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "7077, 3380, 0"
+  },
+  {
+    "server-tick": 255,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "7076, 3378, 0"
+  },
+  {
+    "server-tick": 256,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "7076, 3376, 0"
+  },
+  {
+    "server-tick": 257,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "7074, 3374, 0"
+  },
+  {
+    "server-tick": 258,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "7072, 3372, 0"
+  },
+  {
+    "server-tick": 259,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "7072, 3370, 0"
+  },
+  {
+    "server-tick": 260,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "7072, 3368, 0"
+  },
+  {
+    "server-tick": 261,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "7072, 3366, 0"
+  },
+  {
+    "server-tick": 262,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "7072, 3364, 0"
+  },
+  {
+    "server-tick": 263,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "7072, 3362, 0"
+  },
+  {
+    "server-tick": 264,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "7072, 3360, 0"
+  },
+  {
+    "server-tick": 265,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 266,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 267,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 268,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 269,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 270,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 271,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 272,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 273,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 274,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 275,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 276,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 277,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 278,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 279,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 280,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 281,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 282,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 283,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 284,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 285,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 286,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 287,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 288,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 289,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 290,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 291,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424
+  },
+  {
+    "server-tick": 292,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424
+  },
+  {
+    "server-tick": 293,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424
+  },
+  {
+    "server-tick": 294,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 295,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424
+  },
+  {
+    "server-tick": 296,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424
+  },
+  {
+    "server-tick": 297,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 298,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7552,
+    "interacting": {
+      "npc": "Tz-Kih (3116)",
+      "animation": 2622
+    }
+  },
+  {
+    "server-tick": 299,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7552,
+    "interacting": {
+      "npc": "Tz-Kih (3116)",
+      "animation": 2621
+    },
+    "projectiles": [
+      {
+        "id": 1468,
+        "heights": "11, 144",
+        "slope, duration": "5, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 300,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 7552,
+    "interacting": {
+      "npc": "Tz-Kih (3116)"
+    }
+  },
+  {
+    "server-tick": 301,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 302,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 303,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 304,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 305,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424
+  },
+  {
+    "server-tick": 306,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424
+  },
+  {
+    "server-tick": 307,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424
+  },
+  {
+    "server-tick": 308,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 309,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424
+  },
+  {
+    "server-tick": 310,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424
+  },
+  {
+    "server-tick": 311,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424
+  },
+  {
+    "server-tick": 312,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 313,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424
+  },
+  {
+    "server-tick": 314,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424
+  },
+  {
+    "server-tick": 315,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424
+  }
+]

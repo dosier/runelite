@@ -1,0 +1,188 @@
+[
+  {
+    "server-tick": 3852,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 426,
+    "gfx": 24,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "718, 0"
+      },
+      {
+        "id, delay": "520, 20"
+      },
+      {
+        "id, delay": "2693, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3853,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 426,
+    "gfx": 24,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 24"
+      }
+    ]
+  },
+  {
+    "server-tick": 3854,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313
+    },
+    "sounds": [
+      {
+        "id, delay": "720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3855,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "King Sand Crab (7266)"
+    }
+  },
+  {
+    "server-tick": 3856,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 426,
+    "gfx": 472,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313,
+      "gfx": 474
+    },
+    "sounds": [
+      {
+        "id, delay": "718, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "2546, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3857,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 426,
+    "gfx": 472,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313,
+      "gfx": 474
+    },
+    "projectiles": [
+      {
+        "id": 473,
+        "heights": "11, 144",
+        "slope, duration": "15, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3858,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313,
+      "gfx": 474
+    },
+    "sounds": [
+      {
+        "id, delay": "720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3859,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "gfx": 474
+    }
+  },
+  {
+    "server-tick": 3860,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 424,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1312,
+      "gfx": 474
+    },
+    "sounds": [
+      {
+        "id, delay": "718, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 3861,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 426,
+    "gfx": 24,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313,
+      "gfx": 474
+    },
+    "sounds": [
+      {
+        "id, delay": "2693, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 3862,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 426,
+    "gfx": 24,
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313,
+      "gfx": 474
+    },
+    "projectiles": [
+      {
+        "id": 15,
+        "heights": "11, 144",
+        "slope, duration": "15, 18"
+      }
+    ]
+  },
+  {
+    "server-tick": 3863,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "King Sand Crab (7266)",
+      "animation": 1313,
+      "gfx": 474
+    },
+    "sounds": [
+      {
+        "id, delay": "720, 0"
+      }
+    ]
+  }
+]

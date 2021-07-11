@@ -1,0 +1,280 @@
+[
+  {
+    "server-tick": 1025,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "14164, 1621, 0"
+  },
+  {
+    "server-tick": 1026,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "14163, 1621, 0"
+  },
+  {
+    "server-tick": 1027,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 1028,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 1029,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 1030,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "14161, 1620, 0"
+  },
+  {
+    "server-tick": 1031,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 1032,
+    "game-state": "LOADING (25)",
+    "pos": "3222, 3217, 0"
+  },
+  {
+    "server-tick": 1033,
+    "game-state": "LOGGED_IN (30)",
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "946, 1, 1032"
+      },
+      {
+        "id, quantity, spawnTime": "882, 1, 1032"
+      },
+      {
+        "id, quantity, spawnTime": "558, 1, 1032"
+      },
+      {
+        "id, quantity, spawnTime": "1923, 1, 1032"
+      },
+      {
+        "id, quantity, spawnTime": "1931, 1, 1032"
+      },
+      {
+        "id, quantity, spawnTime": "1935, 1, 1032"
+      },
+      {
+        "id, quantity, spawnTime": "946, 1, 1032"
+      }
+    ]
+  },
+  {
+    "server-tick": 1034,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 1035,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3223, 3216, 0"
+  },
+  {
+    "server-tick": 1036,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3225, 3216, 0",
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "1203, 1, 1036"
+      }
+    ]
+  },
+  {
+    "server-tick": 1037,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3227, 3217, 0"
+  },
+  {
+    "server-tick": 1038,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3229, 3218, 0"
+  },
+  {
+    "server-tick": 1039,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3231, 3218, 0"
+  },
+  {
+    "server-tick": 1040,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3233, 3218, 0"
+  },
+  {
+    "server-tick": 1041,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3235, 3220, 0"
+  },
+  {
+    "server-tick": 1042,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3237, 3222, 0"
+  },
+  {
+    "server-tick": 1043,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3239, 3224, 0"
+  },
+  {
+    "server-tick": 1044,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3240, 3225, 0",
+    "projectiles": [
+      {
+        "id": 11,
+        "heights": "11, 144",
+        "slope, duration": "15, 23"
+      }
+    ]
+  },
+  {
+    "server-tick": 1045,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3242, 3225, 0"
+  },
+  {
+    "server-tick": 1046,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3244, 3225, 0"
+  },
+  {
+    "server-tick": 1047,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3246, 3225, 0"
+  },
+  {
+    "server-tick": 1048,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3248, 3225, 0"
+  },
+  {
+    "server-tick": 1049,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3250, 3225, 0",
+    "projectiles": [
+      {
+        "id": 11,
+        "heights": "11, 144",
+        "slope, duration": "15, 16"
+      }
+    ]
+  },
+  {
+    "server-tick": 1050,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3252, 3225, 0"
+  },
+  {
+    "server-tick": 1051,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3254, 3226, 0"
+  },
+  {
+    "server-tick": 1052,
+    "game-state": "LOADING (25)",
+    "pos": "3256, 3226, 0"
+  },
+  {
+    "server-tick": 1053,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3258, 3227, 0",
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "1923, 1, 1032"
+      },
+      {
+        "id, quantity, spawnTime": "1931, 1, 1032"
+      },
+      {
+        "id, quantity, spawnTime": "1935, 1, 1032"
+      },
+      {
+        "id, quantity, spawnTime": "946, 1, 1032"
+      },
+      {
+        "id, quantity, spawnTime": "1203, 1, 1036"
+      }
+    ]
+  },
+  {
+    "server-tick": 1054,
+    "game-state": "LOGGED_IN (30)",
+    "projectiles": [
+      {
+        "id": 11,
+        "heights": "11, 144",
+        "slope, duration": "15, 22"
+      }
+    ]
+  },
+  {
+    "server-tick": 1055,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3260, 3227, 0"
+  },
+  {
+    "server-tick": 1056,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3262, 3227, 0"
+  },
+  {
+    "server-tick": 1057,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3264, 3227, 0"
+  },
+  {
+    "server-tick": 1058,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3266, 3227, 0"
+  },
+  {
+    "server-tick": 1059,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3267, 3228, 0"
+  },
+  {
+    "server-tick": 1060,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3268, 3228, 0",
+    "sounds": [
+      {
+        "id, delay": "69, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1061,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 1062,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3268, 3226, 0"
+  },
+  {
+    "server-tick": 1063,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3268, 3224, 0"
+  },
+  {
+    "server-tick": 1064,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3268, 3222, 0"
+  },
+  {
+    "server-tick": 1065,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3270, 3220, 0"
+  },
+  {
+    "server-tick": 1066,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3272, 3218, 0"
+  },
+  {
+    "server-tick": 1067,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3274, 3216, 0"
+  }
+]

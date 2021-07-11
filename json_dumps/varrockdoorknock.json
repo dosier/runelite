@@ -1,0 +1,386 @@
+[
+  {
+    "server-tick": 37,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 3768,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 49,
+        "sceneY": 46,
+        "source": "JTSMonster"
+      }
+    ],
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "592, 1, 37"
+      }
+    ]
+  },
+  {
+    "server-tick": 38,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 39,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3185, 3446, 0"
+  },
+  {
+    "server-tick": 40,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 41,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 2735,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 57,
+        "sceneY": 69,
+        "source": "TurboMutt3-0"
+      }
+    ]
+  },
+  {
+    "server-tick": 42,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 2735,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 57,
+        "sceneY": 69,
+        "source": "TurboMutt3-0"
+      }
+    ],
+    "sounds": [
+      {
+        "id, delay": "1735, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 43,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 44,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 2735,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 57,
+        "sceneY": 69,
+        "source": "TurboMutt3-0"
+      },
+      {
+        "id": 3767,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 49,
+        "sceneY": 46,
+        "source": "JTSMonster"
+      },
+      {
+        "id": 3766,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 49,
+        "sceneY": 46,
+        "source": "JTSMonster"
+      }
+    ]
+  },
+  {
+    "server-tick": 45,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 3769,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 49,
+        "sceneY": 46,
+        "source": "JTSMonster"
+      },
+      {
+        "id": 2735,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 57,
+        "sceneY": 69,
+        "source": "TurboMutt3-0"
+      }
+    ]
+  },
+  {
+    "server-tick": 46,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 2735,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 57,
+        "sceneY": 69,
+        "source": "TurboMutt3-0"
+      }
+    ]
+  },
+  {
+    "server-tick": 47,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 3768,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 49,
+        "sceneY": 46,
+        "source": "JTSMonster"
+      }
+    ]
+  },
+  {
+    "server-tick": 48,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 2735,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 57,
+        "sceneY": 69,
+        "source": "TurboMutt3-0"
+      }
+    ]
+  },
+  {
+    "server-tick": 49,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 2735,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 57,
+        "sceneY": 69,
+        "source": "TurboMutt3-0"
+      }
+    ]
+  },
+  {
+    "server-tick": 50,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 2735,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 57,
+        "sceneY": 69,
+        "source": "TurboMutt3-0"
+      }
+    ]
+  },
+  {
+    "server-tick": 51,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 52,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 2735,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 57,
+        "sceneY": 69,
+        "source": "TurboMutt3-0"
+      }
+    ]
+  },
+  {
+    "server-tick": 53,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 2735,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 57,
+        "sceneY": 69,
+        "source": "TurboMutt3-0"
+      }
+    ],
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "592, 1, 53"
+      }
+    ]
+  },
+  {
+    "server-tick": 54,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 3767,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 49,
+        "sceneY": 46,
+        "source": "JTSMonster"
+      },
+      {
+        "id": 2735,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 57,
+        "sceneY": 69,
+        "source": "TurboMutt3-0"
+      },
+      {
+        "id": 3766,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 49,
+        "sceneY": 46,
+        "source": "JTSMonster"
+      }
+    ]
+  },
+  {
+    "server-tick": 55,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 3769,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 49,
+        "sceneY": 46,
+        "source": "JTSMonster"
+      }
+    ]
+  },
+  {
+    "server-tick": 56,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 2735,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 57,
+        "sceneY": 69,
+        "source": "TurboMutt3-0"
+      }
+    ],
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "592, 1, 56"
+      }
+    ]
+  },
+  {
+    "server-tick": 57,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 3768,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 49,
+        "sceneY": 46,
+        "source": "JTSMonster"
+      },
+      {
+        "id": 2735,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 57,
+        "sceneY": 69,
+        "source": "TurboMutt3-0"
+      }
+    ]
+  },
+  {
+    "server-tick": 58,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 2735,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 57,
+        "sceneY": 69,
+        "source": "TurboMutt3-0"
+      }
+    ]
+  },
+  {
+    "server-tick": 59,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 60,
+    "game-state": "LOGGED_IN (30)",
+    "area-sounds": [
+      {
+        "id": 2735,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 57,
+        "sceneY": 69,
+        "source": "TurboMutt3-0"
+      }
+    ]
+  },
+  {
+    "server-tick": 61,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3184, 3445, 0",
+    "area-sounds": [
+      {
+        "id": 2735,
+        "delay": 0,
+        "range": 1,
+        "sceneX": 57,
+        "sceneY": 69,
+        "source": "TurboMutt3-0"
+      }
+    ]
+  },
+  {
+    "server-tick": 62,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 63,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 64,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 65,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 66,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 67,
+    "game-state": "LOGGED_IN (30)"
+  }
+]

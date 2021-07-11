@@ -1,0 +1,226 @@
+[
+  {
+    "server-tick": 4468,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 4469,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 4470,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3679, 3867, 0",
+    "interacting": {
+      "npc": "Ancient Fungi (8690)"
+    }
+  },
+  {
+    "server-tick": 4471,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 3335,
+    "sounds": [
+      {
+        "id, delay": "2581, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4472,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 3335,
+    "sounds": [
+      {
+        "id, delay": "1963, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4473,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 4474,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 4475,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 4476,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1667,
+    "gfx": 340,
+    "pos": "3680, 3867, 0",
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)",
+      "animation": 3325
+    },
+    "sounds": [
+      {
+        "id, delay": "2715, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4477,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1665,
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)",
+      "animation": 3325
+    },
+    "sounds": [
+      {
+        "id, delay": "1970, 0"
+      },
+      {
+        "id, delay": "2714, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4478,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1665,
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1970, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4479,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1666,
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)",
+      "animation": 3326
+    },
+    "sounds": [
+      {
+        "id, delay": "2566, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 4480,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1666,
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)",
+      "animation": 3326
+    }
+  },
+  {
+    "server-tick": 4481,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)"
+    }
+  },
+  {
+    "server-tick": 4482,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)"
+    }
+  },
+  {
+    "server-tick": 4483,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1965, 0"
+      },
+      {
+        "id, delay": "511, 20"
+      },
+      {
+        "id, delay": "3424, 0"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 576,
+        "heights": "64, 124",
+        "slope, duration": "0, 24"
+      }
+    ]
+  },
+  {
+    "server-tick": 4484,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1665,
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)",
+      "animation": 3325
+    },
+    "sounds": [
+      {
+        "id, delay": "2714, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4485,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1665,
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)",
+      "animation": 3325
+    },
+    "sounds": [
+      {
+        "id, delay": "1970, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 4486,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)"
+    }
+  },
+  {
+    "server-tick": 4487,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Ancient Zygomite (7797)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1965, 0"
+      },
+      {
+        "id, delay": "1966, 24"
+      },
+      {
+        "id, delay": "519, 20"
+      }
+    ],
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "21555, 15, 4487"
+      }
+    ],
+    "projectiles": [
+      {
+        "id": 576,
+        "heights": "64, 124",
+        "slope, duration": "0, 24"
+      }
+    ]
+  }
+]

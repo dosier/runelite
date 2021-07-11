@@ -1,0 +1,169 @@
+[
+  {
+    "server-tick": 202,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 203,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 204,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 205,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 206,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 207,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 208,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 110,
+    "pos": "3253, 3401, 0",
+    "interacting": {
+      "npc": "Aubury (2886)",
+      "gfx": 108
+    }
+  },
+  {
+    "server-tick": 209,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 110
+  },
+  {
+    "server-tick": 210,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 110
+  },
+  {
+    "server-tick": 211,
+    "game-state": "LOGGED_IN (30)",
+    "gfx": 110
+  },
+  {
+    "server-tick": 212,
+    "game-state": "LOADING (25)",
+    "gfx": 110,
+    "pos": "15930, 4517, 0"
+  },
+  {
+    "server-tick": 213,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 214,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 215,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 216,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 217,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 218,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 219,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 220,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 221,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 222,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 223,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 224,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 225,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 226,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 227,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 228,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 229,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 230,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 231,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 232,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 233,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 234,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 235,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 236,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 237,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 238,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 239,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 240,
+    "game-state": "LOGGED_IN (30)"
+  }
+]

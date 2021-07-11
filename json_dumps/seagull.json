@@ -1,0 +1,69 @@
+[
+  {
+    "server-tick": 1191,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "3027, 3234, 0",
+    "interacting": {
+      "npc": "Seagull (1338)"
+    }
+  },
+  {
+    "server-tick": 1192,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1665,
+    "pos": "3028, 3236, 0",
+    "interacting": {
+      "npc": "Seagull (1338)",
+      "animation": 1014
+    },
+    "sounds": [
+      {
+        "id, delay": "2714, 0"
+      }
+    ],
+    "ground-items": [
+      {
+        "id, quantity, spawnTime": "526, 1, 1192"
+      }
+    ]
+  },
+  {
+    "server-tick": 1193,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1665,
+    "interacting": {
+      "npc": "Seagull (1338)",
+      "animation": 1014
+    },
+    "sounds": [
+      {
+        "id, delay": "311, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1194,
+    "game-state": "LOGGED_IN (30)",
+    "sounds": [
+      {
+        "id, delay": "310, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 1195,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 1196,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 1197,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 1198,
+    "game-state": "LOGGED_IN (30)"
+  }
+]

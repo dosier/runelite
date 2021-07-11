@@ -1,0 +1,157 @@
+[
+  {
+    "server-tick": 936,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 937,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 938,
+    "game-state": "LOGGED_IN (30)",
+    "pos": "2851, 3537, 0"
+  },
+  {
+    "server-tick": 939,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 940,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 827,
+    "sounds": [
+      {
+        "id, delay": "2234, 10"
+      }
+    ]
+  },
+  {
+    "server-tick": 941,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 820,
+    "pos": "2851, 3539, 0",
+    "sounds": [
+      {
+        "id, delay": "1909, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 942,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 820,
+    "sounds": [
+      {
+        "id, delay": "1904, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 943,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 944,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 945,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 946,
+    "game-state": "LOGGED_IN (30)"
+  },
+  {
+    "server-tick": 947,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1659,
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "2832, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 948,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1658,
+    "interacting": {
+      "npc": "Animated Rune Armour (2456)",
+      "animation": 386
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 949,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1658,
+    "interacting": {
+      "npc": "Animated Rune Armour (2456)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 950,
+    "game-state": "LOGGED_IN (30)",
+    "interacting": {
+      "npc": "Animated Rune Armour (2456)"
+    }
+  },
+  {
+    "server-tick": 951,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1659,
+    "interacting": {
+      "npc": "Animated Rune Armour (2456)",
+      "animation": 386
+    },
+    "sounds": [
+      {
+        "id, delay": "2549, 0"
+      },
+      {
+        "id, delay": "2834, 20"
+      }
+    ]
+  },
+  {
+    "server-tick": 952,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1658,
+    "interacting": {
+      "npc": "Animated Rune Armour (2456)",
+      "animation": 386
+    },
+    "sounds": [
+      {
+        "id, delay": "2720, 0"
+      }
+    ]
+  },
+  {
+    "server-tick": 953,
+    "game-state": "LOGGED_IN (30)",
+    "animation": 1658,
+    "interacting": {
+      "npc": "Animated Rune Armour (2456)"
+    },
+    "sounds": [
+      {
+        "id, delay": "1979, 0"
+      }
+    ]
+  }
+]
